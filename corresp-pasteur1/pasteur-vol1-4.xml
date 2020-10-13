@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1840-11-01" > 1er novembre 1840.</date>
+          <placeName>Besançon</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Besançon, let novembre 1840."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Besançon, let novembre 1840.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parens, A mes sœurs, Quand j'ai reçu les deux lettres que vous m'avez envoyées en même temps, j'ai cru d'abord qu'il était arrivé quelque chose d'extraordinaire; mais il n'en était rien. Cependant la seconde que vous avez écrite m'a fait beaucoup de plaisir; elle m'apprend que, pour la première fois peut-être, mes sœurs ont VOULU. C'est beaucoup, mes chères sœurs, que de vouloir; car l'action, le travail suit toujours la volonté, et presque toujours aussi le travail a pour compagnon le succès. Ces trois choses, la volonté, le travail, le succès se partagent toute l'existence humaine : la volonté ouvre la porte aux carrières brillantes et heureuses; le travail les franchit, et une fois arrivé au terme du voyage, le succès vient couronner l'œuvre.</p>
+        <p>Ainsi, mes chères sœurs, si votre résolution est ferme, votre tâche, quelle qu'elle puisse être, est déjà commencée; vous n'avez plus qu'à marcher en avant; elle s'achèvera d'elle-même. Si par hasard vous chanceliez dans votre voyage, une main serait là pour vous soutenir; et à son défaut, Dieu qui vous l'aurait ravie se chargerait d'accomplir son ouvrage. Car vous auriez eu de la bonne volonté et du travail, et avec cela vous auriez été vertueuses.</p>
+        <p>Puissent mes paroles être senties et comprises par vous, mes chères sœurs. Gravez-les dans votre âme. Qu'elles soient votre guide. Adieu.</p>
+        <p>Votre frère.</p>
+        <p>Il paraît, mes chers parens, que partout les eaux sont devenues grandes. Le Doubs est considérablement augmenté; on dit qu'à Salins il y a beaucoup de mal, et même que plusieurs ponts ont croulé, et entre autres il y en avait un qui était neuf.</p>
+        <p>Je n'ai point vu le capitaine Barbier1. Cela ne m'a pas surpris; car le jour qu'il a dû passer à Besançon, le 28, u a plu beaucoup toute la journée. C'est là sans doute ce qui l'a empêché de venir.</p>
+        <p>-. Je me sers de mes lunettes le moins possible. Cependant Il m est impossible de les mettre moins de quatre heures par jour.</p>
+        <p>1 Vous savez, mes chers parens, que je n'étais pas décidé a , me présenter à l'École normale à la fin de cette année.</p>
+        <p>Cependant comme cela ne coûte rien et que ça pourra me faire un peu à ces sortes d'examens, je crois que je me présenterai. C'est d'ailleurs un conseil de M. Daunas et de plusieurs élèves qui aussi se présentent à cette école.</p>
+        <p>Mais il est sûr que je ne serai pas reçu.</p>
+        <p>D ailleurs vous savez que j'ai encore avant cela un examen difficile à passer. C'est celui du baccalauréat ès-sciences.</p>
+        <p>J avais d'abord l'intention d'aller le passer à Pâques, mais je crois qu'à cette époque le cours de mathématiques spéciales et de physique ne sera pas assez avancé pour que nous ayons vu tout ce qu'on exige à cet examen.</p>
+        <p>Vous savez aussi que sans l'examen du baccalauréat èssciences on ne peut être admis à l'École normale, pour la ection des sciences. Mais cependant cet examen ne m'efrai. e en rien. On le passe à Dijon et voilà pourquoi j'aimerais y aller à Pâques, parce qu'au moins je ne perdrais pas de temps. Ce serait pendant les vacances. On peut</p>
+        <p>en ulicilr de ^1 Garde municipale de Paris, qui venait régulièrement congé a Arbois.</p>
+        <p>passer cet examen à quelle époque on veut, pourvu que ce ne soit pas pendant les grandes vacances.</p>
+        <p>Si l'étoffe du pantalon n'est pas achetée je vous recommande de la prendre solide, couleur brun ou gris foncé et dites au tailleur de le faire au moins de toute la ceinture plus haut que mon pantalon bleu (bien que celui-ci ne soit pas trop court). Dites-lui aussi de le faire à [ici la lettre est déchirée] devant, puisqu'il n'est pas d'uniforme, et à sous-pieds [ici la lettre est déchirée] mais attachés seulement avec des boutons, comme [ici la lettre est déchirée] pantalon blanc.</p>
+        <p>Qu'il mette aussi deux boutons pour les bretelles. Quand papa viendra il m'apportera les bretelles que j'ai achetées et qui sont dans le buffet de ma chambre, sur un petit rayon. Si vous le voulez, vous mettrez dans ma boîte des noisettes-umais ça n'est nullement nécessaire.</p>
+        <p>Je vous embrasse. Adieu.</p>
+        <p>PASTEUR Louis.</p>
+       
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+        <postscript>
+          <p>Vous m'enverrez, sitôt que vous le pourrez, mes châssis.</p>
+          <p>              Vous en ferez faire encore un de plus. Il y en aura quatre de la même grandeur que les trois autres. Je les ferai coller chez M. Renault. Ça vaudra mieux. Envoyez-les moi au plus tôt. Nous sortirons bientôt, je crois.
+          </p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

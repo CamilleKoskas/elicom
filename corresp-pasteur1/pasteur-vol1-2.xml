@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1840-08-13" >le 13 août 1840.</date>
+          <placeName>Besançon</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Besançon, le 13 août 1840."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Besançon, le 13 août 1840.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parens,</p>
+        <p>Je vous écris afin de vous prier de m'envoyer mon extrait ae naissance. Vous savez que celui que nous avions a été laissé à Paris, à la Pension Barbet 1. Alors il vous faudra, au plus tôt que vous le pourrez, écrire à Dôle pour en avoir un autre. Je m'en suis informé; et l'on m'a dit qu'il fallait que.cet extrait de naissance vînt de la ville même où l'on était né. Ainsi vous écrirez à la mairie de Dôle, et une fois que vous l'aurez reçu vous me l'enverrez dans une lettre.</p>
+        <p>Il faut l'avoir pour passer l'examen du baccalauréat et il faut qu'il soit déposé à l'Académie au moins dix jours à avance. Vous vous rappelez bien que nous passons notre examen le 29 et que le 31 se fait la distribution.</p>
+        <p>Je n'ai rien de nouveau à vous apprendre au sujet de mes études. Notre professeur de philosophie est parti hier pour Paris; il va passer son examen d'agrégation. C'est le professeur d'histoire, M. Reynaud, qui le remplace. Il nous tait répéter notre histoire du baccalauréat.</p>
+        <p>J aime à croire qu'à présent le caractère de mes sœurs s &gt; amélioré. Il y a assez longtemps que je leur donne des conseils, bien que souvent je les ai vus peu suivis. Je verrai pourtant s'ils ont eu quelque bon résultat lorsque je partirai pour les vacances qui vont bientôt venir. Il n'y a plus que 15 a 20 jours.</p>
+        <p>Comme nous sommes un peu pressés d'ouvrage je me</p>
+        <p>be 1, En octobre 1838, Pasteur était dans une pension, dirigée par M. Barbet, franc-comtois. Cette pension, appelée Pension Barbet, était une école préparatoire. Elle était située 3, Impasse des Feuillantines.</p>
+        <p>hâte de terminer ma lettre, et j'engage toujours mon papa à tâcher de se trouver ici pour le jour de l'examen. Cependant, je le répète aussi, il ne faudrait pas que ça nuise en rien à ses occupations ni au travail de la foire. Je répète aussi que j'aimerais voir mes sœurs venir pour la distribution, parce que je crois que ce sera intéressant à voir.</p>
+        <p>Mais je mets ici la même restriction que tout à l'heure, il faut que ça ne dérange personne et que ça ne gêne en rien.</p>
+        <p>Adieu, mes chers parens, je vous embrasse tous de tout mon cœur.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              PASTEUR L.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

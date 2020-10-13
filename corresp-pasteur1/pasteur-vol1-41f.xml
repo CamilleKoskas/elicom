@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1848-07-08" >8 juillet 1848</date>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Chappuis, Charles (1822-1895)">A CHAPPUIS</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Arbois, 8 juillet 1848.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A CHAPPUIS.</p>
+                <p>Arbois, 8 juillet 1848.</p>
+                <p>Je t'envoie la réponse de M. Dubois. Elle te dira quelles sont mes espérances sur une chaire de Faculté. Je sais que le professeur de chimie de Dijon est très vieux; il se pouf rait qu'il prît sa retraite aux vacances, et, surtout si tu es nommé à Dijon, c'est bien la Faculté que je désirerais le plus. Aussi je te prierai de vouloir bien demander quelle est la position de ce professeur.</p>
+                <p>J'irai à Paris à la fin de septembre. Je ne fais pas lCl grand chose.,Dès que mes livres seront arrivés, je préparé rai un cours de chimie, leçon par leçon. -</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+
+
+

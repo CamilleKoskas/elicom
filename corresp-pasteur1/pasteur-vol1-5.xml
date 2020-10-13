@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1840-12-05" > 5 décembre [1840].</date>
+          <placeName>Besançon</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Besançon, 5 décembre [1840]."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Besançon, 5 décembre [1840].</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parens, Vous avez dû recevoir de moi une lettre le jour même où j'ai reçu le cahier que vous m'avez envoyé. Le lendemain j'ai reçu aussi une lettre de Joséphine qui me dit ne pas s'être ennuyée beaucoup, si ce n'est les premiers jours, mais que déjà elle s'habituait à sa nouvelle position1.</p>
+        <p>Il m'a paru voir d'après sa lettre qu'elle a l'intention de travailler un peu plus qu'elle ne l'a fait à Arbois. Sa lettre était très bien quant à l'écriture, mais il n'en était pas ainsi, comme vous le pensez bien, pour l'orthographe. J'espère en trouver davantage à chaque fois qu'elle m'écrira. Si vous avez de ses nouvelles par sa maîtresse vous m'en ferez part dans votre première lettre.</p>
+        <p>Quant à moi, je trouve toujours qu'il est très commode sous un certain rapport de recommencer une année de spéciales. Mais que de choses on a encore à apprendre; il est une foule de parties que l'on croyait comprendre et que l'on n'entrevoyait qu'à peine. Notre professeur est toujours très bon. Chaque jour il nous donne des problèmes à résoudre, et rien n'est plus utile que cela. Depuis le commencement il nous a déjà donné près de 80 questions.</p>
+        <p>L année dernière nous en avons fait à peu près 20 dans toute l'année; et je ne vous dis rien des questions qu'il lait résoudre en classe sans qu'elles aient été données comme ouvrage à faire.</p>
+        <p>De toutes ces questions, il n'en est encore qu'une seule que je n'ai pu résoudre. Nous avons déjà composé deux fois.</p>
+        <p>Dans la première composition dont on a donné les places aujourd'hui j'ai été le second. On n'a pas donné les places de la deuxième composition. Celui qui est le premier est un jeune homme rempli de moyens qui depuis plus de trois ans est en mathématiques spéciales. Déjà deux fois il a échoué à l'Ecole polytechnique. Cet élève qui l'année dernière a l'époque où je me suis présenté au baccalauréat es-sciences a été reçu vient après moi dans nos places. Ainsi vous voyez que s'il a plus que moi mérité d'être reçu ce n est pas qu'il soit bien au-dessus de moi. Cet examen là que je dois subir à la fin de cette année ne m'effrayait pas i an passé et moins encore à plus forte raison cette année.</p>
+        <p>Mais si je puis vous assurer positivement que je n'échouerai pas là, je ne vous en dis pas autant pour l'Ecole normale.</p>
+        <p>Je pourrai être reçu admissible; il n'y a rien là d'impossible, mais il n'y a non plus rien d'impossible à ce que je sois refusé. Cela dépendra des questions que l'on nous enverra.</p>
+        <p>Ma chère Virginie, j'ai oublié dans ma dernière lettre de te</p>
+        <p>remercier d'avoir bien voulu m'envoyer des châtaignes et des raisins. Tout n'est pas encore mangé; ainsi tu vois que je les ménage. N'oublie pas de me répondre à ce que je t'ai dit dans ma dernière lettre pour ta musique.</p>
+        <p>Tu feras bien aussi de mettre quelque chose sur les lettres que l'on enverra à Joséphine. Tu lui diras que je lui écrirai bientôt et que je lui recommanderai de ne pas oublier de travailler. Embrasse pour moi notre chère Emilie. Elle doit te donner à présent bien de l'ouvrage, ma chère Virginie.</p>
+        <p>Adieu, ma chère sœur; je t'embrasse de tout mon cœur ainsi que notre chère maman.</p>
+        <p>Ton frère, Louis PASTEUR.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

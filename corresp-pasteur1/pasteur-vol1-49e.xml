@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1850-05-08" >8 mai 1850</date>
+                    <placeName>Strasbourg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Oppermann, Charles Frédéric (1805-1872)">A OPPERMANN.</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date></date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                
+                <p>A. M. OPPERMANN, DIRECTEUR DE L'ÉCOLE DE PHARMACIE.</p>
+                <p>Strasbourg, 8 mai 1850.</p>
+                <p>Monsieur le Directeur, J'ai reçu hier matin de mauvaises nouvelles de l'état de ^•nté d'une de mes sœurs 1. Je me propose de partir aujourd'hui pour Arbois et je viens vous prier de vouloir bien demander pour moi à M. le Recteur un congé de huit jours.</p>
+                <p>Je l'abrégerai si je le puis.</p>
+                <p>Votre très humble et très dévoué serviteur, L. PASTEUR.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                            
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+
+

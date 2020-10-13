@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1841-05-09" >9 mai 1841.</date>
+          <placeName>Besançon</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Besançon, 9 mai 1841."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Besançon, 9 mai 1841.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parens, d Vous m'avez dit dans votre dernière lettre que vous vous décideriez cette semaine pour mettre ou non en pension ma sœur Joséphine. Pour moi je ne suis pas très fâché de Ce qu'elle n'y est pas allée pour la fin de cette année, parce que réellement elle n'aurait pas pu profiter beaucoup. Elle serait arrivée au milieu de classes déjà depuis longtemps commencées, et, plus faible que les autres parce qu'elle J aurait pas été au courant des études, elle se serait peutêtre découragée.</p>
+        <p>Ainsi attendons à l'année prochaine; mais pour ce tempsl quel que soit le prix de la pension il faut absolument l'y Placer. Soyez bien sûrs que 100 ou 200 fr. de plus par an dans votre bourse ne feront pas grand'chose, et ce serait cependant pour si peu de chose que vous auriez non seulement manqué l'éducation de Joséphine, mais encore son aVenIr. Il faut absolument qu'elle s'instruise et si l'année Prochaine vous ne vouliez pas la placer en pension ce serait 11101 qui me chargerais de payer pour elle. Cela me serait</p>
+        <p>très facile en donnant des répétitions; j'ai déjà refusé d'en donner à plusieurs élèves à 20 et 25 francs par mois. J'ai refusé parce que je n'ai pas trop de temps à mettre à mon travail. Il faut que je sois reçu à la fin de cette année, c'est-à-dire dans 4 mois au plus, bachelier ès-sciences et la chose n'est pas des plus faciles. Mais l'année prochaine j'aurai plus de temps à moi. Et puis l'année prochaine vous n'aurez pas à dépenser grand'chose pour moi. Ainsi nécessairement il faut mettre Joséphine en pension l'année prochaine. Elle devrait déjà y être depuis le commencement de cette année.</p>
+        <p>Mais pour que allant en pension elle puisse y profiter beaucoup et obtenir des succès il faut que pendant la fin de cette année elle travaille beaucoup, et pour cela je recommande à maman de ne pas l'envoyer continuellement en commissions. Il faut lui laisser le temps de travailler.</p>
+        <p>D'un autre côté pour que Joséphine prenne l'habitude et le goût du travail j'aimerais qu'elle lise souvent, en les comprenant bien, les journaux des enfans. Quand une fois elle aurait les livres, la lecture dans la tête, il ne lui serait pas difficile de se mettre à apprendre sa grammaire; en voyant à chaque page de ces livres ce que peut et ce que procure l'instruction, elle verrait qu'elle doit enfin travailler à la sienne.</p>
+        <p>Et puis pour les encourager toutes deux Joséphine et Virginie, j'aurais dû, comme je l'avais demandé l'année dernière, exiger qu'elles m'écrivissent souvent. Aucune d'elles ne l'a fait et j'ai passé là-dessus. Mais je vous promets que dorénavant si elles ne m'écrivent pas, je ne veux plus écrire non plus. Aussi rappelez-vous que tant que je n'aurai pas une lettre de l'une et de l'autre vous n'en recevrez pas de moi et je veux qu'elles commencent; je leur répondrai ensuite. Soyez sûrs que je tiendrai parole.</p>
+        <p>Ainsi, Virginie, écris-moi et dans le courant de cette semaine. Si tu ne le fais pas je t'envoie une lettre de sottises, et quand je m'en irai plus de cadeau. Cependant je me propose de t'en rapporter un très beau, ainsi qu'à Joséphine quand je reviendrai de Dijon, c'est-à-dire pour le commencement des grandes vacances, dans 4 mois à peu</p>
+        <p>près. Je te le rapporterai plus beau encore si je suis reçu, ce que j'espère.</p>
+        <p>Adieu, mes chers parens, je vous embrasse tous.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              PASTEUR.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

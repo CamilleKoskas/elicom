@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1842-01-23">23 janvier 1842.</date>
+          <placeName>Besançon</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Chappuis, Charles (1822-1895)">A CHAPPUIS</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Besançon, 23 janvier 1842."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Besançon, 23 janvier 1842.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je n'irai pas à Paris cette année. Pardon des peines inues que je t'ai données pour me procurer des renseignej ei*jf qui ne pouvaient pas me servir. J'aurais dû avant e t écrire faire ma demande à mes parens. Mon père m'a refuse ce que je désirais; mais il me promet bien que l'an Prochain il m'enverra à Paris.</p>
+        <p>b' Ainsi, mon cher, de tous les conseils amis que tu as en voulu me donner, je n'en pourrai suivre aucun. Voici cependant ce que j'ai décidé : je me présenterai cette année a u x deux écoles, mais travaillant plus spécialement pour j.pcole polytechnique. Si je ne suis pas admis à cette école Jurai encore l'Ecole normale pour laquelle je travaillerai fnnee prochaine à Paris; car, vu mon âge, je ne pourrai p u me présenter à l'Ecole polytechnique, et voilà pourdUOl, cette année, j'aurai plus spécialement en vue cette dernière école. Je ne suis plus le cours de physique afin voir Plus de temps à donner aux mathématiques.</p>
+        <p>jpyj D.oUche me fait espérer que je serai admis. Je fais de la Physique, mais seul; Verner m'a dit qu'il n'était pas inue en savoir en entrant à l'Ecole.</p>
+        <p>u Al-je bien fait de prendre cette résolution? Je l'ignore; Une première chose pourtant me dit que je fais mal, c'est qu' si peut-être nous nous quittons. Et, quand je pense à c i. nous nous quittons. Et, quand je pense r Ce je crois fermement qu'il me sera impossible d'être reçu cette année à l'Ecole polytechnique; vraiment je suis dans ces moments-là superstitieux.</p>
+        <p>Il rernercieras Verner des conseils qu'indirectement il rn'a.d&lt;,nnés. Tu ne m'oublieras pas non plus auprès de Bcrtl* n dont j'aurais tant aimé recevoir des conseils et des</p>
+        <p>donnons ateur et Chappuis s'échangea une correspondance dont nous donnon les extraits qui ont été communiqués à René Vallery-Radot, quand 1f1 i écrivait La Vie de Pasteur.</p>
+        <p>leçons. Et puisque Verner et lui ont été si complaisants pour moi dis leur que je crois leur demander encore quelque chose à la fin de l'année, des questions d'examen, s'ils en possèdent, surtout celles de M. Comte.</p>
+        <p>Tu te rappelles de ces jours de l'année dernière où je ne répondais rien quand on me parlait, où j'étais triste comme un bonnet de nuit. Aujourd'hui j'ai été tel, et cela m'arrive malheureusement très souvent cette année. Je n'ai plus qu'un seul plaisir, c'est de recevoir des lettres soit de toi soit de mes parents. Aussi, mon cher, écris-moi souvent.</p>
+        <p>Ne pense plus à moi pour Paris; c'était écrit que nous ne devions nous y retrouver qu'après une année d'absence.</p>
+        <p>Oh! que tes lettres soient toujours très longues.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

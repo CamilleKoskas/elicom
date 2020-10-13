@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1842-01-12">le 12 janvier 1842.</date>
+          <placeName>Besançon</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Besançon, le 12 janvier 1842."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Besançon, le 12 janvier 1842.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parens, Il y a long-temps que vous n'avez reçu de mes nouvelles.</p>
+        <p>J'ai remis de jour en jour, parce que le temps m'a manqué.</p>
+        <p>Je vous dirai qu'il y a assez long-temps aussi que je n'ai reçu des nouvelles de Joséphine. Je ne sais pas ce qu'elle fait, et si elle vous a écrit. Dans votre première lettre, parlez-moi d'elle.</p>
+        <p>Pour le jour de l'an je suis allé voir notre professeur de mathématiques qui m'a fortement engagé à me présenter cette année à l'Ecole polytechnique en même temps qu'à l'Ecole normale, en me disant que la carrière qu'offrait la première était bien plus belle que celle de l'enseignement.</p>
+        <p>Il m'a assuré aussi qu'en travaillant à Paris je ne sortirai pas dans le militaire de l'école, mais si je le voulais dans les ponts et chaussées.</p>
+        <p>D'un autre côté je vous dirai que je suis aussi fortement engagé par Chappuis et par Verner, celui qui a été reçu cette année le quatrième à l'Ecole polytechnique, d'aller à Paris finir cette année. Je crois aussi réellement que je serais reçu facilement aux deux écoles de cette manière.</p>
+        <p>Vous pouvez en juger par lui, qui après avoir fait une année Besançon est allé seulement une seconde année chez M. Barbet et qui est à présent sergent de l'Ecole polytechnique. J'aurai là-bas pour m'aider ses conseils, et puis, c est une chose parfaitement claire aujourd'hui qu'on est Plus facilement reçu après une année passée à Paris. Nos Professeurs ne se cachent pas de nous le dire. Il y a deux Ou trois jours que notre professeur de physique nous disait que tout élève de la province un peu fort déjà doit aller travailler à Paris, mais qu'un élève qui commence fait une grande bêtise d'y aller. Une autre raison forte pourrait nous décider.</p>
+        <p>» En restant cette année à Besançon il n'est pas probable que je serai reçu à l'Ecole normale; de sorte que je serais obligé d'aller l'année prochaine à Paris, car en restant encore ici une troisième année je désapprendrais au lieu ae me fortifier. Tandis qu'en y allant déjà cette année il est très probable que je serai reçu à l'Ecole normale, ou au moins, et dans un bon rang, à l'Ecole polytechnique.</p>
+        <p>Dans tous les cas si nous devions nous décider à ce que j'y 71 e déjà cette année nous consulterions d'abord mon proesseur et M. le proviseur qui sans doute trouverait que Ie fais bien. Car lorsque je lui ai appris que Chappuis reshut à Paris cette année, il m'a dit qu'il faisait très bien.</p>
+        <p>Voilà des raisons pour, mais il y a aussi des raisons contre, et la première c'est qu'il faudrait à Paris plus d'argent que je n en dépense ici. Il est probable cependant que M. Baret me recevrait encore pour le prix de 800 fr. par an.</p>
+        <p>pnirne il y aurait déjà plus d'un trimestre de passé, cela iniinuerait déjà assez cette somme. Enfin vous réfléchirez et vous me répondrez d'après cela, le plus tôt que vous Pourrez. Je vous remercie de ce que vous m'avez envoyé Pour le jour de l'an. Mes bottes vont très bien.</p>
+        <p>Je vous embrasse.</p>
+        <p>PASTEUR.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+        <postscript>
+          <p>Je suis très content de ce que ma sœur Virginie fait des Progrès sous le rapport de la grammaire. J'ai trouvé que Joséphine en avait fait aussi.
+          </p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

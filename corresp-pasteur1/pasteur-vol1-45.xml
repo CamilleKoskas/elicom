@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1849-03-31">Samedi, 31 mars.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A MADAME LAURENT (...-...)">A MADAME LAURENT</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Samedi, 31 mars."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Samedi, 31 mars.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Madame, Jusqu'au jour où j'aurai la certitude que je puis être aime de Mademoiselle Marie je serai fort inquiet. Je crains sur-</p>
+        <p>tout, et c'est pour cela que je vous écris ces quelques mots, qu'elle ne s'attache trop à ses premières impressions qui ne peuvent m'être que défavorables; car je sens bien que je n'ai rien de ce qui, tout d'abord, plaît à une demoiselle chez un jeune homme. Mais mes souvenirs me disent que quand j'ai été beaucoup connu des personnes, elles m'ont aimé. Je souhaite de tout mon cœur qu'il en soit ainsi pour Mademoiselle Marie. Ayez la bonté de lui dire d'attendre Pour se former une opinion définitive et chassez tout ce qui l'empêcherait de me donner son affection. Je sens qu'elle sera désormais toute ma pensée. Depuis deux jours elle remplit tout mon cœur.</p>
+        <p>Je ne pense pas, Madame, que vous trouviez quelque inconvénient à lui remettre la courte lettre qui accompagne celle-ci1, et où je lui demande moi-même d'attendre Pour me juger qu'elle me connaisse bien. Dimanche soir, si je puis vous dire quelques mots à vous , seule, ce sera pour vous demander ses premiers sentiments, si elle pense qu'un jour elle pourra me donner son affection.</p>
+        <p>Recevez, Madame, l'assurance de mon profond respect et de ma plus vive reconnaissance.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              L, PASTEUR.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

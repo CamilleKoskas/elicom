@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1849-03-31">Samedi 31 mars.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Marie (1826-1910)">A MADEMOISELLE MARIE LAURENT.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Samedi 31 mars."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Samedi 31 mars.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mademoiselle, Depuis deux jours tout a changé pour moi. Mon avenir, on bonheur sont à présent entre vos mains. Tout ce que ]e regrette et que je regrette sincèrement c'est de n'être pas plus digne de vous, c'est de n'avoir pas à vous offrir bien des qualités qui me manquent tout à fait, une position plus belle, mais que j'essaierai d'améliorer par les plus grands effrts. Je ne laisse pas toujours voir le plaisir que j'éprouve, maIS c'en a été un très grand pour moi d'apprendre que vous aimiez Paris et que vous désiriez y retourner. C'est</p>
+        <p>aussi mon rêve. C'était mon ambition pour moi; ce sera maintenant mon ambition pour vous, et je serais bien heureux si dans quelques années nous pouvions y retourner dans une position avantageuse. En disant nous, je traduis mon désir, mais peut-être pas ma pensée. Je suis si inquiet sur vos premiers sentiments, sur vos premières impressions, et je redoute tant qu'elles me soient trop défavorables.</p>
+        <p>Tout ce que je vous demande, Mademoiselle Marie, c'est de ne pas me juger trop vite : vous pourriez vous tromper.</p>
+        <p>Le temps vous dira que sous ce dehors froid et timide qui doit vous déplaire il y a un cœur plein d'affection pour vous et dont tout le bonheur sera dans votre estime et dans votre amitié sincère.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              Adieu. Votre meilleur ami, Louis PASTEUR.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

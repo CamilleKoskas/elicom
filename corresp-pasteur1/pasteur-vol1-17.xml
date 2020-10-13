@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1841-12-18">le 18 décembre 1841.</date>
+          <placeName>Besançon</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Besançon, le 18 décembre 1841."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Besançon, le 18 décembre 1841.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parens, Altin [Vercel] a dû vous dire que j'avais reçu le paraPluie dont vous m'avez parlé. J'avais oublié de vous le dire dans , ma première lettre; d'ailleurs vous deviez bien Penser qu'il ne pouvait pas ne pas m'avoir été remis. J'ai écrit aujourd'hui à Joséphine; sans doute elle doit vous</p>
+        <p>avoir écrit une seconde fois; vous me donnerez de ses nouvelles dans votre première lettre; car il est probable que vous m'écrirez encore avant elle.</p>
+        <p>On a donné aujourd'hui les places de la deuxième composition en mathématiques. Je suis encore le second. Le premier est le même élève que la première fois, le troisième aussi, celui qui a été reçu bachelier ès sciences l'année dernière. En physique nous avons aussi composé. J'ai été le premier. Je me rappelle que si, il y a deux ans ou trois, j'avais eu d'aussi bonnes places je ne me serais pas senti de joie. A présent, cela me fait plaisir encore, mais je n'y pense pas beaucoup; je suis assez indifférent pour cela; tant il est vrai de dire combien d'un moment à l'autre on change d'idées. D'un autre côté cependant cela me fait bien espérer pour plus tard.</p>
+        <p>Nous avons encore composé aujourd'hui en mathématiques; je ne puis par conséquent pas vous dire quelle sera ma place : cependant je viens de reconnaître tout à l'heure, en réfléchissant un peu, que je m'étais trompé dans une certaine question. Sans cela je crois qu'il n'y aurait pas de fautes dans ma composition. Enfin je verrai cela dans quelques jours.</p>
+        <p>Dans tous les cas si j'ai une bonne place je ne l'aurai pas volée, car la composition m'a donné un mal de tête soigné. C'est d'ailleurs ce qui m'arrive chaque fois que nous composons. Mais ce mal dure très peu long-temps, car je sens qu'il se passe déjà et il n'y a guère qu'une heure et demie que -nous avons quitté.</p>
+        <p>A part cela, je vous dirai que je me porte très bien. Je n'ai rien d'autre à vous apprendre. Je demanderai seulement à Virginie pourquoi elle ne m'a pas écrit ou fait dire' ce que je lui avais demandé dans ma dernière lettre. Cette fois je charge la maman de me conseiller sur ce que je pourrai acheter à Virginie pour le jour de l'an. J'ai une assez bonne bourse que j'épargne autant que je peux pour ce moment-là. J'ai aussi promis quelque chose à Joséphine; mais Virginie en qualité de ma sœur aînée sera bien mieux servie.</p>
+        <p>Si par hasard ma lettre tombe entre les mains de quel-</p>
+        <p>qu'un d'autre que Virginie, qu'il ne lui dise pas cela. Mais je compte sur toi, ma chère maman, pour me donner une réponse nette là-dessus. Mais je ne veux pas pour cela des conseils du papa.</p>
+        <p>Je n'oublierai pas non plus Emilie. Quant à elle je sais ce qu'il lui faut. Elle n'est pas difficile à contenter.</p>
+        <p>Adieu tous, je vous embrasse. Ecrivez-moi bientôt.</p>
+        <p>Louis PASTEUR.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

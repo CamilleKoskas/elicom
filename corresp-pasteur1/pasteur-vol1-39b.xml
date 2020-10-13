@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+            <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+            <date when="1846-09-08"> 8 septembre 1846</date>
+            <placeName>Arbois</placeName>
+        </correspAction>
+          <correspAction type="received">
+              <persName key="Chappuis, Charles (1822-1895)">A CHAPPUIS</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+              <date>Paris, 8 septembre 1846.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>A CHAPPUIS</p>
+        <p>Paris, 8 septembre 1846.</p>
+        <p>Voici la liste 2 : Viard, Morot, Pasteur, Forthomme; — Lechat, si on donne cinq places, mais le bureau n'en veut que quatre.</p>
+        <p>Une mauvaise leçon d'histoire naturelle m'a placé le troisième, au lieu de second et même de premier. M. Masson m'a dit que j'étais le premier pour les leçons, que ma leçon de physique avait été bonne, celle de chimie parfaite.</p>
+        <p>Il m'a dit aussi que de tous les admissibles j'avais été le seul professeur bien, sachant faire une leçon. Ce jugement me fait le plus grand plaisir; pour nous qui sommes appelés à professer, c'est à être capable de bien enseigner que nous devons tenir surtout.</p>
+        <p>Ce matin M. Hébert m'a dit que M. Balard, ainsi que l'administration, désirait que je restasse à Paris, conservateur de chimie 3. Cette place me ferait le plus grand plaisir.</p>
+        <p>Que M. Répécaud laisse M. Darlay une ou deux années encore, et j'irai, après deux ans, professeur à Besançon, plus instruit et plus digne d'être utile.</p>
+        <p>Ecris-moi au plus tôt pour que je sache si la place sera vacante. S'il était décidé qu'elle sera vacante, je ne pourrais refuser d'y aller, engagé comme je le suis, envers M. le Proviseur.</p>
+        
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+

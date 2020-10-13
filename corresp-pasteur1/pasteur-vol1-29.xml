@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1842-05-20" >20 mai 1842.</date>
+          <placeName>Besançon</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Besançon, 20 mai 1842."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Besançon, 20 mai 1842.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parens, n J'ai tardé un peu de vous écrire. Mais j'attendais des belles de Joséphine, à qui j'ai écrit il y a une dizaine de ]()urs; elle ne m'a pas encore répondu. Je crois pourtant pr e e ne tardera pas, car je lui ai recommandé d'être PPte dans sa réponse.</p>
+        <p>à Vous savez ce qui est arrivé sur le chemin de fer de Paris à Versailles. Chappuis ne s'y trouvait pas. Verner devait Y aller avec cet élève de l'Ecole polytechnique qui y a été tué, rlais au moment de partir Verner a eu de l'ouvrage dont obhgé de rester. Trois jeunes gens de Lons-le-Saunier, dont Un était élève ici l'année dernière, ont eu des blessure - cependant l'un d'eux a été seulement lancé en l'air; les deux autres sont en grand danger.</p>
+        <p>le ces mathématiques vont toujours bien; nous aurons fini le c au milieu du mois prochain; il nous restera encore Un rnois * et demi avant l'examen de l'Ecole normale, et trois mois avant celui de l'Ecole polytechnique.</p>
+        <p>J'irai à Dijon, après l'examen de l'Ecole normale, au miiieu août.</p>
+        <p>Où ens votre prochaine lettre vous me direz à peu près , Ma sot les affaIres de M. Pelletier.</p>
+        <p>Ma chère maman, je ne t'ai pas envoyé mon linge comme</p>
+        <p>tu me l'avais demandé, parce qu'il y avait quelque temps que je l'avais donné à la blanchisseuse; l'il était propre.</p>
+        <p>Vous aviez oublié mon rideau.</p>
+        <p>Pour que je puisse me faire inscrire pour l'examen de l'Ecole polytechnique vous m'enverrez mon extrait de naissance. Ne l'oubliez pas, il faut être inscrit avant le 10 juin. Envoyez-moi en même temps mon diplôme de bachelier ès lettres.</p>
+        <p>Adieu je vous embrasse tous.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              PASTEUR Louis.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

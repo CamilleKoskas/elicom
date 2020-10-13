@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1849-01-01" >Ier janvier 1849.</date>
+          <placeName>Arbois</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Au MINISTRE DE L'INSTRUCTION PUBLIQUE ET DES CULTES. (...-...)">Au MINISTRE DE L'INSTRUCTION PUBLIQUE ET DES CULTES.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Arbois, Ier janvier 1849.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Monsieur le Ministre,</p>
+        <p>Par une lettre du mois de décembre dernier j'ai eu l'honneur de solliciter de M. le Ministre, votre prédécesseur, la place de professeur suppléant de M. Persoz 1 à la Faculté des Sciences de Strasbourg. Je viens vous prier, M. le Ministre, de regarder cette demande comme non avenue.</p>
+        <p>Une de mes sœurs 2 est malade et le médecin qui la soigne m'engage fortement de l'éloigner d'Arbois, ville du Jura, où les changements de température sont trop brusques et où elle ne peut avoir le repos et les distractions qu'elle aurait dans une autre ville. Il m'est facile de conduire ma sœur à Dijon où je suis professeur de physique au Lycée, Dijon étant très rapproché d'Arbois. J'aurais de grandes difficultés au contraire si vous m'envoyiez, M. le ministre, à la Faculté des Sciences de Strasbourg.</p>
+        <p>Recevez, M. le Ministre, l'assurance de mon profond respect.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              <signature>Votre très humble et très dévoué serviteur, L. PASTEUR, professeur de physique au Lycée de Dijon.</signature>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

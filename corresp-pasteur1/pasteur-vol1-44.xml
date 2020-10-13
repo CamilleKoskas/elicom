@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1849-01-05" > 5 janvier 1849.</date>
+          <placeName>Dijon</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Au MINISTRE DE L'INSTRUCTION PUBLIQUE ET DES CULTES. (...-...)">Au MINISTRE DE L'INSTRUCTION PUBLIQUE ET DES CULTES.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Dijon, 5 janvier 1849."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Dijon, 5 janvier 1849.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Monsieur le Ministre, Je viens de recevoir la lettre qui m'annonce que par Arrêté en date du 29 décembre, vous m'avez nommé professeur suppléant de M. Persoz à la Faculté des Sciences de , Strasbourg. J'avais eu l'honneur de vous écrire à la date du 1er janvier 1849 de regarder ma demande pour cette suppléance comme non avenue. Aujourd'hui que je suis flommé, je vais me rendre de suite à mes nouvelles fonctions. Veuillez, monsieur le Ministre, ne pas trop blâmer cette irrésolution de ma part. Il y avait ici des intérêts de ïamille en jeu dans le détail desquels je crois inutile d'entrer; et surtout je craignais qu'un agrégé de Faculté pût Venir me supplanter à la Faculté de Strasbourg, sans que ] aie la ressource de rentrer au Collège de Dijon.</p>
+        <p>f Recevez, Monsieur le Ministre, l'assurance de mon profond respect et de mon entier dévouement.</p>
+        <p>Votre très humble serviteur, L. PASTEUR, professeur de physique au Lycée.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

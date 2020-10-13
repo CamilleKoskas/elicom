@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1849-03-01" > 1er mars 1849.</date>
+                    <placeName>Dijon</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Chappuis, Charles (1822-1895)">A Chappuis</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Dijon, 5 janvier 1849."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Strasbourg, Ier mars 1849.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A CHAPPUIS.</p>
+                <p>Strasbourg, Ier mars 1849.</p>
+                <p>Je me plais beaucoup à Strasbourg. J'ai trouvé tout en privant, grâce à Bertin 2, un logement très agréable, dans a maison qu'il habite et à quelques pas de la Faculté 3. Mes 1eux premières leçons préparées avec trop de soin dans la orme n'ont pas été bonnes, mais je pense que les suivantes lut dû satisfaire. Mon cours est du reste très agréable, car est très suivi, et je sens que je fais des progrès. StrasOUrg est une ville de beaucoup de ressources pour la chimie, ;</p>
+                <p>que (synonyme : acide paratartrique). Il en garda un stock. Malgré lestCntatives faites pour l'obtenir de nouveau, cet acide cessa d'app aratre. Pasteur avait découvert que cet acide était composé en p arhes égales d'acide tartrique gauche et d'acide tartrique droit (voir 178, note 2).</p>
+                <p>qu" Olr Œuvres de Pasteur, t. I, p. 65-80 : Recherches sur les relations et i peuvent exister entre la forme cristalline, la composition chimique et e sens de la polarisation rotatoire.</p>
+                <p>de;' m (voir p. 47, note 1) était professeur de physique à la Faculté des sciences de Strasbourg.</p>
+                <p>J. Vliai des Pêcheurs.</p>
+                <p>à cause des nombreuses industries de l'Alsace. M. Persoz augmentait son traitement dans une très forte proportion, en ayant au laboratoire des élèves, fils de fabricants qui payaient bien. Mais pour moi rien n'est moins sûr que j'aurai la place quand elle sera vacante. J'ai dans M. Kopp un concurrent très redoutable et qui le sera d'autant plus que la vacance aura lieu plus prochainement. J'aurai le temps d'acquérir des droits mieux fondés à cette place, et je présenterai d'ailleurs très probablement la suite de mes recherches aux vacances. J'ai déjà repris mon travail. Dans tous les cas, je pense bien ne pas retourner dans un lycée; la chaire de Dijon et celle de Toulouse ne tarderont pas à être vacantes.</p>
+                <p>Mon père et ma sœur Joséphine sont arrivés depuis deux jours. Ma sœur restera beaucoup plus longtemps que mon père et j'en suis très satisfait. Je vois que, pour travailler en province, il faut être enchaîné chez soi. Où est Paris, son activité, son émulation? Que j'ai été heureux de rester à l'Ecole normale ces deux dernières années! Quelles idées vous viennent en province! Voilà que je pense à me marier, moi qui voulais attendre à trente ans. C'est sérieux et il est très probable que j'épouserai l'une des filles de M. Laurent, Recteur de l'Académie de Strasbourg, si l'on m'accepte. J'en ai déjà parlé à mon père.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+
+
+
+

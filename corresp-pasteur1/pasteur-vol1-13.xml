@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1841-06-23" >le 23 juin 1841.</date>
+          <placeName>Besançon</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Besançon, le 23 juin 1841."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Besançon, le 23 juin 1841.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parens, Je ne vous ai pas écrit en vous envoyant ces dessins parce que je craignais d'abîmer; la lettre n'aurait pressé qu'à un endroit et ça aurait pu faire des plis, et puis je n'avais rien de bien intéressant à vous dire.</p>
+        <p>J'ai commencé dimanche le portrait de M. le Proviseur; mais je crois que de longtemps il n'est achevé. Quand il a posé une demi-heure il trouve déjà le temps long. D'ailleurs, comme je le connais, cela ne m'a pas étonné. Il n'est pas de ces gens qui aiment rester long-temps à la même place.</p>
+        <p>A vous vrai dire, il ne fait pas bon dessiner sur la pierre; car il n'y a rien de plus ingrat. Ce portrait que je vous ai envoyé et qui a très bien réussi pour le premier est dix fois moins beau qu'il ne l'était sur la pierre. Cependant il a été trouvé généralement très bien. M. le Proviseur veut le placer au nouveau parloir que l'on va faire au collège; il a même fait bien du chemin; car Chappuis en a envoyé</p>
+        <p>quatre épreuves à Vienne en Dauphiné où il a plusieurs Parens.</p>
+        <p>C'est encore grâce à ce portrait que demain je vais commencer le portrait du fils du préfet, M. Tourangin. ChapPuis est un de ses amis; il lui en a donné une épreuve, et 1 m'a fait demander par lui si je voulais avoir la complaisance de lui faire aussi son portrait. J'ai accepté très volontiers; mais je ne le ferai pas en lithographie; je le ferai à la Ine de plomb 1, dans le genre du Napoléon que j'ai copié d après M. Pointurier.</p>
+        <p>Je vous promets d'avance qu'il sera très ressemblant et rtout très bien dessiné, car j'y donnerai tous mes soins.</p>
+        <p>Je suis content de pouvoir faire la connaissance de cet élève, non pas seulement parce qu'il est le fils du préfet, mais parce que c'est un jeune homme très distingué et sans contredit le meilleur élève de philosophie et le meilleur élève du collège. D'ailleurs je le retrouverai sans doute a ans ainsi que Chappuis. Chappuis, comme vous le savez déjà peut-être, travaille comme moi pour l'École normale et le fils du préfet a pour but de devenir professeur de droit dans une faculté.</p>
+        <p>La première fois que je vous écrirai je vous parlerai de ce portraIt et je vous dirai au juste ce que j'en pense, s'il est ressemblant ou non; de même pour celui de M. le Proviseur.</p>
+        <p>,Come autre nouvelle je vous dirai que M. le Proviseur m'a dit que Miles Colard devaient me rapporter de Paris où elles sont à présent un très bel étui de mathématiques.</p>
+        <p>Enfin j'ai encore du nouveau à vous apprendre et c'est certaInement le plus intéressant.</p>
+        <p>J'ai écrit à. Dijon pour savoir quand je devais aller subir les épreuves de l'examen du baccalauréat ès sciences, et il on m'a repondu que je pourrais y aller dans la première qUInzaIne du mois d'août. Il n'y a plus guère qu'un mois; ce sera une époque éloignée de la foire de septembre et Par conséquent mon papa pourra venir me prendre ici pour veniV a Dijon avec moi.</p>
+        <p>Pour la première fois mes portraits seront, sinon achevés, du moins très avancés, et papa pourra les voir; celui de M. le Proviseur sera dans ma chambre, et celui de Tourangin à la préfecture; mais il ne me sera pas difficile d'aller le chercher. Ils ne seront pas sans doute entièrement achevés parce que vous comprenez bien que je n'y veux pas travailler souvent. Mon examen avant tout.</p>
+        <p>Adieu mes bons parens; je vous embrasse et vous aussi mes chères sœurs. J'espère que vous travaillez quelque peu à vous instruire, que vous lisez quelquefois de bons ouvrages. Adieu.</p>
+        <p>PASTEUR Louis.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+        <postscript>
+          <p>J'ai à présent passablement d'ouvrage. Cependant il y a plus de deux mois que je n'ai travaillé à la lampe. Ecrivezmoi bientôt. Ces faillites que vous m'annoncez sont on ne peut plus déplorables. Combien de gens que l'on croit heureux et qui pourtant ne le sont guère.
+          </p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

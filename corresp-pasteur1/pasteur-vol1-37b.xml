@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Barbet, Jean-François (1799-1880)">Barbet</persName>
+                    <date when="1943-09-21">21 septembre 1843.</date>
+                    <placeName>Institution Barbet, Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Paris, 27 février 1843."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Paris, 21 septembre 1843.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+
+                
+                <p>M. BARBET A PASTEUR.</p>
+                <p>Institution Barbet.</p>
+                <p>Paris, le 21 septembre 1843.</p>
+                <p>Mon cher Pasteur, à. J'accepte avec plaisir l'offre que vous me faites de donner * nia maison quelques-uns des moments de loisir que vous aUrez pendant votre séjour à l'École normale 1. Ce sera d'ailleurs le moyen d'avoir avec vous des rapports plus fréquents et plus intimes dont nous nous trouverons bien l'un et l'autre.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

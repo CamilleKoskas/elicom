@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Jean-Joseph (1791-1865)">Louis Pasteur</persName>
+                    <date when="1848-11-04">4 novembre 1848.</date>
+                    <placeName>Dijon</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Chappuis, Charles (1822-1895)">A CHAPPUIS.</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Dijon, 4 novembre 1848.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A CHAPPUIS.</p>
+                <p>Dijon, 4 novembre 1848.</p>
+                <p>J'ai été nommé à Dijon parce qu'il n'y avait pas de place vacante dans une Faculté, et que la première vacante sera celle de Dijon, m'ont dit les Inspecteurs et M. Lesieur.</p>
+                <p>Mais depuis ma nomination j'ai eu une bonne fortune.</p>
+                <p>J'ai achevé la rédaction de mon dernier travail pour la commission de l'Institut et j'ai été assez heureux pour compléter ce travail par une très belle découverte 2. Tu as</p>
+                <p>mistes : le paratartrate de soude et d'ammoniaque, sans action sur la lumière polarisée, peut se dédoubler en cristaux présentant sur un de leurs angles une facette inclinée à gauche et en cristaux présentant sur un de leurs angles une facette inclinée à droite. La solution des crista" gauches dévie à gauche le plan de polarisation; celle des cristaux droîts dévie à droite le plan de polarisation; la solution mixte des deux cristaU;, en poids égal, n'a pas d'action sur la lumière polarisée. Voir Œuvres M Pasteur, t. I, p. 415-423 : Rapport sur un mémoire présenté à l'Aca.</p>
+                <p>dû recevoir le rapport de M. Biot 1, rapport très favorable et qui me donne une certaine position scientifique. M. Biot a pris le plus vif intérêt, ainsi que les autres membres de Ja commission, à mon travail. J'ai travaillé, plus de vingt jours, chaque jour plusieurs heures avec M. Biot au Collège de France. Il ne pensait, il ne rêvait plus qu'à ces faits nouveaux, et je puis t'assurer que personne à Paris ne me porte en ce moment un aussi vif intérêt 2. C'est avec un grand</p>
+                <p>eniie par M. L. Pasteur, avec ce titre : Recherches sur les relations qui Peuvent exister entre la forme cristalline, la composition chimique et 6 sens du pouvoir rotatoire.</p>
+                <p>, ?• Pasteur a rappelé en 1860, dans une leçon professée à la Société Unique de Paris, sa première entrevue avec M. Biot : t K L'annonce des faits qui précèdent [dédoublement de l'acide paraartnque] me mit naturellement en rapport avec M. Biot, qui n'était Pas sans concevoir des doutes au sujet de leur exactitude. Chargé d'en rendre compte à l'Académie, il me fit venir chez lui pour répéter sous Ses Yeux l'expérience décisive. Il me remit de l'acide paratartrique qu'il avait étudié lui-même préalablement avec des soins particuliers, et qu'il avait trouvé parfaitement neutre vis-à-vis de la lumière polarisée. Je r:parai en sa présence le sel double avec de la soude et de l'ammoniaque q jU avait également désiré me procurer lui-même. La liqueur fut abane année dans l'un de ses cabinets à une évaporation lente, et lorsqu'elle eut fourni environ 30 à 40 grammes de cristaux, il me pria de passer au r allège de France, afin de les recueillir et d'isoler sous ses yeux, par la ceannaissance du caractère cristallographique, les cristaux droits et les cristaux gauches, me priant de déclarer de nouveau si j'affirmais bien que les cristaux que je placerais à sa droite dévieraient à droite et les Utres à gauche. Cela fait, il me dit qu'il se chargeait du reste. Il préPara les solutions en proportions bien dosées, et au moment de les obserVer dans l'appareil de polarisation, il m'invita de nouveau à me rendre d s ~o~ cabinet. Il plaça d'abord dans l'appareil la solution la plus inté'dans sDu cabinet. Il plaça d'abord dans l'appareil la solution la plus intéres an^e' celle qui devait dévier à gauche. Sans même prendre de mesure, par asPect seul des teintes des deux images ordinaire et extraordinaire trè alyseur, il vit qu'il y avait une forte déviation à gauche. Alors, ches Vlslblement ému, l'illustre savant me prit, le bras et me dit : Mon ch er enfant, f'ai tant aimé les sciences dans ma vie que cela me fait battre le ceu,.. » (Voir Œuvres de Pasteur, t. I, p. 325.) Partir de ce jour, Biot se constitua le parrain scientifique de Pasteur.</p>
+                <p>regret qu'il m'a vu quitter Paris, non pas parce que j'allais en province, mais parce que j'allais avoir sept ou huit classes et peu de loisir. Mais cela ne peut durer que très peu et à la fin de cette année je serai probablement dans une Faculté. Je puis même te dire, avec prière de n'en parler à qui que ce soit, que très probablement je serai, d'ici à quelques jours, nommé à Besançon à la place de M. Delesse.</p>
+                <p>Je ferais le cours de minéralogie une année et l'an prochain je serais nommé ailleurs pour la chimie. Je puis te dire des .choses que je ne dirais à personne : M. Biot m'a dit, et plusieurs fois répété, que, si je produisais encore deux ou trois travaux pareils à celui sur lequel il a fait un rapport, personne ne pourrait me primer pour arriver à l'Institut, que de pareils travaux dominent tout; ce sont là ses propres expressions.</p>
+                <p>Il est à regretter pour moi que le rapport de M. Biot n'ait pas été fait avant le 15 septembre. Peut-être se serait-on décidé à mettre déjà cette année M. Séné à la retraite. On m'a beaucoup engagé à rester à Paris, et si ce n'eût été à cause de l'inquiétude que j'aurais donnée à ma famille s'il arrivait une nouvelle émeute à Paris, je serais reste.</p>
+                <p>M. Balard m'a offert de le suppléer à l'Ecole.</p>
+                <p>Je suis arrivé de Paris cette nuit et je commence ma classe ce soir.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+

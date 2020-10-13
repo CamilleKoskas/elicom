@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1842-11-26" >26 novembre 1842.</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Paris, 26 novembre 1842."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, 26 novembre 1842.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parens, Je n'ai pas commencé encore mes répétitions. M. Barbet ne m'en a pas parlé depuis quelques jours. Quand il me Encontre c'est toujours pour me demander si notre cours est bon, quelles sont mes places en composition, si ce que ?Us faisons est bien difficile pour les compositions. M. Barler est venu à la pension il y a quelques jours et après avoir vu M. Barbet il m'a dit qu'il était très content de mOl: sous le rapport de la conduite et du travail et qu'il sperait me voir obtenir quelque chose au grand concours x.</p>
+        <p>1 J ai une nomination, je crois que ce ne pourra être qu'en Physique. Je trouve à présent le cours de notre professeur Scellent. C'est un jeune homme très instruit et très bon; 3 e lui demande souvent après les classes des explications il m'offre lui-même. Outre l'ouvrage de la classe je lui onne aussi des questions de physique qu'il me corrige.</p>
+        <p>ous n'avons pas encore composé; j'espère une bonne P ace. Je ne serai pas le premier, pas même le second car nous avons dans notre classe celui qui a eu l'année dernière ¡er d h. 'l" d t le lee r pnx de physique élémentaire au grand concours, et lui qui a eu le Ier accessit de physique spéciale. Ce derpler est surtout très fort, mais il a passé l'âge du concours P ur cette année. Il se destine à l'Ecole normale, l'année rm. ere il ne s'est pas présenté pour cause de maladie.</p>
+        <p>l' Je crois qu'à la pension je donnerai les mêmes répétins qu'à Besançon aux élèves du baccalauréat. Ce n'est s encore bien décidé et voilà pourquoi je n'ai pas encore commencé.</p>
+        <p>trs;2ua?t au reste je suis toujours, et me trouve toujours très bien Je vois toujours Chappuis très souvent; il m'a ch arge de vous dire bien des choses. Je vois Altin moins</p>
+        <p>souvent parce que d'abord il est plus éloigné de la pension; je le vois assez souvent cependant. Il repartira bientôt, à ce qu'il m'a dit. Ne vous inquiétez nullement sur mon travail, et soyez sûrs aussi que je me ferai aimer et craindre des élèves à qui je donnerai des répétitions. Rien n'est plus doux qu'un élève de Paris sitôt qu'on lui parle un peu plus haut qu'à l'ordinaire. D'ailleurs il y a tant d'activité dans les études que les travailleurs surpassent le nombre des paresseux, ce qui n'est pas en province.</p>
+        <p>J'ai reçu la lettre de M. le Proviseur, et je lui ai envoyé ma demande. Elle sera présentée au Ministre par le Recteur et j'obtiendrai facilement.</p>
+        <p>Dans sa lettre il est très bon pour moi.</p>
+        <p>Tâchez de m'envoyer votre réponse pour jeudi, afin que j'aie le temps d'aller avec Chappuis chercher cet argent; peut-être que le banquier restera très loin de la pension et je n'aurai pas le temps d'y aller un jour de classe.</p>
+        <p>Virginie et Joséphine travaillent-elles un peu; comment se portent-elles?</p>
+        <p>Quant à ma santé propre n'y pensez pas. Je n'ai pas encore été une minute malade. N'ayez pas peur non plus que je sorte le soir. Cela ne m'arrive pour ainsi dire jamais et puis il n'y a pas plus à craindre à Paris qu'en province.</p>
+        <p>Adieu, mes chers parens, adieu. Je vous embrasse tous de bon cœur.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              L. PASTEUR.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

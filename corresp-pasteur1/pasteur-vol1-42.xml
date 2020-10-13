@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">Louis Pasteur</persName>
+          <date when="1848-09-01">IER septembre 1848.</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Au MINISTRE DE L'INSTRUCTION PUBLIQUE ET DES CULTES. (...-...)">Au MINISTRE DE L'INSTRUCTION PUBLIQUE ET DES CULTES.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, IER septembre 1848.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Monsieur le Ministre, J ai l'honneur de solliciter de votre bienveillance une Place de professeur de chimie dans une Faculté de sciences.</p>
+        <p>Voici quels sont mes titres : Je suis ancien élève de l'Ecole normale, agrégé des Pences physiques, docteur ès sciences physiques. Depuis eux ans je remplis à l'Ecole normale les fonctions de prérateur de chimie. Tels sont mes titres universitaires.</p>
+        <p>ruant à mes titres scientifiques, mes thèses pour le Doctosont des thèses de recherches et j'ai en outre présenté C 1 Académie des Sciences deux notes et deux mémoires 1.</p>
+        <p>n'est pas à moi de parler de la valeur de ces travaux; Ce 11 fst pas à moi de parler de la valeur de ces travaux; i .pus seulement vous prier, Monsieur le Ministre, de vouIr bIen consulter à cet égard les savants qui se sont occu-</p>
+        <p>J-Voir Œuvres de Pasteur, t. I, p. 31-32, 33-34, 35-37, 61-64, loc. ct.</p>
+        <p>pés des matières dont j'ai traité, tels que MM. Thenard, Dumas, Pouillet, Beudant 1.</p>
+        <p>Je suis, avec respect, Monsieur le Ministre, Votre très humble et très obéissant serviteur, L. PASTEUR.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

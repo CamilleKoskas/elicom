@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1842-03-01" >1er mars 1842.</date>
+          <placeName>Besançon</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Besançon, Ier mars 1842."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Besançon, Ier mars 1842.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parens, J'ai reçu hier votre lettre que j'attendais plus tôt. Mais je comprends bien que vous n'avez pas toujours le temps d'écrire et que quelquefois vous pouvez pour cela tarder un peu. D'ailleurs, comme vous me le dites, il n'y a que papa pour écrire : maman et Virginie devraient bien s'en charger quelquefois, surtout pour écrire à Joséphine. Il serait bien plus convenable, à ce qu'il me semble, de voir la mère donner des conseils à la fille que le père, surtout pour bien des choses.</p>
+        <p>J'ai reçu hier aussi une lettre de Joséphine; sa lettre n'avait pas du tout l'air d'avoir été corrigée; elle est bien mieux que toutes les précédentes. Elle a écrit chez M. Brun sans me dire pourtant qu'elle en a reçu une lettre. Je crois beaucoup que la lettre que papa avait à Besançon dans son portefeuille y est encore. Ces oublis-là sont très naturels</p>
+        <p>à mon père; car je crois me rappeler qu'une personne lui yant donné une lettre à une foire, pour la remettre à ArboIs, cette lettre voyageait encore avec lui à la foire suivante.</p>
+        <p>J'ai été enfin à cette dernière composition le premier. Il n'y avait dans ma copie qu'une légère faute. J'espère beaucoup, ainsi que les plus forts de notre classe, des succès POr la fin de l'année. J'ai fait il y a quelques jours conissance avec le professeur de mathématiques élémenales, élève sortant cette année de l'Ecole normale, et qui V été reçu à l'agrégation après Bryot de St-Hippolyte.</p>
+        <p>oici comment je l'ai connu. Je lui avais envoyé par un élève qui prend près de lui des répétitions un problème Pour qu'il m'en donne la solution; il l'a fait; et le lendein par le même élève il m'en a renvoyé un autre à faire.</p>
+        <p>J'ai réussi dans la solution que je lui en ai donnée, et il lU a prié d'aller le voir. C'est un excellent garçon; j'irai g vent lui demander des conseils. Il s'est offert lui-même al er quand il le pourrait.</p>
+        <p>- En physique j'ai été Se, 3e et Ier successivement. Mais Pour tous les examens c'est bien moins important que les athemahques et bien moins difficile.</p>
+        <p>* le Proviseur est malade depuis quelques jours. A n , Sent il va mieux.</p>
+        <p>v ne travaille pas du tout à me rendre malade. Je travail beaucoup moins que l'année dernière; car je me couche de bonne heure, et me lève tard, à 5 1/2 avec les élèves, L'année prochaine encore, si par hasard j'étais celuse,. Je crois que le travail marcherait tout seul. Tout cela vient surtout de la différence du professeur que nous avons a présent avec celui de l'année dernière.</p>
+        <p>Je Vous embrasse tous.</p>
+        <p>PASTEUR.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+        <postscript>
+          <p>Allez-y avec précaution dans ce remède pour Emilie.</p>
+          <p>lui Ur le bain, il ne peut sans doute pas faire de mal; mais lui re la tête [ici la lettre est déchirée] humide c'est autre Vous verrez d'ailleurs après votre essai. Cela sonnera bien du mal. J'ai promis à Joséphine que</p>
+          <p> nous irions la voir à Pâques 1. Ça sera facile, pour moi du moins. Nous reparlerons de cela. Virginie, tu devrais bien écrire quelquefois à Joséphine; embrasse pour moi notre Emilie. Je me porte à merveille.
+          </p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1849-06-15">15 juin 1849</date>
+                    <placeName>Strasbourg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Chappuis, Charles (1822-1895)">A CHAPPUIS</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Mardi, 3 avril."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Strasbourg, 15 juin 1849</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A CHAPPUIS.</p>
+                <p>Strasbourg, 15 juin 1849 2.</p>
+                <p>Marie et moi, le 29 au soir, nous sommes allés à Bade, et le lendemain M. et Mme Laurent et Mlle Amélie 3 sont venus nous rejoindre. Nous avons failli être victimes à notre retour d'un terrible accident. A quelques minutes de Bade nous avons reçu la décharge de 20 ou 30 coups de fusil de soldats badois. Ils venaient de Rastadt pour s'em" parer d'un de leurs officiers. On leur avait dit que cet offiCIr se trouvait dans notre convoi. Ils ordonnèrent au machiniste d'arrêter. Cet ordre ne pouvant être exécuté sur le champ, ils crurent que le machiniste s'y refusait et ils tirèrent presque à bout portant. Le chauffeur seul a été atteint à la joue et à la cuisse. Deux autres balles ont tra" versé des wagons vides.</p>
+                <p>Je suis très occupé. M. Kopp, professeur à l'École de</p>
+                <p>pharmacie et suppléant de M. Persoz à cette école, a été nommé représentant [à l'Assemblée Constituante]. J'ai été chargé, ainsi que Bertin, de le remplacer. L'un de ses cours, celui de physique, est fait par Bertin; celui de chimie (la suppléance de M. Persoz) est fait par moi. J'ai ainsi quatre leçons par semaine. Cela augmente mon traitement de 1500 francs; mais je ne désire pas que cela se prolonge l'année prochaine. Je n'aurais aucun moment pour mes travaux et je remets actuellement au mois d'août et de septembre l'achèvement du travail que je dois présenter à l'Institut aux vacances.</p>
+                <p>Je compte beaucoup sur ma nomination à Strasbourg. J'avais dans M. Kopp un concurrent redoutable. Tout ce qu'il y a à craindre, c'est que M. Persoz ne soit pas nommé encore à Paris cette année prochaine, et qu'il conserve sa Position actuelle. Si la place de Dijon est vacante au mois d'octobre, je ne sais trop ce que je ferai. Strasbourg offre pour le professeur de chimie des avantages très spéciaux Par sa position au centre d'un pays manufacturier.
+                </p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+

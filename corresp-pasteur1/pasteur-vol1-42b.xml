@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Jean-Joseph (1791-1865)">Louis Pasteur</persName>
+                    <date when="1848-10-22">22 octobre 1848.</date>
+                    <placeName>Arbois</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Chappuis, Charles (1822-1895)">A CHAPPUIS</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Arbois, le 22 octobre (1848)</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>JEAN-JOSEPH PASTEUR A CHAPPUIS.</p>
+                <p>Arbois, le 22 octobre (1848).</p>
+                <p>Louis est professeur de physique au lycée de Dijon, où il devait être le 15 de ce mois; mais il a obtenu un congé pour rester à Paris jusqu'au 1er novembre. Ecrivez-lui à l'Ecole; il y est logé.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

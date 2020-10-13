@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1844-10-04">4 octobre 1844</date>
+          <placeName>Arbois</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Chappuis, Charles (1822-1895)">A CHAPPUIS</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Arbois, 4 octobre 1844.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>A CHAPPUIS.</p>
+        <p></p>
+        <p>J'ai à te faire voir bien des choses : la source du Lizon 1 tn e nous ne connaissons ni l'un ni l'autre, et une route le agrllfique qui se construit à Arbois, tout le long et sur le Sornrnet des montagnes opposées à celles de la Châte-</p>
+        <p>laine 1; il paraît qu'il n'y a rien au-dessus des points de vue qu'offre la route et des travaux qu'on y exécute.</p>
+        <p>En outre, si tu viens me voir, je te promets de te conduire à Poligny pour faire faire ton portrait au daguerréotype par un amateur, mais qui fait bien mieux que tous les daguerréotypeurs ordinaires. Il y a des portraits que tu confondrais avec ceux de Sabatier. Il a eu la complaisance de me faire mon portrait, en trois grandeurs différentes, par un temps défavorable il est vrai, cependant cela ressemble. Si tu viens, tu choisiras l'un des trois.</p>
+        
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+

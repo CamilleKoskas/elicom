@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1841-06-14"> 14 juin 1841.</date>
+          <placeName>Besançon</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Besançon, .le 14 iuin 1841."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Besançon, .le 14 iuin 1841.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parens, vous ai pas encore répondu parce que je n'avais rien d'intéressant à vous apprendre. J'ai été content de recevoir votre dernière lettre; comme il y avait eu des egats à Arbois à cause de la grêle, j'étais inquiet voyant que vous tardiez à m'en donner des nouvelles.</p>
+        <p>Il y a quelques jours j'aurais eu une bonne occasion de vous envoyer cet ouvrage de Cuvier 1 par Callier ou le fils Martn; mais je n'ai su que quand ils étaient à Arbois depuis quelques jours qu'ils étaient partis de Besançon.</p>
+        <p>ailleurs j'avais bien recommandé à Callier de venir m'vrtir du jour où il partirait, et je comptais là-dessus; mais il ne me l'a pas dit.</p>
+        <p>Je vous dirai que j'ai achevé hier le portrait que j'avais ommencé sur une pierre lithographique 2. Je n'ai, je crois, rien fait d'aussi bien dessiné et d'aussi ressemblant. Tous ceux qui l'ont vu le trouvent frappant; M. le Proviseur le trouve aussi très bien. Cette semaine je commencerai Slen sur la même pierre. Seulement j'ai grand-peur d'une , ose, c'est que sur le papier le portrait ne soit pas aussi bien que sur la pierre; c'est ce qui arrive toujours; aussi j'ai bien pris soin en le faisant de le regarder souvent dans un miroir. Il est également ressemblant. Mercredi il sera déjà tout lithographié et avant dimanche prochain vous en aurez une ou deux épreuves.</p>
+        <p>Uuant à mon examen du baccalauréat, plus j'avance et Plus je le trouve moins difficile, parce que de plus en plus les matières me semblent resserrées, comptant pour rien celles que j'ai étudiées. Nous avons achevé cette semaine le cours de mathématiques, de sorte que nous n'avons plus qu'à revoir les diverses parties du cours.</p>
+        <p>.., D_L_- -.</p>
+        <p>CUHralt Cle son ami Chappuis. Une lithographie de ce portrait est aujourd'hui a - 1 Institut Pasteur, dans l'ancien appartement de Pasteur.</p>
+        <p>Je garderai les 86 fr. que j'ai touchés; mais soyez sûrs que je n'en ferai pas mauvais usage. Une partie me servira à acheter des livres soit de lecture pour mes sœurs, soit de mathématiques pour mon propre usage.</p>
+        <p>Je promets toujours à mes sœurs un beau cadeau pour la fin de l'année; si elles veulent me payer de retour et me donner aussi quelque chose, qu'elles me laissent choisir : Je leur demande de l'amour pour le travail, et pour leur instruction; voilà le plus beau cadeau qu'elles pourraient me faire. Je n'en voudrai jamais d'autre. Dites-moi, mes chères sœurs, me le refuserez-vous, moi qui vous le demande depuis si longtemps?</p>
+        <p>Adieu, je vous aime et vous embrasse tous.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              PASTEUR.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

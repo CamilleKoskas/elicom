@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1849" >Probablement 1849</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="">A JOSÉPHINE</persName>s
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date></date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>[Probablement 1849.] Ma chère Joséphine, Je t'en prie : ne te chagrine pas sur ta position. Tu es dans une mauvaise crise mais qui passera. Il est certain que tu as un poumon malade, mais tu sais que l'on vit très bien avec un seul poumon, et du côté gauche tu n'as pas de mal du tout.</p>
+                <p>Il me tarde bien de te revoir, ma chère Joséphine, ainsi que le papa si bon pour nous.</p>
+                <p>Adieu, ma chère Joséphine, un peu de courage. Ton frère qui t'aime et t'embrasse de tout son cœur. Je te rapporterai beaucoup de billets de la fameuse loterie des Lingots d'or..</p>
+                <p>Un des lots est de 400 mille francs.</p>
+                <p>L. PASTEUR.</p>
+
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+

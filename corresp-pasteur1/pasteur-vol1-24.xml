@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1842-02-22" >22 février 1842.</date>
+          <placeName>Besançon</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Besançon, 22 février 1842."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Besançon, 22 février 1842.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parens, Aujourd'hui encore je n'ai rien de nouveau à vous apprendre, pas même une place de composition; elles ne se donneront que samedi prochain. Il est probable que j'aurai encore la place de second.</p>
+        <p>On parle de retirer à M. Comte, cet examinateur si difficile, sa place à partir de cette année. On a reconnu que les élèves ne s'occupaient qu'à traiter ses questions, et</p>
+        <p>nullement du cours de mathématiques en lui-même, et que Par conséquent leur force n'était qu'apparente. Ainsi un élève qu'il avait fait recevoir sergent à l'Ecole cette année vient de tomber le dernier au classement de janvier; l'année dernière un élève qu'il avait fait recevoir dans les pre- Irllers est sorti fruit sec, c'est-à-dire sans place, de l'Ecole.</p>
+        <p>Dans tous les cas, qu'il reste ou qu'on le renvoie, il est Probable que nous ne l'aurons pas cette année à Besançon.</p>
+        <p>ussi nous espérons tous des succès pour cette année; autant plus que notre cours est bien fait.</p>
+        <p>f A présent, depuis quelques jours, je prends des répétiIons, seul. Cela ne me coûtera pas plus cher; le professeur e voulait déjà pas que je le paie dernièrement. Je profiral sans doute beaucoup dans ces répétitions; aussi j'esp r être reçu cette année, sinon à l'Ecole normale, du insa l'Ecole polytechnique, ce qui toutefois ne sera pas greable à mon ami Chappuis qui aurait tant voulu me VOl avec lui à l'Ecole normale. Mais nous serons, quoi qu'il arny, ensemble à Paris, l'année prochaine.</p>
+        <p>1 ]e suis reçu à l'Ecole polytechnique, inutile de nous uper de la conscription. Je suis exempt par là même.</p>
+        <p>si Je suis refusé, je travaillerai l'année prochaine pour cole normale, et encore alors je suis exempt.</p>
+        <p>III ne chose extraordinaire, c'est que, malgré la force q yenne de notre classe de l'année dernière, deux élèves qui y étaient, Damitiot et Vincent, ont à présent à Paris les Premières places au Collège St-Louis, dans une classe qui fournit le plus d'élèves à l'Ecole polytechnique de toutes les classes de Paris. Damitiot est second ou troisième et lncent ne sort pas des dix premiers. Ils sont dans cette Psse 140 élèves, dont 40 chaque année sont reçus à l'Ecole Polytechnique. dont 40 chaque année sont reçus à l'Ecole 111?0 le plus fort de notre classe va à Paris à Pâques, je SUIS bien assuré que dans la même classe il tiendra aussi les premleres places, car ici l'année dernière il était déjà de Vo aucop plus fort que Damitiot et Vincent. Mais il faut Vous dire aussi que Damitiot a quatre années de spéciales.</p>
+        <p>J'ai VU Il Y a deux ou trois jours ce voyageur dont vous 'ne parlez. Il a eu la complaisance de venir au collège.</p>
+        <p>Quant à ces épingles qu'il a bien voulu me donner, remerciez-le pour moi dans la première lettre que vous aurez occasion de lui écrire.</p>
+        <p>Pour la bague en or, qui a pu vous la donner pour moi?</p>
+        <p>C'est ce que j'ai déjà bien cherché mais en vain. A part vous et mon bon Chappuis, qui peut donc penser à moi?</p>
+        <p>Je vous embrasse tous de bon cœur en vous priant de bien remercier pour moi la personne qui m'a donné cette bague.</p>
+        <p>PASTEUR Louis.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+        <postscript><p> Joséphine ne m'a pas répondu. Mais j'attends de ses nouvelles bientôt. Ne négligez pas de lui écrire, si vous voulez qu'elle ne vous oublie pas de son côté. Virginie a grand tort de ne pas vouloir lui écrire. Embrasse Emilie pour moi, ma chère Virginie.
+        </p></postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

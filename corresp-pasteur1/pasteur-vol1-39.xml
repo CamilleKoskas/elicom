@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1845-06-10">Paris, 10 juin 1845.</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Marcou, Jules (1824-1898)">A JULES MARCOU</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Paris, 10 juin 1845."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, 10 juin 1845.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Marcou, J'ai appris avec autant de plaisir que d'étonnement la nouvelle de tes succès dont je commence par te féliciter.</p>
+        <p>Je ne pensais pas que tu te donnerais à l'étude de la géologie avec une aussi grande ardeur, avec le désir de faire avancer cette science jeune et belle. Je la regardais comme un délassement utile pour ta santé et voilà que j'apprends avec une double satisfaction que tu es dans une parfaite santé et un vrai géologue.</p>
+        <p>Avant d'achever ta lettre j'avais regretté déjà que tes études en chimie ne fussent pas capables de répondre à ce</p>
+        <p>que la géologie leur demandera souvent, ce que tu as bien senti, comme je l'ai vu ensuite dans ta lettre. Je sais très bien que beaucoup de géologues distingués n'ont pas en chimie des notions étendues, mais je crois que c'est un grand malheur et je pense que la géologie n'a pas assez souvent recours à l'analyse chimique. Je t'indiquerai de suite un ouvrage d'analyse. Tu le désirerais peu volumineux. C'est un tort. Pour avoir des notions sur les divers corps tu peux te contenter d'un petit ouvrage, mais il te faut un ouvrage sur l'analyse chimique où tu puisses trou, ver les renseignements convenables. Ce n'est pas un ouvrage que tu auras à lire, et à étudier consécutivement, mais à consulter quand tu en auras besoin. Malheureusement la ubrairie française est très pauvre en ouvrages d'analyse chimique. Celui qu'on regarde en général comme le meilleur est une traduction de l'ouvrage allemand d'H. Rose, Qui forme deux volumes in-8 de 7 fr. chacun. Il a pour tltre : Traité pratique d'analyse chimique par H. Rose, avec notes de M. E. Péligot, traduction de M. Jourdan, à Paris chez Baillière, rue de l'Ecole de Médecine, 17.</p>
+        <p>Quant à un ouvrage à étudier pour connaître un peu la chimie je te conseillerais la petite chimie de Bouchardat.</p>
+        <p>j en ai lu l'année dernière quelques pages. Elle m'a paru ts bien faite. Plus tard tu feras bien de te procurer une chimie de Thenard.</p>
+        <p>Tu me proposes une analyse d'un minéral. J'accepterais vec plaisir si nous faisions de la chimie cette année, sans doP te garantir du succès; car une analyse est un problème uncile. J'ai prié Lamy de s'en charger s'il le pouvait. Ils ont en effet des analyses un jour dans la semaine. Tu sais Peut-être que nous avons à présent pour maître de conféences de chimie M. Balard, reçu membre de l'Institut ette année. Lamy sera guidé par lui de sorte que ton anayse pourra être faite avec soin. Il n'aura sans doute que le emps de faire celle d'un échantillon que tu lui enverras c Vec une instruction sur ce que tu désires connaître et sur e que tu sais de la position géologique de l'échantillon.</p>
+        <p>Nous avons pu suivre quelques courses de géologie dans les environs de Paris. J'ai assisté à celles de M. Constant Pré-</p>
+        <p>vost qui en a fait très peu. Il est parti dès longtemps pour les Pyrénées. Depuis deux mois nous allons à celles de M. Elie de Beaumont. Dès à présent comme elles seront éloignées nous n'y assisterons pas, je pense; et d'ailleurs les examens approchent. Il y a une autre raisen; c'est qu'une dizaine de courses suffisent bien pour prendre connaissance du terrain des environs de Paris. Nous avons recueilli des échantillons en assez grand nombre.</p>
+        <p>Je pense que d'après la direction de tes études d'à présent tu ne tarderas pas à venir étudier à Paris 1. Tu es privé de collections, de cours de géologie et quand tu connaîtras bien tout ce qu'il y a à étudier, sinon à explorer, il me- semble que tu feras bien de gagner la Capitale et de venir y puiser des connaissances que tu ne pourras acquérir seul à Salins.</p>
+        <p>J'aurai le plaisir de te voir pendant les vacances et d'étudier un peu ta collection.</p>
+        <p>Je n'ai pas besoin de te dire que tous tes anciens camarades actuellement élèves de l'Ecole normale, Leyritz, Vincent, Lamy, Grillet, Chappuis et Pasteur te félicitent de ton zèle, de tes succès et te souhaitent une bonne santé.</p>
+        <p>Adieu, mon cher Marcou.</p>
+        <p>Ton ami dévoué, L. PASTEUR.</p>
+        
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+        <postscript>
+        <p>P.-S. — Aie la bonté de présenter mes respects à tes parens.</p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

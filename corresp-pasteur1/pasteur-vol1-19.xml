@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1842-01-17">17 janvier 1842.</date>
+          <placeName>Besançon</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="'Besançon, 17 janvier 1842."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>'Besançon, 17 janvier 1842.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parens, Avant de vous écrire, avant de recevoir votre lettre j'étais sûr de connaître la réponse. Mais ne croyez pas qu'elle me fasse la moindre peine; vous m'auriez répondu que je devais aller à Paris, que je faisais bien d'y aller, que moi j'y aurais regardé à deux fois pour quitter Besançon.</p>
+        <p>Mais soyez bien persuadé que je ferais plus là qu'ici; cependant je peux réussir en restant ici cette année. Rien là d'impossible; car je vous le répète encore, notre professeur est excellent, et avec lui je peux faire beaucoup, et je ferai réellement.</p>
+        <p>J'ai déjà bien des fois maudit ce baccalauréat ès sciences que vous avez l'air de regarder comme impossible pour moi. Vous le verrez.Quant au reste soyez bien sûrs que l'idée d'aller à Paris n'est nullement capable de m'empêcher de travailler. Je , n'y ai pas pensé trois fois depuis que je vous ai écrit et pourtant ce n'était ni un enfantillage, ni une fantaisie de ma part. J'étais d'ailleurs bien sûr de cette réponse-là; car c'est d'ordinaire comme cela qu'on appelle ce que je dis ou ce que je fais. L'idée d'aller à Paris m'a si peu troublé la tête que nous avons composé hier en mathématiques, et que dans quinze jours d'ici vous saurez qui a été le premier. Ainsi vous pouvez regarder comme nulle la lettre que je vous ai écrite. N'y pensons plus et ne m'en reparlez plus.</p>
+        <p>Je n'ai nullement été satisfait de ce que vous me dites pour Joséphine. Certes, si vous lui écrivez des lettres comme vous me parlez d'elle dans la vôtre, elle ne doit pas être encouragée beaucoup au travail. Vous qui êtes là en famille ça ne vous coûte rien de crier contre elle; mais quand on est en pension comme elle, ça ne doit pas amuser beaucoup de s'entendre dire que l'on ne sait rien, qu'on a de la mauvaise volonté. Ce n'est pas ainsi qu'on encourage au travail, et si vous.n'aviez pas tant brusqué ma-</p>
+        <p>soeur Virginie, elle saurait peut-être à présent très bien sa grammaire. Quant aux 25 fr. que j'ai envoyés à Joséphine j'ai bien fait. Il ne fallait pas la laisser manquer d'argent : sa maîtresse avait 10 fr. pour elle; mais elle avait besoin argent pour acheter quelque chose à cette maîtresse; oulait-elle lui aller demander avec ce motif-là de l'argent, Ou bien sa maîtresse voulait-elle aller penser que ses élèves oulaient lui faire un cadeau et qu'il fallait leur donner e l argent? J'ai mal fait de lui envoyer de l'argent parce qu'on dirait que cela l'a empêchée de m'écrire. Dites-lui dans votre première lettre que sous ce rapport je ne suis s content d'elle du tout. Je n'ai rien de nouveau à vous lre, si ce n'est que je vais ce soir au spectacle. J'y ai été vite par ^•lleS Colard et j'ai ample permission du proVIseur Je vous embrasse.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              Louis PASTEUR.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

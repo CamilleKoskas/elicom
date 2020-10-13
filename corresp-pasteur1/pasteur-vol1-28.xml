@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1842-04-30" >le 30 avril 1842.</date>
+          <placeName>Besançon</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Besançon, le 30 avril 1842."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Besançon, le 30 avril 1842.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parens, J'ai reçu votre lettre le jour même où je vous ai écrit.</p>
+        <p>J'avais effectivement tardé un peu de vous écrire; mais ne m'en donnez pas toute la faute, si quelquefois, tout entier à mon travail, je vous oublie pour lui.</p>
+        <p>Rien ne dessèche le cœur comme cette étude des mathématiques; on n'est plus sensible à rien; on finit par ne plus voir devant soi que figures géométriques, que lettres, calculs, formules. Moi qui autrefois avais l'âme si expansive, qui chaque soir et chaque matin (dans mon année de philosophie) priais Dieu avec tant de ferveur, à présent j'ai tout abandonné. Jeudi je suis sorti et j'ai lu une histoire charmante; j'ai pleuré en la lisant, chose qui m'a étonné beaucoup. Car il y a longtemps que pareille chose ne m'était arrivée.</p>
+        <p>Enfin voilà la vie. Il faut y passer.</p>
+        <p>Nous aurons dans huit jours des places en mathématiques, de samedi en huit. Les questions qu'on nous donne à présent sont vraiment difficiles pour la plupart; cependant il n'en est pas une que je ne fasse. Aussi j'espère beaucoup pour la fin de l'année.</p>
+        <p>Il paraît, à présent, depuis le mois de janvier un journal intitulé Journal des candidats aux Ecoles polytechnique et normale, rédigé par les meilleurs professeurs de Paris. Je m'y suis abonné pour un an. Cela m'a coûté 15 francs. Il paraît chaque mois un numéro d'une 5oaine de pages. En attendant que je reçoive les numéros qui ont déjà paru, notre professeur qui y est abonné me les a prêtés. On y</p>
+        <p>traite les questions les plus difficiles posées dans les examens, et principalement celles de M. Comte.</p>
+        <p>Avec le pantalon que je vous ai demandé vous m'enverrez 7* ndeau pour ma fenêtre. Sans cela je grillerais dans ma c ambre cet été. Vous le prendrez rouge, large comme Pour la fenêtre de ma chambre et haut comme pour cette enetre-là. Vous y mettrez 4 ou 5 boucles. Cela suffira. —</p>
+        <p>leu, je vous embrasse tous.</p>
+        <p>PASTEUR.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              
+            </name>
+          </signed>
+        </closer>
+        <postscript>
+          <p>Je n'ai pas trop d'ouvrage, pas plus qu'avant Pâques.</p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

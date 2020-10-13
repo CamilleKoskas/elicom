@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1849-04-03">3 avril 1849.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A MADAME LAURENT. (...-...)">A MADAME LAURENT.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Mardi, 3 avril 1849."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Mardi, 3 avril 1849.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Madame, Permettez-moi de lui adresser encore cette courte lettre 1.</p>
+        <p>J'éprouve le besoin de la remercier de tout mon cœur. Je commence par ma chère Marie. Sans doute elle ne s'en fâchera pas. C'est mon cœur qui parlait. Vous verrez dans cette lettre que j'ai une demande à vous faire. C'est tout à fait urgent. J'aurais toujours la crainte d'être importun.</p>
+        <p>Ce sentiment m'empêcherait d'aller vous voir et j'en serais malade. Pour me dire cela, si vous êtes libre un moment dans la journée, envoyez-moi chercher au laboratoire.</p>
+        <p>Recevez, Madame, l'assurance de mes sentiments très affectueux.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              L. PASTEUR.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

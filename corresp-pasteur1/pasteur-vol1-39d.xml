@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+            <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1846-11-07">7 novembre 1846</date>
+            <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+            <persName key="Dumas, Jean-Baptiste (1800-1884)">A JB DUMAS</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, 7 novembre 1846</date>
+          </dateline>
+          <salute/>
+        </opener>
+       
+        
+        <p>A J.-B. DUMAS 1.</p>
+        <p>Paris, 7 novembre 1846.</p>
+        <p>Monsieur, Permettez-moi de vous adresser une demande. Je suis sorti cette année de l'Ecole normale agrégé des sciences physiques, et sur la proposition de M. Balard j'ai été nommé préparateur de chimie à cette école. Vous le savez sans doute, Monsieur, ces places de préparateurs ne nous appellent à Paris que pour un espace de temps assez court, deux ou trois années au plus, et nous retournerons alors Professeurs en province. J'ai un grand désir, Monsieur, de consacrer une partie de mon temps durant mon séjour à Paris à m'exercer à l'art difficile de l'enseignement. Je vous Ie dirai avec une franchise trop naïve peut-être, j'ai l'ambition de devenir un professeur distingué. Pour atteindre ce but il faut une longue pratique et c'est afin de me procurer, s'il est possible, le moyen de m'exercer à l'enseignement que j'ose vous adresser cette lettre.</p>
+        <p>Ce n'est pas chose facile que de trouver à Paris le moyen de faire un cours de chimie ou de physique à plusieurs Auditeurs réunis. J'ai pensé aux institutions; mais elles manquent d'appareils. Une discipline assez souvent difficile y paralyse l'énergie et le zèle du professeur, et ce serait avec peine que l'on pourrait saisir l'attention des élèves sans les expériences. J'ai pensé à demander l'autorisation de faire un cours de chimie à l'Athénée royal. Mais outre a. répugnance que j'aurais à faire un cours de chimie le SIr, des personnes m'ont offert des objections qui me détournent de cette demande. Alors j'ai eu l'idée que peutêtre à l'Ecole centrale vous auriez besoin d'un répétiteur Accessoire de physique ou mieux de chimie et je viens m'of-</p>
+        <p>frir à vous. Les jugements portés par nos maîtres de conférences sur les exercices oraux de l'Ecole en 3e année et ceux de l'agrégation me permettront de vous dire que j'arriverai à enseigner avec clarté et énergie dans l'exposition.</p>
+        <p>Du reste, Monsieur, soyez assuré que je ne vous fais cette demande ni dans le but de gagner de l'argent, ni dans le but, beaucoup plus digne de reproches, de me mettre en relation, afin de parvenir, avec une personne aussi haut placée que vous dans une science à laquelle, moi aussi, j'ai la pensée de dévouer ma vie. Mon désir surtout, je le redis encore, est de me procurer le moyen de me perfectionner dans l'art de l'enseignement.</p>
+        <p>Vous excuserez mieux peut-être, Monsieur, la hardiesse de ma démarche en vous rappelant le temps où vous aspiriez au talent du professeur. Je suis trop jeune pour avoir vu vos débuts; mais assurément vous n'êtes pas arrivé tout à coup au sommet que vous avez atteint, et vous avez dû désirer beaucoup jadis obtenir un enseignement capable de vous mettre à même d'essayer de gravir cette pente élevée que vous dominez aujourd'hui.</p>
+        <p>Recevez, Monsieur, l'assurance de mon profond respect.</p>
+        <p>Votre tout dévoué serviteur, Louis PASTEUR à l'Ecole Normale.</p>
+        
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+
+
+

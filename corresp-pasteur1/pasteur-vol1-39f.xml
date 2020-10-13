@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1846" >1846</date>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Chappuis, Charles (1822-1895)">A CHAPPUIS</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Paris, fin de 1846</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                
+                
+                <p>A CHAPPUIS.</p>
+                <p>[Paris, fin de 1846.] J'ai tout à fait abandonné, pour cette année et sans doute aussi pour l'an prochain, le projet de travail dont je t'ai parlé aux vacances.</p>
+                <p>Une circonstance très heureuse pour moi s'est offerte.</p>
+                <p>M. Laurent, dont j'ai eu déjà occasion de te parler, professeur (en congé) à la Faculté de Bordeaux, est venu</p>
+                <p>depuis un an à Paris soutenir ses idées nouvelles en chimie.</p>
+                <p>Il a travaillé d'abord au laboratoire du Collège de France qu'il a quitté, je ne sais pourquoi. M. Balard lui a offert celui de l'Ecole et M. Dubois 1 l'a parfaitement accueilli.</p>
+                <p>J'avais commencé un travail, lorsqu'il y a quelques jours M. Laurent a bien voulu m'offrir d'en entreprendre un avec lui2. Ce travail déjà commencé a pour but de soutenir certaines idées théoriques émises par M. Laurent depuis quelques années 3. Quand il arriverait que ce travail ne mènerait à aucun résultat utile à publier, tu penses que je gagnerais beaucoup à manipuler durant plusieurs mois avec un chimiste si expérimenté. Pendant l'été j'essaierai seul un autre travail, qui, je crois, pourra donner quelques résultats, et l'an prochain je ferai ma thèse. Je suis charmé de ma nouvelle position. Ne dis pas que je travaille avec M. Laurent.</p>
+                
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+
+

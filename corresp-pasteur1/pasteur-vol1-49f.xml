@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1850-07" >juillet 1850</date>
+                    <placeName>Strasbourg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Chappuis, Charles (1822-1895)">A CHAPPUIS.</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date></date>
+                    </dateline>
+                    <salute/>
+                </opener>
+
+                <p>A CHAPPUIS.</p>
+                <p>[Strasbourg, juillet 1850.]</p>
+                <p>Je suis bien de ton avis sur notre pauvre Université. Leur fameuse loi 1 est très habilement conçue pour la déconsidérer, l'avilir autant que possible. Les Recteurs vont être les valets des Préfets. L'Université est pauvre. Elle se soumettra à toutes les exigences de ces profonds politiques qui ne savent que destituer.</p>
+                <p>M. Laurent n'a pas assez provoqué de destitutions d'instituteurs et de professeurs dans ce département du BasRhin, l'effroi du pouvoir, et pour cette raison il est menacé d'un changement presque inévitable. Aussi avons-nous déjà lOué un logement que nous irons habiter à la fin de juillet.</p>
+                <p>Il se pourrait que mon titulaire, M. Persoz, fût nommé Prochainement à Paris. M. Balard quittera l'École pour le Collège de France où il sera nommé très probablement à la Place de M. Pelouze démissionnaire 2. La place de l'École est demandée par MM. Persoz, Malaguti 3, Cahours 4. J'ai écrit à mon vénérable protecteur, M. Biot, pour lui demander si je ferais bien de me mettre aussi sur les rangs. Il m'a tout à fait dissuadé, et c'était mon avis. Je n'aurais hésité</p>
+                <p>r 3. François Malaguti (1802-1878), chimiste, d'origine italienne, naturalisé français.</p>
+                <p>qu'autant que M. Biot, pour mon avenir scientifique, m'aurait engagé à faire des démarches. Je ne puis te dire, mon cher ami, quel bon conseiller j'ai dans M. Biot, quel intérêt il me porte. Quand tu seras ici, je te montrerai ses lettres pleines d'affection et de bons conseils. Je suis trop heureux d'avoir ainsi l'estime et l'amitié d'une si belle intelligence et d'un si beau caractère.</p>
+                <p>J'ai eu le tort d'accepter cette année le cours de l'École de pharmacie outre celui de la Faculté. Aussi ai-je trop peu de temps pour continuer mes recherches. J'attends avec impatience la fin de l'année scolaire (la fin de juillet); je compte n'aller à Paris présenter un travail qu'à la fin d'octobre, et travailler jusqu'à cette époque, sans désemparer. Car j'ai beaucoup à faire et je crois toujours à de grandes découvertes. En ce moment je prépare des matériaux. J'ai du travail pour des années entières, sans qu'il me vienne d'idées nouvelles.</p>
+                <p>M. de la Provostaye 1 est venu hier à ma leçon. Il m'a ôté un peu d'énergie; j'aurais pu mieux faire. Cependant il a dit à M. Ozaneaux, en présence de M. Laurent, qu'il venait de mon cours et que, pour la forme comme pour 1 le fonds, j'avais été véritable professeur de Faculté. J'al acquis nécessairement l'habitude d'enseigner et, lorsque l'année prochaine je n'aurai plus que mes deux leçons par semaine à la Faculté, ces leçons étant déjà préparées, Je serai tout entier à mon laboratoire et j'ai beaucoup d'espoir d'y faire de belles choses en poursuivant la voie d'études que j'ai créée tout entière par mes deux derniers travaux 2Plus je pense à ma découverte plus je la trouve féconde. Que n'es-tu professeur de physique ou de chimie! Nous travaillerions ensemble et dans dix ans nous aurions bouleversé la chimie. Il y a des merveilles sous la cristallisation et par elle la constitution intime des corps sera un jour dévoilée. Si tu viens à Strasbourg, tu seras chimiste maIgre toi. Je ne te parlerai que cristaux.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                           
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+
+
+

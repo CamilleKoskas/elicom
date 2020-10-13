@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1848-01-20">20 janvier 1848</date>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Chappuis, Charles (1822-1895)">A CHAPPUIS.</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Paris, 20 janvier 1848</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A CHAPPUIS.</p>
+                <p>Paris, 20 janvier 1848.</p>
+                <p>Je suis ici extrêmement heureux et j'attribue mon bonheur à ce que chaque jour je suis au laboratoire à étudier la chimie. Une seule chose est venue m'ennuyer dans ces derniers temps, en changeant tout mon plan de travail de cette année. C'est ce malencontreux concours des agrégations des Facultés. Cela va changer dans un mois ou deux tout à fait ma manière de vivre. Il est difficile que je ne me présente pas, et du reste je dois le faire pour beaucoup de raisons, bien que j'aie très peu de chances de réussite. Je lutterai contre des individus plus âgés et plus exercés que moi à l'enseignement. Verdet, Bertin, Janin et plusieurs professeurs de province dans les Facultés se pré- senteront, à ce que l'on dit. Il est difficile que la place unique pour Paris ne soit pas acquise par Verdet. Il faut dire du reste que ceux qui seront nommés ne seront nullement forcés de se rendre auprès des Facultés qui ont demandé des agrégés. Ce sera un titre acquis, et voilà tout.</p>
+                <p>Il n'y a même pas de fonds au budget pour cette institutionAussi plusieurs personnes doutent encore que le concours ait lieu.</p>
+                <p>Je compte publier prochainement un travail de cristallographie 1. Je crois que je pourrai le faire suivre d'un autre</p>
+                <p>dans le cours de l'année 1; ce second travail est également commencé.</p>
+                <p>Je ne compte plus du tout retourner à Besançon comme professeur au collège. Je suis presque assuré que je pourrais entrer dans une Faculté, dès qu'il y aura une place de suppléant ou de chargé de cours vacante. J'ai même failli aller à Bordeaux au mois de novembre. Cela serait arrivé, si M. Baudrimont, chimiste déjà bien connu, n'avait accepté la suppléance. J'avais été présenté pour cette place pendant les vacances, sans l'avoir demandé, par MM. Thenard 2 et Dumas. Je suis allé remercier M. Thenard que je ne connaissais pas, et il m'a dit de-regarder comme certain que je serais envoyé sous peu dans une Faculté, parce qu'il y aurait prochainement, ce qu'il savait, une ou plusieurs vacances. Il m'a dit aussi de refuser toute place de professeur de physique dans un collège, en ajoutant même que je réponde, si on m'en offrait une, que M. Thenard m'avait dit de ne pas l'accepter.</p>
+                
+                
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                            
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1843-11-11" >11 novembre 1843</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Paris, II novembre 1843."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, 11 novembre 1843.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parens, J'ai reçu le paquet que vous avez remis à Coulon 1; et je vous remercie beaucoup du gilet de laine que vous avez eu la précaution de joindre aux autres objets. Vous ne me dites pas que vous avez reçu une lettre de moi il y a quelque temps, lettre qui vous annonçait que je vous envoyais ce que vous m'aviez demandé. Je crois bien cependant que c'est un oubli de votre part et que réellement vous avez reçu ce que je vous envoyais. Cela a dû vous être remis par le courrier de Dole. Ayez soin dans votre prochaine lettre de m'en parler et de me dire si vous êtes contents.</p>
+        <p>Je me trouve bien du régime, de l'Ecole. La nourriture y est bonne pour des jeunes gens. Nos dortoirs sont humides, il est vrai, mais on ne s'en aperçoit pas beaucoup et ça n'est en rien dangereux.</p>
+        <p>L'Ecole est très bien organisée pour le travail. Il y a régulièrement douze heures de travail par jour. Voici comment on est disposé pour la section des sciences : Nous avons à l'Ecole ce qu'on appelle des conférences, faites par les meilleurs professeurs de Paris. Il y a par semaine deux conférences de mathématiques, deux conférences de chimie et trois [ici la lettre est déchirée]. [A la Sorbonne] il y a deux cours par semaine de mathématiques et deux de chimie. Là nous avons d'autres professeurs qu'à l'Ecole, et les conférences dont je vous parlais tout à l'heure ont pour but de faire revoir aux élèves ce qui a été fait au cours de la Faculté.</p>
+        <p>Ainsi en somme nous avons à la Sorbonne quatre cours par semaine d'une heure et demie chacun; et sept conférences à l'Ecole aussi d'une heure et demie chacune, ce qui</p>
+        <p>fait en tout à peu près 20 heures de leçons par semaine.</p>
+        <p>Le reste du temps est employé pour travailler ce que l'on nous fait voir dans toutes ces leçons.</p>
+        <p>Ajoutez à cela que le mardi pendant tout l'après-dîner on manipule, c'est-à-dire que l'on nous donne à chacun des Produits chimiques, des appareils, des fourneaux etc. et nous travaillons ainsi tous ensemble sous les yeux d'un préparateur de chimie ou du professeur lui-même.</p>
+        <p>Enfin il y a un laboratoire où tous les jours pendant une heure on peut aller souffler du verre, raboter, tourner, faire de la menuiserie, de la serrurerie, surtout ceux qui se destinent aux sciences physiques.</p>
+        <p>Vous voyez que tout est bien disposé pour que l'on acquière de la science autant que possible.</p>
+        <p>Enfin je vous dirai que pendant l'été M. de Jussieu 1 conduit les élèves herboriser dans les environs de Paris; car Pendant le second semestre nous avons des conférences de botanique.</p>
+        <p>, Il y a après cela des cours, gratuits comme tout le reste, d ) allemand et d'anglais. Je suivrai le cours d'anglais, ou Peut-être l'un et l'autre [ici la lettre est déchirée]; parce que si je veux apprendre l'allemand je trouverai plus facilement un professeur de cette langue qu'un professeur d'anglais.</p>
+        <p>Je viens de vous dire ce que nous faisions la première année. Mais dans la deuxième année les cours changent, et ils changent encore dans la troisième. On suit d'autres cours à la Sorbonne et on a aussi à l'Ecole d'autres processeurs.</p>
+        <p>A l'Ecole pour la chimie nous avons un professeur qui bst un des meilleurs chimistes manipulateurs. A la Sorbonne le professeur de chimie est M. Dumas, le premier , es chimistes français. Pour les mathématiques nous avons 1 Ecole M. Duhamel, membre de l'Institut 2. A la Sorbonne nous avons M. Lefébure, examinateur pour l'Ecole Polytechnique. M. Duhamel est aussi professeur à l'Ecole Polytechnique.</p>
+        <p>Je ne sais si je vous ai dit que, il y a quelques jours, nous avons eu une séance du Ministre de l'Instruction Publique, M. Villemain. Il y avait aussi la plupart des professeurs de Paris et le conseil royal de l'Instruction Publique, et aussi des personnes étrangères. On lut alors un compte rendu du travail de chaque élève, des succès ou des échecs de l'École au. concours d'Agrégation.</p>
+        <p>M. Dubois a fait un discours, M. Villemain aussi; il a vraiment une voix de bœuf. Je suis sûr qu'en plein air il se ferait entendre à mille personnes. Ce qu'il a dit c'était de grandes phrases comme toujours, mais ça ne signifiait rien du tout ou pas grand'chose. Le discours de M. Dubois était très bien, au dire de tous les élèves. Je vous ai dit que l'on parlait du travail de tous les anciens élèves [ici la lettre est déchirée].</p>
+        <p>Chez M. Barbet je fais une conférence de physique tous les jeudis pendant deux heures. J'ai commencé jeudi dernier. — Je suis allé déjà deux fois chez M. Barbier sans le trouver.</p>
+        <p>Adieu, mes chers parens, je vous embrasse tous de bon cœur.</p>
+        <p>L. PASTEUR.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+        <postscript>
+        <p>Je souhaite à papa un bon voyage et une bonne foire.</p>
+        <p>Que mes sœurs m'écrivent au moins pour me dire si elles sont contentes.</p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

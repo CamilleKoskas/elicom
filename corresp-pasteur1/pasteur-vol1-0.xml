@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1840-01-26">26 janvier 1840</date>
+          <placeName>Besançon</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1840-01-26"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Besançon, 26 janvier 1840. 1 Mes chers parens, I Je voulais vous écrire plus tôt pour vous demander si vous auriez désiré que f apprisse la musique vocale avec, les autres élèves. C'est un cours gratuit et où tous les élèves doivent aller. Mais comme j'ai pensé que ça me ferait perdre du temps j'ai mieux aimé n'y pas aller; M. le Proviseur me l'a permis ainsi qu'à tous les pensionnaires philosophes.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Il n'y a que depuis quelques jours que ce cours a com-</p>
+        <p>mencé.</p>
+        <p>Quant à mes autres études, je n'ai rien de bien nouveau à vous dire, sinon qu'il y a les places de trois compositions à donner, en philosophie, mathématiques et physique. On aurait dû donner celles de philosophie hier au soir; mais nous n'avons pas eu de classe, je crois que M. Daunas 1 est malade.</p>
+        <p>Je me soutiens toujours parmi les forts dans mes classes; mais j'espère que mon rang sera beaucoup meilleur dans quelques mois.</p>
+        <p>Pour le dessin je fais toujours le portrait du fils Bousson 2; mais il n'est pas aussi ressemblant que je le croyais; cependant je vous dirai que je m'aperçois qu'en dessinant ainsi sous la direction de M. Flageoulot je fais beaucoup de progrès pour le coloris, sinon pour la ressemblance. M. Pointurier 3 aurait pu me donner bien des conseils.</p>
+        <p>Des élèves m'ont dit que déjà l'on parlait quelque peu dans Besançon d'un élève du collège qui dessinait ses camarades. C'est que, comme je vous l'ai déjà dit, le premier</p>
+        <p>portrait que j'ai fait est exposé au parloir où il va une foule de personnes, toutes celles qui viennent voir des élèves.</p>
+        <p>Mais tout cela ne mène pas à l'Ecole Normale. J'aime mieux une place de premier au collège que dix mille éloges jetés superficiellement dans les conversations d'aujourd'hui.</p>
+        <p>J'irai jeudi chez M. Lancrenon.</p>
+        <p>Nous nous verrons dimanche, mon cher papa, car c'est, je crois, la foire lundi 1. Si nous allons voir M. Daunas nous lui parlerons de l'Ecole Normale.</p>
+        <p>Mes chères sœurs, je vous le recommande encore, travaillez, aimez-vous. Travaillez; d'abord, je le crois, ça peut procurer du dégoût, de l'ennui; mais une fois qu'on est fait au travail, on ne peut plus vivre sans lui. D'ailleurs, c'est de là que dépend tout dans le m'onde; avec de la science on est heureux; avec de la science on s'élève au-dessus de tous les autres et c'est si beau dans le monde de voir une demoiselle instruite. Mais j'espère que ces conseils vous sont inutiles et je suis sûr que chaque jour-vous sacrifiez bien des momens à apprendre votre grammaire. Adieu, chère Virginie, et toi aussi, chère Joséphine, et toi, pauvre Emilie 2; aimez-vous toutes comme je vous aime, en attendant l'heureux jour où je serai admis à l'Ecole Normale.</p>
+        <p>Je vous embrasse, mes chers parens.</p>
+        <p>Votre fils dévoué PASTEUR L.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

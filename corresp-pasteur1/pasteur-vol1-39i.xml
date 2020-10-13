@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1847-05-12">12 mai 1847</date>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Chappuis, Charles (1822-1895)">A CHAPPUIS.</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Paris, 12 mai 1847</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A CHAPPUIS.</p>
+                <p>Paris, 12 mai 1847.</p>
+                <p>Je me trouve ici extrêmement heureux. Je travaille avec le plus grand plaisir. Je voudrais encore avoir moins à faire afin de marcher plus vite dans le-travail que j'ai entrepris.</p>
+                <p>Ma thèse de chimie sera achevée à la fin de l'année et je Pense me présenter au doctorat à Pâques de l'année prochaine. Je songe même au mois d'août sans le dire; mais je craindrais d'offrir un travail un peu précipité et de n'avoir Pas assez de faits pour établir ce que je veux prouver. Il se Pourrait cependant qu'à la fin de juin ma thèse de chimie fût achevée.</p>
+                <p>M. Laurent travaille, depuis le mois d'avril, à la Sorbonne, et le sujet qu'il m'avait proposé d'étudier avec lui a été forcément abandonné. J'espère le traiter seul plus tard. C'est dans tous les cas ce travail qui a été l'occasion de celui qui fait le sujet de ma thèse de chimie.</p>
+                <p>J'avais désiré mener de front mes deux thèses; mais j'ai abandonné ce projet. Ma thèse de physique est mise de côté jusqu'à nouvel ordre.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                            
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+
+
+

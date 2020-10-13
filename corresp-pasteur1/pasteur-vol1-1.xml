@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1840-06-08" >8 juin 1840.</date>
+          <placeName>Besançon</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Besançon, 8 juin 1840."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Besançon, 8 juin 1840.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parens, , Je pensais que les places en mathématiques seraient données cette semaine, ainsi que celles de philosophie et cepen-</p>
+        <p>dant on n'a donné ni les unes ni les autres. Mais elles le seront bientôt, car nous composons demain en philosophie.</p>
+        <p>Vous voyez donc qu'au sujet de mes études je n'ai rien à vous dire de nouveau.</p>
+        <p>Jeudi dernier j'ai commencé le portrait de Mme Viennet; je ne sais pas encore s'il sera ressemblant; j'y travaillerai peut-être encore aujourd'hui parce que nous avons congé et c'est jour de sortie. Vous ferez bien d'envoyer à M. Viennet quelques bouteilles de ce vin blanc dont vous m'avez parlé; ça leur ferait, je pense, un grand plaisir.</p>
+        <p>En fait de dessin, je fais toujours cette académie; mais j'y travaille bien peu, car je n'ai presque pas de temps. Si je le puis, à la fin de l'année, je ferai un portrait pour l'exposition, mais je ne , crois pas que ça me sera possible.</p>
+        <p>J'en viens à vous, mes sœurs, en vous faisant compliment sur votre conduite et sur la bienveillance que vous vous portez mutuellement. Ce ne sont pas des conseils que je veux vous donner, car il paraît que vous en tenez autant de compte que si ce n'était rien. On me dit que, plus que jamais, vous ne cessez de vous disputer, de vous battre, d'être jalouses l'une de l'autre, enfin, je ne sais quoi; mais en somme il paraît que vous êtes toujours en guerre, au point même de vous rendre malades. Je vous assure que ça me fait beaucoup de plaisir; rien n'est plus propre à m'ennuyer et à me décourager! encore passe si ça ne faisait de mal qu'à moi, mais vcqs devez penser et voir combien nos parents doivent en être satisfaits, eux qui vous voient ainsi vous disputer toute la journée. Je ne veux pas vous en dire davantage, parce que j'ai reconnu que c'était perdre mon temps et user du papier. Je suis sûr que dans la première lettre qu'on m'enverra, on aura les mêmes nouvelles à m'annoncer; mais je vois qu'à la fin j'y deviendrai insensible; je croyais cependant avoir de meilleures sœurs.</p>
+        <p>Cependant je dois rendre à chacun ce qui lui appartient.</p>
+        <p>Je suis très content, Joséphine, de ce que tu dessines toujours et surtout que tu dessines bien. Ça me prouve ce que tu as envie de faire et que tu suis un peu de ce côté-là mes</p>
+        <p>conseils, bien que je préférerais te les voir suivre sous d autres rapports.</p>
+        <p>Je souhaite que tous vous vous portiez bien.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              PASTEUR fils.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1841-02-27">27 février 1841</date>
+          <placeName>Besançon</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="[Besançon, 27 février 1841]."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>[Besançon, 27 février 1841].</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parens, , J'oubliais que le courrier part à peu près à onze heures et qu'il faut que je vous réponde de manière à ce que vous receviez ma lettre aujourd'hui samedi. Aussi elle sera courte.</p>
+        <p>D'abord pour mes bouteilles et celles du postillon il n'y a eu aucune méprise.</p>
+        <p>Ensuite pour cette crainte que vous avez eu égard à M. le Proviseur pouvant m'adresser des reproches pour [le vin] blanc, dissipez-la. Je mange, vous le savez, avec les maîtres élémentaires et dans une chambre retirée où nous ne sommes en tout que 5 personnes; M. le Proviseur d'ailleurs n'y vient jamais.</p>
+        <p>Cependant, malgré cela, je préfère que vous adressiez ce vin à M. Viennet, et que vous lui écriviez que ce n'est pas pour qu'il m'en passe à moi, mais bien pour qu'il le garde; enfin que c'est un cadeau que vous lui faites.</p>
+        <p>Cette idée que tu as eue de faire inviter les maîtres élémentaires par M. Viennet, etc. ne peut pas se réaliser.</p>
+        <p>Elle vient de quelqu'un qui n'est pas sur les lieux et qui juge le mieux qu'on peut le faire quand on n'est pas avec les gens etc.</p>
+        <p>Enfin, comme je vous le dis, envoyez ce vin à M. Viennet comme vous lui avez envoyé celui de l'année dernière.</p>
+        <p>J'en serai content. Il m'embarrasserait.</p>
+        <p>Comme nouvelle je vous dirai que M. le Proviseur m'a chargé hier d'une corvée qui me sera très utile, c'est de faire repasser aux élèves qui se présentent au baccalauréat a la fin de l'année leurs mathématiques et leur physique.</p>
+        <p>Adieu, je vous embrasse. PASTEUR.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+        <postscript>
+          <p> N'oubliez pas mon habit et mes sous-pieds, ceux que ] #j al oubliés sur la cheminée de ma chambre.</p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

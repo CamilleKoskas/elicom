@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1842-10-12">12 octobre 1842.</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Paris, 12 octobre 1842."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, 12 octobre 1842.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parens, Je suis arrivé en bon port à Paris, ainsi que Chappuis.</p>
+        <p>Avec lui j'ai fait ce matin quelques courses, puis je suis allé chez M. Barbier 1 qui m'a parfaitement reçu en m'invitant à aller le voir souvent et à vous dire bien des choses quand je vous écrirais.</p>
+        <p>J'ai vu Monsieur Barbet 2 à mon arrivée. Il ne m'a pas dit encore quel serait mon ouvrage. Je suis dans une chambre avec deux autres élèves dont un de Salins, nommé Toubin. Ils travaillent tous deux les mathématiques. Nous sommes dans une chambre un peu séparée de la pension 3, mais toujours dans l'impasse 4, et nous avons sous tous rapports pleine liberté.</p>
+        <p>Je ne suis pas allé encore aux cours 5. Je commencerai der:nain jeudi et je ne passerai pas mon second examen 6 Puisque je suis bien décidé à travailler encore une année.</p>
+        <p>voir p. 23, note i.</p>
+        <p>J. Pension Barbet.</p>
+        <p>b. Examen d'admission à l'École normale.</p>
+        <p>M. le Proviseur m'enverra mon certificat à Paris et je vais m'occuper de demander un congé.</p>
+        <p>Vous me donnerez dans votre prochaine lettre des détails sur la santé d'Emilie.</p>
+        <p>Ne craignez pas que je travaille trop : je vous promets d'être très modéré sous ce rapport, car j'en sens bien l'abus.</p>
+        <p>Vous m'enverrez mes effets quand ils seront prêts. Si vous avez le temps faites faire mon pantalon de bage, et si papa le peut qu'il m'arrange cette peau de chèvre. Notre chambre est pavée; c'est froid pour le matin. Mais vous avez le temps.</p>
+        <p>C'est nous qui achetons notre bois. J'ai encore d'argent 175 francs. Ma place a%oûté 60 fr. 50 centimes. Il y a eu pour 10 fr. 50 cent. d'effets, puis les dépenses du voyage.</p>
+        <p>Mais j'en ai encore pour longtemps.</p>
+        <p>Adieu, mes chers parens, je vous embrasse de bon cœur, en recommandant à mes sœurs de prendre du courage et de bien travailler.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              L. PASTEUR.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

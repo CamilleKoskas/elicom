@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Jean-Joseph (1791-1865)">Louis Pasteur</persName>
+                    <date when="1848-11-20">20 novembre 1848.</date>
+                    <placeName>Arbois</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Chappuis, Charles (1822-1895)">A CHAPPUIS.</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Arbois, 20 novembre 1848.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A CHAPPUIS.</p>
+                <p>Arbois, 20 novembre 1848.</p>
+                <p>Mon père est venu à Dijon me voir, et, comme je n'avais pas vu mes sœurs depuis quelque temps, j'ai profité du congé du lundi pour venir à Arbois, d'où je t'écris. Je serai mercredi à Dijon, où je m'ennuie, parce que je n'ai pu encore jusqu'à présent travailler à mes études favorites.</p>
+                <p>J'ai eu, jusqu'à cette époque, huit classes par semaine; je n'en ai plus que six. La préparation de mes leçons me prend beaucoup de temps. C'est seulement lorsque j'ai prépafe avec un grand soin ma leçon que je parviens à la rendr très claire et capable de réveiller souvent l'attention. Si</p>
+                <p>je la néglige quelque peu, je professe mal et je suis obscur.</p>
+                <p>La classe de physique, 2e année, est très agréable. Elle est peu nombreuse et tous les élèves travaillent, plusieurs avec intelligence. La classe de physique, Ire année, est trop nombreuse (près de 80 élèves) pour que je puisse diriger les élèves travailleurs comme je le désirerais. Ne penses-tu pas qu'on a tort de ne pas limiter à 50 au plus le nombre des élèves? C'est avec peine que je puis exciter l'attention de tous à la dernière demi-heure. Je n'ai trouvé qu'un moyen que je vais appliquer, c'est de multiplier beaucoup les expériences à la fin de la classe.</p>
+                <p>Je n'ai pas encore reçu de nouvelles de Paris au sujet de la place de Besançon. Tu me rendrais service en voulant bien m'écrire, dès que tu le pourras, afin de me faire savoir si M. Delesse est de retour dans ses fonctions, ou s'il est encore à Paris. Je saurais ainsi indirectement s'il est déjà nommé et d'après ta réponse j'écrirai de suite à Paris.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+

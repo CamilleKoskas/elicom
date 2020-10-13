@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1849-11-23" >23 novembre 1849</date>
+                    <placeName>Strasbourg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Chappuis, Charles (1822-1895)">A Chappuis</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Strasbourg, 23 novembre 1849.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A CHAPPUIS.</p>
+                <p>Strasbourg, 23 novembre 1849.</p>
+                <p>Ce que tu m'écris au sujet du rapport de M. Biot m'a fait plaisir. Postérieurement à ce rapport, M. Dubois m'a écrit pour me dire qu'on lui avait proposé pour moi la place de répétiteur de chimie à l'École polytechnique. M. Dubois ne m'engageait pas trop à accepter; il penchait au contraire pour un refus de ma part. Mais il me faisait pourtant valoir les raisons pour : que c'était Paris, la chance d'une chaire de professeur à cette École, d'une suppléance à la Sorbonne, qu'enfin l'avenir s'offrait séduisant, que c'était par là qu'avaient commencé les chimistes haut placés. J'ai préféré rester franchement dans l'Université et attendre pour retourner à Paris dans quelques années, si cela est possible.</p>
+                <p>Je crois d'ailleurs le travail en province meilleur, plus solide que celui de Paris pour un jeune homme.</p>
+                <p>Tout le monde ici a été en effet très heureux à la lecture du rapport et personne ne l'a cédé à Marie.</p>
+                <p>M. Kestner m'a écrit pour me remercier et pour me dire qu'il était prêt à essayer en grand les expériences que je lui indiquerais pour la reproduction de l'acide racémique.</p>
+                <p>Je cherche en ce moment quelle circonstance fortuite a Pu lui donner naissance dans la fabrique de Thann; et j'ai écrit à M. Kestner ce que je pensais qu'il y avait à faire.</p>
+                <p>Jusqu'ici je n'ai aucun résultat.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                            
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1848-05-27" >27 mai 1848</date>
+                    <placeName>Arbois</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Dubois,Paul-François (1793-1874)">A DUBOIS, CONSEILLER DE L'UNIVERSITÉ, DIRECTEUR DE L'ECOLE NORMALE SUPÉRIEURE</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Arbois, 27 mai 1848</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A M. DUBOIS, CONSEILLER DE L'UNIVERSITÉ, DIRECTEUR DE L'ECOLE NORMALE SUPÉRIEURE.</p>
+                <p>Arbois, 27 mai 1848.</p>
+                <p>Monsieur, Lorsque je suis arrivé, ma mère était morte. Elle a succOmbé en quelques heures à une attaque d'apoplexie.</p>
+                <p>Je viens, Monsieur le Directeur, vous demander s'il ne Serait pas possible de me remplacer pour la fin de cette ^nnée. Les manipulations finissent au milieu du mois de Juillet et peut-être n'y aurait-il dès lors aucun inconvénient Ce qu'un jeune homme connu de M. Balard, quoique franger à l'Ecole, fît le travail sous sa direction; je lui Inettrais mon traitement. Je viens d'écrire à Monsieur .a.lard pour le consulter aussi à cet égard. J'agirai, Monsieur le Directeur, d'après votre réponse.</p>
+                <p>à, Je dois vous dire d'autre part que je ne pourrai retourner à 1 Ecole préparateur l'année prochaine. Ma famille est dans ne position assez aisée pour que je n'aie pas besoin de lui enir en aide par de l'argent. Cependant je veux le faire.</p>
+                <p>Le commerce est tout à fait mort, et je sais d'ailleurs combien mes sœurs et mon père désirent que je m'éloigne de aris- Ils sont dans une inquiétude continuelle. Je n'ose ne.r et l'on n'ose me dire que c'est là ce qui a tué ma mère.</p>
+                <p>à, Si je ne puis être placé dans une Faculté je demanderai, d' Inon grand regret, une place dans un collège. Obligé abandonner la science que j'aimais et à laquelle je désils me vouer spécialement, un cours de physique de collège me sera bien pénible. Aussi, Monsieur, vous prierai-je de Vouloir bien me continuer votre appui auprès de Monleur le Ministre, s'il vient à votre connaissance qu'une ace de Faculté soit vacante. J'essaierai de vous témoigner a reconnaissance en m'efforçant d'honorer par mes trav Ux l'Ecole à la prospérité de laquelle vous vous êtes dévoué.</p>
+                <p>Je suis, Monsieur le Directeur, avec un profond respect votre humble serviteur, L. PASTEUR.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+

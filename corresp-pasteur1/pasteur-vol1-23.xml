@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1842-02-14" >le 14 février 1842.</date>
+          <placeName>Besançon</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Besançon, le 14 février 1842."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Besançon, le 14 février 1842.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parens, r Si j n'avais pas promis d'écrire aujourd'hui vous ne recev neZ Pas -de lettre dé moi; car je n'ai réellement rien de n 0uyeau à vous apprendre, sinon que dans la dernière 'OnIPOsition j'ai encore été le second.</p>
+        <p>lo J al aussi reçu hier une lettre de Chappuis toujours aussi Plngue a l'ordinaire et aussi pleine de sentiment. Ses Place sont toujours excellentes; il m'en nomme trois. Il a été 4 en discours latin, 4e en version latine et 3e en vers</p>
+        <p>latins. Il suit un cours de philosophie fait par M. Simon 1, le suppléant de M. Cousin 2 à la faculté de Paris. Ce professeur me dit-il l'interroge très souvent et lui donne des conseils particuliers, l'a même invité à aller le voir. De plus il a chargé Chappuis de juger et de critiquer les Entretiens métaphysiques. C'est je crois une partie d'un ouvrage que ce professeur va faire paraître bientôt sur la philosophie de Malebranche. Il a un mois pour cela. Avec de pareilles recommandations il est impossible que Chappuis ne soit pas reçu cette année dans les premiers à l'Ecole normale, et sa force en philosophie le fera indubitablement sortir de l'Ecole avec la place de professeur de philosophie.</p>
+        <p>On m'a apporté mon pantalon. Il va bien.</p>
+        <p>J'ai écrit à Joséphine il y a quelques jours, en lui recommandant bien d'écrire plus souvent.</p>
+        <p>J'ai appris, ma chère Virginie, avec bien du plaisir que tu faisais bien et en musique et en grammaire. Continue et ça ira bien. Dis-moi si tu veux quelques morceaux de musique; je te les enverrai. Dans tous les cas je t'en porterai à Pâques.</p>
+        <p>Je vous embrasse tous.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              PASTEUR L.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

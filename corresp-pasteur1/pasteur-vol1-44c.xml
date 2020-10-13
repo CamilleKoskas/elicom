@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1849-01-16" > 16 janvier 1849.</date>
+                    <placeName>Dijon</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Chappuis, Charles (1822-1895)">A Chappuis</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Dijon, 5 janvier 1849."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Dijon, 16 janvier 1849.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+              <p>A CHAPPUIS.</p>
+                <p>Dijon, 16 janvier 1849.</p>
+                <p>J'ignore encore le jour de mon départ. Mon successeur n'a encore rien fait savoir. Mais je suis décidé à planter la le lycée de Dijon dimanche prochain. Je partirai, quoi qu'il arrive, ce jour-là au plus tard. Je m'ennuie beaucoup d'attendre mon successeur. Il était en congé au moment de sa nomination et je crois qu'on ignore même la ville où il se trouve. C'est à tout hasard que le Recteur lui a écrit à Montpellier. Le Recteur et le Proviseur me retiennent ici, mais demain je mettrai à ces messieurs dimailche pour limite et je partirai ce jour-là à mes risques et périls. J'ai pour moi l'ordre du ministre qui me dit de partir immédiatement; voilà douze jours que j'attends.</p>
+                <p>Je verrai M. Deville1, comme tu me le conseilles; d'ailleurs je lui dois des remercîments pour l'occupation de son laboratoire aux vacances dernières.</p>
+                <p>C'est avec beaucoup de plaisir que je vais à StrasbourgJe pourrai y continuer mes études et j'y aurai un enseignement agréable; sans doute aussi un laboratoire bien monte.</p>
+                <p>Peut-être y serai-je pour longtemps; car M. Persoz veut à toute force une place à Paris. Il y resterait même dans une position purement industrielle. Je conserve ici la moitié du traitement fixe.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+

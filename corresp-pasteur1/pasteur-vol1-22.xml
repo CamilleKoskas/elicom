@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1842-01-30">30 janvier 1842.</date>
+          <placeName>Besançon</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Besançon, 30 janvier 1842."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Besançon, 30 janvier 1842.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parens, Je vous avais annoncé dans ma dernière lettre que je serais sans doute premier. Je suis second; mais j'avais pu me tromper tant il y a peu de différence entre ma copie et celle du premier. Nous avons recomposé aujourd'hui, et, pour n'avoir pas suffisamment réfléchi, je serai encore probablement le second.</p>
+        <p>Chappuis qui, comme vous le savez, suit les cours de rhétorique à Paris, m'a déjà écrit plusieurs fois cette année et très au long. Toutes ses lettres sont très serrées et ont plus de 4 pages chacune. Ses places dans sa classe sont très bonnes. Sur 98 il a été presque toujours 3e ou 4e ou 5e.</p>
+        <p>Une seule fois, au commencement, il a été 10e; et remarquez bien que c'est le plus fort collège de Paris. Il ne se plaît nullement dans cette ville; dans toutes ses lettres il maudit Paris qu'il appelle à chaque instant infâme, crapuleux, dégoûtant. Il m'y attend avec impatience et compte beaucoup qu'il m'y verra l'année prochainé, ce que je lui ai promis. Pour moi il me tarde aussi beaucoup de le voir. Je</p>
+        <p>craignais qu'il fût malade là-bas; il paraît cependant qu'il Y porte parfaitement et qu'il n'a pas eu encore la plus egere indisposition.</p>
+        <p>l'EEvidemment il sera reçu cette année dans les premiers à ,, -kcole normale.</p>
+        <p>à La fièvre typhoïde est dit-on à Besançon : 22 personnes Ce que l'on dit sont mortes dans une seule rue dans l'espace de 4 à 5 jours. Un élève de philosophie, externe, ourra probablement cette nuit de cette maladie. Il a des emorragies continuelles et n'a plus aucune connaissance, 111 a transporté à l'hôpital cet après-dîner, car il est loin - de sa famille.</p>
+        <p>l' Le général Prétet qui commandait à Metz depuis un an Ecole d'application vient de mourir dans cette ville de mort subite Ie nai pas reçu de nouvelles de Joséphine; sans doute 4 elle vous a écrit, vous me parlerez d'elle.</p>
+        <p>me les vacances de Carnaval tombent précisément Pour la foire je ne m'e'n irai pas à Arbois que pour Pâques qui d'ailleurs arrivera bientôt. Car il n'y a plus que six semaInes.</p>
+        <p>Je Vous embrasse tous.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              PASTEUR Louis.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

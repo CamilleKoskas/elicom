@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1849-04-08">8 avril 1849.</date>
+                    <placeName>Strasbourg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Chappuis, Charles (1822-1895)">A CHAPPUIS</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Mardi, 3 avril."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Strasbourg, 8 avril 1849.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A CHAPPUIS.</p>
+                <p>Strasbourg, 8 avril 1849.</p>
+                <p>J'épouse Mademoiselle Marie Laurent. Le mariage est arrêté entre mon père, ses parents, elle et moi. Comme ce mariage est encore inconnu, même à Strasbourg, tu voudras bien n'en parler à personne. — Je crois que je serai très heureux. Toutes les qualités que je pouvais désirer pour une femme, je les trouve en elle. Il est amoureux, diras-tu.</p>
+                <p>Oui, mais il me semble que je n'exagère rien, et ma sœur Joséphine est tout .à fait de mon avis.</p>
+                <p>Il y a huit jours que les choses sont fixées. Depuis ce temps je travaille peu et j'abandonne tout à fait le laboratoire. Il est vrai que c'est congé et que j'ai bien employé les deux mois que je viens de passer à Strasbourg. J'al envoyé à Paris, ces jours derniers, une première suite de mon travail.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

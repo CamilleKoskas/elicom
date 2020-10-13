@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1849-05-11">11 mai 1849.</date>
+                    <placeName>Strasbourg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="">A M. FONCIN, PROFESSEUR A L'ÉCOLE DE MÉDECINE DE BESANÇON.</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Mardi, 3 avril."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Strasbourg, 11 mai 1849.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A M. FONCIN, PROFESSEUR A L'ÉCOLE DE MÉDECINE DE BESANÇON.</p>
+                <p>Strasbourg, 11 mai 1849.</p>
+                <p>Monsieur, Je viens vous faire part de mon mariage avec Mlle Marie Laurent, fille de M. le Recteur de l'Académie de Strasbourg.</p>
+                <p>Cette nouvelle vous étonnera sans doute ainsi que Mme Foncin, car je ne pensais guère à me marier il y a quelques mois.</p>
+                <p>Il ne faut jurer de rien : le proverbe est bien vrai. Mon mariage est arrêté déjà depuis quelque temps, mais le jour n'était pas fixé encore et voilà pourquoi je ne vous ai pas écrit plus tôt. Je me marie le 29 mai courant1. J'aurai le plaisir de vous faire connaître ainsi qu'à toute votre famille ma future femme aux vacances prochaines. Je passerai par Besançon pour aller à Arbois. Ce sera seulement à la fin des vacances, parce que nous irons d'abord à Paris et à Orléans.</p>
+                <p>- * * * * * »</p>
+                <p>Recevez, Monsieur Foncin, l'expression sincère de mes sentiments affectueux. Je me rappelle au bon souvenir de Mme Foncin et lui présente mes respectueux hommages.</p>
+                <p>L. PASTEUR.</p>
+                
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+

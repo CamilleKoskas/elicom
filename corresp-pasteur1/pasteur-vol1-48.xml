@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1849-04-03">Mardi, 3 avril.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Marie (1826-1910)">A MADEMOISELLE MARIE LAURENT.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Mardi, 3 avril."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Mardi, 3 avril.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Ma chère Marie, Je crois avoir la certitude maintenant que vous m'aimerez. N'était-ce pas en effet d'un bon cœur qu'hier en me Quittant vous m'avez donné la main. C\h merci, merci mille fois si vous m'aimez. C'était là tOltft mon inquiétude.</p>
+        <p>depuis la mort de ma pauvre mère jt --n'avais jamais tant Pleuré que ces nuits dernières. Je me réveillais pensant que vous ne m'aimeriez pas, et puis je pleurais, et puis je préparais la triste lettre où je vous disais mes adieux. C'était bien -à plaisir que je me forgeais toutes ces idées. Il m'eût eté difficile d'appuyer par de bonnes preuves ce que je Pensais. Que voulez-vous? Je craignais que tout mon bonheur ne vînt à s'enfuir. Car vous êtes aujourd'hui tout Pour moi. Je n'ai plus qu'une pensée : c'est vous. Si mon Section dure aussi vive, je serai même bien malheureux Jusqu'au jour qui nous unira; je voudrais toujours être ayprès de vous ou auprès de Madame Laurent. Mon travail n ,et plus rien, moi qui aimais tant mes cristaux, moi qui désirais le soir que la nuit fût très courte pour être plus ot à mes études.</p>
+        <p>Je veux demander à Madame Laurent qu'elle m'indique e)(ctement les jours et les heures où je pourrai aller vous Voir afin que dans l'intervalle je sois à mon travail. Ce raVail aussi me rend plus digne de vous.</p>
+        <p>n Adieu. Je vous remercie de tout mon cœur, car je crois e Pas m'être trompé.</p>
+        <p>Votre meilleur ami, L. PASTEUR.</p>
+        
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

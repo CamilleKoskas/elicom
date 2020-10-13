@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1843-02-27" >27 février 1843.</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Paris, 27 février 1843."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, 27 février 1843.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parens, Je réponds à votre dernière lettre et aux précédentes : Je ne vous parlerai que tout à l'heure de nos affaires pour a conscription. Car avant de vous en parler je veux aller demander encore des renseignements sûrs à la Faculté des lettres. J'en viens déjà, mais les bureaux ne s'ouvrent qu'à Il heures 1/2.</p>
+        <p>Dans la dernière composition de mathématiques j'ai été Ioe. Vous avez bien raison dans ce que vous me dites pour es compositions; elles signifient bien peu et moins encore ans notre classe que dans toutes les autres, tant notre Professeur les choisit mal. Ainsi dans la dernière composition le premier est un élève qui commence les mathémalciues spéciales, qui n'a pas encore été une seule fois cette aîlnée dans les 10 premiers, qui enfin n'a aucune force ree. Le premier et le deuxième de l'avant-dernière comPpsition n'ont pas eu de places cette dernière fois. Tout cela ierit de la composition même qui avait été fort mal choisie.</p>
+        <p>En somme notre professeur de mathématiques ne vaut Pas M. Douché 1; mais notre professeur de physique est Xcellent. Après cela nous avons à la pension deux répéti-</p>
+        <p>I* M. Douché avait été professeur de Pasteur au collège de Besançon. »</p>
+        <p>teurs dont l'un est très bon aussi. A Besançon si j'y étais resté je n'aurais eu que M. Douché de bon, et puis sachez bien que les examinateurs préféreront toujours un élève de Paris à un élève de province. Je ne doute pas de-mon admission cette année à l'Ecole normale. Je serai en physique plus fort de beaucoup que l'année dernière et en mathématiques j'aurai beaucoup plus d'aplomb et je saisirai beaucoup mieux l'esprit des méthodes et des démonstrations.</p>
+        <p>Encore une fois n'ayez donc nulle crainte sur mon travail; soyez bien sûrs que je ne travaille pas du tout à me faire du mal. Si j'ai pris cette chambre pour travailler, ce n'est pas pour travailler pendant plus de temps, mais pour mieux travailler. Aussi je ne veux pas la quitter, je ferais une grande folie. A la pension, tous les élèves, la plupart du moins, travaillent en commun, c'est vrai. Mais cela ne prouve pas qu'ils ne travailleraient pas mieux seuls, et puis ne sont-ils pas surveillés, forcés de travailler à des heures marquées. Où j'étais précédemment cela n'est pas du tout comme ça. D'ailleurs faites bien attention que je ne suis pas un enfant de deux jours et que je ne vais pas faire une chose comme celle-là qui peut influer sur mon travail de toute une année, sans aucune réflexion. J'ai, changé de logement parce que j'avais besoin d'en changer et pour mon travail et pour mon caractère. Sachez bien que je n'ai jamais été fait pour le vice, et je ne veux pas toute une journée entendre parler de choses plus ou moins dégoûtantes.</p>
+        <p>A présent, j'en viens à la question d'argent. J'ai trop dépensé cette année : rien n'est plus juste. Je le reconnais avec vous, et si j'avais voulu régler un peu mes dépenses, j'aurais eu moins d'argent à vous demander. Mais je n'ai jamais dépensé de grosses sommes à la fois; c'est en dépensant 20 et 40 sous que mon argent s'écoulait. Aussi si je voulais vous donner le budget de mes dépenses la chose me serait difficile. J'aurais à vous dire qu'à telle et telle époque j'ai acheté du papier, des plumes; qu'à une autre j'ai fait relier un livre; acheté une chimie, l'ouvrage de Franklin 1,</p>
+        <p>Payé un fiacre quand je ne savais pas encore le chemin pôur aller chez M. Barbier; dîné au Palais Royal à 32 et 40 sous chaque dimanche et jeudi; être allé 4 fois au spectacle, à 45 sous, et une fois à l'Opéra, à 4 fr.; avoir ces derniers temps acheté pour lo francs de bois, loué un poêle de 8 fr.; acheté pour 40 sous un tapis pour ma table où il y a des trous et des fentes qui m'empêchaient d'écrire; acheté du bois 3 fois quand j'étais avec ces autres élèves. Je n'en Unirais pas à vous parler de ces petites dépenses qui seules et réunies ont mangé ce que je vous demandais. Mais de toutes ces dépenses beaucoup sont passagères, et il n'y a guère que l'achat du papier de ma bougie, etc. qui peut revenir souvent. Aussi je vous tiens quitte d'ici à la fin de l'année pour 100 fr. que vous m'enverrez au mois d'août.</p>
+        <p>J aurai en tout dépensé cette année 600 fr. sur quoi vous oterez 60 fr. pour un paletot et 60 fr. pour ma chambre.</p>
+        <p>Si c'est trop je ne sais comment faire. Je n'ai nullement pris des répétitions particulières. J'ai donné 20 fr. pour mes leçons de musique; mais je n'en prendrai plus, ou mieux Je n'en prends plus.Considérez, mes chers parens, que ma conduite et mon travail à Besançon m'ont valu de ne vous pas forcer à payer Pendant deux ans une pension de 700 fr.; que par là j'ai obtenu pour la conscription une exemption sûre; que cette année je suis venu à Paris sans avoir rien à payer à la Pension. Depuis trois ans mes dépenses ne sont donc que des dépenses accessoires. Il est vrai que vous n'auriez pu n,e soutenir dans toutes ces dépenses de pension, si vous y aviez été forcés, mais enfin vous en avez été exemptés, et rnon avenir ainsi que le vôtre en sera meilleur. Et qui en est l'auteur, sinon moi en grande partie?</p>
+        <p>Cependant vous avez eu bien raison de me dire et de me reprocher que je dépensais trop. Cela me rendra économe sans que je sois plus privé qu'auparavant. Et de bon cœur Je Vous en remercie. Mais cependant il n'y avait pas besoin te vous effaroucher, il n'y avait pas besoin de vous mettre ant en colère contre moi. Car je sais de bonne part que vous avez dit que vous étiez presque décidés à me faire revenir de Paris, qu'il n'y avait pas besoin d'entrer à</p>
+        <p>l'Ecole pour être professeur. En cela vous vous trompez horriblement, et si vous connaissiez la différence sous tous les rapports qu'il y a entre un professeur d'un collège royal et [un professeur d'un collège] communal vous changeriez d'avis. Mais pour cela parlez donc à un professeur quel qu'il soit et vous verrez ce qu'il vous dira.</p>
+        <p>Comment ai-je appris que vous aviez de telles idées? Le voici. Quand vous m'avez dit d'écrire à M. Brun je l'avais déjà fait deux ou trois fois. C'est madame Brun qui m'a toujours écrit et qui dans toutes ses lettres m'a donné les plus sages conseils. J'ai trouvé dans ses lettres beaucoup de franchise et un vrai désir de me rendre meilleur par ses avis. Craignant que vous me défendiez de lui écrire parce que je sais que vous n'aimez pas que l'on connaisse beaucoup de monde, surtout depuis les affaires de M. Pelletier, je ne vous ai pas dit que j'avais écrit à madame Brun.</p>
+        <p>M. Brun étant rentré à Dole a dit ce que vous aviez pensé sur mon compte et madame Brun vient de m'écrire ces derniers jours une réponse à ma dernière lettre envoyée depuis que vous m'avez dit d'écrire à Dole, dans laquelle elle me reproche aussi de dépenser; elle me dit qu'elle sait que je tiens à passer par l'Ecole normale pour devenir professeur et que cependant M. Brun lui a dit qu'on me ferait revenir de Paris si je continuais à tant dépenser.</p>
+        <p>Mon cher papa m'a souvent dit que tout se savait. Vous voyez que je sais ce que vous avez pensé de moi et [que] vous n'étiez pas aussi tolérants que vous semblez l'être dans vos lettres. Mais vous savez bien que je serai professeur si</p>
+        <p>je vais à l'Ecole et que je ne le serai pas si je n'y vais pas.</p>
+        <p>Et je crois que vous y regarderiez à deux fois si je devais abandonner ce projet-là.</p>
+        <p>Vous remercierez pour moi chez M. Brun, en attendant que je le fasse moi-même, si vous avez occasion de leur écrire.</p>
+        <p>Pourquoi ma chère Virginie ne m'as-tu pas écrit quelques lignes? dis-moi ce que tu voudras; je te l'ai déjà dit, tout m'intéressera. Parle-moi de ta santé, de ce que fait Emilie.</p>
+        <p>Je te remercie, Joséphine, de tes quelques mots; mais tu aurais pu m'écrire plus au long. Il n'y a pas de fautes dans</p>
+        <p>ce que tu m'as écrit. Engage Virginie à m'écrire et faites-le ensemble, sur la même lettre.</p>
+        <p>Maintenant je vais à la Faculté et je vais tout à l'heure Vous parler de la conscription et de mon exemption.</p>
+        <p>Mes chers parens, je viens de la Faculté et on m'a dit qu'il me fallait avoir souscrit mon engagement pour dix ans dans l'instruction publique avant le tirage. Or je n'ai pas souscrit cet engagement. Etant à Besançon un jour de foire n papa m'avait autorisé à prendre cet engagement quand j'ai voulu me présenter à l'Ecole normale, mais je n'ai pas Pris cet engagement et j'ignorais qu'il fallût le présenter avant le 20 février. Ainsi notre position n'est pas facile.</p>
+        <p>Mais ne vous alarmez pas : comme on me l'a dit à la Faculté, le vais écrire au ministre et lui demander ce que j'ai à faire. Ne vous alarmez pas : attendez la réponse du ministre qui ne tardera pas. !</p>
+        <p>Encore une fois soyez sans inquiétude. N'écrivez à personne; n'écrivez pas au proviseur : sa femme vient de mourir.</p>
+        <p>Encore une fois, je vais écrire au ministre, et dans quatre Jours au plus vous aurez la réponse qu'il m'aura adressée.</p>
+        <p>Adieu tous, je vous embrasse. Nous avons bien mal fait ue ne pas prendre cet engagement. Mais je serai tout de menie exempt 1.</p>
+        <p>L. PASTEUR.</p>
+        <p>Veuillez, je vous prie, me dire ce que j'ai à faire dans cette position difficile Où m'a placé mon ignorance.</p>
+        <p>Je suis avec respect votre humble et obéissant serviteur.</p>
+        <p>Pa Louis PASTEUR.</p>
+        <p>Paris, 27 février 1843. Louis PASTEUR.</p>
+        <p>De son côté, le Recteur de l'Académie de Besançon écrivit au Ministre cette lettre, conservée aux Archives nationales : Besançon le 18 mars 1843.</p>
+        <p>Monsieur le Ministre, J'ai l'honneur de vous donner les renseignements que vous me demandez par votre lettre du 11 de ce mois, au sujet de M. Pasteur, maître d'études au collège royal de Besançon, qui désire contracter envers l'Université un engagement décennal. Le 27 décembre 1842, sur la demande que je vous en avais adressé le 6, vous avez bien voulu autoriser M. Pasteur à se rendre à Paris pour se préparer à suivre les cours de l'École normale. Il jouit donc en effet d'un congé régulier et sans traitement.</p>
+        <p>,Pendant les deux années qu'il a exercé les fonctions de maître d'études au collège royal, il s'est distingué par une conduite digne d'éloges et des principes solides; par son intelligence, sa capacité, son dévouement à ses devoirs, il a obtenu et justifié l'estime et la confiance de M. le Proviseur.</p>
+        <p>Ce jeune homme, il est vrai, propose tardivement de contracter l'engagement décennal; mais ses antécédents et son amour de l'étude promettent à l'Université un utile fonctionnaire ; et s'il est possiole d'accueillir sa demande, malgré la sévérité des règlements, je vous prie instamment de lui accorder cette faveur, dont il est digne.</p>
+        <p>Le Ministre répondit à Pasteur cette lettre, qui est également conservée aux Archives nationales ; Paris, le 30 mars 1843.</p>
+        <p>Monsieur, Un engagement décennal ne peut être valablement contracté envers l'Université qu'avant le tirage au sort pour le recrutement de l'année.</p>
+        <p>- Cette formalité n'ayant pas été remplie en temps utile, je regrette de n'avoir aucun moyen de régulariser votre position et de vous dispenser du service militaire.</p>
+        <p>Pasteur cependant fut exempté.</p>
+        
+       
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

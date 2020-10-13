@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1847-01-21" >Paris, 21 juin 1847</date>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="A FONCIN (...-...)">A FONCIN.</persName>
+                    <placeName>Besançon</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Paris, 21 janvier 1847</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                
+                
+                <p>A M. FONCIN, PROFESSEUR A L'ÉCOLE DE MÉDECINE, A BESANÇON.</p>
+                <p>Paris, 21 janvier 1847.</p>
+                <p>Monsieur, J'ai tardé beaucoup de vous écrire et même de répondre à votre aimable lettre. Comme Léon a dû vous le dire, j'attendais que son bulletin me fût envoyé. Je le joins à cette lettre et vous pourrez voir qu'il est très satisfaisant, étant le premier sur tout. J'ai vu du reste M. Blanchet il y a peu de temps et je n'ai que de bonnes nouvelles à vous transmettre au sujet de Léon. M. Blanchet n'émet pas de doute sur sa réception à la fin de l'année et vous avez en effet tout lieu d'y compter. Sous le rapport du travail et de l'intelligence des mathématiques M. Blanchet est très content de lui. Quant à la conduite vous savez vous-même qu'il n'y a pas à s'en préoccuper. Léon est maintenant fait auX habitudes de l'institution et s'y plaît assez. Il y travaille avec plaisir et suit avec zèle le cours du collège par M. Richard.</p>
+                <p>Dans la lettre de Léon que vous recevrez avec la mienne il vous parlera au long de la circonstance qui fait qu'il est sorti aujourd'hui jeudi. Cette nuit même quelques élèves de Sainte-Barbe ont eu la sotte idée de faire du bruit, de tout briser dans les dortoirs, de faire venir les municipaux, etc. et ce matin ils ont été tous renvoyés. Pareille</p>
+                <p>chose s'est déjà offerte à Sainte-Barbe il y a trois ans. On fera comme alors : quelques mauvais élèves seront mis à la porte et les autres rentreront. N'ayez rien à craindre pour Léon qui en sera quitte pour un ou deux jours de congé. Cette nuit et jusqu'à leur rentrée il couchera dans ma chambre. Il est en ce moment près de moi qui vous écrit et vous raconte avec plus de détails le singulier amusement de quelques-uns de ses condisciples. Ces désordres sont très fâcheux, car ils nuisent beaucoup à l'institution recommandable d'ailleurs à plusieurs titres, et ils sont la cause d'interruption dans le travail, ce qui a toujours quelque inconvénient.</p>
+                <p>Je n'ai pas à vous donner de Léon d'autres nouvelles qui Puissent vous intéresser. Vous voyez que, somme toute, Vous devez être tranquille à son égard et avoir bon espoir Pour la fin de l'année. Je dirai en particulier à Madame FonCln que Léon se porte très bien à Paris quoiqu'il soit loin d'avoir les soins maternels qu'il trouvait dans sa famille.</p>
+                <p>Non seulement cette année qu'il aura passée à Paris avant d'entrer à l'Ecole le conduira à son but, mais elle modifiera ses idées et son caractère d'une manière convenable. Il commence l'apprentissage de la vie, il fait connaissance avec le monde qu'il ignorait et tout cela ne pourra qu'être très utile à son avenir et même à son travail actuel.</p>
+                <p>Quant à moi, Monsieur Foncin, je vous dirai que je suis ici très heureux, que je travaille avec le plus grand plaisir Uïie science que j'aime et tout ce que je souhaite est d'arriver un jour à une chaire de faculté pour la chimie afin de pouvoir continuer l'étude de cette science.</p>
+                <p>Ayez la bonté de me rappeler au souvenir de Mlle Colard, de Mme Yard. Présentez, je vous prie, mes respects à MIne Foncin et mes amitiés à Ernest. Veuillez bien également me rappeler au souvenir de M. le Proviseur si vous avez l'occasion de le voir, ainsi que de mon ancien professeur M. Douché.</p>
+                <p>Recevez, Monsieur Foncin, l'assurance de mes respects et de mon amitié.</p>
+                <p>L. PASTEUR.</p>
+                
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+
+

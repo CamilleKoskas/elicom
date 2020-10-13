@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1849-02-10" > 10 février 1849.</date>
+                    <placeName>Strasbourg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Laurent, Aristide (1848-1850)">A MONSIEUR LAURENT, RECTEUR DE L'ACADÉMIE DE STRASBOURG</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Dijon, 5 janvier 1849."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Strasbourg, 10 février 1849.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A MONSIEUR LAURENT, RECTEUR DE L'ACADÉMIE DE STRASBOURG</p>
+                <p>Strasbourg, 10 février 1849.</p>
+                <p>Monsieur, Une demande d'une haute gravité pour moi et pour votre famille vous sera faite sous peu de jours; et je crois de mon devoir de vous adresser les renseignements suivants qui Pourront servir à décider votre acceptation ou votre refus.</p>
+                <p>Mon père est tanneur à Arbois, petite ville du Jura. J'ai trois sœurs. La plus jeune à l'âge de trois ans a eu une fièvre cérébrale qui a arrêté chez elle tout développement d'intelhgence. C'est une enfant pour l'intelligence, une grande Personne pour le corps. Nous devons la placer prochainement dans un couvent1 où elle passera sans doute le reste e ses jours. Mes deux autres sœurs remplacent auprès de 111011 père, pour les soins du ménage et du commerce, ma l11ee, que nous avons eu le malheur de perdre au mois de "Ilai dernier.</p>
+                <p>J Ma famille est dans une position aisée, mais sans fortune.</p>
+                <p>JT e n'évalue pas à plus de cinquante mille francs ce que ous possédons; et, quant à moi, je suis décidé depuis longtemps à laisser intégralement à mes sœurs tout ce qui me reviendra en partage. Je n'ai donc aucune fortune. Tout Ce que je possède c'est une bonne santé, un bon cœur et ma Position dans l'Université.</p>
+                <p>t. Couvent des Ursulines, à Voiteur (Jura).</p>
+                <p>Je suis sorti il y a deux ans de l'Ecole normale, agrégé pour les sciences physiques. Je suis docteur depuis dix-huit mois et j'ai présenté à l'Académie des sciences quelques travaux qui ont été très bien accueillis, le dernier surtout.</p>
+                <p>Un rapport très favorable, que j'ai l'honneur de vous remettre en même temps que cette lettre, a été fait sur ce travail. »</p>
+                <p>Voilà, Monsieur, toute ma position présente. Quant à l'avenir, tout ce que je puis en dire, c'est que, sauf un changement complet dans mes goûts je me consacrerai à des recherches chimiques. J'ai l'ambition de revenir à Paris lorsque par mes travaux scientifiques je me serai acquis quelque réputation. M. Biot m'a parlé plusieurs fois de songer sérieusement à l'Institut. Dans dix ou quinze ans peutêtre je pourrai y songer si je continue à travailler assidûment. De ce rêve autant en emporte le vent; ce n'est pas lui du tout qui me fait aimer la Science pour la Science.</p>
+                <p>Mon père viendra lui-même à Strasbourg faire cette demande en mariage. Personne ici ne connaît ma démarche et je suis assuré. Monsieur, que si vous me refusez, sans rien perdre de votre estime, ce refus ne sera connu de personne.</p>
+                <p>Recevez, Monsieur, l'assurance de mon profond respect et de mon dévouement.</p>
+                <p>Louis PASTEUR.</p>
+                <p>J'ai eu 26 ans le 27 décembre dernier.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+
+

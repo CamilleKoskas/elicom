@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1841-11-29" >29 novembre 1841.</date>
+          <placeName>Besançon</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Besançon, 29 novembre 1841."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Besançon, 29 novembre 1841.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parens, J'attends tous les jours de vos nouvelles et surtout à cause de ce cahier que je vous ai demandé. Il me semble qu'il devrait être déjà venu; on me l'a redemandé encore une fois. Vous devez aussi avoir reçu des nouvelles de</p>
+        <p>Joséphine; je lui ai écrit il y a quelques jours et elle ne m a pas encore répondu. J'aimerais savoir comment elle se trouve. J'ai oublié d'affranchir ma lettre quand je lui ai ecnt; il vous faudra avoir soin d'affranchir les vôtres, et ne la laissez pas manquer d'argent, sans pourtant lui en donner trop.</p>
+        <p>Pour la dernière foire tu aurais bien pu me venir voir à une autre heure qu'à celle de la classe; tu devais bien penser qu'à huit heures nous entrons au cours. J'avais une lettre à te donner que j'écrivais à Virginie. Je l'ai fait Porter chez M. Jourdant, mais tu n'y es pas retourné et on ma renvoyé ma lettre seulement hier.</p>
+        <p>Ecnvez-moi le plus tôt que vous pourrez.</p>
+        <p>PASTEUR Louis.</p>
+        
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+             
+            </name>
+          </signed>
+        </closer>
+        <postscript>
+          <p>Et pensez à mon cahier.</p>
+          <p>Ma chère Virginie, d Dans cette lettre dont je parle plus haut je te demandais e m'écrire quels morceaux de musique tu désirerais que J le acheté. Je voulais t'en envoyer pour la dernière foire, S ] avais peur de choisir des morceaux trop difficiles ou qUI ne conviendraient pas. Tu demanderas à Mlle AntOIe ce que je pourrais prendre. Elle t'indiquera ceux qu'elle voudra. Je les [trouverai] facilement à Besançon.</p>
+          <p>leu, ma chère Virginie, je [t'écrirai plus] au long une autre fois.</p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

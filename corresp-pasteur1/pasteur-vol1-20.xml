@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1842-01-23" >23 janvier 1842.</date>
+          <placeName>Besançon</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Besançon, 23 janvier 1842."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Besançon, 23 janvier 1842.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parens,</p>
+        <p>Votre dernière lettre m'a fait de la peine à cause de ce due vous m'apprenez sur la position de mon parrain. La dernière fois que je l'ai vu je ne le reconnaissais qu'à peine, tant Il était maigre, et il avait déjà un air abruti. Chaque jour on reconnaît qu'il ne faut jamais s'éloigner de la bonne voie. Ici même il y a quelques jours un élève a été re ri du collège; d'abord il a vu cela tout en beau; il est 6 à s'amuser dans la ville et à présent, découragé, il n'a Plu s que la ressource de faire comme tous les jeunes gens g s avenir, de s'engager. Son avenir est entièrement perdu; a t devait se présenter à l'Ecole des mines. Et pourquoi a-t été chassé? pour avoir jeté du tabac sur un réchaud alli dans une expérience de chimie; mais il avait aussi réPnondu très grossièrement au professeur.</p>
+        <p>Dans ma dernière lettre je vous demandais si vous vou-</p>
+        <p>liez que je me présentasse en même temps à l'Ecole polytechnique et à l'Ecole normale. Vous n'avez rien dit de cela. Je crois que cela ne vous fera rien si je me présente à la première. Verner dans une lettre qu'il m'a écrite me dit que pour sortir de l'Ecole dans la partie civile il suffit d'être placé dans les 35 ou 40 premiers, et que, vu la force moyenne des élèves de l'École, je me placerais facilement dans ces rangs-là et même au-dessus, que d'ailleurs il est très probable que cette année ou l'année prochaine la loi sur les chemins de fer sera sans doute adoptée et qu'alors on aura besoin pendant plusieurs années de beaucoup d'ingénieurs. Pour moi je crois réellement que la carrière qu'offre l'Ecole polytechnique est plus belle que celle de l'enseignement quand on ne sort pas de la première dans le militaire, et vous savez combien je hais cette partie-là pour que, si j'étais admis à cette école, je fasse tout pour ne pas sortir dans l'artillerie. Dans tous les cas, cela ne coûte rien de se présenter. Ça aura l'avantage de me faire travailler pendant les vacances jusqu'au 20 septembre, époque des examens à Besançon.</p>
+        <p>Dites-donc à ma sœur Joséphine de m'écrire et de vous écrire plus souvent. Je recommande toujours à ma sœur Virginie de faire quelquefois de la grammaire, d'écrire souvent et de lire quelques petits ouvrages. Je te charge ma chère Virginie d'embrasser pour moi notre sœur Emilie.</p>
+        <p>Adieu, je vous embrasse tous. Je me porte parfaitement.</p>
+        <p>PASTEUR L.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+        <postscript>
+          <p>Les places se donneront samedi prochain. Ainsi vous saurez la mienne par ma première lettre que vous recevrez d'aujourd'hui en huit.
+          </p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

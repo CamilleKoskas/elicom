@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1841-11-07" >7 novembre 1841.</date>
+          <placeName>Besançon</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Besançon, 7 novembre 1841."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Besançon, 7 novembre 1841.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parens, Il Y a longtemps que je n'ai reçu de vos nouvelles. J'en attends chaque jour. Je ne vous écrivais pas, parce que Je ne l'aurais fait que pour vous demander de vos nouvelles et de celles de Joséphine et je savais que vous m'aviez promis de m'écrire pour cela quand tout serait terminé.</p>
+        <p>1 Depuis que je vous ai écrit la dernière fois, j'ai appris bien des nouvelles et des nouvelles bien différentes.</p>
+        <p>Chappuis a été refusé à l'École hormale, et il reste à ans encore une année pour travailler afin de se représenter l'année prochaine. Au contraire, cet élève Verner, de Colar, dont vous vous rappelez peut-être, parce que je vous en ai parlé plusieurs fois, a été reçu le 4 e à l'Ecole polyecnnique. Il n'avait fait que deux années de spéciales, une ici, l'autre à Paris. La première année il n'a pas été eçu. Cela vous prouve ce que c'est que ce Paris et les études que l'on y fait.</p>
+        <p>Un autre élève, nommé Bertin1, que j'avais vu avec Chappuis pendant les vacances à Besançon, et qui cette anée pour les sciences a été reçu 4e admissible, vient d tre reçu le premier admis à l'École normale, après avoir fait aussi une année de spéciales à Paris.</p>
+        <p>bien 1 Je ne suis pas reçu cette année je crois que je ferai</p>
+        <p>erreAUëUStin Bertin, physicien, né à Besançon en 1818, mort en 884. Il fut en 1868 sous-directeur de l'École normale.</p>
+        <p>le temps de parler de cela et des moyens qu'il faudrait aviser pour que je n'y dépense pas trop d'argent, si cela arrivait.</p>
+        <p>J'ai encore une autre nouvelle malheureuse à vous apprendre. M. Delly est mort cette nuit d'une attaque d'apoplexie. On l'a trouvé ce matin mort dans son lit.</p>
+        <p>Comme vous le savez ce n'est pas lui qui cette année fait le cours de mathématiques spéciales.</p>
+        <p>Je vois très bien à présent tout ce que l'on peut gagner à faire une seconde année de mathématiques; tout se débrouille, tout devient clair et facile.</p>
+        <p>De tous les élèves de notre classe qui se sont présentés cette année à l'Ecole polytechnique et normale, aucun n'a été reçu, pas même le plus fort, un élève qui déjà avait fait une année de mathématiques spéciales à Lyon.</p>
+        <p>Le professeur que nous avons cette année est très bon.</p>
+        <p>Je ferai beaucoup cette année, j'en suis persuadé.</p>
+        <p>Il doit venir bientôt un deuxième maître supplémentaire1.</p>
+        <p>Cela m'ôtera un peu d'ouvrage.</p>
+        <p>Ecrivez-moi, je vous en prie, le plus tôt que vous pourrez. Je serai content d'avoir pour la foire mon pantalon et mon gilet. Ne m'envoyez rien d'autre, pas de fruits, pas de raisin. Cela me serait tout à fait inutile.</p>
+        <p>Portez-vous bien tous. Je vous embrasse de bon cœur.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+             PASTEUR Louis.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

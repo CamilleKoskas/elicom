@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1842-03-06" >6 mars 1842.</date>
+          <placeName>Besançon</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Besançon, 6 mars 1842."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Besançon, 6 mars 1842.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parens, Je vous écris aujourd'hui, parce que c'est le jour fixé pour cela; mais je n'ai absolument rien de nouveau à vous apprendre, pas même une place en composition. Elles ne se donneront que samedi prochain.</p>
+        <p>M. le Proviseur est entièrement guéri. Mais il a été en grand danger.</p>
+        <p>Je souhaite beaucoup que pour Pâques papa ait le temps de venir avec moi à Lons-le-Saunier; mais malheureusement nous avons nos vacances dans la semaine qui précède celle de la foire. Je crois partir le samedi qui précédera celui de l'avant-veille de la foire. De telle sorte que je ne sais pas s'il nous sera possible de partir ensemble. Enfin nous reparlerons de cela à Pâques. Je désirerais beaucoup cependant que l'on aille voir Joséphine. On le lui a promis, et, à ce qu'elle me dit, elle s'ennuie de ne voir personne d'Arbois. Cela se comprend bien; elle qui n'est jamais sortie. Je vous embrasse tous.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              PASTEUR L.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

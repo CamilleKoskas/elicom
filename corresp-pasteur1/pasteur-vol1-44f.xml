@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1849-02-11" > 11 février 1849.</date>
+                    <placeName>Strasbourg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Kestner, Charles (1803_1870)">A M. KESTNER, DE THANN</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Dijon, 5 janvier 1849."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Strasbourg, II février 1849.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A M. KESTNER, DE THANN.</p>
+                <p>Strasbourg, II février 1849.</p>
+                <p>Monsieur, Vous avez bien voulu promettre à Monsieur Teusch, qui avait eu l'obligeance de vous écrire à ce sujet, que si j'avais un besoin urgent d'acide racémique 1 vous m'en</p>
+                <p>remettriez une certaine quantité. Voici, Monsieur, dans quel but, je vous ai fait cette demande. Je poursuis des recherches très longues sur cet acide depuis une année. J'ai l'honneur de vous envoyer le premier mémoire que j'ai Publié sur les formes cristallisées des racémates ou paratartrates, mémoire que je désire beaucoup continuer 1. Vous l11e rendriez, et je crois à la science, un service signalé en ayant l'obligeance de m'envoyer quelques kilogrammes de Cet acide. Je vous le paierai au prix que vous m'indiquerez.</p>
+                <p>Recevez, Monsieur, l'assurance de mon profond respect et mes sincères remercîments.</p>
+                <p>L. PASTEUR, professeur de chimie, suppléant de M. Persoz à la Faculté des Sciences.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+
+
+

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1840-12-28">le 28 décembre 1840.</date>
+          <placeName>Besançon</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Besançon, le 28 décembre 1840."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Besançon, le 28 décembre 1840.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parens,</p>
+        <p>J'ai reçu jeudi dernier la caisse que vous m'avez envoyée.</p>
+        <p>J'avais, à la lingerie, redemandé mon gilet de laine et il paraît qu'il est perdu. Celui qui a fait la commission a dû vous dire, car je l'en avais chargé, que je ne m'en irais pas pour le jour de l'an. C'est que d'abord M. le Proviseur permet assez difficilement cette année; bien que je n'aurais pas été en peine de ce côté-là : car j'aurais obtenu facilement la permission. D'autre part vous comprenez qu'en ce moment il ne ferait pas très bon passer deux nuits en voiture! et enfin, restant à Besançon, je pourrai travailler et certes je n'ai pas peu de choses à faire cette année, surtout si je me décide à subir l'examen de l'École normale au mois d'août, ce que je crois à présent. Depuis quelques</p>
+        <p>jours M. Delly, notre professeur de spéciales, est malade.</p>
+        <p>Aujourd'hui M. le Proviseur n'ayant pas eu le temps encore er le voir, m'a prié d'y aller à sa place. J'y suis allé; j'ai causé avec lui quelque temps et je lui ai dit que je ne savais à quoi me décider pour l'examen de l'Ecole : si je voulais attendre à l'année prochaine ou me présenter déjà cette année. M. Delly m'a engagé à subir déjà l'examen cette année, et même il m'a dit « qu'allant toujours comme je suis allé jusqu'ici je serais reçu à l'Ecole normale ».</p>
+        <p>Je ne crois pas cela du tout; je ne pense même pas que j. e serais reçu admissible. En tout cas, subissant cet examen Ie n en retirerais aucun désavantage; ainsi je crois que je suivrai cette marche-là. J'aurais pour être reçu beaucoup de chances favorables si je prenais cette année des répétiÍlons de physique et de mathématiques, non pas en même emps, mais successivement, d'abord des répétitions de physique, puis de mathématiques. Je crois qu'ainsi je serais reçu, d autant plus que M. Delly pense que je pourrais sans cela être admis. Vous me donnerez votre avis là-dessus.</p>
+        <p>L'examen ayant lieu'le 5 août je prendrais sept mois de pétitions, à 15 fr. par mois, cela fait 105 fr. Je prendrais cela sur mon traitement de maître d'études. (Rien n'est encore arrivé pour cela. Je crois que cela ne tardera pas.) , Gullemin 1 ne part pas non plus. Couquet seul, je crois, se Ira. J'aurais bien aimé partir afin d'aller voir les ravages de l'eau et surtout, si cela est possible, de retremper u peu mes sœurs, afin de les engager à travailler avec soin à leur éducation. Je veux absolument que Joséphine SSlUe autant qu'elle le pourra et que ma sœur Virginie pendant ces longues veillées d'hiver lise le journal des enfans, et le lise avec fruit.</p>
+        <p>d Je ferai dans le courant de l'année quelques emplettes de beaux 1.res' j'entends par là des livres instructifs, religIeux, moraux, et j'essaierai pendant les vacances, si je ne Pars Point pour Paris passer mon examen, de leur donner le gout. de la lecture. On doit trouver chez M. Monge ou au cabInet littéraire Mes Prisons par Silvio Pellico. J'ai-</p>
+        <p>enfance de Pasteur.</p>
+        <p>merais qu'elles lisent cet ouvrage intéressant où l'on res pire à chaque page un parfum religieux qui élève et ennoblit l'âme.</p>
+        <p>Mais pourquoi donner des conseils. Tous jusqu'ici ont été bons : Répondez-moi, mes sœurs, lesquels avez-vous suivis?</p>
+        <p>Je vous embrasse tous de bon cœur.</p>
+        <p>PASTEUR.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

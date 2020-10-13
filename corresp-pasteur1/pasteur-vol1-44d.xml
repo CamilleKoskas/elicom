@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1849-01-19" >19 janvier 1849.</date>
+                    <placeName>Dijon</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Chappuis, Charles (1822-1895)">A Chappuis</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Dijon, 5 janvier 1849."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Dijon, 19 janvier 1849.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A CHAPPUIS.</p>
+                <p>Dijon, 19 janvier 1849.</p>
+                <p>Si mon successeur avait annoncé le jour de son arrivée, je serais resté, pourvu que ce jour ne fût pas trop éloigné</p>
+                <p>mais je vois que cette situation peut se prolonger beaucoup, et d'ailleurs pourquoi sacrifier tout à l'intérêt du cours de Dijon au préjudice de celui de Strasbourg?</p>
+                <p>Je partirai dimanche à 9 heures de Dijon et lundi soir à 8 heures de Besançon. Je n'arriverai à Strasbourg que vingt jours après avoir reçu ma nomination. Je crois que jamais dans l'Université mutation n'a exigé autant de temps, et note bien que mon successeur n'a encore rien fait savoir a personne.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                            
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+

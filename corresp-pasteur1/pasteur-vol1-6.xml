@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1840-12-07" >le 7 décembre 1840.</date>
+          <placeName>Besançon</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Besançon, le 7 décembre 1840."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Besançon, le 7 décembre 1840.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parens, Je n'ai rien de nouveau à vous apprendre. Si dans la classe où je me trouve on faisait grand cas des places que l'on obtient en composition, je pourrais vous en parler et encore ne pourrais-je pas vous dire quelles sont mes places. Car elles n'ont pas encore été données, bien que nous ayons déjà composé deux fois, en mathématiques et en physique. A propos de physique, je vous dirai que je la travaille beaucoup cette année, sans lui consacrer cependant le même temps qu'aux mathématiques.</p>
+        <p>Vous savez peut-être qu'un nouvel examen pour l'école de Saint-Cyr doit avoir lieu au mois de février. Une foule d'élèves s'y présentent. Il y en aura au moins vingt seulement pour Besançon. Les connaissances exigées sont considérablement diminuées. On ne demande plus que l'arithmétique et la géométrie; très peu d'algèbre! un peu de dessin et quelques notions d'histoire et de géographie. Si Jules</p>
+        <p>[Vercel] 1 et Altin [Vercel] avaient eu le temps de se préparer à cet examen, je les y aurais fortement engagés.</p>
+        <p>C est une occasion qui ne se présentera jamais, et avec un peu de travail ils auraient été facilement reçus. Mais il aurait fallu le savoir au moins six mois à l'avance; et cela était impossible.</p>
+        <p>Jeudi dernier j'ai continué le portrait que j'avais commencé; on ne peut voir encore s'il y aura de la ressemblance.</p>
+        <p>Je n'ai pas encore parlé à M. le Proviseur pour celui de sa femme. Comme je dessine les jours de sortie je ne suis pas le cours de dessin du collège.</p>
+        <p>Je me sers pour travailler à la chandelle de mes conserves.</p>
+        <p>Iles soulagent la vue. Aujourd'hui j'achèterai une de ces ères dont vous m'avez parlé. On m'a dit encore que ça était très utile pour les yeux.</p>
+        <p>J'ai encore les noix que vous m'avez envoyées pour la foire. Si vous m'envoyez aussi des confitures, vous aurez SOIn par la même occasion de placer avec deux écus de 5 francs. J'avais de l'argent; mais comme cette année les spéciaux internes sont dans une chambre particulière, nous avons été obligés d'acheter notre bois, de la chandelle, de 1 huile, et comme nous ne sommes que quatre, ça fait que chacun en a été encore pour une certaine somme. Mais ne m envoyez pas plus de 10 francs. Je n'en aurais même pas besoin, c'est en cas seulement que je sois obligé d'acheter quelque chose. A part cela j'ai encore assez d'argent. J'ai payé mon trimestre en entier. Je recommande à mes sœurs du travail et de l'amitié les unes envers les autres. J'aimerais, si le temps ne me manquait pas, leur donner quelques conseils; mais nous allons aller à la messe et je suis pressé.</p>
+        <p>Adieu, je vous embrasse tous ainsi que ma sœur Emilie.</p>
+        <p>PASTEUR Louis.</p>
+        
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+        <postscript>
+          <p>p.-S. - Quand vous verrez M. Pelletier dites-lui bien</p>
+          <p>en V Jus Vercel était un camarade d'enfance. Il demeurait à Arbois, lié de la tannerie du père de Pasteur. Jusqu'à sa mort, Pasteur resta ecbon avec lui.</p>
+          <p>des choses de ma part ainsi qu'à sa femme. Ayez soin de lui rendre son ouvrage de Lamennais.</p>
+          <p>J'ai toujours ce petit volume de M. Droz 1 .qu'il a eu la complaisance de me prêter. Je n'ai jamais rien lu de plus sage, de plus moral et de plus vertueux. J'ai encore un autre de ses ouvrages. Rien n'est mieux écrit. A la fin, de l'année je vous rapporterai toutes ces œuvres. On éprouve à les lire un charme irrésistible qui pénètre l'âme et l'enflamme des sentiments les plus sublimes et les plus généreux. Il n'y a pas dans ce que je vous dis là une seule lettre exagérée. Aussi je ne lis le dimanche aux offices que les ouvrages de M. Droz, et je crois en agissant ainsi, malgré tout ce qu'en pourrait dire le cagotisme irréfléchi et niais, me conformer aux plus belles idées religieuses.</p>
+          <p>Quand je m'en irai, je vous lirai ces ouvrages.</p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

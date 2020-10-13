@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1842-04-22" >22 avril 1842.</date>
+          <placeName>Besançon</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Besançon, 22 avril 1842."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Besançon, 22 avril 1842.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parens, J'aurais dû vous écrire bien plus tôt, bien que je n'aie rien de nouveau à vous apprendre. Mais j'ai remis de jour en jour. Comme je vous le dis, je n'ai rien d'intéressant à</p>
+        <p>ous faire savoir, sinon que les mathématiques et la phyque marchent toujours très bien, et je crois fort qu'à la n de l'année je saurai, et bien, ce qu'on nous enseigne dans ces deux parties. Avec un peu de chance à mes exaens, le bonheur de tomber sur des questions que puisse resodre un élève de spéciales, je crois que j'obtiendrai des ces. Il est vrai que d'ici à l'examen de l'Ecole normale 11 y a plus que trois mois, mai, juin, juillet; mais notre cours s'avance et il sera probablement achevé au commencent de juillet. De sorte que nous aurons encore un ois pour repasser, ce que nous faisons déjà à présent.</p>
+        <p>, , e grand-père de Chappuis m'a prié de donner à un eye externe dont il connaît beaucoup les parens des répétions de mathématiques. J'ai refusé d'abord, et comme était lui qui me faisait cette demande j'ai consenti cepennt;mais je ne lui en donne que deux fois par semaine, de orte que cela me prend peu de temps, une heure par semaine.</p>
+        <p>J'ai remis l'argent de Mlle Antoine. C'était précisément Ce qu'elle devait. J'ai encore le manteau de papa que je ne renverrai pas d'ici à la foire prochaine; car sans doute n en aura pas besoin.</p>
+        <p>Vous voudrez bien chercher dans le cabinet de ma ch ambre s'il n'y a pas mon pantalon de coutil, celui que nous avons acheté à Dijon. Vous me l'enverriez; vous verez, il est un peu décousu dans le bas. Et envoyez-le 1 le plus tôt possible. J'userai moins mon pantalon gris.</p>
+        <p>?n pantalon bleu est chez le tailleur pour lui mettre une ceInture. Je le mettrai les jours de pluie. Je n'ai besoin Par conséquent de rien, et d'ailleurs comme nous courons fa. chance de me voir à Paris l'an prochain, inutile de me faire des habits qui ne pourraient peut-être plus me servir.</p>
+        <p>à.1 savez que je ne préfère en rien l'Ecole polytechnique à cole normale, à moins pourtant d'être reçu dans un bon rang à la première.</p>
+        <p>crivez-moi bientôt.</p>
+        <p>la Je vous embrasse tous. J'aimerais bien que Virginie prît la peine de m'écrire quelques lignes. Elle me l'a promis en Partant. Adieu.</p>
+        <p>L. PASTEUR.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name> 
+            </name>
+          </signed>
+        </closer>
+        <postscript>
+          <p>Je me porte très bien et me lave assez régulièrement avec de l'eau-de-vie. Ma bouteille a déjà décru de moitié.</p>
+          <p>Avez-vous des nouvelles de Joséphine, à qui je n'ai pas encore écrit depuis Pâques? Mais je le ferai aujourd'hui ou demain.</p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

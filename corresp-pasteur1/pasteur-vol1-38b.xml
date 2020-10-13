@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+            <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1844-09-12"> 12 septembre 1844</date>
+            <placeName>Arbois</placeName>
+        </correspAction>
+        <correspAction type="received">
+            <persName key="Chappuis, Charles (1822-1895)">A CHAPPUIS</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+              <date>Arbois, 12 septembre 1844.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>A CHAPPUIS.</p>
+        <p>Arbois, 12 septembre 1844.</p>
+        <p>J'ai fait de Paris à Arbois un triste voyage.</p>
+        <p>De Paris à Montereau tout va bien. A Montereau, • Patache; à Sens, idem; à Joigny, idem. A Auxerre pas de VOlure pour Dijon, ni le jour de mon arrivée, ni le lendealn, ni après; enfin pas du tout. Plus qu'un seul moyen e partir, et encore par hasard et par bonheur. Je pars Pour Troyes dans la nuit par le courrier des dépêches. Le rndemain à 10 heures, encore par bonheur, je pars de r°yes et j'arrive à Dijon à 3 heures du matin. J'y ai dormi J squ'à dix heures. Reparti à 3 heures* de l'après-midi, je l?lS arrivé à 9 heures du soir à Dole, et le lendemain dans apres-dîner à Arbois.</p>
+        <p>A Arbois, je suis tombé malade.</p>
+        <p>Mon père a bien raison de dire : « La santé avant tout ».</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+
+

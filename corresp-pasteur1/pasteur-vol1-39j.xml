@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1847-07">juillet 1847</date>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Chappuis, Charles (1822-1895)">A CHAPPUIS.</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Paris, juillet 1847.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A CHAPPUIS.</p>
+                <p>Paris, juillet 1847.</p>
+                <p>Je me présente au doctorat au mois d'août. Ma thèse de chimie, presque totalement terminée, est entre les mains de M. Balard. Je ferai peu de choses en physique. Je dresserai seulement un programme de recherches très utiles que j'entreprendrai l'année prochaine et que je ne fais que coin-</p>
+                <p>mencer dans la thèse. Je serai bien heureux une fois débarrassé du doctorat. Rien n'est plus agréable, ce me semble, que d'être libre d'entreprendre un travail quand on le désire, de l'abandonner de même, d'en entreprendre même Plusieurs en même temps. Pour cela il faut être libéré d'examens. Tu as peut-être entendu parler d'un concours d'agrégation de faculté revivifié qui devrait avoir lieu au mois d'octobre. J'ai pensé à concourir. Mais j'hésite encore, et surtout, ce qui me donne de l'incertitude, c'est que le concours lui-même est encore en question. Le ministre en veut, J.Vl. Dumas aussi et d'autres. Mais M. Pouillet et beaucoup d'autres professeurs de la Faculté n'en veulent pas. Et si le ministre tombe! Il est difficile de se mettre au travail en présence de telles irrésolutions. D'ailleurs mes thèses ^'occuperont encore quelque temps, et aurais-je ensuite assez de temps pour travailler? Enfin ce sont des vacances * sacrifier. Cependant l'occasion serait belle. Il n'y aurait qu'une place près de la Faculté de Paris, qui est une. place de chimie, et je doute que beaucoup de concurrents se présentent. Ces agrégés auraient des fonctions près des Facultés. — Très probablement je ne me présenterai pas.</p>
+                <p>Je reprends ma lettre pour te dire que si je ne reste pas â Paris pour ce concours, je ferai tous mes efforts auprès , de rna. famille afin de pouvoir aller passer au moins un bon mois de mes vacances en Allemagne dans le but d'apprendre , allemand du matin au soir. Tu dois tenir comme moi enormément à savoir l'allemand. Allons ensemble, nous n regretterons jamais un pareil voyage. Pour moi, je ,suis tres décidé à le faire, et il n'y aurait que des obstacles très grands qui pourraient me faire changer de résolution. A toute force, je veux savoir l'allemand et l'anglais d'ici à quelques années. Peux-tu faire le voyage dans ce même but?</p>
+                <p>x jf •- £ .—Le concours d'agrégation des Facultés est ajourné � 1 an prochain. Je le tiens de M. Dumas. Cela a été décidé au Conseil royal vendredi dernier. J'en suis très satisfait.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                            
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+
+
+
+

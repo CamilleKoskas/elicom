@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1842-08-17" >17 août 1842.</date>
+          <placeName>Besançon</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Besançon, 17 août 1842."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Besançon, 17 août 1842.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parens, Je ne vous ai pas écrit depuis mon arrivée à Besançon 1 Parce que je n'ai rien eu à vous apprendre de nouveau.</p>
+        <p>ous me demandez si nous étions bien des jeunes gens pour âOUS présenter. J'étais seul : il y avait un élève de Salins ans notre classe qui devait se présenter, mais qui ne s'est Pas trouvé assez préparé. Plusieurs maîtres d'études de esançon voulaient aussi venir à Dijon, mais tous ont andonné ce projet, même M. Genot qui ne veut y aller que l'année prochaine.</p>
+        <p>ffi Us avez bien raison de dire qu'il y aurait bien à recv dans la manière de faire passer un examen. Car je VOUS dirai franchement que cette année mon examen de C l]On a été cent fois plus difficile que l'année dernière.</p>
+        <p>aque examinateur est sorti des limites du programme, 1 ?!Ul de mathématiques surtout qui m'a demandé un proerne tel que si je n'avais pas été exercé à en faire autant cette année, j'étais enfoncé. Et notez qu'ils ne doivent faire</p>
+        <p>1 asteur subit le 13 août 1842, devant la Faculté de Dijon, l'examen du accalauréat ès sciences mathématiques. Pour la chimie il n'obtint qUe a note « médiocre ». Le 26 août, il était déclaré admissible au concourg l'Ecole normale. Classé le quinzième sur vingt-deux, puis le tro o.rzle à la suite de la démission d'un candidat, il trouva ce rang eur et résolut de se présenter de nouveau l'année suivante.</p>
+        <p>n vallery-Radot, La Vie de Pasteur).</p>
+        <p>que des questions de théorie. Ce n'est pas que je lui en veuille de m'avoir demandé cela; au contraire, j'aurais voulu seulement de pareilles questions, mais toujours est-il qu'elles n'auraient pas dû m'être faites.</p>
+        <p>Le professeur de physique aussi est sorti du programme.</p>
+        <p>Je le lui ai fait observer; il en est convenu sans se fâcher.</p>
+        <p>Ce qui m'a le plus vexé et surtout les personnes qui étaient là c'est la manière dont on me chicanait sur des mots. Enfin c'est passé, et heureusement. C'est ce qu'il faut.</p>
+        <p>Toute la famille de M. Brun se porte bien; je vous dirai aussi que le fils quoique toujours rempli de mauvaises manières travaille assez cette année; ils espèrent qu'il aura plusieurs prix. Mlle Pauline a changé beaucoup pour le caractère. Elle n'est plus aussi rieuse qu'autrefois, et elle travaille beaucoup pour les ouvrages des mains, le français, l'histoire et la musique.</p>
+        <p>La distribution des prix se fait à Besançon le 22, lundi prochain. Chappuis est content de son examen de l'Ecole normale; il arrivera à la fin de ce mois. Vous saurez alors si je suis ou non reçu admissible. D'après cela je verrai si je dois aller ou non à Dijon pour l'examen de l'Ecole poly" technique.</p>
+        <p>Adieu, je vous embrasse.</p>
+        <p>L. PASTEUR.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+        <postscript><p>Joséphine ne m'a pas écrit depuis un temps infini. Dites" lui de le faire sitôt qu'elle sera de retour. Vous savez que je reste ici jusqu'au mois d'octobre.</p></postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

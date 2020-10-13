@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1842-07-08">8 juillet 1842.</date>
+          <placeName>Besançon</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Besançon, 8 juillet 1842."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Besançon, 8 juillet 1842.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parens, Papa aura le plaisir de voir dimanche l'exposition qui a lieu cette année à Besançon. Hier, j'y suis allé avec toute la famille de M. Foncin, avec laquelle j'y retournerai encore dans quelques jours; car il nous a été difficile de bien voir, à cause de l'affluence de monde, et de la chaleur qu'il faisait dans la salle.</p>
+        <p>En fait de tableaux, il y a peu de choses bonnes, et beaucoup de mauvaises, et de très mauvaises, entre autres choses, un Adam et Eve de M. Pointurier. Rien n'est plus affreux, soit pour la composition, soit pour le dessin, soit pour le coloris. Tout le monde se récrie, en voyant ce tableau.</p>
+        <p>Il y a aussi exposé des paysages et ton petit Napoléon, au crayon de mine.</p>
+        <p>Il y a un tableau d'un peintre de Paris distingué que l'on estime beaucoup. Mais je n'ai pas pu bien le voir, parce que quand on est avec des dames on ne peut pas facilement se placer comme on voudrait, chercher le meil' leur jour etc.</p>
+        <p>Tu n'oublieras pas de faire à Arbois, sur papier ordinaire, une déclaration par laquelle tu m'autorises à contracter un engagement pour dix ans à l'instruction publique. C'est une pièce dont j'ai besoin pour m'inscrire à l'examen de •</p>
+        <p>l'Ecole normale, et je dois être inscrit pour le 15 du mois courant. De plus tu n'auras pas besoin de la faire signer à Arbois par le maire : je la ferai signer ici par le maire et te préfet.</p>
+        <p>Et même, puisqu'il en est ainsi, tu ne me feras cette déclaration que dimanche, quand tu seras ici et je m'inscrirai lundi prochain. Ce sera assez tôt.</p>
+        <p>II me faut aussi un certificat de vaccine; mais le chirurgit en du collège me fera cela.</p>
+        <p>Il y a quelque temps que j'ai écrit à Joséphine; je n'ai Pas encore de réponse. Mais elle ne tardera sans doute pas.</p>
+        <p>Quant à l'extrait de naissance dont j'ai besoin aussi pour l'Ecole normale, M. Brun m'en a envoyé un. Celui que vous avez envoyé par M. Genot je l'ai donné pour l'inscription de l'Ecole polytechnique. Dans sa lettre M. Brun m'a dit qu'il serait dimanche à Besançon et qu'il y aurait le Plaisir de te voir. Il y vient je pense pour voir aussi l'exposition.</p>
+        <p>Je vous embrasse tous.</p>
+        <p>Louis PASTEUR.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+        <postscript>
+          <p>vous avez sans doute vu ce matin l'éclipsé de soleil, qUI a été presque totale.</p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

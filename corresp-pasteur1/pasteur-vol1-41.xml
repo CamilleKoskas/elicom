@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1848-04-16">dimanche 16 avril 1848.</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, dimanche 16 avril 1848.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parens, Vous apprendrez par les journaux de mardi qu'aujourd'hui Paris a pu craindre une émeute1. Je ne puis pas vous donner de nouvelles bien positives parce que les nouvelles que l'on recueille ne se ressemblent pas toutes. Des rassemblements sont, dit-on, partis du Champ de Mars pour aller à l'Hôtel de Ville présenter des pétitions. Les uns disent que ces pétitions demandaient une prompte organisation du travail, d'autres disent qu'elles demandaient l'ajournement des élections; d'autres enfin qu'elles demandaient le renvoi de certains membres du gouvernement provisoire.</p>
+        <p>On a même dit que Louis Blanc, Marrast 2 avaient été tués à bout portant. Mais cela est démenti. Pour mon compte je crois que cette manifestation a dû être une tentative d'émeute organisée par Blanqui3. Vous savez que ce républicain est sous le poids d'une accusation terrible4, et s'il ne peut se disculper il aura très bien pu conspirer pour arrêter l'instruction et peut-être pour essayer de s'emparer du pouvoir. Mais voici ce qui est très important. C'est que cette tentative va donner une force considérable au gouvernement provisoire. On a battu le rappel à deux heures dans tous les quartiers et immédiatement toutes les rues et toutes les places furent couvertes de gardes nationaux armés, pleins d'ardeur et prêts à défendre la république et à faire respecter l'ordre. La garde nationale mobile est</p>
+        <p>arrivée et celle de la banlieue aussi et partout les armes se chargeaient. Le gouvernement provisoire peut aujourd'hui compter qu'il est fort et inattaquable. J'ai été frappé de voir en si peu de temps tout le monde sur pied et prêt à rétablir l'ordre sans coup férir. La place de l'Hôtel de Ville a été en un instant jonchée de garde nationale et les pétitionnaires n'ont pu, dit-on, se présenter que cinq par cinq.</p>
+        <p>Je vous écris du poste du chemin de fer d'Orléans où je suis comme garde national.</p>
+        <p>Tout Paris va se réjouir demain, j'en suis sûr, de la tentative d'aujourd'hui. Car elle aura donné l'occasion de montrer l'accord parfait, le désir ardent de maintenir l'ordre de toute la garde nationale fixe et mobile. Et songez que cela fait un chiffre de 220 mille hommes.</p>
+        <p>Adieu, mes chers parens, vous aurez des détails précis Par les journaux qui vous arriveront avec ma lettre. J'ai seulement voulu vous écrire pour vous dire qu'il n'y avait Pas le-moindre danger non seulement aujourd'hui, mais encore d'ici à l'Assemblée nationale.</p>
+        <p>PASTEUR.</p>
+        <p>Rien de nouveau sur la place de Montpellier. Je crois que le professeur n'obtiendra pas le congé qu'il demande.</p>
+        <p>Je suis très heureux d'avoir été à Paris aux journées de Février1 et d'y être maintenant encore. Je quitterais Paris avec regret en ce moment. Ce sont de beaux et de sublimes enseignements que ceux qui se déroulent ici sous les yeux.</p>
+        <p>Je m'aguerris aussi à tous ces bruits de combats, d'émeute et s'il le fallait je me battrais avec le plus grand courage Pour la sainte cause de la République.</p>
+        <p>Adieu encore.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

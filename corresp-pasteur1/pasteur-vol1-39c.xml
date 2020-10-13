@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+            <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1846-10-01">1er octobre 1846</date>
+            <placeName>Arbois</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A M HÉBERT (...-...)">A M HÉBERT</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+              <date>Arbois, 1er octobre 1846.</date>
+          </dateline>
+          <salute/>
+        </opener>
+
+        <p>A M. HÉBERT, SOUS-DIRECTEUR DES ÉTUDES A L'ÉCOLE NORMALE 4.</p>
+          <p>Arbois, 1er octobre 1846.</p>
+        <p>Monsieur,</p>
+        <p>Je viens de recevoir une nomination qui m'étonne extrêmement. Je suis nommé professeur de physique au Collège</p>
+        <p>de Tournon par décision du 24 septembre. Je ne puis m'expliquer cela, moi qui suis parti de Paris si tranquille sur la place de conservateur d'après ce que vous m'aviez dit. Il faut que M. Delbecque n'ait pas eu connaissance de vos intentions ni de celles de M. Dubois puisque M. Dubois désirait d'après les intentions de M. Balard que je restasse à Paris. Je pense que la place de l'Ecole n'est pas donnée, et que vous pouvez facilement faire changer cela. Je compte entièrement sur vous et je n'écris qu'à vous et à M. Balard. Ayez la bonté, si vos travaux vous en laissent le loisir, de m'écrire quelques mots le plus tôt possible afin que je sache s'il n'y a pas eu un malentendu au Ministère ou au Conseil royal. Je vais faire une demande au Ministre, ^ais je ne pense pas que cela sera très utile et que votre influence pourra faire beaucoup plus.</p>
+        <p>Recevez, Monsieur, avec mes remerciements, l'assurance de mes profonds respects.</p>
+        <p>L. PASTEUR.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+
+

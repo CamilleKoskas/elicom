@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1847-03-20">20 mars 1847</date>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Chappuis, Charles (1822-1895)">A CHAPPUIS.</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Paris, 20 mars 1847.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                
+                
+                <p>A CHAPPUIS.</p>
+                <p>Paris, 20 mars 1847.</p>
+                <p>Je travaille ici avec le plus grand plaisir. Mes thèses sont commencées. Je serais encore occupé à travailler avec M. Laurent, si M. Laurent n'avait eu le projet de quitter l'Ecole en me laissant continuer seul ce travail. Chimiste infatigable, il trouvait qu'il perdait beaucoup de temps à venir à l'Ecole le matin, à s'en retourner le soir, et il a résolu de se construire un laboratoire chez lui-même.</p>
+                <p>Cependant, d'après le conseil de M. Balard, peut-être restera-t-il à l'Ecole, ce que je souhaite de grand cœur. Il n'est pas, je crois, de chimiste avec qui je pourrais gagner plus, tant il donne avec bienveillance ses conseils. Je crois d'autre part que M. Laurent est destiné à occuper dans quelques années la première place parmi les chimistes. Il vient d'être nommé suppléant de M. Dumas à la Sorbonne.</p>
+                <p>Dans ses deux premières leçons, il a été aussi hardi que dans ses mémoires, et parmi les chimistes ces leçons ont fait beaucoup de bruit. J'ai l'honneur de passer chez M. Dumas les soirées du jeudi, et jeudi dernier ces leçons faisaient le sujet de plusieurs conversations.</p>
+                <p>Je continuais le travail commencé avec M. Laurent, quand j'ai eu occasion d'étudier une nouvelle combinaison qui m'a engagé dans l'étude d'un sujet un peu différent, que j'ai choisi pour sujet de thèse de chimie 1. J'ai à peine commencé celle de physique 2, qui du reste consistera surtout dans la détermination d'une foule de densités dont j'aurai besoin pour entreprendre plus tard un travail de chimie sur les volumes atomiques. En ne prenant pas pour sujet de thèse ces recherches de densités, je n'aurais jamais</p>
+                <p>eu le courage de commencer ce dernier travail qui pourra être déjà très long par lui-même.</p>
+                <p>Je doute de pouvoir achever mes deux thèses avant la fin d'août. Dans tous les cas elles seront presque terminées à cette époque. Je possède déjà pour celle de chimie plusieurs faits intéressants, ce me semble. Je passerai probablement mon doctorat à Pâques de l'an prochain.</p>
+                
+                
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                            
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+
+

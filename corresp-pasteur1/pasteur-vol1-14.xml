@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1841-10-23" >le 23 octobre 1841.</date>
+          <placeName>Besançon</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Besançon, le 23 octobre 1841."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Besançon, le 23 octobre 1841.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parens, Je suis arrivé en bon port; mais je n'étais pas sur le seuil de la porte du collège que déjà on m'avait annoncé qu'il y avait de la besogne pour moi.</p>
+        <p>Un des maîtres d'études est malade chez lui et je suis obligé de le remplacer; de sorte que je suis pris tout le jour et cela pour je ne sais combien de temps. Si vous avez vos ennuis j'ai aussi les miens et je les vois arriver plus grands de jour en jour. Je vois que je commence à entrer dans la vie.</p>
+        <p>Dites-moi où vous en êtes pour la Fifine 1. Je me porte</p>
+        <p>- 1. Joséphine Pasteur.</p>
+        <p>ues bien, et n'ai nulle envie d'être sournois. Malgré ma besogne, je suis le cours de mathématiques. Ce serait les quatre heures que j'aurais de libre, sans cela; mais pourtant J aune a croire que cela ne durera pas longtemps.</p>
+        <p>Je vous embrasse tous.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              L. PASTEUR.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1842-10-23" >23 octobre 1842.</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Paris, 23 octobre 1842."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, 23 octobre 1842.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parens, Vous n'avez pas reçu de moi une lettre dimanche parce que je tenais à vous apprendre le rang d'admission 1 de Chappuis. C'est connu depuis ce matin. Il est le 10e. Leyritz a gardé son rang. Il est second.</p>
+        <p>Depuis hier soir aussi on connaît la liste de l'Ecole polytechnique. On m'a dit que Guillemin était refusé. Il n'y a que 11 élèves de la pension de reçus; c'est peu.</p>
+        <p>Je suis le cours de M. Vincent, cours relevé, mais dont on ne peut pas juger encore; il ne nous a fait faire encore que de l'arithmétique. Le cours de physique n'est pas merveilleux. Ni dans l'une ni dans l'autre classe on n'a encore composé; cela ne tardera pas. Bien entendu je vous appren-</p>
+        <p>drai de suite quelles sont mes places. A Paris c'est important; car on n'est pas dans les premiers quand on n'est pas fort; ce qui arrive souvent en province à cause du petit nombre d'élèves. Dans notre classe de physique, nous avons le ier prix de physique élémentaire au grand concours de l'année dernière.</p>
+        <p>Je n'ai pas encore commencé les répétitions dans la penlon; mais je sais ce que j'aurai à faire. Je n'aurai qu'une heure le matin de 6 h. à 7 h. et rien autre absolument dans toute la journée; aucune surveillance. Vous voyez que j'ai un bonheur insolent; j'ai réussi on ne peut mieux, car à vrai dire, je n'aurai rien à faire. Je pense que je commencerai demain. Ces répétitions consisteront en interrogations sur les élémentaires.</p>
+        <p>Ne vous inquiétez nullement sur ma santé et mon travll; je me lève tard et j'attends ces répétitions pour me faire lever à 6 heures moins le quart; ainsi vous voyez que Ce n'est pas être trop matinal; je suis d'ailleurs toujours oucé avant 10 heures, hier au soir et jeudi exceptés; car Ie suis allé au spectacle. Hier j'ai vu cette femme dont on Parle tant, Rachel. Elle mérite bien les applaudissements lui sont si largement prodigués. Je l'ai vue dans Marietuart. Il y a eu un moment où elle a été applaudie penant plus de dix minutes. On frappait des pieds et des V^ains. Ses traits ne sont pas beaux, bien faits, mais son eriergie la rend superbe. Cette demoiselle Maxime est bien -desous d'elle; je l'ai vue hier; mais malgré cela elle joue res bIen. Elle n'est pas d'Arbois du tout.</p>
+        <p>J étais hier au spectacle avec Altin, Chappuis et Leyritz.</p>
+        <p>tant que je le voie Altin [Vercel] avait écrit chez lui une lettre qu'il aurait bien voulu retenir après qu'il l'a eue mise il la oste. En route il avait été malade, et arrivant à Paris d était très ennuyé et c'est alors qu'il avait écrit cette lettre ont il ne s'est pas même rappelé le contenu quand je lui al emandé ce qu'il avait écrit.</p>
+        <p>p Ce que vous me dites dans votre dernière lettre de notre pauvre Emilie m'a consolé; je pense qu'elle va très bien à présent. Vous m'en parlerez au long dans votre lettre.</p>
+        <p>Joséphine est-elle rentrée? Virginie se porte-t-elle bien?</p>
+        <p>Ces veilles, cet ennui de voir Emilie si malade ont dû la fatiguer ainsi que vous, mes chers parens; j'aime à croire qu'à présent vous êtes un peu délivrés.</p>
+        <p>Je passerai mes jeudis dans une'bibliothèque voisine de la pension, avec Chappuis. Il peut sortir quatre heures ces jours-là. Le dimanche nous nous promènerons et travaillerons ensemble. Il peut sortir de 9 h. du matin à 10 h. du soir. Je tâcherai qu'Altin vienne avec nous à cette bibliothèque. J'y suis allé déjà plusieurs fois. Elle est très fréquentée. Je ferai avec Chappuis de la philosophie, le dimanche et peut-être aussi le jeudi, puis je lirai quelques ouvrages de littérature. Quand je trouverai chez un marchand de gravures un modèle à mon goût je vous promets de le copier.</p>
+        <p>Je ne suis pas encore retourné chez M. Barbier. J'y irai dimanche prochain.</p>
+        <p>Je recevrai probablement dans 2 ou 3 jours une autorisation de M. le Proviseur 1 pour avoir mon congé; c'est M. Barbet qui s'occupera de tout cela. Et j'aurai mon congé dans une quinzaine de jours probablement.</p>
+        <p>Chappuis vous dit bien des choses et vous écrira dans quelque temps. Je l'ai vu constamment tous les jours derniers plutôt deux fois qu'une.</p>
+        <p>Je vous embrasse tous de bon cœur.</p>
+        <p>L. PASTEUR.</p>
+        
+        
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+        <postscript>
+          <p>P.-S. — N'oubliez pas de me dire comment est à présent Emilie, si elle parle beaucoup, si elle a maigri.</p>
+          <p>Vous devez voir que je n'ai pas cette année la maladie du pays 2. Ce matin j'ai pris un bain; ça m'est facile, nous avons notre chambre dans un établissement de bains. Les élèves avec qui je reste sont très bons garçons.</p>
+          <p>Bien des choses à Jules [Vercel] et dites-lui qu'Altin a parfaitement accueilli sa dernière lettre, que j'ai lue et qui était pleine de bons conseils donnés avec douceur'et bonté.</p>
+          
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1848-05-05" >5 mai 1848</date>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Chappuis, Charles (1822-1895)">A CHAPPUIS</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Paris, 5 mai 1848</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A CHAPPUIS.</p>
+                <p>Paris, 5 mai 1848.</p>
+                <p>t Combien de fois déjà j'ai regretté que nous n'ayons pas ous deux embrassé la même étude, celle des sciences phyques. Nous qui parlions jadis si souvent de l'avenir, nous e comprenions guère. Quels beaux travaux nous aurions etrepris, nous entreprendrions à l'heure qu'il est! et que prions-nous pas résolu, unis par les mêmes idées, le ertie amour de la science, la même ambition? Je voudrais rËe nous eussions vingt ans et que les trois années de oe fussent à reprendre dans ces conditions.</p>
+                <p>J'ai travaillé beaucoup cette année. Je suis entré dans un gente d'études en quelque sorte nouveau que je ferais bien heut-être de poursuivre longtemps encore. J'ai toujours à. eaucoup aimé ce qui a rapport à la chimie moléculaire, b la constitution intime des corps. Je crois être dans une a onne voie pour arriver à des résultats importants et yant une certaine généralité. Mon travail sur le dimorPhisrne 1 que j'ai lu en partie à l'Académie des Sciences très bien accueilli 2. Plusieurs membres de l'Institut lil, Ont donné à cette occasion des témoignages d'une grande lellveillance.</p>
+                <p>1, Certaines substances de même composition chimique peuvent avoir 2 ormes cristallines différentes.</p>
+                <p>-, v oir (jruvres de Pasteur, 1. I, p. 3 5-37 : Recherches sur le dimorphisme.</p>
+                <p>Je travaille en ce moment à de nouvelles recherches dont les résultats sont très curieux, et qui (je le pense du moins) saisiront vivement l'attention. Je cesserai tout travail particulier, dès que celui-ci sera achevé, pour me préparer à l'agrégation des Facultés, si toutefois j'en ai le courage. A quoi bon s'imposer encore les ennuis d'un concours, aussi inutile, quel qu'en soit le résultat?</p>
+                <p>Mes recherches sur le dimorphisme s'impriment en ce moment dans les Annales de chimie et physique 1.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

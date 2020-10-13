@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1841-05-31">31 mai 1841.</date>
+          <placeName>Besançon</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Besançon, 31 mai 1841."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Besançon, 31 mai 1841.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parens, J'ai reçu la lettre de papa le lendemain de son départ.</p>
+        <p>J'ai fait la commission dont il me chargeait dans cette lettre; mais. au lieu de 41 fr. 25 cent. le cordonnier a payé encore une autre douzaine de veaux cirés et M. Viennet lui a fait un reçu pour toute la somme qui se monte à un peu plus de 80 fr., je ne me rappelle pas bien au juste. Comme le fils Callier doit aller, "à ce qu'il m'a dit, à Arbois dans quelques jours, je lui remettrai cette somme avec le livre e Cuvier. Si je manque cette occasion, je ne sais pas trop comment je pourrai vous envoyer cela; aussi vous m'indiquerez à quel messager je pourrai remettre cet argent et ce IVre. Si vous le voulez je prendrai, sur cette somme de 80 fr., 20 fr. à peu près pour faire l'emplette du dictionnlre de Napoléon Landais. Je n'en ai pas besoin, comme bien vous pensez, mais un pareil dictionnaire est toujours utile dans une famille. C'est peut-être une fantaisie de ma Part : voyez : dites-moi ce que vous en pensez.</p>
+        <p>Pour mes sœurs j'ai acheté il y a quelques jours un très JolI livre, j'entends par très joli quelque chose de très intéressant. C'est un petit ouvrage (il coûte 3 f. 50 cent.) qui a remporté le prix Montyon il y a quelques années. Il est IntItulé Picciola 1. Je crois que si quand elles l'auront elles veulent le lire, il leur sera très utile; comment aurait-il été couronné du prix Montyon si sa lecture devait n'être pas très avantageuse?</p>
+        <p>b A la fin de l'année j'achèterai encore quelques-uns de ces os livres; non seulement ils seront très utiles à mes sœurs, malS ils seront attrayants à lire, et c'est ce qu'il faut à pré-</p>
+        <p>sent rechercher avec vous, mes sœurs; il faut vous prendre par un côté faible, par l'attrait, le plaisir; car il semble qu'en vous le sentiment du devoir et du devoir seul soit éteint. Dans toutes mes lettres, et certes elles n'ont pas été en petit nombre, dans toutes mes lettres je n'ai cessé de vous donner des conseils, et des conseils de frère. Presque toujours j'en revenais sur votre instruction, pensant que lorsque vous auriez bien étudié, vous ne seriez pas toujours à vous contrarier l'une et l'autre. Eh bien qu'ai-je obtenu?</p>
+        <p>Rien. Vous êtes ce que vous étiez il y a deux ans, vous êtes ce que vous avez toujours été, vous contrariant sans cesse, mettant de côté tout conseil venant de ma part ou de celle de nos parens; sans doute vous vous aimez au fond comme des sœurs doivent s'aimer; je croirais vous faire injure en supposant le contraire; mais cet amour pourquoi ne le montrez-vous pas au dehors? J'ai eu déjà l'occasion de voir bien des familles et de les observer dans leur intérieur même : je le dis franchement : jamais je n'en ai vu une où deux sœurs n'aient pour elles pas plus de complaisance que vous en avez. Encore une fois, une dernière fois, Virginie, ne contrarie pas ta sœur Joséphine et toi, Joséphine, ne contrarie pas ta sœur Virginie.</p>
+        <p>Quant à vous, mes chers parens, n'ayez sur mon travail, sur ma santé, aucune inquiétude; je ne travaille pas trop et je me porte parfaitement.</p>
+        <p>Pour la fin de l'année je ferai à mes sœurs un très joli cadeau; j'emporterai quelque chose à chacune des trois; ce sera bien plus beau qu'un peigpe doré, qu'un St-Esprit, je ne dis pas que des bonbons; car je ne sache pas que je ferais un plus grand plaisir à Emilie en lui envoyant autre chose que des bonbons. Pour la dernière foire, si papa n'était pas parti si promptement je lui aurais donné un ou deux cornets pour elle; mais que rien ne soit perdu, achetez-lui en un beau quand vous recevrez ma lettre et dites-lui que c'est son frère qui le lui envoie. Adieu mes parens, mes sœurs. Je vous embrasse tous.</p>
+        <p>PASTEUR Louis.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              
+            </name>
+          </signed>
+        </closer>
+        <postscript>
+          <p>Bien des choses à Jules et à Altin [Vercel ].</p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

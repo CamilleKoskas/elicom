@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1849-10" >Fin octobre 1849</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>[Fin octobre 1849.]</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p> Mon cher papa, J'ai reçu aujourd'hui le rapport de M. Biot par le compte rendu de la séance du 22 octobre 1. C'est à la fin de la semaine seulement que je pense en recevoir cent exemplaires et que je pourrai vous en envoyer quelques-uns.Ce rapport très étendu est des plus favorables. Je vais transcrire seulement les dernières lignes : « M. Pasteur promet de suivre ces recherches par des investigations nouvelles et nous pouvons tout attendre de sa persévérance comme de sa sagacité.</p>
+        <p>o L'Académie voit que ce travail de M. Pasteur est la continuation à la fois intelligente, habile et patiente de celui qu'il a présenté il y a précisément une année. Comme * nous l'avons dit au commencement de notre rapport, ceci est tout un chapitre nouveau de chimie que M. Pasteur a eu le bonheur, ainsi que le talent de commencer et de finir.</p>
+        <p>Nous le signalons unanimement à l'Académie comme très digne de figurer dans le recueil des savants étrangers.</p>
+        <p>« Sur la proposition unanime de la commission l'Académie arrête qu'un exemplaire du rapport sera adressé de - sa part à M. Kestner de Thann. »</p>
+        <p>M. Kestner est un habile industriel de Thann, représentant à l'Assemblée constituante, qui a bien voulu, ainsi que je te l'ai dit, me faire cadeau de 3 kil. d'acide racémique, acide découvert par lui dans sa fabrique en 1820. Je lui avais promis de signaler à l'attention des savants sa bienveillance et son désintéressement. Je l'ai fait dans mon travail et M. Biot l'a fait également dans son rapport ainsi que vous le verrez bientôt.</p>
+        <p>Tout le monde ici, à commencer par M. Laurent, a pleuré de joie en recevant et en lisant le rapport de M. Biot. Vous serez encore plus heureux que nous.</p>
+        <p>Si tu as vu quelque chose dans le National, mon cher papa, aie la bonté de me l'écrire. Le rapport a quatorze pages des comptes rendus.</p>
+        <p>Adieu tous, je vous embrasse de bon cœur.</p>
+        <p>L. PASTEUR.</p>
+        <p>P.-S. — Que Joséphine prenne les plus grandes précautions.</p>
+        <p>L'hiver commence. Il fait ici très froid déjà.</p>
+        <p>Rien n'est encore décidé sur le jour où nous commencerons le cours. Les examens commenceront le 5, jour de la rentrée.</p>
+        <p>Il paraît à peu près certain que j'aurai encore l'École de pharmacie cette année. Je ne pourrai pas faire grand'chose cet hiver au laboratoire.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

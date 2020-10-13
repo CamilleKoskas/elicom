@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1842-08-07">le 7 août 1842.</date>
+          <placeName>Besançon</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Besançon, le 7 août 1842."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Besançon, le 7 août 1842.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parens, a Hier a commencé l'examen de l'Ecole normale. Nous avons déjà fait deux compositions, l'une en philosophie, t aUttre en mathématiques. Cette dernière est la plus importaf Je crois avoir traité la question de philosophie CQ Vena^ement pour la partie mathématique. Car il est ien SUr ,. d</p>
+        <p>Ce' qu on n eXIge pas de nous, qui ne sommes pas censes n?US occuper du tout de philosophie, que la compoIOn soit aussi bien que pourrait la faire un élève qui se</p>
+        <p>présente pour les lettres. D'ailleurs je n'ai pas été trop aride, et je n'ai point mis de choses fausses. Nous avions à traiter de l'Evidence et j'en ai fait trois pages, sur du papier plus grand que celui sur lequel je vous écris. J'ai consulté ensuite des livres avec lesquels je me trouve d'accord. D'ailleurs j e vous le répète, c'est là le moins important.</p>
+        <p>Aujourd'hui en mathématiques nous avions deux questions, une d'algèbre, une de géométrie analytique. Leyritz et moi nous sommes arrivés aux mêmes résultats, et nous sommes assurés d'avoir bien fait. Ce serait déjà beaucoup de n'avoir pas été enfoncés de manière à ne pas pouvoir résoudre les questions, mais mieux que ça, nous avons employé des moyens de solutions élégants et qui nous ont conduits le plus facilement que possible aux résultats. Les questions portaient sur deux problèmes, qui au premier abord paraissaient faciles, mais il y avait pourtant des calculs immenses; aussi avons-nous travaillé sans bouger un instant pendant six heures consécutives, de 6 heures à midi. Les deux questions résolues tenaient 4 pages.</p>
+        <p>Je vais écrire à Chappuis afin de savoir si beaucoup d'élèves candidats ont été enfoncés, et si la composition a été trouvée facile à Paris. Nous jugerons mieux -d'après cela. Car je vous dirai que l'année dernière Bertin qui a été reçu le premier à l'Ecole n'avait pas pu faire une des questions. Pas un élève n'avait fait celle-là. S'il en était ainsi cette année nous serions bien sûrs de notre affaire.</p>
+        <p>Dans tous les cas soyez sûrs que si je réussis pour la composition de physique, vous me verrez admissible cette année, et si je suis admissible je ferai tant que je serai admis. Si je suis reçu admissible dans un bon rang de manière que je puisse espérer sur l'admission j'abandonnerai probablement l'examen de l'Ecole polytechnique pour ne travailler qu'en vue du second examen de Paris.</p>
+        <p>Demain nous composons en version latine. C'est encore peu important. Lundi nous composons en physique et mardi sont les examens oraux en mathématiques, physique et chimie. Je vous écrirai sans doute de manière à ce que vous receviez ma lettre mardi ou mercredi pour que vous sachiez le résultat de la composition de physique.</p>
+        <p>Adieu, mes chers parens, ne parlez à personne de ma • bonne chance. Vous annoncerez probablement dans 20 jours à ceux qui nous veulent du bien commç à ceux qui nous veulent du mal que je suis reçu admissible. Plus u un n'en seront pas contens, si cela peut arriver. Dans tous les cas n'en parlez même pas, crainte de déception.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+             PASTEUR Louis.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

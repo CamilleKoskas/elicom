@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1840-10-28" >28 octobre 1840.</date>
+          <placeName>Besançon</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Besançon, 28 octobre 1840.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parens, Je n'ai rien eu de pressant à vous dire ces premiers jours : voilà pourquoi je ne vous ai pas écrit. Il y a bien du changement comme vous le savez, pour les études. Mais pour les mathématiques spéciales rien n'est changé; nous n'avons toujours comme précédemment que classe de physique et de mathématiques.</p>
+        <p>Je ne puis rien vous dire encore sur le travail que nous aurons; jusqu'ici il n'y a rien de bien extraordinaire. Plus tard j'en aurai beaucoup plus. Voici pourquoi.</p>
+        <p>M. le Proviseur 1 ne m'avait pas oublié. Il m'a fait appeler il y a deux ou trois jours et m'a dit qu'avant le mois de janvier il espérait que je serais nommé maître supplémentaire. Pour moi je crois que c'est une chose sûre, parce qu'il y en a besoin d'un cette année. D'abord nous sommes beaucoup*plus d'élèves que l'an dernier et puis les changements qui se sont faits dans les maîtres d'études et les professeurs des basses classes le nécessitent. Tout ce qu'il s'agit de savoir, c'est si j'aurai le temps avec cette petite fonction, qui d'ailleurs n'est pas très pénible, de suivre comme il convient le cours de spéciales. Je ne puis rien</p>
+        <p>dire là-dessus sans avoir essayé pendant quelques jours.</p>
+        <p>Et puis je reparlerai sans doute de cela à M. le Proviseur.</p>
+        <p>Toi aussi, mon cher papa, quand tu viendras pour la foire, tu lui en parleras. Vous savez qu'un maître supplémentaire est nourri, logé et a 300 fr. de traitement.</p>
+        <p>J'ai fait dire cè matin à M. Renault d'envoyer à votre adresse à Arbois 4 feuilles de papier pour pastels. Ça vous donnera de l'ouvrage pour les coller parce que je crois quelles ne seront pas assez grandes.</p>
+        <p>En tout cas, si vous ne pouviez pas les coller, vous pourriez aller acheter chez Monge de l'autre papier que on appelle papier Grand Aigle et qui, à ce que m'a dit un amateur de peinture, est tout aussi bon pour les pastels que 1 autre. C'est du papier blanc qui %st très grand et qui coûte très cher la feuille. C'est de ce papier-là dont s est servi M. Romanet 1 pour le portrait de sa femme.</p>
+        <p>Pour mon compte je crois qu'il est aussi bon que l'autre.</p>
+        <p>C est une corvée que je vous donne à faire. Mais vous avez le temps de faire cela. Nous ne sortirons guère que dans 20 ou 30 jours et peut-être plus; ainsi vous avez le temps.</p>
+        <p>Occupez-vous de ma petite caisse que fait Huguenet, de mes bottes aussi. Si j'ai besoin d'un pantalon je vous l'écrirai, mais ayez soin de me le faire chaud, en droguet 2 si on e vend. Ce serait pour le mettre en hiver. Je crois que e tailleur aura conservé ma mesure.</p>
+        <p>Je pense ici qu'il vaudrait mieux que vous prissiez de ce papier Grand Aigle, parce que l'autre serait bien trop Petit- SI M. Renault n'a pas encore envoyé son papier à la diligence je lui ferai dire de ne pas l'envoyer.</p>
+        <p>SI vous le recevez, vous vous arrangerez comme vous le jugerez convenable.</p>
+        <p>Adieu, mes chers parens, je vous embrasse tous.</p>
+        <p>PASTEUR Louis.</p>
+        <p>Je recommande à mes sœurs de bien travailler; mais avant tout de ne pas se contrarier entre elles. Avec cela tout ira bien. Que Joséphine dessine beaucoup et qu'elle s'attache principalement à bien soigner ce qu'elle fait.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+        <postscript>
+          <p>Je recommande à mes sœurs de bien travailler; mais avant tout de ne pas se contrarier entre elles. Avec cela tout ira bien. Que Joséphine dessine beaucoup et qu'elle s'attache principalement à bien soigner ce qu'elle fait.</p>
+          <p> Quand papa viendra à la foire, j'enverrai à la petite 1 un cornet de bonbons.
+          </p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

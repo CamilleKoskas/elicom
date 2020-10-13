@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1842-12-09" >9 décembre 1842.</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Paris, 9 décembre 1842."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, 9 décembre 1842.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parens, Votre dernière lettre m'a fait le plus grand plaisir, en m'apprenant qu'Emilie était guérie, et aussi en me disant que Virginie et Joséphine travaillaient à leur instructionJe crois sincèrement papa quand il me dit pareille chose, car là-dessus il m'avait toujours dit vrai et souvent c'était pour me dire qu'elles ne travaillaient pas du tout et qu'elles</p>
+        <p>prenaient mal ses conseils. Soyez sûres, mes chères sœurs, que cette nouvelle m'a fait le plus grand plaisir.</p>
+        <p>Quant à moi, je suis toujours le même, toujours bien portant, travaillant assez sans pourtant me faire du mal et ne faisant pas plus attention à Paris et à ses gens que si je n'y étais pas. Qui est-ce que j'y fréquente? Chappuis.</p>
+        <p>Qui encore? Chappuis.</p>
+        <p>J'ai vu le capitaine Barbier il y a quelques jours pour la deuxième fois. Il me fait toujours assez d'accueil. Je ne vais pas le voir souvent car je n'ai le temps que le dimanche et alors je suis avec Chappuis.</p>
+        <p>Maintenant je vais vous parler de mes répétitions et de la classe. Je n'ai pas de places de compositions à vous apprendre. Mercredi dernier nous avons composé en mathématiques et en physique. Je crois avoir bien composé. Et Je crois fort qu'en physique je ne passerai pas la place de 3. • Jusqu'ici vous savez que j'avais assez négligé la physique et la chimie à cause de notre professeur de Besançon.</p>
+        <p>Cette année je les travaille beaucoup. Je ne puis pas espérer Cl'être à la tête en physique parce que le plus fort de l'année ornière, comme je vous l'ai déjà dit, est encore dans notre classe cette année. Mais au moins j'en approcherai beaucoup. Enfin vous verrez cela d'après mes places.</p>
+        <p>Quant à la chimie nous ne l'avons pas commencée encore au collège. Mais je suis le cours qui est fait à la Sorbonne Par M. Dumas 1, célèbre chimiste de l'époque. Son cours est facile à comprendre; je le rédige exactement. Vous ne Pouvez pas vous figurer quelle affluence de monde il y a à Ce cours. La salle est immense et toujours remplie. Il faut er une demi-heure d'avance pour avoir une bonne place, a i solument comme au théâtre. Pareillement, on applaudit eaucoup. Il y a toujours 6 ou 700 personnes.</p>
+        <p>Je vous ai déjà dit que notre cours de physique était très bien fait. Le cours de mathématiques est aussi très oh Dafis chaque classe nous sommes à peu près 60 élèves.</p>
+        <p>Chappuis m'a chargé de vous dire bien des choses. Il</p>
+        <p>Ill0t J;an-Baptiste Dumas, célèbre chimiste, né à Alais (Gard) en 1800, Inort à, Cannes en 1884. Il eut sur Pasteur une influence considérable.</p>
+        <p>travaille toujours beaucoup la philosophie et il est probable qu'il pourra sortir de l'Ecole dans cette partie-là. Le proviseur de Besançon l'attend aussi dans 3 ans, de sorte qu'il est probable que nous nous retrouverons encore là ensemble. Ce serait vraiment trop bien réussir.</p>
+        <p>Le messager qui doit m'apporter ma caisse n'est pas encore arrivé. Je lui donnerai le manteau de papa. J'ai acheté un paletot 60 fr. J'aurais pu en avoir un à meilleur marché, mais mal soigné et de peu de durée. Celui-là pourra me servir pendant mes trois années d'Ecole. Alors je pourrai bien faire faire un manteau.</p>
+        <p>Je prends deux fois par semaine des leçons de musique vocale afin de pouvoir lire de la musique, et savoir un peu ce que c'est que cet art; d'autant plus qu'il y a en physique une partie que jusqu'ici j'avais difficilement comprise, parce que je ne connaissais même pas les notes, c'est ce qu'on appelle l'acoustique, partie toute nouvellement faite par M. Savart. Mon maître est ce jeune homme que papa a vu un jour à Dôle, chez M. Brun, M. Jacquinot, jeune homme excellent, et qui n'a pas du tout le caractère d'un acteur, à part l'amour de la gloire et l'enthousiasme de l'artiste. On pense qu'il réussira au théâtre, mais il travaille toujours et n'a débuté encore que dans des salons.</p>
+        <p>- Voilà ce que je fais, mes chers parens, dans cette ville de Paris si belle et si laide sous tous les rapports. Ici, plus que partout ailleurs, se choquent, se croisent la vertu et le vice, la probité et la mauvaise foi, la fortune et la misère, le talent et l'ignorance. Mais quand on a du sang sous les ongles, on y reste le cœur simple et droit comme en un endroit tout autre. Y change qui n'a pas de volonté.</p>
+        <p>Je vous embrasse tous de bon cœur.</p>
+        <p>L. PASTEUR.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

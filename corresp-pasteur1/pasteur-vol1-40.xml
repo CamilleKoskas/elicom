@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1848-04-03" >Paris, 3 avril 1848.</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Au MINISTRE DE L'INSTRUCTION PUBLIQUE ET DES CULTES. (...-...)">Au MINISTRE DE L'INSTRUCTION PUBLIQUE ET DES CULTES.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, 3 avril 1848.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Monsieur le Ministre, M. Gerhardt, Professeur de Chimie à la Faculté des Sciences de Montpellier, demande un congé 1. J'ai l'honneur de vous faire savoir, M. le Ministre, que je me mets sur les rangs comme candidat à la suppléance de cette chaire. Voici quels sont mes titres : je suis élève de l'Ecole normale, agrégé pour les sciences physiques, docteur ès sciences physiques, et je suis actuellement à l'Ecole normale en qualité de préparateur de chimie. Quant à mes titres scientifiques je suis trop jeune, M. le ministre, pour en avoir de nombreux; mais je dois ajouter que j'espère en acquérir de nouveaux chaque année, car j'aime la science pour la science. Mes thèses pour le Doctorat sont des thèses de recherches qui m'ont coûté une année de travail assidu.</p>
+        <p>J'ai présenté en outre à l'Académie des Sciences une note et deux mémoires 2.</p>
+        <p>Recevez, Monsieur le Ministre, l'assurance de mon respect et de mon dévouement.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              L. PASTEUR, préparateur de chimie à l'Ecole normale.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

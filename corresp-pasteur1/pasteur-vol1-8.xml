@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1841-01-20">20 janvier 1841.</date>
+          <placeName>Besançon</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Besançon, 20 janvier 1841."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Besançon, 20 janvier 1841.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parens, Je n'ai pu vous répondre lundi. Mon ouvrage de classe ne me l'a pas permis. Je vous dis mon ouvrage de classe, parce que pour l'autre jusqu'ici il n'a pas été considérable.</p>
+        <p>Et même je vous dirai que depuis que j'ai été nommé 1 je ai encore été occupé que pendant une petite demi-heure.</p>
+        <p>Ainsi si cela continue, je n'aurai pas été bien fatigué de ce cte-là. Je dois ce privilège à M. le Proviseur; car il y a bien des petites corvées que je devrais faire et dont il ne me harge cependant pas, afin de me laisser tout le temps do ssible pour travailler à mes mathématiques.</p>
+        <p>., Je me trouve toujours parfaitement d'avoir une chambre; j'ai plu de temps à moi, je ne suis dérangé par aucune de ces petites choses qu'on est obligé de remplir étant élève ej. ql ne laissent pas que de perdre un temps assez long.</p>
+        <p>Auss Je m'aperçois déjà de certaines modifications dans mes V des, les difficultés s'aplanissent de plus en plus parce que J al plus de momens à leur donner et je ne désespère Pas en continuant à travailler comme je le fais cette année</p>
+        <p>Pasteur avait été nommé, le 28 décembre 1840, maître d'études.</p>
+        <p>et l'année prochaine, d'être reçu dans un bon rang à l'Ecole.</p>
+        <p>N'allez pas croire cependant que je travaille à me faire du mal. Je prends toutes les récréations nécessaires à ma santé.</p>
+        <p>Ces jours derniers on m'a rapporté mon anglaise : je crois qu'elle va bien, ainsi que mes gilets. Je crois que je ne vous ai pas dit encore le prix que cela m'avait coûté.</p>
+        <p>Un des gilets coûte 4 fr., l'autre 8 fr. La redingote, en comptant les doublures des gilets aussi, revient à 48 fr., ce qui fait seulement pour ce qui a été payé au marchand drapier 58 fr. [sac]. Après cela pour le tailleur il y a d'un côté 7 fr. de façon pour les 2 gilets; 6 francs de boutons, de fil et bordures et autres petites choses de ce genre; enfin 12 francs pour la façon de l'anglaise; en tout, pour le tailleur 25 francs qui joints aux 58 francs du marchand drapier font 83 francs. J'avoue que c'est assez cher. Cependant M. Viennet m'a dit que le tailleur ne m'avait pas demandé un liard de trop cher. Quant au prix du marchand, c'est lui-même qui a tout arrangé comme pour lui. Ainsi voilà déjà 83 francs. Après cela vous pouvez ajouter d'abord</p>
+        <p>4 francs pour le raccommodage de mon ancien pantalon bleu qui était en assez mauvais état. Puis 2 francs pour des pinces et une pêle à feu, 2 f. 50 pour un canif, 0 f. 50 pour un couteau, o f. 75 pour des ciseaux, 0,75 pour une cruche afin d'avoir toujours de l'eau, l fr. pour un pot de fer battu pour mettre de l'eau sur le feu afin de n'avoir pas mal à la tête à cause du fourneau, etc. Vous pouvez ajouter à cela</p>
+        <p>du papier, des plumes, de l'encre, des pains à cacheter et</p>
+        <p>même des allumettes chimiques. la somme des prix de</p>
+        <p>toutes ces petites choses ajoutée à 83 fr. donne une somme qui dépasse même 100 francs, à moins que je ne sache pas faire une addition ou une soustraction. Je suis bien aise de vous avoir fait mon petit compte afin que vous sachiez où a passé ma bourse. Cependant j'ai de l'argent encore. D'ailleurs voici la foire. Mais sachez que je ne vais plus à présent prendre dans votre bourse : à la fin de ce mois le collège sera déjà mon débiteur. Cependant je vous assure bien que l'argent que je toucherai ne sera pas très bien gagné.</p>
+        <p>Vous trouverez peut-être un peu sot de ma part de ce que je viens de perdre une page à dire des bêtises et je</p>
+        <p>n'en disconviens pas. C'est que, mon Dieu, je n'avais rien de mieux à vous dire, si ce n'est à mes sœurs qui comme moi n ont pas l'esprit de remplir trop de papier en écrivant une lettre. Car je me rappelle très bien que ce qu'elles m'écrivaient il y a 2 ou 3 jours n'est pas très volumineux.</p>
+        <p>x Eh bien, tout en riant, je vous dirai, à toi, Virginie, et a toi, Joséphine, que vous devriez, comme je vous le répète continuellement, vous exercer à écrire et à écrire beaucoup; et pour cela un moyen très facile serait de m'écrire vousInemes et longuement. Que le papa vous dise ce qu'il a à apprendre et qu'en veillant, le soir, vous me l'écriviez.</p>
+        <p>Que craignez-vous? Quand même vous feriez des fautes : je ne veux pas vous en faire un crime : au moins je pourrais Vous donner quelques conseils là-dessus, vous reprendre, Vous aider. Sans cela que voulez-vous que je fasse? Ainsi il vous faut nécessairement m'écrire; ça n'empêchera pas Joséphine de m'envoyer l'œil qu'elle m'a promis 1. Adieu, mes sœurs et mes chers parens. Je vous embrasse tous, aInSI que ma chère Emilie que je remercie aussi de ses lettres : si elles ne sont pas très expressives et pas très intelligibles, au moins sont-elles plus longues que les vôtres; SI 1 exécution n'y est pas, l'intention y est et c'est beaucoup. Le bonjour à ma grand-maman.</p>
+        <p>PASTEUR.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              L. P.
+            </name>
+          </signed>
+        </closer>
+        <postscript>
+          <p>p.-S. — Je vais vous apprendre une nouvelle encore secrète, mais qui quand elle se sera répandue causera le Plus grand scandale; c'est l'expulsion (qui aura lieu bienot) de notre aumônier. Cet homme, connu depuis très longtemps par tous les élèves internes du collège, ne l'était vilement dans la ville, son talent de prédicateur, son hypoft. sie principalement le faisaient admettre dans les meilUres familles de Besançon. Accablé de dettes, tenant dans le collège une conduite infâme, son froc couvrait tout : vous oudriez peut-être savoir quels étaient donc les crimes, car 1 taut les appeler ainsi, de cet homme; mais malheureuseent ce sont des choses qu'on n'ose dire. Plus tard vous</p>
+        <p>les saurez sans doute, car ça fera du bruit. J'ai toujours été persuadé que je ne sortirais pas du collège sans voir cet homme chassé honteusement. C'est malheureux, bien malheureux que la religion ait de pareils ministres, et c'est peut-être plus malheureux encore qu'un pareil homme ait été à la tête d'un collège pendant dix ans. Tenez cela secret : tout n'est pas encore connu. Quant à moi soyez sûrs que je ne divulguerai rien. Vous entendrez dire qu'il est sorti du collège parce que son talent de prédicateur lui a donné l'intention de se faire missionnaire.</p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

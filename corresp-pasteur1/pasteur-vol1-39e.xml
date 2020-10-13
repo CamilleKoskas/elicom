@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1846-11">novembre 1846</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Balard, Antoine-Jérôme (1802-1876)">A BALARD</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+               
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>novembre 1946</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                
+                <p>A BALARD.</p>
+                <p>Novembre 1846.</p>
+                <p>Monsieur, J'ai pensé au travail que je pourrais entreprendre durant mon séjour à l'Ecole sous votre bienveillante direction. Déjà cette année j'ai eu occasion de vous soumettre à ce sujet quelques idées que vous aviez encouragées. Ces</p>
+                <p>idées s'étaient présentées à mon esprit en lisant votre mémoire sur l'alcool amylique. La réaction par laquelle Vous donnez naissance à l'éther amylique en traitant l'éther hydrochloramylique par une dissolution de potasse dans un tube fermé, me semble très digne d'appeler l'attention. Elle montre, ce que du reste on prévoit a priori, l'influence de la pression considérée comme force capable d'intervenir dans les actions chimiques. Elle indique le moyen de donner naissance aux produits oxygénés C4 H5 0 C4 H4 02 C4 H3 03. et à leurs correspondants parmi les alcools amylique et méthylique. De là un moyen de préparer les aldéhydes amylique et méthylique et même, s'il est Possible, les acides acétique et formique anhydres. Certainement en opérant avec la potasse et le composé C4 H3 C13 de M. Regnault 1, c'est de l'acétate de potasse qui prendrait naissance. Mais peut-être avec la chaux, la baryte anhydres la réaction C4 H3 C13 + Ba3 03 = C4 H3 03 + C13 Ba3 s opérerait-elle?</p>
+                <p>Les composés chlorés sont si nombreux en chimie organique que beaucoup peut-être soumis à une haute pression en présence de la potasse donneraient lieu à des faits intéressants, ou à des combinaisons curieuses.</p>
+                <p>Ne serait-il pas utile également d'étudier si certains corps en voie de cristallisation n'éprouveraient pas des modifications dans leurs formes cristallines lorsque le liquide qui les tiendrait en dissolution serait soumis à une haute pression. — D'autre part verrait-on encore se produire ces Phénomènes d'inertie moléculaire si nombreux lorsque la Pression serait convenable, et l'acide tartrique et la potasse ne donneraient-ils pas lieu immédiatement à des cristaux.</p>
+                <p>Pareillement il serait curieux ce me semble d'étudier ce que deviendraient certaines réactions lorsque les corps mis en présence seraient au contraire soumis à une pression beaucoup plus faible que celle de l'atmosphère. M. Regnault avait trouvé que l'éther hydrochlorique pouvait être dis-</p>
+                <p>A J. Henri-Victor Regnault (1810-1878), chimiste et physicien, succéda t GaY-Lussac, en 1840, comme professeur de chimie à l'École polyeChnique, fut professeur de physique au Collège de France.</p>
+                <p>tillé sans altération sur une dissolution alcoolique de potasse. D'après votre expérience cela tenait simplement à l'état physique sous lequel se présente cet éther. Il a trouvé au contraire que la liqueur des Hollandais était décomposée facilement par la dissolution alcoolique de potasse. Eh bien si à son tour cette dernière expérience était tentée à une très basse pression, donnerait-elle le même résultat? L'expérience serait à faire.</p>
+                <p>Toutes les réactions se passant dans les laboratoires sous la pression atmosphérique et d'après ce que nous voyons arriver sous cette pression dans les appareils, nous concluons à telle constitution des corps, qui serait peut-être souvent démentie si l'expérience avait été faite en changeant seulement l'état physique des corps, la pression à laquelle ils sont soumis. Que si dans votre expérience il était arrivé que C4H3Cl + KO eût donné C4H4 + HO + CI K , et non C4H50 + CI K, l'opinion de M. Regnault sur la constitution de C4 H5 CI eût été détruite. Votre expérience n'est pas défavorable à l'opinion de M. Regnault; mais elle aurait pu l'être, bien que vous n'ayez fait que répéter sa propre expérience.</p>
+                <p>Le cercle de ces idées s'agrandirait beaucoup, je pense, si on y réfléchissait davantage. Il y a ce me semble des recherches à faire dans cette voie.</p>
+                <p>Quant à l'exécution des expériences elle serait commode, je pense, en se servant de la disposition d'appareil de M. Regnault pour les tensions des vapeurs. Un réservoir d'air, comprimé à l'aide d'une pompe, communiquerait avec un manomètre et avec le tube résistant où seraient placés les corps en expérience. On pourrait ainsi avoir une pression variable à volonté et toujours facile à déterminer.</p>
+                <p>Y a-t-il réellement dans ces idées un sujet de travail que je puisse entreprendre sans y rencontrer trop de difficultés?</p>
+                <p>Personne mieux que vous, Monsieur, ne peut me donner ces conseils que je recevrai avec plaisir et reconnaissance.</p>
+                <p>Votre élève tout dévoué, L. PASTEUR.</p>
+                
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+
