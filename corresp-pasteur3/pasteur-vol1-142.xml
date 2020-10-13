@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1857-03-10">Mardi au soir, 10 mars 1857.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Mardi au soir, 10 mars 1857."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Mardi au soir, 10 mars 1857.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Ma chère Marie, Je suis de plus en plus convaincu de l'insuccès, mais cette candidature m'aura été utile. M. Biot me disait hier soir quelque chose de très juste. On sait que je suis le candidat de valeur. On sait que c'est pour moi que l'on devrait voter.</p>
+        <p>Mais ils ont peur (un bon nombre du moins) de la chimie.</p>
+        <p>Ils disent que la chimie veut tout envahir. A ce titre j'ai contre moi tous les naturalistes et les plus ignares. Tu sais ce qu'est la section de botanique renouvelée en trois ans par des bouche-trous et des médiocrités. Elle est en masse contre moi!</p>
+        <p>Cette candidature m'aura été utile surtout à ce point de vue que toutes ces médiocrités sous la coupe desquelles je me sens en ce moment me donnent du dépit et que dans mon travail je vais reprendre cette fièvre de mes premières années. Je travaillerai avec la rage au cœur. Je serai heureux quand je pourrai venir lire un beau mémoire avec ce cri dans le cœur : Crétins que vous êtes, faites-en donc autant. Je parle ici de ce crétin de***, de*** et tant d'autres nullités, arrivées faute d'autres et par accident de la fortune.</p>
+        <p>Adieu. Je t'aime et je t'embrasse. A mardi.</p>
+        <p>Au milieu de mes tribulations et de mes irritations j'ai de bons moments. Ainsi je suis sorti aujourd'hui plein d'estime et d'admiration pour M. Poncelet1 non pas parce qu'il m'a dit que sa voix m'était acquise depuis la discussion, mais parce qu'il m'a parlé avec les sentiments d'un vrai savant.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

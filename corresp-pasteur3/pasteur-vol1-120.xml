@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1855-10-07">7 octobre 1855.</date>
+          <placeName>Lille</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="[Lille, 7 octobre 1855]."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>[Lille, 7 octobre 1855].</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher papa, Nous aurons cette année à Lille et non à Douai la rentrée solennelle des Facultés 1. Si le Recteur habitait Lille ce serait à lui, et c'est ce qu'il a fait l'année dernière à Douai, de recevoir à dîner à cette occasion les principales autorités civiles et universitaires. Je crois qu'il est convenable que le Doyen de la Faculté qui sera inaugurée ce jour-là remplace le Recteur et nous nous proposons de donner un dîner qui réunira les professeurs des Facultés de Douai et de Lille, les Doyens, le Recteur, le Maire et probablement aussi le Préfet. Je désire faire boire à ces messieurs un des meilleurs vins de mon pays et je crois que je ne puis mieux faire que de leur donner un échantillon de vin d'or2 de M. Beschet. Je te prie donc de lui acheter pour moi et de le prier de bien emballer, en demi-bouteilles (ou en bouteilles entières) dix bouteilles de ce vin. Je crois me rappeler qu'il le vend 4 fr.</p>
+        <p>Je t'enverrai donc 40 fr. J'aurai soin d'en consacrer la plus grande partie pour des occasions de ce genre. Tu me diras le jour du départ. Si tu connaissais une personne ayant du vin de paille3 très bon tu pourrais joindre à l'envoi quatre ou cinq bouteilles de ce vin. M. Beschet lui-même en a peutêtre de bon. Enfin tu verras. Du reste tuas le temps; cependant j'aimerais que ce vin se reposât du voyage en cave un</p>
+        <p>certain nombre de jours après son arrivée. Je crois t'avoir dit que les bouteilles de vin d'or bues après leur arrivée avaient été mauvaises comparées à une dernière que nous avons bue ici il n'y a pas longtemps.</p>
+        <p>Adieu. Je fais terminer ma Faculté dans tous ses détails.</p>
+        <p>Nous serons parfaitement installés au dire de tout le monde.</p>
+        <p>Tu verras cela d'ailleurs j'espère bien en 1856. Tu viendras nous chercher et nous irons à Arbois par la Belgique, le Rhin et la Suisse.</p>
+        <p>Je t'embrasse bien avec Virginie, ses enfants, son mari.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              L. PASTEUR.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

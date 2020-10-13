@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1857-01-21">le 21 janvier 1857.</date>
+                    <placeName>Lille</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="1"/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Lille, le 21 janvier 1857.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>Lille, le 21 janvier 1857.</p>
+                <p>Mon cher papa, J'attends toujours du nouveau pour t'en écrire, mais il n'en vient pas. Je ne sais pas plus que toi ce qui se passe à Paris. Il y a retard dans l'élection mais j'ignore pourquoi.</p>
+                <p>Elle n'aura pas lieu dans le mois de janvier. A-t-on commencé à s'en occuper lundi dernier? je l'ignore.</p>
+                <p>Les trois enfants sont enrhumés fortement et nous avons de la peine à les guérir. Il semble cependant qu'il y ait [du] mieux depuis hier. C'est une indisposition régnante. Heureusement que Marie et moi nous allons bien.</p>
+                <p>Un journal de Paris ayant parlé de ma candidature d'une manière absurde en accolant le nom de M. Biot au mien j dans des termes tout à fait faux, M. Biot a cru devoir y répondre. Je t'envoie la copie de l'article et de la lettre et réponse de M. Biot 1.</p>
+                <p>Je vous embrasse bien tous.</p>
+                <p>L. PASTEUR.</p>
+                <p>x. L'article avait paru dans la Vérité. Voici la réponse de J.-B. Biot : « A M. LE RÉDACTEUR EN CHEF DU JOURNAL « LA VÉRITÉ ».</p>
+                <p>« Monsieur, « Dans votre numéro du 24 décembre, vous avez fait intervenir mon nom accolé à celui de M. Pasteur, avec des accompagnements tout à fait contraires au titre de votre journal : la Vérité. En rendant compte très facétieusement d'un comité secret, auquel vous n'avez pas assisté ni</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

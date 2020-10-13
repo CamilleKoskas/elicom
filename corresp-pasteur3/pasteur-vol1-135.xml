@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1856-11-19">19 novembre 1856.</date>
+          <placeName>Lille</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="">Au MINISTRE DE L'INSTITUTION PUBLIQUE ET DES CULTES</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Lille, 19 novembre 1856."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Lille, 19 novembre 1856.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Monsieur le Ministre, Plusieurs membres distingués' de l'Académie des Sciences m'ont engagé à me mettre sur les rangs pour remplir une place vacante dans la section de minéralogie. Mais ma candidature ne peut être admise que si je satisfais la condition de résidence exigée par les statuts de l'Académie. Je sollicite donc de votre bonté que vous veuillez bien accepter conditionnellement ma démission de l'emploi que j'occupe comme doyen et comme professeur à la Faculté des sciences de Lille.</p>
+        <p>L'époque de l'élection, Monsieur le Ministre, est très prochaine et néanmoins toute démarche directe m'est interdite tant que je ne pourrai me prévaloir d'une réponse de Votre Excellence qui assure ma liberté si j'avais le benheur d'être élu. Si vous voulez bien, Monsieur le Ministre, m'accorder cette faveur si importante pour ma carrière scientifique j'en serai profondément reconnaissant.</p>
+        <p>Je suis avec le plus profond respect Monsieur le Ministre de Votre Excellence le très humble et très dévoué serviteur</p>
+        <p>L. PASTEUR, Doyen et professeur à la Faculté des Sciences de Lille 1.</p>
+        <p>s</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

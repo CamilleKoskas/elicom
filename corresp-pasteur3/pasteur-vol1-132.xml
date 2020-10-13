@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1856">[Probablement 1856]</date>
+          <placeName>Lille</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="">Au RECTEUR DE L'ACADÉMIE DE DOUAI.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="[Probablement 1856.] Monsieur le Recteur, 1 Frappé des difficultés que l'autorité rencontre dans le recrutement du personnel des collèges et même des lycées vous désirez proposer au conseil d'émettre un vœu tendant à provoquer la création auprès des facultés de conférences réglementées qui auraient pour but la préparation à la licence, et de créer en quelque sorte une école normale de régents pour les collèges et les classes de rang inférieur dans les lycées. Aucune proposition n'est plus digne des délibérations du conseil et la réalisation de votre pensée serait un bienfait pour l'instruction publique. Mais elle est à mon avis entourée de périls."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>[Probablement 1856.] Monsieur le Recteur, 1 Frappé des difficultés que l'autorité rencontre dans le recrutement du personnel des collèges et même des lycées vous désirez proposer au conseil d'émettre un vœu tendant à provoquer la création auprès des facultés de conférences réglementées qui auraient pour but la préparation à la licence, et de créer en quelque sorte une école normale de régents pour les collèges et les classes de rang inférieur dans les lycées. Aucune proposition n'est plus digne des délibérations du conseil et la réalisation de votre pensée serait un bienfait pour l'instruction publique. Mais elle est à mon avis entourée de périls.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je ne crois pas en effet que l'on puisse réclamer des professeurs des facultés (et bien entendu je ne parle ici que des facultés de sciences dont je connais mieux le but et l'organisation), je ne crois pas que l'on puisse réclamer d'eux des conférences en dehors de leurs occupations actuelles sans compromettre gravement les intérêts des hautes études en France, les intérêts de la science, et ceux de l'instruction supérieure elle-même. La mission du professeur de faculté est double. Il se doit tout entier d'une part à son enseignement, d'autre part aux progrès de la Science. J'ai toujours regardé le professeur de faculté qui ne consacrait pas tous ses loisirs à l'avancement de la Science comme étant au-dessous de ses devoirs. La nécessité de cette double mission étant admise, il ne faut pas que l'un des devoirs nuise à l'autre. Or à mon avis la seule addition d'une conférence au travail actuel du professeur de faculté des sciences suffirait pour compromettre singulièrement les travaux personnels et particuliers du professeur. Il y a un autre inconvénient très grave attaché à l'institution des conférences. Le professeur de faculté se trouve transformé en un répétiteur et préparateur à un examen dans des conférences suivies par un très petit nombre de jeunes gens.</p>
+        <p>J'accepte avec plaisir le surcroît de travail imposé à l'enséignement supérieur par l'innovation des exercices pratiques dans les facultés. Cette innovation est un grand bienfait. On l'appréciera mieux quand il aura porté des fruits * et je ne négligerai rien pour développer cet enseignement auprès de la Faculté des sciences de Lille.
+        </p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

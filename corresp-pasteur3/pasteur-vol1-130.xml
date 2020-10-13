@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1856-10-09">[le 19 octobre 1856] 1.</date>
+          <placeName>Lille</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="[Lille, le 19 octobre 1856] 1."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>[Lille, le 19 octobre 1856] 1.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Ma chère Marie, C'est maintenant une chose bien décidée. Je pars samedi prochain pour Paris et je présente mon travail le lundi 27 2.</p>
+        <p>M. Biot m'a autorisé à ne pas partir immédiatement. Il a présenté, ai-je vu dans un journal, le travail de M. Marbach avec enthousiasme et comme je lui ai écrit sans commentaires que j'étais bien plus loin que le physicien allemand et que sa découverte n'était qu'un très petit détail dans l'ensemble de mes résultats, il pense que j'exagère ce que j'ai fait, présumant que si les choses étaient ce que je dis (tout cela très bien dit) je l'aurais averti. Je ne sais comment tout cela tournera; mais si je n'ai pas été trompé par le Journal de l'Institut ce que j'ai écrit à M. Biot est très vrai. Je lui enverrai mon travail complet jeudi pro-</p>
+        <p>chain. Il me tarde beaucoup de savoir comment il le jugera.</p>
+        <p>Adieu. Tout à toi. Je t'embrasse bien tendrement avec nos chers enfants. Mes respects à toute la famille.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              L. PASTEUR.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

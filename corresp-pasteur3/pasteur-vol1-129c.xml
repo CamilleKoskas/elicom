@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1856-10-16">16 octobre 1856</date>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Biot, Jean-Baptiste (1774-1862)">A J.-B. BIOT.</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="26 septembre 1856, Paris vendredi matin."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>>Lille, le 16 octobre 1856.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A J.-B. BIOT.</p>
+                <p>Lille, le 16 octobre 1856.</p>
+                <p>Monsieur, La communication que vous venez de faire à l'Académie d'une observation de M. Marbach 1 me contrarie vivement 2.</p>
+                <p>Ce fait de la naissance des faces hémiédriques après l'usure des angles m'est connu depuis deux ans pour le formiate de strontiane avec des particularités spéciales qui lui donnent un intérêt qu'il n'a pas dans l'observation de M. Marbach.</p>
+                <p>Je vous l'avais communiqué et aussi à M. de Senarmont qui se le rappellera certainement lorsque je lui dirai sous quelle forme je le lui avais présenté. D'autre part ce fait et le mode d'opération qui lui a donné naissance ne forment qu'un détail de mes recherches sur les causes des variations des formes secondaires. Je puis arriver à Paris avant lundi prochain avec un mémoire et des échantillons de cristaux où vous verriez combien je suis plus loin que le cristallographe de Breslau et combien le fait qu'il a trouvé dans le chlorate est plus curieux, quoique produit de même, lorsqu'on le réalise dans les cristaux de formiate hémièdres à droite et à gauche.</p>
+                <p>Mais quel ennui d'enlever à une idée peut-être féconde, par une publication hâtive, le charme de la poursuivre avec calme et une méditation prolongée! Je sens pourtant que je serais plus contrarié encore si M. Marbach par une étude ultérieure d'un fait particulier arrivait à l'idée générale qui me guide.</p>
+                <p>Je penche donc pour une publication immédiate de tout ce que je sais de positif. Néanmoins j'aimerais avoir votre avis. Je voudrais également savoir de votre part, s'il y aurait inconvénient à ne publier mon travail que de lundi</p>
+                <p>prochain en huit, époque à laquelle Madame Pasteur reviendra d'Orléans, ce qui me permettrait de l'accompagner de Paris à Lille. On verra bien que je n'ai pas fait ce travail et les cristaux que je déposerai en même temps dans l'espace de huit jours. Cependant rien ne me retient ici et je puis être à Paris samedi ou dimanche.</p>
+                <p>Je vous prie, Monsieur, d'excuser la liberté que je prends de vous déranger et aussi la rédaction précipitée de cette lettre que je tiens à vous faire parvenir le plus tôt possible et aussitôt après la lecture du Journal de l'Institut qui m'apporte l'extrait de votre communication.</p>
+                <p>Veuillez agréer, Monsieur, l'expression de mon respectueux dévoûment.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                            L. PASTEUR.
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+

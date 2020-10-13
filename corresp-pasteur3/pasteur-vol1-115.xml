@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1855-06-15">15 juin 1855.</date>
+          <placeName>Lille</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Lille, le 15 juin 1855."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Lille, le 15 juin 1855.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Ma chère Marie, "J'ai reçu ta dernière lettre hier et j'ai communiqué tes Nouvelles à Monsieur Baptiste qui en a été tout stupéfait.</p>
+        <p>Tous deux1 continuent à se porter à merveille ainsi que leur père.</p>
+        <p>J'ai été voir hier M. Richebé pour lui transmettre la réponse que m'avait faite M. Leverrier 2 et j'ai profité de</p>
+        <p>l'occasion pour lui parler des glaces et des stores. Il m'a dit d'attendre encore un peu et qu'il arrangerait cela comme il a arrangé la grosse affaire, et que s'il n'y avait pas de reliquats il avait à la mairie, au magasin, des glaces qu'il ferait poser dans notre logement.</p>
+        <p>L'affaire des collections d'Histoire Naturelle s'arrange comme je l'ai désiré. Tout va donc pour le mieux dans le plus affreux monde possible.</p>
+        <p>Tu feras ce que tu voudras quant à tes départs. Reviens en bonne santé, avec des lunettes1, après visite à l'Exposition et tu seras bien reçue.</p>
+        <p>1 Tout à toi.</p>
+        <p>Je t'embrasse bien.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              Louis PASTEUR.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

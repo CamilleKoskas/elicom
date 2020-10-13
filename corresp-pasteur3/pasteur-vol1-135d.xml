@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1856-11-23">23 novembre 1856.</date>
+                    <placeName>Lille</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Chappuis, Charles (1822-1895)">A CHAPPUIS</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Lille, 19 novembre 1856."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Lille, 23 décembre 1856.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A CHAPPUIS..</p>
+                <p>Lille, 23 décembre 1856.</p>
+                <p>J'attends pour aller à Paris faire les visites d'usage un avis de l'un des membres de l'Académie qui ont bien voulu me mettre en avant comme candidat. Je ne fais rien et ne puis rien faire pour moi-même à cette distance. Serai-je invité à partir avant le Ier janvier? Je l'ignore. Pourtant je ne le crois pas. Je ne pense pas que cette affaire soit réglée avant la seconde quinzaine de janvier. Si tu en apprenais quelques bavardages, tu me ferais plaisir de m'en écrire. Je sais les nouvelles graves et de quelque portée pour le résultat final, mais je ne sais rien des cancans.</p>
+                <p>Je t'enverrai prochainement un exemplaire de la notice de mes travaux, résumé succinct que chaque candidat doit adresser à tous les membres de l'Académie avant l'élection. Il faut que tu saches bien que je n'ai eu de cette candidature aucune idée avant que l'on me prie de venir à Paris pour m'en entretenir avec quelques personnes qui me portent intérêt. Je n'aurais point osé me mettre sur les rangs pour un tel honneur et encore moins le solliciter dans une direction d'études qui n'est pas la mienne propre. Mais du moment où plusieurs membres très éminents m'engageaient à me présenter et y voyaient pour moi des chances de succès, je n'ai pas hésité un instant, et je me suis mis immédiatement en demeure de satisfaire à la question de résidence.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name> 
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+

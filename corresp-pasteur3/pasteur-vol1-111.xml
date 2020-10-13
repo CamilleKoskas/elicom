@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1855-06-05">mercredi matin [5 juin 1855]</date>
+          <placeName>Douai</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Hôtel de l'Europe."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Hôtel de l'Europe.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Douai, mercredi matin [5 juin 1855].</p>
+        <p>Ma chère Marie, J'attendais une lettre de toi ce matin mercredi. Je n'en reçois pas. Ce sera pour ce soir. Le conseil académique est quelque chose de médiocrement intéressant. Et peut-être est-ce pour moi qu'il offre le plus d'attrait. Je m'y instruis sur la manière dont se discutent des questions, j'étudie la tenue d'une assemblée. Les magistrats de Douai sont exacts.</p>
+        <p>L'archevêque de Cambrai également. Ce dernier parle très difficilement. Mais il n'en a peut-être que plus de conviction dans ses idées. Le Recteur s'en tire fort bien et les avocats parlent avec une facile abondance. Les Inspecteurs sont les travailleurs. Les Doyens ont peu à faire dans cette session.</p>
+        <p>J'ai dîné hier chez M. Filon. Avant-hier j'ai passé la soirée chez M. Caro 1 où se trouvaient en passage MM. Guizot fils2, de Pontmartin 3 et de Calonne et Mme de Calonne, polonaise excentrique. M. Guizot a 22 ans, M. de Pontmartin doit avoir environ 40 ans et M. de Calonne 35. Le second de ces messieurs m'a dit qu'à propos de Béranger 4 il n'avait voulu soulever aucun orage et que les choses se sont ainsi' passées : Il faisait imprimer un volume et l'éditeur n'avait pas de quoi le terminer. M. de Pontmartin lui offrit soit un article sur Sainte-Beuve 5, soit un article sur Béranger, articles qui avaient paru déjà et sans faire de bruit il y a quatre ans. Cette fois il est arrivé que le Siècle et l'Univers s'en sont mêlés. De là tout le tapage que M. de Pontmartin appelle compromettant pour lui.</p>
+        <p>J'ai passé la soirée d'hier chez M. le Recteur. Mme Guillemin s'y trouvait. Elle regrette de n'avoir pu te recevoir. Le doyen de St Jacques à Douai est mort hier matin. M. Rinn a été frappé il y a huit jours d'une attaque d'apoplexie et il est mort. Il est fort étonnant qu'on ne l'ait pas su par les journaux.</p>
+        <p>Je partirai ce soir pour Lille et je passerai la nuit avec nos chers enfants. Adieu.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              Tout à toi, L. PASTEUR.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

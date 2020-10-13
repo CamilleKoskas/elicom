@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1856-11-26">26 novembre 1856.</date>
+                    <placeName>Lille</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Biot, Jean-Baptiste (1774-1862)">A J.-B. BIOT.</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Lille, 19 novembre 1856."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Lille, le 26 novembre 1856.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A J.-B. BIOT.</p>
+                <p>Lille, le 26 novembre 1856.</p>
+                <p>Monsieur, Je viens de faire remettre franco à la poste et à votre adresse un paquet contenant la notice de mes travaux 2. Je vous serais fort obligé de l'examiner et de me donner votre avis sur le fond comme sur la forme. Dans le cas où vous l'accepteriez sans qu'il y ait à la revoir, ce que je n'espère pas, et afin de gagner du temps, je vous prierais de la faire porter chez M. Bailleul à qui je vais écrire immédiatement pour lui demander qu'il veuille bien la faire imprimer le</p>
+                <p>plus vite possible. Il est je crois à désirer que cette notice soit distribuée avant le lundi 8 décembre. Si M. Bailleul veut bien, elle pourra l'être le samedi 6 décembre ou au plus tard le dimanche 7.</p>
+                <p>Mon sort est dans cette notice. Je sens que toutes les considérations de résidence, d'âge, de relations, de position. me sont défavorables. Je ne puis compter que sur la discussion des titres et l'appui des hommes éminents que vous avez entraînés à votre suite. En rédigeant cette notice j'ai eu plusieurs fois une très grande confiance dans le succès de la cause que vous avez bien voulu prendre en mains.</p>
+                <p>Présentés ainsi dans leur ensemble et dans leur suite, les résultats de mes recherches m'ont paru d'une originalité et d'une nouveauté dont je n'avais pas eu encore aussi bien la conscience.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+

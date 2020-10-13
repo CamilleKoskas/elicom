@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1855-08-11">11 août 1855.</date>
+                    <placeName>Lille</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="">AU RECTEUR DE L'ACADÉMIE DE DOUAI</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Lille, le 11 août 1855.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>AU RECTEUR DE L'ACADÉMIE DE DOUAI.</p>
+                <p>Lille, le 11 août 1855.</p>
+                <p>Monsieur le Recteur, Vous m'avez demandé mon opinion sur l'organisation de la Faculté et les services qu'elle est appelée à rendre. Je viens m'acquitter de ce devoir.</p>
+                <p>Les cours de la Faculté ont été très suivis. Les dernières leçons réunissaient encore une centaine d'auditeurs et le nombre de ceux-ci avait approché trois cents dans le premier semestre. Ces chiffres qui peut-être se maintiendront sont d'un très bon augure. Il est néanmoins nécessaire que</p>
+                <p>j'entre à leur égard dans quelques détails, afin que vous puissiez en bien apprécier la valeur. Lors même que nos cours seraient toujours aussi suivis qu'ils l'ont été cette année, je ne pense pas que nous rendrions de grands services, si nous continuions de nous adresser à un public d'amateurs et d'oisifs qui viennent chercher à nos leçons une distraction et quelques détails sur les grandes découvertes scientifiques modernes, auxquelles personne aujourd'hui ne veut rester tout à fait étranger. L'auditoire de la Faculté a été composé de rentiers et d'employés auxquels il faut ajouter quinze ou vingt élèves de l'Ecole préparatoire de médecine et douze ou treize jeunes gens n'ayant pas encore embrassé de carrière déterminée, la plupart se préparant à l'examen du baccalauréat ès sciences ou à celui du certificat de capacité. Ce sont les élèves inscrits à nos conférences et manipulations. Vous voyez donc dans notre auditoire, Monsieur le Recteur, trois catégories d'individus : des employés et des rentiers — c'est la majorité; des élèves de l'Ecole préparatoire — environ 20; des aspirants à divers grades, inscrits aux manipulations — une douzaine.</p>
+                <p>Je ne dois pas cependant passer sous silence la fréquentation de nos cours par une dizaine d'hommes instruits, professeurs dans divers établissements, ou ecclésiastiques, dont la présence aux leçons de la Faculté témoignera pour vous, Monsieur le Recteur, du soin que nous avons apporté dans notre enseignement et de son intérêt soutenu.</p>
+                <p>Mais revenons à nos trois catégories principales. La première a certainement sa valeur : elle fait nombre et partant elle tient les professeurs en haleine. Composée de personnes pour la plupart très ignorantes des matières qui sont traitées par le professeur, elle s'occupe moins du fond que de la forme et par suite elle maintient celle-ci à un niveau respectivement élevé en provoquant de salutaires efforts. Je suis donc loin de dédaigner cette première partie de l'auditoire. Mais je lui préfère de beaucoup les deux autres, celles des jeunes gens. Malheureusement, Monsieur le Recteur, la catégorie des élèves de l'Ecole préparatoire sur laquelle je comptais beaucoup à mon arrivée à Lille ne répond aucune-</p>
+                <p>ment à mes espérances. J'ai porté à 20 le nombre de ceux qui suivaient nos cours, ceu de Chimie et d'Histoire naturelle principalement, parce que Monsieur le Directeur de l'Ecole m'a dit avoir fait vérifier ce chiffre au cours de Chimie, mais j'ai lieu de croire qu'il y a bien peu d'assiduité chez ces messieurs et qu'en général toute étude un peu sérieuse paraît au-dessus de leurs forces ou des nécessités de leurs examens. Je n'en veux que cette preuve : qui aurait pu croire qu'une Faculté de sciences créée à côté d'une Ecole préparatoire de médecine ne provoquerait pas chez les élèves de cette dernière un plus grand nombre de préparations au baccalauréat ès sciences, à ce grade qui est le premier pas à franchir pour arriver au doctorat en médecine 1 ?</p>
+                <p>Je ne suis pas exactement renseigné sur le nombre des élèves de l'Ecole préparatoire qui ont subi les épreuves du baccalauréat à la dernière session, mais je ne crois pas qu'il s'élève à plus de 2 ou 3. Dira-t-on que les Ecoles préparatoires forment des officiers de santé et que ceux-ci n'ont pas besoin du grade de bachelier? Mais quel est donc le jeune homme qui commence des études médicales sans avoir l'ambition si naturelle de ne pas s'arrêter à ce modeste grade d'officier de'santé? Attendons, Monsieur le Recteur, que la mesure qui rend obligatoires les cours de Chimie et d'Histoire naturelle pour les élèves des Ecoles préparatoires ait été mise en vigueur. J'espère qu'elle fortifiera utilement les études de ces Ecoles.</p>
+                <p>Enfin, Monsieur le Recteur, il y a dans notre auditoire cette portion composée des élèves inscrits à nos conférences, manipulations. Cette troisième catégorie, Monsieur le Recteur, me paraît être la seule qui doive être l'espoir de la Faculté. Ce sont là nos véritables élèves, ceux dont nous pouvons constater et encourager les progrès. Je regrette donc beaucoup de n'avoir à vous donner aucune opinion de quelque utilité sur cette partie de notre auditoire. Voici pourquoi. Nous avions cette année une douzaine de ces élèves inscrits. Mais il est impossible de prévoir même d'une</p>
+                <p>manière approchée quel sera le nombre de ceux que nous aurons l'an prochain. En effets c'est au mois de novembre en général que les jeunes gens choisissent une direction à leurs études pour l'année qui va s'ouvrir et nos cours, vous le savez, n'ont pu commencer que vers le milieu de janvier.</p>
+                <p>Nous n'avons donc pu réunir que des jeunes gens qui pour des motifs divers avaient dû rester chez leurs parents et s'y trouvaient encore au moment de nos premières leçons.</p>
+                <p>Vous voyez, Monsieur le Recteur, par les détails dans lesquels je viens d'entrer qu'il est encore difficile de porter un jugement bien assuré sur l'importance que prendra à l'avenir la Faculté des sciences de Lille. Nous n'avons qu'une année d'essai. Elle a commencé dans de très mauvaises conditions; et il est difficile de rien prévoir sur ce qu'il y aurait de plus important à connaître; je veux parler du nombre des élèves inscrits, des véritables élèves de la Faculté, de ceux qui se-souviendront de nous par les services que nous aurons rendus à leur instruction.</p>
+                <p>Veuillez agréer, Monsieur le Recteur, l'expression de mon respectueux dévoûment.</p>
+                <p>L. PASTEUR, doyen de la Faculté des sciences1.</p>
+                <p>a Que M. Pasteur se tienne cependant toujours en garde contre l'entraînement de son amour pour la science, et qu'il ne perde pas de vue que l'enseignement des Facultés, tout en se maintenant à la hauteur des théories scientifiques, doit néanmoins, pour produire des résultats utiles et étendre son heureuse influence, s'approprier par les plus nombreuses applications aux besoins réels du pays auquel il s'adresse. »</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

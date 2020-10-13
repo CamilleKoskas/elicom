@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1856-01-29">29 janvier 1856.</date>
+          <placeName>Lille</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>[Lille, 29 janvier 1856.] Mon cher papa, Nous sommes tous ici mal portants. Tout le monde est enrhumé. C'est Marie qui se porte le mieux. Mais les trois enfants gardent la chambre et moi je suis aussi fortement enrhumé du cerveau. Tout cela passera bien vite. Il n'y a que Jeanne qui a une maladie incompréhensible. Tu sais qu'elle a été très mal pendant trois semaines. Elle a pris un vermifuge et elle a été mieux après avoir rendu trois vers.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mais depuis ce mieux elle continue toujours à avoir des maux de ventre. Il ne se passe pas une nuit sans que vers 5 ou 6 heures du matin elle se réveille en disant qu'elle a mal au ventre. Puis cela passe en 1/4 d'heure et ne revient souvent pas durant le jour. Nous lui avons redonné du semen contra1 qui n'a rien produit. Hier nous lui avons administré un vermifuge plus énergique et il n'a rien fait non plus. Du reste elle joue comme de coutume et ne se plaint aucunement dans les intervalles. En tout cas ces douleurs sont très faibles à côté de ce qu'elles étaient avant qu'elle eût rendu ces vers. J'espère que cette indisposition qu'on dit assez commune ici passera avec le temps et des soins.</p>
+        <p>Nous veillons bien à ce qu'elle ne mange que des choses faciles à digérer.</p>
+        <p>L'autre jour j'ai fait pour la première fois de l'eau sédative 2. Baptiste souffrait beaucoup de la tête. J'ai eu recours au petit ouvrage de Raspail 3 que tu m'as donné et lui ai</p>
+        <p>appliqué une compresse de cette eau. En moins de quelques minutes il a été guéri et a demandé à se lever. Ce remède me paraît excellent, au moins dans certains cas.</p>
+        <p>Il me tarde bien que ces rhumes et coryzas disparaissent.</p>
+        <p>Je crois vraiment que cela se communique. Une des bonnes même est enrhumée aussi.</p>
+        <p>Je me suis très bien trouvé depuis le commencement de l'hiver des souliers sabots que tu m'as envoyés à Strasbourg.</p>
+        <p>A part ce rhume de cerveau qui sera passé dans deux jours au plus, je n'ai eu aucune indisposition, surtout aucun dérangement d'intestins, ce à quoi je suis tellement sujet que je ne puis avoir les pieds tant soit peu humides sans que subitement je ressente des coliques. Je n'en ai pas eu du tout depuis mon arrivée des vacances et je suis sûr que cela tient à ce que je porte des sabots.</p>
+        <p>Avez-vous ce temps humide et doux? Il me semble que c'est bien mauvais pour les récoltes.</p>
+        <p>Tu nous parles de la petite Ninette qui maintenant doit être grande. Mais tu sais qu'en fait de domestiques, bien qu'on n'en soie pas toujours content, on a beaucoup de peine à les renvoyer sans motifs. Elle trouvera à se placer très bien à Paris où il y a tant de mauvaises domestiques.</p>
+        <p>Nos cinq mille francs de meubles nous ont trop mis en retard pour que nous puissions songer à acheter de ce vin Barochin. Mais d'après ce que tu me dis la vente doit être éloignée.</p>
+        <p>Nous pourrons cependant faire cette année quelques économies.</p>
+        <p>Adieu. Portez-vous bien tous. Car c'est fort ennuyeux d'être indisposé ou d'avoir des indispositions chez soi.</p>
+        <p>Adieu. Embrasse bien Virginie, ses enfants et son mari pour nous.</p>
+        <p>Je t'embrasse bien.</p>
+        <p>L. PASTEUR.</p>
+        <p>M. Biot va très bien et travaille toujours beaucoup.</p>
+        <p>J'ai plusieurs travaux en train dont je suis assez content.</p>
+        <p>foi en elles. Il avait donné à son fils un petit manuel médical, édité par Raspail.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

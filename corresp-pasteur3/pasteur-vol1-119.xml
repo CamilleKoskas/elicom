@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1855-09-24">24 septembre 1855.</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Paris, 24 septembre 1855."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, 24 septembre 1855.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher papa, Je fais à l'Exposition mes dernières visites. J'ai visité surtout l'annexe du bord de l'eau en grand détail et ce que j'ai vu, appris, sera très utile à mon enseignement. Cela m'a empêché d'aller auprès de vous, mais je me dédommagerai l'an prochain. Nous irons faire un grand voyage en Suisse, si les tremblements de terre le permettent. J'ai vu ces derniers jours le ministre qui est tout préoccupé du déficit de sa caisse. Ne m'as-tu pas entendu l'année dernière trouver ridicule que dans les considérants d'un décret il portât à trois cent mille francs les recettes que donnerait un nouveau grade institué par ce décret? Eh bien le ministre m'a dit en propres termes : « On m'a assuré que je recevrais trois cent mille francs et je n'ai pas trois mille sous. Il n'y a absolument que la Faculté des sciences de Lille qui ait eu des élèves inscrits au nombre de 13, ce qui a produit environ deux mille francs. )} Aussi le ministre m'a-t-il félicité et fortement engagé à développer de plus en plus à Lille le nouvel enseignement pratique des manipulations pour lequel je m'étais déjà cette année [donné] beaucoup de peine.</p>
+        <p>Je partirai jeudi avec Marie et nos enfants et dès mon arrivée je vais faire ce que me demande le ministre, de la propagande.</p>
+        <p>C'est bien dommage qu'il n'y ait rien dans les vignes.</p>
+        <p>Vous avez sans doute le temps que nous avons à Paris. Je</p>
+        <p>crois que depuis ton départ il n'a plu qu'une seule fois et la température est très élevée.</p>
+        <p>Je suis voisin de M.Bouzon qui demeure rue de Tournon 1.</p>
+        <p>Je connaissais donc son échec à l'agrégation. Mais c'est un concours où il est bien rare d'arriver du premier coup.</p>
+        <p>Adieu. Je t'embrasse de bon cœur avec Virginie, ses enfants et son mari.</p>
+        <p>L. PASTEUR.</p>
+        
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

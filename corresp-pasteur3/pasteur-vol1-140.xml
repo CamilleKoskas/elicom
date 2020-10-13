@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1857-03-07">7 mars 1857</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Paris, 7 mars 1857."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, 7 mars 1857.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher papa, Jeanne va mieux. Mais elle traîne toujours un peu.</p>
+        <p>Je suis toujours à Paris. La discussion des titres commencée il y a quinze jours a continué lundi dernier et après deux heures elle n'a pas abouti. Elle sera continuée lundi prochain. J'ai été brillamment défendu par M. de Senarmont 2 qui a mis à néant les travaux de M. Delafosse. La discussion m'a donc été favorable mais mes adversaires ne se tiennent pas pour battus et ils inventent de nouveaux plans de campagne. Cela finira-t-il lundi prochain? je l'ignore. Je ne fais que me tenir au courant et tenir mes avocats au courant des bruits et des espérances ou des déboires que me donnent tels ou tels.</p>
+        <p>Je vous embrasse bien.</p>
+        <p>Tout à toi.</p>
+        <p>L. PASTEUR.</p>
+        <p>Depuis lundi dernier il y a eu lieu de concevoir de nouveau quelque espoir. Je t'écrirai mardi ou mercredi.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

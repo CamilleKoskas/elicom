@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1855-06-09">9 juin 1855.</date>
+          <placeName>Douai</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Douai, 9 juin 1855."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Douai, 9 juin 1855.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Ma chère Marie, J'ai appris avant-hier matin avec beaucoup de plaisir ce que tu me dis de M. Biot et du résultat de ta conversation.</p>
+        <p>Je ferai tous mes efforts pour avoir terminé mon travail au mois d'août 1. Le Conseil termine ses travaux aujourd'hui et j'espère aller coucher à Lille près de mes enfants. Baptiste doit trouver que je mets bien du temps à ramener sa sœur et sa mère. Il m'a fait une très bonne réponse : Qu'estce que tu veux que je te rapporte? Jeanne, maman, rand père et rand mère. Et je ne l'ai pas aidé du tout. Il a encore ajouté Célie 2 après quelques instants.</p>
+        <p>Il m'est arrivé une aventure bien désagréable. J'avais été invité à dîner chez M. Fleury pour jeudi à 5 heures 1/2.</p>
+        <p>.J'ai tout à fait oublié cette invitation. J'ai dîné jeudi à Lille avant de partir à 5 h. 10. En arrivant j'ai lu ta lettre et je me suis mis ensuite à travailler un peu. Tout d'un coup on frappe à ma porte : Monsieur le Proviseur vous attend pour dîner. Il était 6 h. 1/2. Juge de mon ennui. Le soir ils avaient réuni un certain nombre de personnes au nombre desquelles Mlle Cahouët. Je déjeune ce matin chez M. le Recteur qui m'avait invité à dîner pour mardi par une lettre envoyée et restée à l'hôtel de Flandre. Mais ici il n'y avait pas de ma faùte. Et puis j'étais déjà invité par M. Filon et d'ailleurs j'ai vu M. Guillemin dans la journée et nous avions pu causer de cette lettre non parvenue à son adresse.</p>
+        <p>J'ai fait ta commission à Mlle Cahouët. Adieu. Embrasse bien pour son père cette grosse Jeanne que j'oublie tout à fait.</p>
+        <p>Je t'embrasse et je t'aime.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              L. PASTEUR.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

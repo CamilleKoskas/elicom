@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1857-01-28">28 janvier 1857</date>
+          <placeName>Lille</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Lille, 28 janvier 1857."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Lille, 28 janvier 1857.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher papa, Je t'envoie la copie de la lettre que je viens de recevoir de M. de Senarmont 1. Tu y verras que mon affaire a perdu du terrain. J'ai toujours pensé que mon âge serait un obstacle et créerait des embarras. Le dernier mot n'est pas dit cependant et la discussion des titres peut amener une situation très différente. Je crois que la séance solennelle dont parle la lettre aura lieu lundi 2 février.</p>
+        <p>« Mon cher Monsieur, « Je vous demande pardon de vous avoir laissé sans nouvelles, mais depuis six semaines je suis absent, n'assistant pas même aux séances, retenu que j'étais loin de Paris par une très grave maladie de ma mère.</p>
+        <p>Je reviens aujourd'hui même et ne sais pas grand'chose. Je pense pourtant que les délais interminables apportés à notre élection n'ont pas été combinés en votre faveur. Nous aurons contre nous toutes les personnes qui par certaines habitudes d'esprit répugnent à tout ce qui est précision et ne comprennent rien à tout ce qui est expériences géométriques. Pour tous ceux qui sont habitués aux méthodes d'observation, plutôt que d'expérimentation des sciences naturelles, et qui ne voient pas les choses d'un peu haut, toute intervention de ce qui a une forme mathématique est un titre négatif. Nous avons également pour adversaires ceux qui se laissent guider aux considérations personnelles, aux relations de corps et de salon, et qui admettent l'avancement par ancienneté. Or, toutes ces personnes se sont remuées, depuis deux mois, et ce qui eût été clair alors est aujourd'hui fortement mis en question. Ajoutez à cela l'intervention de candidats nombreux qui sans apporter de grandes chances personnelles suffisent cependant pour fractionner les votes de sorte qu'il est impossible de voir clair aux débuts de l'élection qui pourtant entraînent quelquefois le dénouement comme conséquence forcée. J'ai peur qu'il ne sorte de tout cela quelque chose de fâcheux en soi et pour vous et pour l'Académie.</p>
+        <p>« On vient de me dire que la séance publique est remise au mois prochain. J'imagine que la déclaration de vacance aura lieu immédiatement après. Je vous en apprendrai davantage quand j'aurai moi-même des renseignements plus certains.</p>
+        <p>« Adieu. »</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

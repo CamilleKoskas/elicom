@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1855-01-26">le 26 janvier 1855.</date>
+          <placeName>Lille</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="">Au RECTEUR DE L'ACADÉMIE DE DOUAI 1.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Lille, le 26 janvier 1855."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Lille, le 26 janvier 1855.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Monsieur le Recteur, J'ai l'honneur de vous adresser une lettre à Monsieur le Ministre dans laquelle je propose à son Excellence M. Monneret aux fonctions de préparateur de chimie.</p>
+        <p>Je n'ai pas besoin de vous rappeler, Monsieur le Recteur, combien il m'est pénible, aux débuts de la Faculté surtout, de n'avoir pas de secrétaire agent comptable. La comptabilité de la Faculté va se compliquant de plus en plus, mon travail s'accroît chaque jour et j'ai la conviction qu'une foule d'affaires marcheraient mieux et plus vite si j'étais secondé. Je ne comprends pas qu'une nomination d'une aussi minime importance ne soit pas traitée déjà et qu'il faille tant de fois la remettre en mémoire. Il me semble que l'on devrait comprendre au ministère à quelle correspondance je suis obligé avec les fournisseurs de Paris ou de Lille pour la dépense d'une somme de 60 mille francs et pour l'installation de la Faculté dans un local où tout est à faire. N'ai-je pas d'ailleurs la préparation si occupante de leçons de chimie, chargées d'expériences qui exigent presque sans cesse d'avoir recours aux fournisseurs de Paris.</p>
+        <p>Le nombre des inscriptions à titres divers est maintenant de 7. Il s'élèvera beaucoup, je n'en doute pas. Vous jugerez</p>
+        <p>également, Monsieur le Recteur, qu'il est aussi peu digne qu'irrégulier, que je reçoive moi-même de la main des élèves les droits d'inscription.</p>
+        <p>Notre enseignement paraît goûté du public. Le nombre des auditeurs augmente toujours. Il y en avait 233 à la leçon d'hier soir. Les cours de Mathématiques et d'Histoire naturelle réunissent naturellement moins de monde que ceux de Physique et de Chimie.</p>
+        <p>Recevez, Monsieur le Recteur, l'expression de mon respectueux dévouement.</p>
+        <p>Louis PASTEUR.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

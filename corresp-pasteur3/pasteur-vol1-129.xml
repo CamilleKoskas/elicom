@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1856-09-26">26 septembre 1856</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="26 septembre 1856, Paris vendredi matin."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>26 septembre 1856, Paris vendredi matin.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher papa, Je suis à Paris depuis hier soir, ayant laissé bien portants Marie et les enfants à Orléans.</p>
+        <p>J'ai vu ce matin M. Biot, et diverses personnes entre autres le chef de division des Facultés, ainsi que M. Dumas.</p>
+        <p>Hier dans le comité des recteurs la discussion s'est ouverte sur la Faculté de Lille, sa situation a été exposée avec détail, et tout le monde est tombé d'accord sur la nécessité de la fortifier dans le sens que j'ai indiqué. Le ministre est très favorable et on peut regarder comme certain qu'il y aura adjonction de professeurs, d'un préparateur et d'un garçon de laboratoire.</p>
+        <p>M. Biot est revenu à l'avis que je ferais mieux de ne rien publier en fait d'ouvrage 1. Il a cependant trouvé ma pré- „ face bonne 2. Mais je vois que j'irais au-delà de ses désirs en publiant. Je lui dois trop pour rien faire qui pût lui être désagréable en quoi que ce soit.</p>
+        <p>J'ai demandé une audience. Dès que je l'aurai eue je partirai. Tu peux m'écrire jusqu'à mardi à l'hôtel de l'Empereur Joseph II.</p>
+        <p>Marie a dû t'écrire hier soir après mon départ.</p>
+        <p>Adieu. Embrasse tout le monde pour moi.</p>
+        <p>L. PASTEUR.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

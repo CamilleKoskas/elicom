@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1856-11-04">4 novembre 1856</date>
+          <placeName>Lille</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when=",. [Lille, 4 novembre 1856.] Mon cher/papa, Je vais envoyer demain matin réclamer au chemin de fer cette caisse de vin. Je ne comprends pas ce retard. Il est vrai- qu'il y en a eu déjà un pour les tonneaux, mais bien moindre si je me souviens bien. Il arrive tant d'accidents sur les chemins de fer que peut-être nos chères bouteilles auront été aussi des victimes."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>,. [Lille, 4 novembre 1856.] Mon cher/papa, Je vais envoyer demain matin réclamer au chemin de fer cette caisse de vin. Je ne comprends pas ce retard. Il est vrai- qu'il y en a eu déjà un pour les tonneaux, mais bien moindre si je me souviens bien. Il arrive tant d'accidents sur les chemins de fer que peut-être nos chères bouteilles auront été aussi des victimes.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Nous allons tous bien et j'ai peur de ce que tu désires, la chimie industrielle. J'ai été ennuyé avant-hier de toucher 120 fr. pour analyse d'un guano qu'on m'avait adressé de Dunkerque et je ne serai pas plus content d'en recevoir autant pour des analyses de vinaigres que je termine demain. Celles-ci m'ont exercé et amusé; mais il ne faudrait pas que cela devînt trop fréquent quoi que tu puisses dire.</p>
+        <p>Je t'embrasse bien avec Virginie.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              L. PASTEUR.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1857-03-11">[11 mars 1857]</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="[Paris, 11 mars 1857.] Ma chère Marie, Depuis ma dernière lettre je suis plus au courant de l'effet de la discussion de lundi. Malheureusement une parole de M. Thenard a produit une impression pénible et que les amis de M. Delafosse cherchent à exploiter cette semaine. Il aurait dit que M. Delafosse était un paresseux qui n'avait rien fait avant d'entrer, et ne ferait rien après."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>[Paris, 11 mars 1857.] Ma chère Marie, Depuis ma dernière lettre je suis plus au courant de l'effet de la discussion de lundi. Malheureusement une parole de M. Thenard a produit une impression pénible et que les amis de M. Delafosse cherchent à exploiter cette semaine. Il aurait dit que M. Delafosse était un paresseux qui n'avait rien fait avant d'entrer, et ne ferait rien après.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>M. Thenard a affirmé ensuite avoir dit peu laborieux.</p>
+        <p>Quoi qu'il en soit, ceci n'aurait pas changé les partis pris quand même pour M. Delafosse et ils sont certainement en majorité. Je n'aurai guère que 20 à 23 voix.</p>
+        <p>Je t'assure que cet échec ne me fait absolument rien et que je n'ai qu'un désir, celui d'aller vous revoir, toi et nos</p>
+        <p>chers enfants et reprendre mes habitudes. Cette Académie est à tout prendre une boutique et je me moquerais d'y entrer ou de n'y pas entrer. ,</p>
+        <p>Ne redis rien de tout ceci à personne. Tout se répète et je ne tiens pas à ce que l'on sache que cette élection m'est indifférente. On mettrait cela sur le compte de la vanité ou du dépit et je n'ai ni l'un ni l'autre.</p>
+        <p>En somme mon insuccès tiendra uniquement à ce que M. Delafosse a des collègues membres de l'Institut et à l'intrigue Liouville 1. Sans cela et même sans cette dernière affaire je passais sans difficulté.</p>
+        <p>Adieu. Et Jeanne? Et mon argent? Je suis presque à sec.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              L. PASTEUR.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

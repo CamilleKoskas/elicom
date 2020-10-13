@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1854-09-14">14 septembre 1854.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="14 septembre 1854."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>14 septembre 1854.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher papa, Nous avons reçu tes deux lettres. Nous sommes tout prêts à partir. Par excès de prudence nous attendrons encore une lettre de toi. A moins qu'elle ne nous apprenne des nouvelles graves nous partirons le lendemain ou le surlendemain. Il n'y a à Paris que 30 cas 3 par jour environ.</p>
+        <p>Personne ne s'en occupe. Les enfants vont très bien. Madeleine vient. Elle partira pour Strasbourg quand nous quitterons Arbois.</p>
+        <p>J'ai vu ce matin M. Dumas. Je suis nommé doyen et professeur de chimie de la nouvelle faculté des sciences de Lille 4. M. Dumas a vu le ministre hier. Il est très probable que Chappuis sera nommé suppléant à Besançon. Il n'y a rien de certain encore cependant.</p>
+        <p>Au revoir.</p>
+        <p>L. PASTEUR.</p>
+        
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

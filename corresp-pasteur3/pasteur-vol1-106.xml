@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1854-12-14">14 décembre 1854.</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="">Au MINISTRE DE L'INSTRUCTION PUBLIQUE ET DES CULTES.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Lille, 14 décembre 1854."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Lille, 14 décembre 1854.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Monsieur le Ministre, J'ai l'honneur de soumettre à Votre Excellence une demande d'indemnité de 200 fr. Cette demande, M. le Ministre, est motivée par les dépenses que j'ai été obligé de faire avant l'installation de la Faculté des sciences de Lille, soit par mon séjour dans cette ville pour surveiller les travaux, soit principalement par deux voyages à Paris où j'ai dû me rendre moi-même pour m'entendre avec les" fournisseurs de nos collections 1.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              Je suis avec le plus profond respect Monsieur le Ministre de Votre Excellence le très humble et très dévoué serviteur, L. PASTEUR, doyen de la Faculté des Sciences de Lille.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

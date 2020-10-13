@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1856-01-11">11 janvier 1856</date>
+                    <placeName>Lille</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Chappuis, Charles (1822-1895)">A CHAPPUIS.</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Lille, le 19 décembre 1855."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>s
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Lille, 11 janvier 1856.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A CHAPPUIS.</p>
+                <p>Lille, 11 janvier 1856.</p>
+                <p>J'ai eu l'honneur de voir M. Fortoul1 pendant les vacances et il m'a dit : « On m'a fait espérer que j'aurais 300.000 fr. et je n'ai pas 3.000 sous. » La Faculté de Lille est la seule qui en 1855 ait donné quelque produit, qui d'ailleurs ne dépassait pas 1.500 fr. Cette année nous faisons merveille. Il y a à cette heure vingt-cinq inscrits et il en arrive tous les jours. Je suis convaincu qu'il y en aura cinquante l'an prochain et j'espère bien que nous aurons un ou plusieurs agrégés de facultés pour nous aider en 1857. C'est ce que je viens de demander au ministre. Une combinaison dont je te parlerai quand elle aura réussi et que je viens également de proposer à l'administration allégera beaucoup mon travail. Le succès de la Faculté de Lille est d'ailleurs aussi complet dans l'enseignement oral que dans l'enseignement pratique. J'avais cru que la curiosité nous avait amené beaucoup d'auditeurs en 1855 et je pensais qu'il y aurait relâche en 1856. Il n'en est rien. L'auditoire a au contraire augmenté et il est plus sérieux et plus assidu. Les amphithéâtres sont trop petits. Les cours littéraires eux-</p>
+                <p>mêmes réunissent plus de deux cents personnes; sur ce nombre cinquante dames ou demoiselles. Mais aussi le zèle de tous fait plaisir à voir. Il va même jusqu'à ce point que quatre professeurs prennent la peine de remettre leurs leçons manuscrites et rédigées de leurs mains à un imprimeur qui les fait autographier. Celui-ci a déjà cent vingt souscripteurs pour le cours de mécanique appliquée et fait tirer à quatre cents exemplaires.</p>
+                <p>Notre local heureusement est terminé. Il est très beau et très vaste; mais il deviendra bientôt insuffisant par les progrès de l'enseignement pratique. Ainsi le laboratoire des élèves, qui est cependant un des plus grands que j'aie vus, est déjà tout à fait rempli par vingt-cinq manipulants. Tu sais combien sont encombrants les appareils de chimie.</p>
+                <p>Pour nous, nous sommes très bien installés au premier et j'ai enfin, ce que j'ai toujours envié, un laboratoire où je puisse aller à toute heure, au rez-de-chaussée de mon appartement; et quelquefois, pendant que je dors, souvent même ces jours-ci, le gaz brûle toute la nuit et les opérations continuent leur cours. C'est ainsi que je cherche à retrouver un peu le temps que je dois consacrer à la direction de tous les travaux aujourd'hui assez multiples dans nos Facultés.</p>
+                <p>Ajoute à cela que je suis membre de deux sociétés très actives 1 et que j'ai été chargé, sur la proposition du Conseil Général, de la vérification des engrais pour le département du Nord, travail assez considérable dans ce riche pays agricole, mais que j'ai accepté avec empressement, afin de populariser et agrandir l'influence de notre Faculté naissante.</p>
+                <p>Ne crains pas que tout cela me détourne de mes études qui me sont si chères. Je ne les abandonnerai pas et j'espère que ce qui est déjà fait marchera sans mon aide, avec le temps qui grandit tout ce qui est fécond.</p>
+                <p>Travaillons tous; il n'y a que cela qui amuse. C'est le mot de M. Biot, et on peut bien s'en rapporter à lui sur ce sujet. Tu sais la part qu'il vient de prendre encore à l'Académie des Sciences dans une grande discussion où il a été magnifique de présence d'esprit, de haute raison et de jeunesse avec ses 84 ans.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

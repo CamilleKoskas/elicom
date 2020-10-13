@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1855-02-26">26 février 1855.</date>
+                    <placeName>Lille</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Godélier, Charles (1813-1877)">AU Dr GODÉLIER</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Lille, 12 février 1855."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Lille, le 26 février 1855.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>AU Dr GODÉLIER.</p>
+                <p>• Lille, le 26 février 1855.</p>
+                <p>Mon cher Monsieur Godélier, Notre Faculté ne va pas mal. J'ai environ 250 auditeurs.</p>
+                <p>Je donne beaucoup de soin à mes leçons et tous mes collègues font de même.</p>
+                <p>Grâce à la libéralité de la Ville, qui a dû pourvoir aux premiers frais d'installation, rien ne nous manque, et ce sera</p>
+                <p>plaisir que de travailler ici dès que notre local sera entièrement terminé. Aussi je désire beaucoup passer à Lille de longues années. Je ne saurais trouver nulle part autant d'avantages de toutes sortes. Depuis un mois déjà j'ai pu reprendre mes études favorites et j'espère avoir quelque nouveauté pour l'Académie à la fin de l'année.</p>
+                <p>Nos enfants se portent à merveille. Le changement d'air leur a évidemment servi beaucoup. Nous avons aussi de bonnes nouvelles de notre grosse Jeanne qui est toujours à Orléans. J'attends de vous et des vôtres, par Félix, d'aussi bonnes nouvelles. Surtout ne faites pas comme notre hardi Empereur. N'allez pas en Crimée 1. Tantôt on y comptera bien des douleurs.</p>
+                <p>Adieu. Mille choses aimables pour Mme Pasteur et moi à Mme Godélier. Embrassez pour nous Cécile, Edmée et Paul qui est maintenant un grand garçon désireux de faire son chemin.</p>
+                <p>Tout à vous.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                            L. PASTEUR.
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

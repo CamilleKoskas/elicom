@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1856-11-20">20 novembre 1856.</date>
+                    <placeName>Lille</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="">A M. LE PRÉSIDENT DE L'ACADÉMIE DES SCIENCES.</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Lille, 19 novembre 1856."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Lille, 20 novembre 1856.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+               
+                <p>A M. LE PRÉSIDENT DE L'ACADÉMIE DES SCIENCES.</p>
+                <p>Lille, 20 novembre 1856.</p>
+                <p>Monsieur le Président, J'ai l'honneur de prier l'Académie de vouloir bien me comprendre parmi les candidats à la place vacante dans la Section de Minéralogie et de Géologie.</p>
+                <p>Je suis avec le plus profond respect, Monsieur le Président, votre très humble et très dévoué serviteur.</p>
+                <p>L. PASTEUR, Doyen et professeur de la Faculté des Sciences de Lille 1.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                            
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

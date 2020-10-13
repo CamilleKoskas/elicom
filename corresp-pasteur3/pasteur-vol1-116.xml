@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1855-06-17">17 juin 1855.</date>
+          <placeName>Lille</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="[Lille, 17 juin 1855.] Ma chère Marie, Il y a déjà quelque témps que je n'ai reçu de tes nouvelles. Es-tu encore à Orléans? N'y es-tu pas? Je l'ignore, parce que je ne sais pas au juste si tu as différé ton voyage d'Orléans à Paris. J'espère en tout cas te revoir bientôt et il me tarde de nous voir rentrés dans le train ordinaire de notre ménage. Je ne crois avoir rien de bien nouveau à t'apprendre. Nous allons bien malgré la pluie, le vent et le froid. J'ai fait faire du feu ce matin dans mon laboratoire."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>[Lille, 17 juin 1855.]</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p> Ma chère Marie, Il y a déjà quelque témps que je n'ai reçu de tes nouvelles. Es-tu encore à Orléans? N'y es-tu pas? Je l'ignore, parce que je ne sais pas au juste si tu as différé ton voyage d'Orléans à Paris. J'espère en tout cas te revoir bientôt et il me tarde de nous voir rentrés dans le train ordinaire de notre ménage. Je ne crois avoir rien de bien nouveau à t'apprendre. Nous allons bien malgré la pluie, le vent et le froid. J'ai fait faire du feu ce matin dans mon laboratoire.. Aussi la fête de Lille est fort triste.</p>
+        <p>On a commencé à peindre toutes les portes dans notre logement et je crois qu'il n'y aura plus aucune place humide quand cela sera terminé, de sorte que tout de suite on pourrait poser les papiers.</p>
+        <p>A l'instant même on m'apporte ta lettre dans laquelle tu me dis de t'écrire rue St Sébastien 43 2, que tu y seras lundi à 3 heures après midi. Je vais donc mettre l'adresse à cette</p>
+        <p>lettre en conséquence. Je t'attendrai jeudi ou mercredi; mais n'oublie pas de m'écrire affn que je puisse aller à ta rencontre et reviens de jour comme tu me le dis.</p>
+        <p>Baptiste demande toujours sa trompette, son sabre et Maman et Jeanne. Je préparerai une bouteille à Jeanne.</p>
+        <p>Mais j'entends qu'elle soit bien sage. Je suis très content de Baptiste depuis ton départ. Il m'obéit fort bien et me craint.</p>
+        <p>Il est très gentil. J'espère que Jeanne marchera sur ses traces et les embellira même.</p>
+        <p>N'oublie pas mes lunettes. Fais' la course en voiture.</p>
+        <p>No l3 — montures fines. — Je te figure la taille de celles que je porte en ce moment1.</p>
+        <p>Adieu. Je t'aime et je t'embrasse de tout mon cœur avec Jeanne.</p>
+        <p>L. PASTEUR.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

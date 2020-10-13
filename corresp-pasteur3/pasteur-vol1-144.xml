@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1857-03-11" >Paris, mercredi 11 mars 1857.</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Paris, mercredi II mars 1857."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, mercredi II mars 1857.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher papa, C'est enfin lundi l'élection. Mon échec est assuré. Mais tu as bien tort de croire que j'attache à cette affaire plus d'importance qu'elle n'en mérite. Il est évident pour tout le monde que j'échouerai parce que M. Delafosse a des collègues membres de l'Institut en grand nombre; et à [cause d'] une intrigue d'un membre influent qui veut arriver à la Sorbonne et qui a fait un marché pour atteindre ce but. Je ne suis ennuyé que d'une chose, c'est d'être obligé d'attendre ici, loin des miens et de mes affaires. Je réunirai environ 20 à 23 voix. M. Delafosse en aura 28 ou 30 probablement.</p>
+        <p>Adieu. Je vous embrasse tous. Portez-vous bien. Jeanne va mieux.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              L. PASTEUR.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

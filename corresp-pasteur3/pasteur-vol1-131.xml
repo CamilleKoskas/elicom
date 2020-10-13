@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1856-10-24">le 24 octobre 1856.</date>
+          <placeName>Lille</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="">Au RECTEUR DE L'ACADÉMIE DE DOUAI.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Lille, le 24 octobre 1856."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Lille, le 24 octobre 1856.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Monsieur le Recteur, En vous remettant un projet de distribution des matières de l'enseignement de la Faculté pour l'année 1856-57 1, je</p>
+        <p>.1. Le Ministre de l'Instruction publique et des Cultes, M. Rouland, écrivit à la fin d'octobre au Recteur : « J'ai approuvé l'organisation des cours proposés par M. le Doyen pour l'année 1856-1857. Elle me paraît satisfaire complètement à la double mission de la Faculté des sciences et répondre autant qu'on peut le désirer aux besoins de l'activité industrielle du pays. Cependant, en me plaçant surtout à ce dernier point de vue, je ne saurais admettre que les leçons de chimie appliquées aux industries, faites par M. Pasteur, soient interdites au public pour être réservées aux étudiants inscrits pour les sciences appliquées. Ces leçons sont précisément celles qui peuvent offrir l'intérêt le plus réel, le plus général, à la population de Lille; lui en fermer l'entrée ce serait fausser le véritable principe de l'institution des Facultés. D'ailleurs ce serait en contradiction formelle avec</p>
+        <p>les termes de l'instruction du 30 novembre dernier sur la répartition de l'enseignement dans les Facultés des sciences. Veuillez relire la page 13 de cette instruction où précisément la Faculté des sciences de Lille est citée comme exemple, et vous reconnaîtrez que loin d'être réservées à quelques auditeurs payants, les leçons de M. Pasteur sur les industries du Nord doivent être annoncées d'avance, afin d'y appeler le plus grand nombre possible d'auditeurs.</p>
+        <p>« La publicité donnée à ces leçons ne saurait avoir pour résultat de diminuer le nombre,des étudiants inscrits. Elle ne peut que contribuer à entraîner un plus grand nombre de personnes vers l'étude des sciences appliquées qui ne saurait être efficace et complète qu'avec le secours des conférences, des exercices pratiques et des manipulations. Au reste, tout en ouvrant librement au public les leçons dont il s'agit, rien n'empêche et il convient même au contraire parfaitement d'y réserver des places toutes spéciales pour les étudiants inscrits. Veuillez faire part de</p>
+        <p>vous ai donné de vive voix des explications que, sur votre demande, je vais reproduire par écrit.</p>
+        <p>L'adjonction de deux professeurs adjoints et les améliorations que Son Excellence vient de réaliser pour la Faculté des sciences et exécutables dès le Ier novembre prochain fortifieront selon les vues de M. le Ministre l'enseignement des Sciences appliquées et permettront de le placer mieux que par le passé en harmonie avec les exigences et les besoins du riche pays industriel au centre duquel la Faculté a été établie.</p>
+        <p>L'organisation que j'ai eu l'honneur de vous soumettre est dominée, Monsieur le Recteur, par une tendance géné- rale pour laquelle je sollicite votre approbation et votre concours, savoir : la concentration à l'intérieur de l'ensei-</p>
+        <p>ma décision à M. le Doyen et appeler son attention sur les observations que contient cette dépêche et que je recommande à votre sollicitude. »</p>
+        <p>Il n'est pas sans intérêt de noter les éloges décernés à Pasteur au cours de cette année 1856. C'est ainsi que M. Gislard, inspecteur, d'Académie, écrivait au Recteur le 3 janvier 1856 : « J'ai assisté au cours de chimie.</p>
+        <p>Les leçons de M. Pasteur sont suivies par un nombreux auditoire. Les expériences sont faites avec soin et réussies. Le professeur a un talent vraiment remarquable, il sait par sa parole facile, son exposition claire et méthodique intéresser son auditoire dont l'affluence est une consécration populaire de l'institution de la Faculté des sciences à Lille. Il Le Ier août 1856, le Recteur envoyait au Ministre de l'Instruction publique et des Cultes les notes suivantes sur Pasteur : « M. Pasteur est un savant très distingué et un professeur de premier ordre. Il ne m'appartient pas d'apprécier ses travaux comme chimiste et je n'ai qu'à faire ressortir ici les qualités de son enseignement. Exposition lucide et sévèrement méthodique, parole animée et sympathique malgré la froideur apparente de M. Pasteur; leçons admirablement préparées, expériences faites avec une habileté rare et un succès complet; tels sont les caractères généraux de l'enseignement de M. Pasteur.</p>
+        <p>« Je dois dire encore que M. Pasteur a la passion de la science qu'il enseigne; qu'il vit pour ainsi dire enseveli dans son laboratoire; qu'il y poursuit des études qui ajoutent chaque jour à la valeur de son enseignement et à la considération dont il jouit; qu'il suit avec un dévouement remarquable les travaux des élèves des sciences appliquées, et que enfin il dirige la Faculté des sciences de Lille avec une activité et une intelligence qui ont fait de cette Faculté dès son début un des premiers établissements de l'Empire. »</p>
+        <p>On trouvera le compte rendu des travaux de la Faculté des sciences de Lille pendant l'année scolaire 1855-1856, présenté à Douai le 13 novembre 1856 par Pasteur, dans les Œuvres de Pasteur, t. VII, p. 138-146.</p>
+        <p>gnement appliqué sous toutes ses faces. Je tiens pour très utile la publicité donnée aux leçons des Facultés, mais il ne faut pas se dissimuler que plus notre enseignement est accessible à tous, plus nous diminuons le nombre des auditeurs sérieux. Le moyen le plus efficace d'établir dans notre auditoire deux catégories distinctes : celle du public amateur qui vient chercher à nos leçons des distractions et quelques idées générales sur les progrès des sciences, et celle des jeunes gens qui doivent faire métier d'études scientifiques pendant plusieurs années, c'est, à mon avis, de réserver aux jeunes gens, aux élèves inscrits, tout ce qui est application, tout ce que le public peut désirer le plus connaître mais qu'il ne saurait apprendre comme il convient.</p>
+        <p>Dans mon projet, l'adjonction d'un professeur de mathématiques doit modifier comme il suit l'enseignement de cette science. La mécanique appliquée et la mécanique rationnelle seraient réservées au professeur titulaire et le professeur adjoint traiterait du calcul différentiel et intégral, ce qui permettra de voir en une année tout le programme de la licence ès sciences mathématiques. Jusqu'à présent cela avait été impossible, et, bien que le nombre des candidats à la licence soit toujours très restreint, il ne faut pas laisser déchoir dans les Facultés le haut enseignement des mathématiques supérieures.</p>
+        <p>L'enseignement des mathématiques se complète par des leçons de géométrie descriptive et des conférences sur les machines. Le cours de géométrie descriptive fait partie du programme de l'examen des sciences appliquées, son utilité n'a pas besoin de commentaires. Mais on voit moins tout d'abord celle d'un cours intitulé Conférences sur les machines, à côté du cours de mécanique appliquée. Vous connaissez déjà, Monsieur le Recteur, les considérations qui m'ont fait adopter cette combinaison. J'ai eu plusieurs fois à vous faire l'éloge du cours de mécanique appliquée de M. Mahistre, mais toujours en regrettant que ce professeur ne fût pas un peu physicien et qu'il ne cherchât pas à décrire les machines et à faire de l'expérience propre à montrer ce que l'on gagne avec telle ou telle association d'appa-</p>
+        <p>reils mécaniques. Exiger cela de M. Mahistre est chose impossible. On ne se refait pas à son âge; et, en comprendrait-il lui-même l'importance, il échouerait à la tâche. J'en ai la conviction. Le cours de mécanique appliquée, rempli d'ailleurs d'excellentes choses et originales en le prenant à un autre point de vue, présente donc une lacune que j'ai voulu combler à l'aide de leçons sur les machines faites par le professeur-adjoint. Ces leçons expérimentales et celles de géométrie descriptive alterneront chaque semaine avec les épreuves pratiques dans ces deux branches.</p>
+        <p>L'enseignement de la physique est également modifié. Je supprime pour le professeur titulaire la charge des manipulations et celle des conférences, d'interrogations et de développements qui les précèdent. Ce travail est mis entre les mains du professeur-adjoint des sciences physiques et je le remplace, pour le titulaire, par des conférences de physique industrielle, une tous les quinze jours. Par conférence de physique industrielle, j'entends des leçons détaillées sur certaines machines et sur les principes physiques utilisés par l'industrie; pour citer quelques exemples, je voudrais que la presse hydraulique fût décrite et expliquée dans les plus grands détails, qu'il en fût de même de l'aréométrie, des propriétés de la vapeur, des machines à vapeur, etc.</p>
+        <p>L'enseignement de l'histoire naturelle restera ce qu'il était, mais je le regrette infiniment. L'utilité d'un bon cours de géologie et de minéralogie est ici vivement sentie, et dans nos visites d'usines au dehors ou dans les environs, je tirerais le plus grand parti de la présence d'un géologue au milieu de nous. J'espère, Monsieur le Recteur, que cette lacune sera bientôt comblée.</p>
+        <p>C'est peut-être l'enseignement de la chimie qui reçoit les plus grandes modifications dans le programme que je vous ai soumis. Voici en effet ce que je propose : Le cours de chimie générale serait fait dans le premier semestre par le professeur-adjoint; je me réserverais le deuxième semestre qui comprend les parties les plus difficiles de la chimie. Cette organisation aurait l'avantage de faire participer le professeur-adjoint à l'enseignement oral et public, et aussi d'alléger dans une certaine mesure mes propres occupations. Les</p>
+        <p>soins administratifs que réclame la Faculté deviennent de plus en plus considérables, et, à moins d'abandonner ma carrière scientifique, ce que je ne ferai à aucun prix, je ne pourrai suffire aux exigences d'un cours public entretenu toute l'année, jointes à celles de la surveillance intérieure de l'organisation, et des rapports fréquents avec l'autorité académique.</p>
+        <p>La position d'un doyen de Faculté des sciences où l'enseignement appliqué est établi n'a, pour ainsi dire, plus rien de commun avec ce qu'elle était et ce qu'elle est encore dans les anciennes Facultés. Au demeurant, et pour cette année, l'allégement de mon travail, comme professeur, est plus apparent que réel, puisque je remplace les deux leçons par semaine de chimie générale du premier semestre par une leçon et une manipulation sur des sujets nouveaux qui m'obligeront à beaucoup d'études spéciales.</p>
+        <p>Comme professeur-adjoint de mathématiques, j'ai l'honneur de proposer M. Guizaudet, docteur ès sciences mathématiques, professeur-adjoint au lycée St-Louis, ancien élève de l'Ecole Normale, qui se placera très vite, je n'en doute pas, et par son zèle et par son aptitude pour les mathématiques, dans les meilleures conditions de succès.</p>
+        <p>Je serais très désireux de voir charger des fonctions de professeur-adjoint de physique M. Violette, professeur agrégé du lycée de Lille, qui sera en mesure de subir très prochainement les épreuves du doctorat auxquelles il se prépare depuis deux ans dans le laboratoire de chimie de la Faculté, au milieu même de nos travaux.</p>
+        <p>L'aide-préparateur de physique, M. d'Henry, bachelier ès sciences, deviendra tout naturellement préparateur en titre du cours de physique, de telle sorte que je n'aurai à adjoindre au cours de physique et d'histoire naturelle qu'un garçon de laboratoire nouveau pour rester dans les limites des crédits ouverts par Son Excellence à partir du Ier novembre.</p>
+        <p>Veuillez agréer, monsieur le Recteur, l'assurance de mon respectueux dévouement.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              Le Doyen de la Faculté, L. PASTEUR.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

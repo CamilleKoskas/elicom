@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1854-12-07" >7 décembre 1854.</date>
+          <placeName>Douai</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="[Douai] 7 décembre 1854."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>[Douai] 7 décembre 1854.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Ma chère Marie, Puisque tu désires savoir ce que j'ai pu dire à cette belle société douaisienne je t'envoie la copie de la deuxième partie de mon discours, celle qui a frappé le plus les esprits et leur a fait dire de moi les choses les plus flatteuses 1. J'avais d'ailleurs un grand aplomb. Les grandes réunions ne m'effraient plus. Elles m'excitent plutôt. J'ai eu bien tort d'avoir peur d'être trop long. Car la veille j'ai supprimé une autre page émouvante qui les aurait charmés et entraînés.</p>
+        <p>J'ai eu peur. Ce sera pour une autre occasion. Elle eût été bien à sa place. Sans flatterie, la page que je t'envoie est réellement fort bien et je ne m'étonne pas qu'elle ait eu des applaudissements. Je n'en demandais pas autant. Je te raconterai la séance plus en détails quand je te verrai.</p>
+        <p>Aujourd'hui nous avons autres choses à régler.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

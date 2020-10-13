@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1855-06-18">18 juin 1855.</date>
+          <placeName>Lille</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>[Lille, 18 juin 1855.]</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p> Mon cher papa, J'attendais pour t'écrire, depuis que j'ai reçu ta lettre qui nous annonce l'envoi d'une caisse de vin, que cette caisse fût arrivée afin de te dire si elle était en bon état. Mais je n'ai encore rien reçu. Je te remercie bien d'avoir eu l'idée d'inaugurer ainsi le chemin de Dôle à Dijon. J'espère que tu viendras t'assurer toi-même à Lille si le voyage lui a été bon.En ce moment je suis veuf. Marie a été à Orléans chercher cette grosse Jeanne qui a une santé plus belle que jamais. Je les attends mercredi ou jeudi. Ici les deux autres vont très bien. Jamais Baptiste ne s'est mieux porté qu'à Lille. Je vais aussi très bien. Nous avons un temps d'hiver depuis huit jours. J'ai été obligé de faire faire du feu aujourd'hui dans mon laboratoire.</p>
+        <p>Marie m'a donné de bonnes nouvelles de M. Biot qu'elle a vu à son passage à Paris. Il espère de moi un nouveau tra-</p>
+        <p>vail pour cette année. Il est en effet très avancé 1. Mais je rencontre dans l'étude que j'ai entreprise les plus grandes difficultés. Cependant j'en vois le terme comme prochain.</p>
+        <p>Notre logement tire aussi à sa fin. Toutes les boiseries sont posées, les plafonds, les cloisons sont faites et plâtrées.</p>
+        <p>On a commencé à donner les premières couches de peinture et après elles il ne restera plus que le papier à poser. Jamais nous ne serons aussi bien logés, aussi sainement, ni aussi agréablement. C'est également très vaste et très bien distribué. Il me tarde de te le faire voir. Tu auras une très belle chambre au midi.</p>
+        <p>Nos examens commencent cette année le 20 juillet. C'est donc l'époque de la fin de nos cours. Je pense que nous aurons à Lille pour une douzaine de jours des bacheliers.</p>
+        <p>Nous allons ensuite tenir une deuxième session d'examens à Amiens, puis nous entrerons pleinement en vacances.</p>
+        <p>J'espère qu'aujourd'hui vous allez tous bien, y compris notre vieille grand'mère. Embrasse bien Virginie qui ferait bien d'éviter le froid et l'humide. Pour moi, dès que j'ai le moindre froid aux pieds, je suis sûr d'avoir la colique pendant un jour ou deux.</p>
+        <p>Adieu. Je vous embrasse bien tous pour moi et nos petits enfants et Marie.</p>
+        <p>L. PASTEUR.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

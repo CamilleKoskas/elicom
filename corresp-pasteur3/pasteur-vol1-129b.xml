@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1856-10-03">3 octobre 1856.</date>
+                    <placeName>Lille</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Houel, Guillaume-Jules (1823-1886)">A M. HOUEL 1.</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="26 septembre 1856, Paris vendredi matin."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>>Lille, le 3 octobre 1856.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A M. HOUEL 1.</p>
+                <p>Lille, le 3 octobre 1856.</p>
+                <p>Mon cher Houel, Ta lettre me fait beaucoup de peine et je ne puis comprendre ton refus. Dans tous les cas ce n'est plus à moi que tu peux t'adresser. Je t'ai proposé à M. Dumas et à M. Lesieur comme professeur chargé des mathématiques pures.</p>
+                <p>Ce serait là ton travail à peu près exclusif avec 4 ou 5 candidats à la licence, maîtres d'études au lycée. Le titulariat t'arriverait promptement et quelle position charmante pour un travailleur, un homme d'avenir comme tu l'es que d'être professeur de faculté. De l'indépendance, des loisirs, des relations agréables. Vraiment je crois que tu ne me dis pas la vérité. Tu prétends que Mme Houel est trop heureuse de se retrouver dans sa famille, que tu lui ferais trop de peine en t'éloignant. Je n'ai pas l'honneur de connaître Mme Houel mais je ne lui ferai pas l'injustice de croire qu'elle sacrifierait ta carrière et ton avenir à des sentiments touchants, pleins d'intérêt, et qui seraient très louables si le cœur plus que la raison n'était leur guide. Si ta situation est celle que je puis conclure d'après ta lettre et ce que je sais de toi, ne réponds pas au ministre par un refus, s'il te nomme. Permets-moi de te dire qu'à mon avis tu aurais grandement tort si tu veux faire de la science ta carrière; et dis à Mme Houel (que je suis tout disposé à grandement estimer en la blâmant) dis-lui que nous ferons tout ici, Mme Pasteur et moi, pour combler un peu et dans la limite de nos forces le vide qui va se faire autour d'elle dans six semaines.</p>
+                <p>Tout à toi, L. PASTEUR, doyen de la Faculté de Lille.</p>
+                
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

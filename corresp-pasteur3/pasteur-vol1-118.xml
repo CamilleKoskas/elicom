@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1855-08-31">31 août 1855.</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="[Paris, 31 août 1855.] Mon cher papa, Tu dois comprendre que mon hésitation tient surtout au déroutement que vous m'avez procuré en me faisant changer tout à fait mon plan de vacances. Aujourd'hui je ne suis que médiocrement fâché de ne pas aller en Angleterre. Plus je vais à l'Exposition plus je trouve qu'il y a là pour moi un champ d'instruction chimique que je ne retrouverai de longtemps. J'ai pris le parti de ne voir que peu de vitrines à chaque visite et de les étudier en détail en prenant des notes."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>[Paris, 31 août 1855.]</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p> Mon cher papa, Tu dois comprendre que mon hésitation tient surtout au déroutement que vous m'avez procuré en me faisant changer tout à fait mon plan de vacances. Aujourd'hui je ne suis que médiocrement fâché de ne pas aller en Angleterre. Plus je vais à l'Exposition plus je trouve qu'il y a là pour moi un champ d'instruction chimique que je ne retrouverai de longtemps. J'ai pris le parti de ne voir que peu de vitrines à chaque visite et de les étudier en détail en prenant des notes.</p>
+        <p>Mais voici une circonstance qui me gêne et qui me fera prolonger beaucoup mon séjour à Paris. Un des membres du jury d'agrégation est tombé malade et le ministre m'a chargé de le remplacer à partir d'hier. Cependant je puis de deux en deux jours passer une matinée à l'Exposition. Je serai encore occupé douze jours à l'agrégation et peut-être autant ensuite à continuer les visites au Palais de l'Industrie. Je ne pourrais donc aller à Arbois que vers le Ier octobre.</p>
+        <p>A moins de circonstances particulières et imprévues je compte aller vous voir quelques jours. Cependant à cette époque il sera grand temps que j'aille m'occuper de la Faculté de Lille où l'on construit en ce moment un laboratoire et où l'on termine beaucoup de choses qui exigeraient ma présence. Enfin vous verrons.</p>
+        <p>Marie et nos enfants sont partis hier pour Orléans avec la bonne par un beau temps.</p>
+        <p>Remercie bien Virginie. Pour Jeanne c'est presque impossible que je la conduise si je vais à Arbois. Il faudrait la faire revenir d'Orléans ou que j'aille la chercher. Ce sont des embarras qui seraient à ajouter à ceux qu'elle me donnerait en route.</p>
+        <p>Nous avons bien fait d'arriver une demi-heure avant 3 h.</p>
+        <p>au chemin de fer. Le jour même de ton départl, le 25, les</p>
+        <p>changements pour le service d'été ont commencé. Il n'y avait pas de départ pour Dijon à 3 h. mais à 2 h. 1/2. Tu as dû te mettre en route immédiatement après que nous t'avons quitté.</p>
+        <p>Adieu. Embrasse bien Virginie, ses enfants, son mari. Je t'embrasse de même.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              L. PASTEUR.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

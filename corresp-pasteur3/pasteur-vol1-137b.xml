@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1857-02-24">le 24 février 1857</date>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="">A M. MILLER, PROFESSEUR DE MINÉRALOGIE, MEMBRE DE LA SOCIÉTÉ ROYALE DE LONDRES.</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Lille, 28 janvier 1857."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Paris, le 24 février 1857.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                
+                <p>A M. MILLER, PROFESSEUR DE MINÉRALOGIE, MEMBRE DE LA SOCIÉTÉ ROYALE DE LONDRES.</p>
+                <p>Paris, le 24 février 1857.</p>
+                <p>Monsieur, Dans une affaire pendante et qui doit décider de mon avenir, on me conteste mes titres cristallographiques et l'importance de mes recherches sur les relations qui peuvent exister entre les propriétés physiques des minéraux et leur constitution moléculaire interne.</p>
+                <p>Cette circonstance me fait penser que mes travaux n'ont pas été appréciés en France comme ils doivent l'être et je viens m'adresser à l'un des savants de l'Europe les plus compétents en pareille matière pour lui demander son' opinion, et en quelle estime il tient mes travaux sous le point de vue que j'ai ci-dessus indiqué.</p>
+                <p>Je suis avec un profond respect Votre très humble et très dévoué serviteur L. PASTEUR, Paris, Hôtel de l'Empereur Joseph II, rue de Tournon.</p>
+                <p>P.-S. — Il est nécessaire que la réponse arrive courrier par courrier. L'affaire se décide lundi à l'Académie des Sciences de Paris.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

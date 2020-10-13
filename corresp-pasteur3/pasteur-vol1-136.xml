@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1856-12-29">29 décembre 1856.</date>
+          <placeName>Lille</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>29 décembre 1856.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Lille, 29 décembre 1856.</p>
+        <p>Mon cher papa, Rien de nouveau quant à cette grande question de l'Institut. C'est dans la séance du 12 janvier seulement que l'on commencera à s'occuper de l'affaire. Elle sera dès lors terminée en trois semaines.' Il faut un premier lundi pour déclarer la place vacante. Dans le suivant les titres des candidats sont discutés en comité secret et le lundi d'après il y a scrutin. Je serai obligé d'aller à Paris à cette époque (la semaine qui précédera le scrutin) pour faire les visites d'usage. Il me tarde beaucoup que cette affaire soit terminée. Elle me préoccupe de plus en plus, non pas que je doive m'affliger aucunement si le résultat m'est défavorable, mais parce qu'elle est capitale dans la carrière d'un savant et qu'il est loin d'être indifférent d'entrer à l'Académie à une époque ou à une autre. Tu sais ce qui arrive à M. Fremy qui a eu 27 voix contre 28 données à M. Balard élu en .1844, et qui attend encore son tour dans la section de chimie.</p>
+        <p>Si nous étions à une toute autre époque de l'année je te dirais de venir à Paris pour le jour de l'élection. Tu te chargerais d'assister au scrutin et de venir me donner le résultat. Je ne te le ferai pas attendre. Je t'écrirai le soir même ainsi qu'à Marie.</p>
+        <p>Nous avons appris avec bien du plaisir que tu étais dans le banc de gypse. Es-tu toujours content et as-tu assez de terrain à exploiter sans aller sur le voisin?</p>
+        <p>Nous avons suivi pour ce nouveau jour de l'an le même système que les années précédentes pour ce qui est des étrennes de Joseph [Vichot] et d'Estelle [Vichot] 1 et on a déjà porté depuis quelques jours à la caisse d'épargne 60 fr. au compte de chacun d'eux.</p>
+        <p>Dis-moi ce que tu penses du système d'assurances sur la vie. Peut-être l'adopterais-je pour nos enfants.</p>
+        <p>Je n'ai pas besoin de te dire tout mon bonheur de te voir aujourd'hui à la veille d'une nouvelle année en aussi bonne santé, ainsi que Virginie, son mari et ses enfants. J'espère bien et je souhaite ardemment pouvoir t'en dire autant l'an prochain à pareille époque. Dieu veuille que je puisse signer alors ma lettre du titre de membre de l'Institut.</p>
+        <p>Je vous embrasse tous du meilleur cœur. N'oublie pas de distribuer quelques bonbons en notre nom à Joseph et à Estelle. Embrasse bien Virginie.</p>
+        <p>L. PASTEUR.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

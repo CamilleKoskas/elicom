@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1856-04-04">4 avril 1856.</date>
+          <placeName>Lille</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Lille, le 4 avril 1856."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Lille, le 4 avril 1856.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher papa, Je suis au milieu des examens du baccalauréat, ce qui est très occupant. Mais j'ai profité des vacances de Pâques pour aller en Belgique visiter des usines métallurgiques que</p>
+        <p>Cette lettre avait été envoyée au Recteur à la suite du rapport mensuel que celui-ci avait adressé au Ministre au mois de janvier : « M. Pasteur, disait le Recteur, continue d'occuper le premier rang parmi les professeurs de la Faculté, par l'étendue de ses connaissances, par la sévérité de sa méthode, la sûreté et la clarté de sa parole, le mouvement et l'intérêt qu'il sait mettre dans ses leçons, »</p>
+        <p>ma position de professeur de chimie exige que je connaisse bien. J'ai visité principalement les usines des environs de Liège.</p>
+        <p>Quand tu viendras nous voir, ce qui sera bientôt j'espère puisque voici les beaux jours, nous pourrons aller faire un tour dans le département du Nord ou en Belgique. On va à Bruxelles pour 6 fr.</p>
+        <p>Demain nous soignerons le vin suivant tes prescriptions.</p>
+        <p>Il arrive à peu près à temps. La qualité de celui que tu nous as envoyé m'a, je crois, habitué au vin que je bois maintenant volontiers sans eau. Cependant nous n'en buvons tous ensemble qu'une bouteille par jour environ.</p>
+        <p>Nous avons tous été enrhumés et moi surtout. Je me suis bien soigné et je suis à peu près débarrassé. La cigarette de camphre ne m'a rien fait. Le sirop de Lamouroux avec des infusions de violettes m'a fait plus de bien.</p>
+        <p>Adieu. Embrasse bien Virginie, son mari et ses enfants pour nous tous.</p>
+        <p>Porte-toi bien et viens nous voir.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              L. PASTEUR.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

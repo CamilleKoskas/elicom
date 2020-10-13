@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1854-09-09" >09 septembre 1854.</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Paris, 9 septembre 1854."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, 9 septembre 1854.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher papa, Le Concours d'agrégation est terminé. Nous pourrons nous mettre en route de manière à arriver à la fin de la semaine dans laquelle nous allons entrer. Je t'écrirai au juste le jour de notre départ dès que je le pourrai faire.</p>
+        <p>Ici les blanchisseurs ne viennent à Paris qu'à des jours fixes et Marie attend le sien lundi ou mardi. Je crois donc que nous pourrons être prêts à partir mercredi ou jeudi.</p>
+        <p>J'espère que Jeanne et Baptiste seront remis : tous les deux sont dérangés et ont le dévoiement. Ils vont très bien du reste.</p>
+        <p>Nous serons assez gênés dans le voyage par nos trois enfants. Figure-toi que Madeleine nous quitte. Ses parents</p>
+        <p>lui écrivent lettre sur lettre pour qu'elle revienne à Strasbourg. Elle partira en même temps que nous. Elle en est très contrariée car elle se faisait une fête de venir à Arbois manger des raisins. Nous allons encore tenter de la garder jusqu'à notre retour d'Arbois. Dans le cas où ses parents n'accepteront pas il faudra que Virginie songe à nous trouver une fille pour le temps que nous serons à Arbois. Ne demandez personne positivement. Songez seulement à qui pourrait convenir. En écrivant le jour de notre départ je te dirai si réellement Madeleine vient ou ne vient pas.</p>
+        <p>Adieu. A bientôt.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              L. PASTEUR.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

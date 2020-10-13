@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1854-12-01">1er décembre 1854.</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Paris, ler décembre 1854."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, ler décembre 1854.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher papa, Puisque tu lis chaque jour le Moniteur, tu sais qu'aujourd'hui il a publié les nominations pour les Facultés de Nancy et de Poitiers.</p>
+        <p>Les nominations pour Lille sont retardées uniquement par ce fait que le ministre ne trouve pas ce qu'il désire comme professeur d'Histoire naturelle de cette Faculté.</p>
+        <p>Cependant il désire terminer cette affaire et je sais qu'il a invité M. Dumas aujourd'hui à lui faire des propositions dans ce sens.</p>
+        <p>Je suis venu à Paris pour l'achat de nos collections. J'ai 20.000 fr. à employer immédiatement et j'ai à peu près terminé. Je repars demain soir déjà pour Lille et pour Douai où je serai mardi 1. J'y suis chargé par le ministre d'assister la Faculté des lettres dans ses examens du baccalauréat ès lettres.</p>
+        <p>Tu vois d'après ce qui précède que tu ne tarderas pas à voir notre Faculté constituée à Lille. Je croyais même qu'il y avait quelque autre embarras à ces nominations que l'on aurait bien pu retarder en effet jusqu'à Pâques.</p>
+        <p>Car nous ne pourrons commencer nos cours que dans trois ou quatre mois. Cependant j'espère que le cours de chimie Pourrait ouvrir le Ier janvier parce que tout sera terminé dans mon laboratoire dans le courant de décembre.</p>
+        <p>J'ai vu le Préfet du Nord et lui ai présenté les amitiés de M. Bergeret 2 dont il se souvient avec beaucoup de plaisir ainsi que de Mme Bergeret. Il m'a demandé ce qui avait déterminé M. Bergeret à donner sa démission de membre du Conseil général. A cet égard je ne savais rien.</p>
+        <p>Marie et les enfants viendront me rejoindre à Lille dans</p>
+        <p>le courant de décembre. Mais comme nous serons campés un peu provisoirement jusqu'en avril, Jeanne ira passer cet intervalle à Orléans chez sa grand'mère.</p>
+        <p>Adieu. Je t'embrasse de tout mon cœur avec Virginie et ses enfants et son mari, sans oublier notre vieille grand' mère.</p>
+        <p>L. PASTEUR.</p>
+        
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

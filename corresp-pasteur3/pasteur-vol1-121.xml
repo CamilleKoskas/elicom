@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1855-10-12">12 octobre 1855.</date>
+          <placeName>Lille</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="">AU RECTEUR DE L'ACADÉMIE DE DOUAI</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Lille, le 12 octobre 1855."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Lille, le 12 octobre 1855.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Monsieur le Recteur, J'ai eu l'honneur de remettre entre vos mains, à la dernière réunion du Conseil de perfectionnement, les programmes des cours publics de la faculté des sciences pour l'année 1855-1856. Vous avez vu que les matières de ces programmes sont distribuées de telle sorte que nous répondons par notre enseignement oral à toutes les exigences du règlement qui concerne l'enseignement des Sciences appliquées. J'ai l'honneur de vous adresser aujourd'hui les programmes détajjlés de l'enseignement pratique qui complète l'enseignement oral et publique. Mon envoi comprend d'une part les sujets de manipulations de chimie, de physique, d'histoire naturelle et de mécanique. Il comprend en outre l'enseignement du dessin tel qu'il serait donné par M. Granowski si ce maître en était chargé, comme cela est désirable. Après avoir expliqué à M. Granowski quelles étaient les exigences du nouvel enseignement projeté à la Faculté des sciences je l'ai prié de rédiger lui-même le programme du cours qu'il ferait, s'il était nommé maître des travaux graphiques, et c'est la copie de sa note que je vous envoie. M. Granowski m'a paru très propre à ce genre d'enseignement. Je crois qu'il est mieux qu'un autre capable</p>
+        <p>de le diriger avec succès. Chargé depuis longtemps de travaux analogues auprès des Ecoles Académiques de Lille, il connaîtra les besoins de la localité beaucoup mieux qu'un professeur étranger.</p>
+        <p>Voici en définitive, Monsieur le Recteur, le tableau récapitulatif des travaux de la Faculté pour chaque semaine :</p>
+        <p>L d. j Dessin. Séance de 2 heures.</p>
+        <p>T Lundi. C d, e Physique.</p>
+        <p>ours e YSlque.</p>
+        <p>M ( Cours d'Histoire naturelle.</p>
+        <p>( Cours de Mécanique appliquée.</p>
+        <p>j Manipulation d'Histoire naturelle et conféMercredi. rence-un semestre seulement.</p>
+        <p>Cours de Chimie.</p>
+        <p>J d. I Manipulation de Chimie et conférence.</p>
+        <p>jeudi ours de Physique.</p>
+        <p>eu 1 C d Ph</p>
+        <p>) Exercice pratique de Mécanique, ou visites V d d. de fabriques; et conférences de Géométrie en re 1. d t. lt t t j descriptive alternativement.</p>
+        <p>( Cours d'Histoire Naturelle.</p>
+        <p>ç ( Manipulation de Physique et conférence.</p>
+        <p>( Cours de Chimie.</p>
+        <p>Je crois d'ailleurs que les conférences et manipulations ne devraient commencer que le Ier janvier. Il en serait de même de l'enseignement du dessin.</p>
+        <p>• Vous savez, Monsieur le Recteur, que dans tout ceci il n'y aura de nouveau pour la Faculté de Lille que les cours de dessin et de géométrie descriptive. Les exercices pratiques ont été, dans toutes les spécialités, régulièrement organisés dès le Ier février 1855, environ trois semaines après l'ouverture de la Faculté des sciences. Ils ont été suivis jusqu'à la fin de juillet par 13 élèves, régulièrement inscrits, selon les exigences du Décret du 22 août 1854. Je crois d'ailleurs qu'il était matériellement impossible de faire plus, travaillant comme nous le faisions dans un local en construction, dont nous avions à peine le rez-de-chaussée.</p>
+        <p>Veuillez agréer, Monsieur le Recteur, l'expression de mon respectueux dévoûment.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              L. PASTEUR.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1854-09">[Probablement septembre 1854.]</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>[Probablement septembre 1854.]</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher papa, ..J'attendais toujours pour t'écrire qu'il y eût quelque nouvelle à te donner. Mais rien n'est encore fait, bien qu'il soit plus sûr que jamais que je vais à Lille, à tel point que j'ai déjà été voir le nouveau local et que je dois voir le ministre demain soir pour lui donner des renseignements sur ce que j'ai vu et sur les modifications que je demande aux distributions.Je t'écrirai après-demain jeudi pour te dire si le ministre m'a donné quelque ordre particulier.</p>
+        <p>Je te félicite bien de tes cures. Il faut avouer que tu as été bien inspiré de songer à la vraie cause de la maladie de la petite.</p>
+        <p>Madeleine toujours redemandée par ses parents part ce soir après l'arrivée d'une autre bonne que nous allons recevoir d'Orléans ce matin même.</p>
+        <p>Je ne sais si nous serons logés à Lille. J'ai fait une demande en règle au maire que j'ai vu plusieurs fois pendant mon séjour. Il m'a prévenu des objections nombreuses qui seraient faites. En tout cas c'est au conseil municipal de</p>
+        <p>décider l'affaire. Il doit se réunir ces jours-ci pour cela.</p>
+        <p>J'avais déjà été annoncé au maire par le recteur comme devant venir à Lille en qualité de doyen de la Faculté et je me suis trouvé précédé là d'une réputation très grande qui facilitera je crois l'affaire de logement du doyen.</p>
+        <p>Tu trouveras ci-inclus un billet de 100 francs. Dans quelques jours nous t'en enverrons un second. Voici dans quel but. Bertin1 qui a fait des examens pour moi ne voulait pas que je 1e rembourse. Je prends le parti de lui envoyer une caisse de vin d'Arbois, 24 ou 25 bouteilles de celui que m'a livré dernièrement M. Beschet à l fr. 75 la bouteille.</p>
+        <p>M. Beschet fera la caisse, y mettra l'adresse et l'expédiera en payant le port d'avance. Comme 24 bouteilles font 42 francs je crois que le tout ne coûtera que 50 francs.</p>
+        <p>Bertin n'aura ainsi qu'à payer les droits d'entrée. Préviens-moi du jour du départ de la caisse- et de l'arrivée afin que j'avertisse Bertin.</p>
+        <p>M. Bertin professeur à la faculté des sciences, de Strasbourg rue des Veaux à Strasbourg.</p>
+        <p>Avec les 50 autres francs tu feras faire une 2e caisse de vin de 24 bouteilles également. Mais cette 'fois il y aura 12 bouteilles de vin à l fr. 75 et 12 bouteilles de vins rouges très bons du pays. Il faut aussi que cela ne dépasse pas 50 francs le port compris. M. Beschet se chargera encore de cette caisse entièrement. Je me confie à lui pour être bien servi. Ce vin est destiné à M. Zévort 2 qui désire avoir quelques bouteilles de bon vin dans sa cave.</p>
+        <p>Voici l'adresse de la 2e caisse :</p>
+        <p>M. Zévort, professeur, rue Chanaleilles, nO 7.</p>
+        <p>Cette fois il ne faudra pas payer le port à Arbois. On le paiera à Paris mais avertis-nous encore du jour de l'expédition, et autant que possible du jour de l'arrivée à Paris.</p>
+        <p>Du reste je te remets ici un petit papier que tu donneras à M. Beschet et où il y a toutes les instructions précédentes.</p>
+        <p>Dans les 12 bouteilles de vin de diverses sortes pour la 2e caisse il pourra y avoir du vin extra tel que du vin de paille 1 en demi-bouteilles. Nota. — Prenons chacun l'habitude d'affranchir nos lettres à l'avenir 2. C'est inutile d'agir autrement. Nous en serons plus riches au bout de l'année.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+             
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

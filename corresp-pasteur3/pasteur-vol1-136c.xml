@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1857-01-28">28 janvier 1857</date>
+                    <placeName>Lille</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Chappuis, Charles (1822-1895)">A CHAPPUIS.</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="1"/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Lille, 28 janvier 1857</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A CHAPPUIS.</p>
+                <p>Lille, 28 janvier 1857.</p>
+                <p>Je viens d'apprendre que ma candidature a perdu du terrain et que les retards interminables apportés à l'élection avaient été combinés contre moi. J'ai toujours pensé, à te dire vrai, que mon âge créerait des difficultés. Beaucoup penseront que j'ai le temps d'attendre. C'est remis au mois de février, après la séance solennelle qui aura lieu, je pense, le 2 février.</p>
+                <p>moi non plus, vous me mettez en jeu dans les termes suivants : « On savait déjà que M. Pasteur, chimiste fort distingué de la Faculté de Lille, se mettait sur les rangs et avait pour parrain M. Biot, le Doyen des académiciens, le savant auquel la science et l'âge ont donné une double influence; aussi son protégé a-t-il par avance donné sa démission tant il est sûr d'être élu. » A l'exception de la candidature de M. Pasteur qui paraît avoir le malheur de vous déplaire il y a dans ce passage presqu'autant d'erreurs que de mots. Si vous me connaissiez, Monsieur, vous sauriez que je ne me fais le parrain de personne; je n'ai ni ne voudrais avoir l'influence que vous m'attribuez. J'estime beaucoup le talent de M. Pasteur, mais je ne le protège point; des motifs que vous ignorez me rendent même fort retenu à témoigner tout le bien que je pense de ses travaux. Mes confrères voteront pour ou contre lui selon leur conscience et moi aussi. Vous voyez que sur tout cela vous avez été mal informé. Nos règlements exigent que les académiciens résident à Paris.</p>
+                <p>M. Pasteur ne pouvait se présenter comme candidat, qu'après s'être assuré la possibilité de satisfaire à cette condition s'il était élu. Il a donc demandé à M. le Ministre de l'Instruction Publique de vouloir bien agréer sa démission dans cette éventualité et le Ministre y a consenti avec la plus gracieuse bienveillance. Ainsi vous présentez comme un acte de présomption fondé sur mon crédit ce qui n'a été que l'accomplissement d'un devoir. Voilà les faits réels que je tiens à rétablir dans leur véritable jour. Tout le monde peut juger mes ouvrages scientifiques comme il l'entend, je ne m'en inquiète pas. Mais je n'admettrai jamais sans résistance que l'on m'impute publiquement une conduite morale contraire à mes sentiments et à mes actions.</p>
+                <p>•Je vous prie donc, Monsieur, de vouloir bien insérer textuellement cette lettre dans un de vos plus prochains numéros. J'aime mieux devoir cette satisfaction à votre équité qu'à mon droit.</p>
+                <p>J.-B. BIOT de l'Académie des Sciences.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+

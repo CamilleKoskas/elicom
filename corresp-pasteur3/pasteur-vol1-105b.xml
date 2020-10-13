@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1854-12-12" resp="">12 décembre 1854.</date>
+                    <placeName>Lille</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Daubrée, Auguste Gabriel (1814-1896)">A M. DAUBRÉE, DOYEN DE LA FACULTÉ DES SCIENCES DE STRASBOURG 2</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="[Douai] 7 décembre 1854."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Lille, 12 décembre 1854.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A M. DAUBRÉE, DOYEN DE LA FACULTÉ DES SCIENCES DE STRASBOURG 2</p>
+                <p>Lille, 12 décembre 1854.</p>
+                <p>Mon cher collègue, Je regrette bien que votre aimable lettre m'ait prévenu.</p>
+                <p>Car je me proposais de vous écrire dès que je connaîtrais ma</p>
+                <p>nomination, et malheureusement j'ai été pendant les premiers jours de décembre extrêmement occupé à Douai par j les examens de la Faculté des Lettres et par un petit discours à faire en deux jours au plus tard, on a pressé notre séance solennelle d'installation au chef-lieu de l'Académie.</p>
+                <p>Je vous remercie bien, mon cher collègue, des paroles sympathiques dont votre lettre est remplie à mon égard. Je serai en effet très bien à Lille. Je ne sache pas qu'une cité fasse plus grandement les choses et notre faculté, grâce à ces excellentes dispositions du conseil municipal, sera installée dans les meilleures conditions de prospérité. Tous les services seront largement pourvus et entièrement indépen* dants. Ajoutez à cela la gracieuseté d'un beau logement pour le doyen, au premier étage, au dessus de mon laboratoire.</p>
+                <p>Mais tout cela, mon cher collègue, adoucit fort peu les regrets que j'éprouve chaque fois que je songe au mal que je fais à l'enseignement de la chimie dans la Faculté de Strasbourg. M. Gerhardt1 devait me remplacer et l'affaire était fort avancée entre les mains de M. Dumas lorsque le ministre a fait opposition par la raison que M. Gerhardt avait quitté autrefois l'université avec peu de respect pour cette dernière. Les choses en sont encore à ce point.</p>
+                <p>M. Dumas vaincra-t-il la répugnance du ministre ou bien échouera-t-il? Je ne saurais vous dire combien j'ai hâte de voir cette affaire résolue. Je l'ai suivie pas à pas et c'est M. Gerhardt lui-même qui me tenait au courant. Je voudrais que M. Favre, de Besançon, demandât Strasbourg.</p>
+                <p>Mais il préfère Marseille, à cause du climat. Vous auriez en lui un bon professeur et un savant distingué.</p>
+                <p>Parmi ceux qui ont demandé à être placés dans les nouvelles facultés, il y a encore M. Lallemand, professeur de physique au lycée de Rennes, très appuyé par M. Dumas, éprouvé par l'enseignement des lycées et qui, avec les charges de cet enseignement pénible, a trouvé le temps de</p>
+                <p>faire une bonne thèse et récemment un très bon travail sur l'essence de thym, inséré dans le Recueil des savants étrangers 1. Il y a aussi M. Maumené, M. Berthelot préparateur au Collège de France 2. M. Figuier 3 quitterait peut-être la position qu'il a à Paris. Je crois qu'il y en a d'autres encore.</p>
+                <p>Quant à la somme de 1.000 fr. environ que je reçois à Strasbourg pour le compte de la Faculté, je vous adresserai très prochainement une demande de crédits extraordinaires que je vous prierai d'appuyer fortement auprès du ministre à qui elle sera faite 4. J'espère qu'il comprendra facilement qu'avec les faibles ressources dont je disposais je ne pouvais travailler autant que je l'ai fait sur des produits très dispendieux.</p>
+                <p>J'aurai ultérieurement et après que je serai installé ici un certain nombre de flacons et de produits divers à renvoyer a la Faculté, produits dont j'ai eu besoin à Paris et dont je vais me servir encore pour achever un travail en train.</p>
+                <p>Ayez la bonté, Monsieur, d'exprimer à mes anciens collègues tout le regret que j'éprouve à les quitter, eux avec qui j'ai eu toujours les plus agréables relations. Daignez Présenter mes respects à madame Daubrée, et vous, mon cher collègue, veuillez bien accepter l'expression de mon amitié et de la plus affectueuse estime.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                            Votre tout dévoué collègue, L. PASTEUR.
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1856-08-13">13 août 1856</date>
+                    <placeName>Douai</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Janet, Paul (1823-1899)">A M. PAUL JANET, PROFESSEUR A LA FACULTÉ DES LETTRES DE STRASBOURG 1.</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Lille, le 15 juin 1856."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>13 août 1856.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A M. PAUL JANET, PROFESSEUR A LA FACULTÉ DES LETTRES DE STRASBOURG 1.</p>
+                <p>Mo 1n cher Janet, Douai, 13 août 1856.</p>
+                <p>Mon cher Janet, Je viens de lire votre charmant petit livre De la Famille et j'ai une grande satisfaction à vous écrire et à vous féliciter. Ne vous arrive-t-il pas quand vous avez lu un bon livre d'éprouver le désir de remercier l'auteur, de le voir, de lui dire tout le plaisir qu'il vous a procuré? C'est pour moi un vrai bonheur de vous exprimer tout le charme de vos sages conseils, de ce parfum d'honnêteté qui règne partout, de ce style si ferme, si châtié et pourtant si naturel. Je souhaite de tout mon cœur que l'épigraphe ajouté à votre deuxième édition, autant que les nombreux amis que vous a faits votre livre, soient un encouragement pour vous dans ces travaux de philosophie mondaine qui mènerait bien vite à l'autre, comme on voit de plus en plus les belles applica- tions de la science faire aimer ses plus hautes spéculations.</p>
+                <p>Quel est celui qui ne sentira tout ce qu'il y a de science philosophique et de méditations profondes cachées derrière votre petit livre et sans lesquelles il n'aurait jamais vu le jour. Ce m'est aussi une bien grande joie de penser qu'un tel ouvrage est sorti de la plume d'un élève de l'École Normale, de cette École à laquelle nous devons tant de reconnaissance.</p>
+                <p>Tout à vous de cœur.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                            L. PASTEUR.
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+

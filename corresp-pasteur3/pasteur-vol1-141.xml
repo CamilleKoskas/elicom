@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1857-03-09">Lundi soir, [9 mars 1857].</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Lundi soir, Paris [9 mars 1857]."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Lundi soir, Paris [9 mars 1857].</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Ma chère Marie, La discussion est enfin close et on votera lundi sur la liste de minéralogie. J'ai la conviction que M. Delafosse sera nommé et cependant il est établi par la discussion que c'est moi qui devrais passer. Mais les partis étaient pris depuis longtemps et quand même pour M. Delafosse par toutes les médiocrités qui font la majorité.</p>
+        <p>Ce qui me fait plaisir c'est que je n'ai plus qu'une semaine à attendre. Et quelle semaine! Retourner voir tous ces gens! — Pourvu que mardi je vous revoie en boane santé, y compris notre bonne Jeanne, c'est tout ce que je désire.</p>
+        <p>Je vous embrasse bien.</p>
+        <p>Adieu. Tout à toi.</p>
+        <p>L. PASTEUR.</p>
+        <p>Mon père va bien. Il m'a répondu.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

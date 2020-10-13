@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1856-07-30">le 30 juillet 1856.</date>
+                    <placeName>Lille</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Forthomme, Camille (1821-1884)">A M. FORTHOMME.</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Lille, le 15 juin 1856."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Lille, le 30 juillet 1856.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A M. FORTHOMME.</p>
+                <p></p>
+                <p>Mon cher Forthomme, Je pense que tu as reçu et ma lettre et la note de M. Émile Bigo 2. Ce dernier essaye depuis quelque temps de faire du vinaigre avec de l'alcool de betteraves, sans avoir d'autres - indications que celles des ouvrages ordinaires et les leçons du cours. Deux fois ses appareils sont tombés après avoir très bien marché pendant plusieurs jours. Il ne sait trop à quoi attribuer son insuccès. Or je me suis rappelé que tu m'avais fait voir chez ton beau-frère une fabrication en petit du vinaigre d'alcool par les copeaux de hêtre. J'ai donc demandé à M. E. Bigo de me remettre une relation de ce qu'il avait fait, relation ci-incluse, que je te prie de lire avec soin, afin que tu puisses nous éclairer sur les phénomènes qui ont eu lieu, et indiquer les précautions qui pourraient empêcher le retour de ces accidents.</p>
+                <p>Je joins aussi à ma lettre une petite brochure de mon élève qui pourrait t'être de quelque utilité. Ce petit travail a été fait avec soin.</p>
+                <p>Ton collègue tout dévoué, L. PASTEUR.</p>
+                <p>M. Émile Bigo, dont il est ici question, est probablement le fils de cet industriel. Il travaillait au laboratoire de Pasteur.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

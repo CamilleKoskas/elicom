@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1855-10-16">16 octobre 1855.</date>
+          <placeName>Lille</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="">AU RECTEUR DE L'ACADÉMIE DE DOUAI</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Lille, le 16 octobre 1855."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Lille, le 16 octobre 1855.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Monsieur le Recteur, L'article concernant l'enseignement de la Faculté et que vous me renvoyez avec quelques additions a été inséré dans le journal la Vérité de Lille du 5 octobre. Ne pouvant le signer moi-même à cause de sa forme et le journaliste voulant une signature pour obéir à la loi sur la presse, j'ai prié ce dernier de le faire signer par l'un des rédacteurs du journal. Il a en effet paru sous le nom de M. Théry. J'ai fait présenter ce même article à un autre journal de Lille, qui par jalousie de confrère s'est refusé à l'insertion. Il est évident que la même difficulté ne se présentera pas dans les autres chefs lieux de votre circonscription académique.</p>
+        <p>Je pense d'ailleurs que cet article modifié peut reparaître dans la Vérité en tête du programme des cours dont je vous adresse ci-joint le projet d'affiche. Dès que vous m'aurez renvoyé ce projet avec votre visa, je le présenterai à la rédaction de ce journal en le priant de le faire précéder de la répétition de l'article modifié. C'est aussi le seul moyen, d'après les informations que j'ai prises, de se procurer les dix exemplaires que vous me demandez.</p>
+        <p>Vous verrez, Monsieur le Recteur, que dans le projet d'affiche que je vous adresse j'ai laissé en blanc l'indication du jour de la rentrée ainsi que celle des noms des professeurs de dessin, de littérature et d'histoire. Je vous prie, Monsieur le Recteur, de combler cette lacune.</p>
+        <p>La publication des programmes, sujets de manipulations etc., tels que j'ai eu l'honneur de vous les transmettre ne peut par son étendue faire partie de cette affiche. Elle exigerait une petite brochure. Mais vous trouverez peutêtre suffisante pour le moment l'affiche que j'ai l'honneur de</p>
+        <p>vous soumettre. Dans le cas contraire j'aurais encore besoin du programme des cours de littérature, histoire et géographie. Un mode, que vous approuverez peut-être, Monsieur le Recteur, pour faire connaître la Faculté, consisterait à distribuer en grand nombre le lendemain de la séance solennelle de rentrée le compte rendu de la séance accompagné des programmes détaillés de son enseignement.</p>
+        <p>Recevez, je vous prie, Monsieur le Recteur, l'expression de mon respectueux dévoûment.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              L. PASTEUR.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

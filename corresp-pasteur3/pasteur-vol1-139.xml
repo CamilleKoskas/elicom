@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1857-03-06">6 mars 1857.</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Paris, 6 mars 1857."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, 6 mars 1857.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Ma chère Marie, Je suis bien heureux d'apprendre que notre bonne Jeanne va mieux et cependant elle traîne toujours, la chère enfant.</p>
+        <p>Il me tarde bien de la revoir, et son frère et sa sœur et toi, ma bonne Marie. Je fais un bien vilain métier ici. Encore si ce que nous désirons arrivait! mais! mais! Enfin les choses ne sont pas désespérées comme elles l'étaient avant lundi.</p>
+        <p>La suite de la discussion sera décisive. Je t'ai dit que j'attendais beaucoup de M. Dumas et je suis heureux que M. Biot m'ait dit ce matin qu'il partageait tout à fait mon avis à cet égard.</p>
+        <p>Attends donc les nouvelles de mardi prochain.</p>
+        <p>Je t'embrasse bien avec nos chers enfants.</p>
+        <p>L. PASTEUR.</p>
+        <p>Je viens d'assister à une leçon de Rigault1 au Collège de France. La salle est trop petite. On se bat à la porte. Je</p>
+        <p>suis sorti de là ravi et tout joyeux pour l'Université d'un pareil succès. On ne saurait rien y ajouter, rien y désirer.</p>
+        <p>Quel honneur pour l'Université! un professeur d'un lycée de Paris qui débute ainsi au Collège de France. Et puis ce qu'il y a de plus remarquable, c'est le but du cours, c'est le fond, les tendances. Je le préférerais à M. St Marc Girardin 1 que je n'ai entendu cependant que quand il était arrivé à l'apogée de son talent. Et Rigault débute!
+        </p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

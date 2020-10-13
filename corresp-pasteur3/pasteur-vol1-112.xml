@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1855-06-06">le jeudi 6 juin 1855.</date>
+          <placeName>Lille</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Lille, le jeudi 6 juin 1855."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Lille, le jeudi 6 juin 1855.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Ma chère Marie, Les Inspecteurs étant très occupés par des travaux de commissions il n'y a pas eu de séance aujourd'hui jeudi. Je ne repartirai pour Douai que ce soir à 6 heures afin de m'y trouver prêt à assister à une réunion préparatoire demain vendredi à 8 heures où il s'agira de quelques questions relatives à l'Enseignement supérieur.</p>
+        <p>Les enfants vont très bien. J'ai demandé à Baptiste ce qu'il fallait que je t'écrivisse pour lui et il m'a dit d'un ton un peu pleureur : « Je ne sais pas dire ça moi. Je sais pas parler. » C'est une de ses meilleures réponses. Il demande sa mère, Jeanne, son père, et il bavarde comme une pie. Il est tout à fait mignon et Nini 2 se porte de même et est aussi très heureuse de voir son père. Elle m'a fait une fête de cris et de courses à droite et à gauche en me voyant revend hier.</p>
+        <p>Je t'envoie un billet de 100 fr. J'ai donné 15 fr. à Ida.</p>
+        <p>J'espère trouver une lettre de toi ce soir à Douai qui me parle de la santé de M. Biot.</p>
+        <p>Adieu. Je t'embrasse de tout cœur.</p>
+        <p>Tout à toi, L. PASTEUR.</p>
+        <p>Reviens le plus tôt possible et ne manque pas d'aller au moins deux fois à l'Exposition 3.</p>
+        <p>au Presbytère, Saint-Pryvé-Saint-Mesmin, près d'Orléans.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1854-12-30">le 30 décembre 1854.</date>
+          <placeName>Lille</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE ET A SA SŒUR VIRGINIE.</persName>
+          <persName key="Pasteur, Virginie (1818-1880) ">A SON PÈRE ET A SA SŒUR VIRGINIE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Lille, le 30 décembre 1854."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Lille, le 30 décembre 1854.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher papa, Je suis bien heureux d'être en ce moment et depuis deux jours réuni à Marie et à nos deux plus jeunes enfants. Jeanne est à Orléans chez ses grands parents 2 et se porte à merveille sans trop nous regretter. Nous cherchons en ce moment un logement provisoire, c'est-à-dire pour quelques mois; il faudra ce temps pour que notre appartement de la Faculté soit terminé.</p>
+        <p>Nous commençons nos cours lundi 8 janvier. Je te tiendrai au courant de nos succès si nous en avons, du nombre de nos auditeurs et de l'intérêt qui va s'attacher à ce nouvel établissement d'instruction auquel la ville et le pays sont bien peu préparés.</p>
+        <p>Voici venir une nouvelle année pour laquelle je te souhaite une bonne santé avant tout. Car je reconnais avec toi que c'est le bien le plus précieux.</p>
+        <p>Je t'envoie pour tes étrennes un abonnement d'une année entière au Moniteur universel.</p>
+        <p>Je t'embrasse comme je t'aime de tout mon cœur.</p>
+        <p>L. PASTEUR.</p>
+        <p>Augmente un peu à notre intention le paquet de bofrbons que tu donneras à Joseph et à Estelle [Vichot]</p>
+        <p>Ma chère Virginie, Je viens te souhaiter une bonne année 1855. Je désire de tout mon cœur que tu la voies s'écouler sans maladies pour toi, ton mari et tes enfants, qui heureusement me paraissent doués de très bonnes santés tous les deux. Tu diras à notre vieille grand'mère que je lui souhaite une bonne année et tu embrasseras bien pour moi ton mari et tes enfants. Je n'envoie pas de bonbons ou autres choses à tes enfants.</p>
+        <p>Papa leur en donnera comme venant de nous et cela leur fera autant de plaisir. Je préfère mettre 60 fr. pour eux à la caisse d'épargne. Ils seront certainement plus heureux quand ils seront grands et qu'ils songeront à s'établir de trouver chacun une petite somme à la caisse d'épargne.</p>
+        <p>Adieu. Je t'embrasse bien et de tout mon cœur.</p>
+        <p>Ton frère, L. PASTEUR.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

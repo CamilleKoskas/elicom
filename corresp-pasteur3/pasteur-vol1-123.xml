@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1855-11-15">15 novembre 1855.</date>
+          <placeName>Lille</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="">AU RECTEUR DE L'ACADÉMIE DE DOUAI</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Lille, le 15 novembre 1855."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Lille, le 15 novembre 1855.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Monsieur le Recteur, L'industrie sucrière et celle de la fabrication de l'alcool (distilleries) sont parmi les industries du Nord celles qui ont reçu de la science les services les plus directs.</p>
+        <p>Je signale dans mon rapport ce fait remarquable d'études scientifiques élevées à côté d'une industrie qui paraîtrait devoir tout absorber.</p>
+        <p>Il y a ici un autre caractère non moins digne d'attention.</p>
+        <p>On n'est aucunement routinier. L'industrie se tient au courant de toutes les innovations, de tous les progrès et elle essaie volontiers (quoique avec cette prudence qui est aussi un caractère du pays dans les affaires commerciales) les procédés nouveaux. L'Angleterre est bien connue : on s'y inquiète de ses progrès. Mais un préjugé qu'il faut combattre est celui-ci: on utilise trop vite les jeunes gens dans 'les fabriques : on sait tous les services que la Science peut rendre à l'industrie, mais on croit que les jeunes gens lorsqu'ils étudient trop longtemps abordent avec des idées de romans les ouvriers. On est aussi très disposé à croire qu'il y a une science appliquée, les applications formant à part un corps de doctrines, tandis que les applications des sciences ne sont que des déductions des découvertes purement scientifiques et que dans l'enseignement surtout cellesci doivent être au premier rang par les développements qu'elles réclament.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

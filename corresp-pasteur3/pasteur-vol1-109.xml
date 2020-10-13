@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1855-02-12">12 février 1855.</date>
+          <placeName>Lille</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="">Au RECTEUR DE L'ACADÉMIE DE DOUAI.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Lille, 12 février 1855."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Lille, 12 février 1855.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Monsieur le Recteur, Les travaux de la Faculté des sciences n'ont présenté aucun incident digne de remarque durant la semaine qui vient de s'écouler. Les cours sont toujours suivis avec intérêt par un public nombreux, et j'aime à croire qu'il y a autre chose que la curiosité qui les amène à nos premières leçons. Plusieurs faits m'autorisent à penser que plus on nous connaît, plus on nous recherche. Mais ce qui me préoccupe le plus, c'est notre enseignement pratique. Par lui surtout nous pourrons rendre de grands services et nous signaler à l'attention des familles et de l'Etat. Aussi est-ce avec plaisir, Monsieur le Recteur, que je vous annonce onze élèves inscrits, manipulant tous deux fois par semaine, de quatre à cinq heures chaque fois.</p>
+        <p>Ce nombre d'élèves, quoique fort restreint, suffirait déjà à notre installation encore primitive. Cependant j'attache</p>
+        <p>tant de prix à cet enseignement que je ne serai satisfait de la Faculté qu'autant que nous aurons atteint un chiffre considérable d'inscriptions. Alors seulement il y aura lieu de songer à organiser auprès de la Faculté l'enseignement des sciences appliquées. En effet la mesure libérale prise récemment par M. le Ministre, et qui admet les aspirants au brevet de capacité aux manipulations sans qu'ils aient à payer les dépenses matérielles qu'elles occasionnent, permettra de diriger facilement vers ce grade nouveau plusieurs jeunes gens qui ne se font inscrire aujourd'hui que dans le but de fortifier leurs études par le cours des exercices pratiques.</p>
+        <p>Je compte beaucoup sur la réputation que les premiers inscrits à nos manipulations vont faire à ces dernières auprès de leurs parents et de leurs camarades car ils prennent à ces manipulations, associées à des développements au tableau, un plaisir infini; et je sais qu'ils attendent avec impatience le jour qui les ramènera au laboratoire.</p>
+        <p>A mon avis donc, Monsieur le Recteur, il n'y a pas à s'occuper en ce moment de l'enseignement appliqué à la Faculté de Lille. D'une part, nous n'avons pas les éléments que cette création exigerait; d'autre part, c'est assez de nouveauté pour cette ville, tout entière aux affaires, que l'enseignement naissant d'une Faculté des sciences. Nous serons tout-puissants quand nos laboratoires seront remplis d'élèves. Que ce soit là en ce moment le but de nos efforts.</p>
+        <p>Veuillez agréer, etc.</p>
+        <p>Louis PASTEUR.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

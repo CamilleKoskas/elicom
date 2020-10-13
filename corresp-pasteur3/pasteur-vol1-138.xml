@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1857-03-04">4 mars 1857.</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Paris, 4 mars 1857."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, 4 mars 1857.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Ma chère Marie, Je remonte sur l'eau à ce qu'il paraît et peut-être qu'il y a lieu d'espérer encore. La discussion des titres a établi à tous que j'étais du bois dont on fait les académiciens.</p>
+        <p>On me dit partout que ma place y est marquée. Tout</p>
+        <p>dépendra de la question de spécialité et je m'occupe de préparer la discussion de lundi de manière à ce que l'on établisse que mes travaux sont de la minéralogie spéculative et de premier ordre. Je crois que cela peut être convenu et prouvé.</p>
+        <p>Mais l'inconnu est encore dans ce que feront les partisans des géologues lundi prochain.</p>
+        <p>Adieu. Tout à toi.</p>
+        <p>L. PASTEUR.</p>
+        <p>Et Jeanne? Tu me laisses sans nouvelles.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1855-03-29"> le 29 mars 1855.</date>
+          <placeName>Lille</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="">Au RECTEUR DE L'ACADÉMIE DE DOUAI.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Lille, le 29 mars 1855."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Lille, le 29 mars 1855.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Monsieur le Recteur, Vous m'avez fait l'honneur de me demander des renseignements sur la position particulière des élèves auxquels on Pourrait appliquer le bénéfice d'une réduction sur les droits aux manipulations, portés à 150 francs par le décret du 22 août 1854.</p>
+        <p>Je pensé que la réduction serait demandée : lO Par des jeunes gens qui, ayant terminé leurs études voudraient, avant de se vouer à l'industrie, venir profiter des ressources de notre enseignement pratique mais dans une des spécialités plus en rapport que les autres avec les besoins de leur carrière future. Ainsi, Monsieur le Recteur, je prendrai pour exemple l'un de nos élèves inscrit, déjà bachelier ès sciences,</p>
+        <p>fils de distillateur et qui doit être appelé dans une ou deux années à succéder à son père. L'industrie de l'alcool exige qu'il connaisse la chimie beaucoup mieux que la physique ou l'histoire naturelle. Il ne faudrait pas qu'il pût être éloigné par une rétribution trop élevée, et sJil n'assiste qu'à un seul ordre de manipulations il paraît convenable qu'il paye moins que ceux qui profitent de tout l'enseignement pratique -de la Faculté. 2° Il y a une autre catégorie de jeunes gens qui pourraient réclamer aussi le bénéfice de la réduction qui nous occupe. Nous ne devons pas nous dissimuler que beaucoup d'élèves prendront à l'avenir nos manipulations et conférences pour des répétitions, comme en vue d'un examen déterminé, et que se sachant faibles sur telle ou telle matière exigée par cet examen, ils désireront profiter d'un ordre spécial de manipulations pour s'y fortifier.</p>
+        <p>Il y a un second point, Monsieur le Recteur, sur lequel vous avez appelé mon attention : De combien réduirait-on le droit fixe de 150 frs aujourd'hui exigé? Je crois que cette réduction ne devrait pas dépasser 50 frs, soit 100 frs au moins pour le droit nouveau. Je trouve en effet que le chiffre fixé par décret du 22 août est déjà minime, et en voici la preuve : Nos manipulations durent plus de quatre heures chacune. Elles sont dirigées par les professeurs euxmêmes qui, jusqu'à présent, n'ont fait prendre qu'une part toute matérielle aux préparateurs; condition indispensable pour que la manipulation ne se transforme pas en un gaspillage de produits, et en un apprentissage de mauvaises habitudes de travail manuel qui serait extrêmement préjudiciable à l'instruction des jeunes gens. Or, je vous ferai connaître prochainement, Monsieur le Recteur, avec détail, ce résultat important, que la dépense matérielle de chaque manipulation ne coûte pas un franc par élève. Si donc nous faisons assister annuellement les élèves inscrits à 80 manipulations dans les diverses branches de l'enseignement, la dépense totale de l'enseignement pratique tel qu'il est institué aujourd'hui sera :</p>
+        <p>Droit fixe. 150 I 230 f , , 230 r.</p>
+        <p>Dépense matenelle. 80 2 2^° 0 frr*</p>
+        <p>Voilà donc 80 répétitions de quatre heures chacune données par des maîtres éprouvés dans des laboratoires qui disposent de tout ce que la science la plus avancée peut réclamer aujourd'hui, et qui coûtent 230 fr. c'est-à-dire moins de 3 francs chacune. Tel est le résultat que je vais porter dès le premier jour d'avril à la connaissance des familles par la voie des journaux, car notre plus grand ennemi est l'ignorance où l'on est de ce que nous sommes et de ce que peut l'innovation de l'enseignement pratique dans les Facultés.</p>
+        <p>Il faut donc réduire très peu ce qui est déjà si minime.</p>
+        <p>Cependant il faut tout faire pour appeler les jeunes gens dans nos laboratoires, surtout au début. L'enseignement pratique peut devenir la force vive des Facultés des sciences.</p>
+        <p>C'est par lui qu'elles se procureront des auditoires sérieux.</p>
+        <p>C'est par lui surtout qu'elles rendront des services aux familles. En donnant d'ailleurs un caractère individuel à la mesure en question, comme c'est votre avis, Monsieur le Recteur, je ne vois aucun péril à l'adopter et à la recommander à Son Excellence M. le, Ministre de l'Instruction publique.</p>
+        <p>Agréez, je vous prie, Monsieur le Recteur, l'assurance de mon respectueux dévouement.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              Le doyen de la Faculté des sciences, Louis PASTEUR.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

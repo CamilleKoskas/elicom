@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1854-09-14">14 septembre 1854.</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Forthomme, Camille (1821-1884)">A M. FORTHOMME</persName>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="14 septembre 1854."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>14 septembre 1854.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A M. FORTHOMME 1.</p>
+                <p>Paris, 14 septembre 1854.</p>
+                <p>Mon cher Forthomme, ) Je suis bien peiné de ne pas m'être trouvé à la maison le jour de ton passage à Paris, et d'autant plus que tu n'as pu revenir! Tu aurais bien dû laisser ton adresse.</p>
+                <p>J'aurais été te voir.</p>
+                <p>Je ne vais pas à Nancy, mais à Lille (qui me convient beaucoup mieux) en qualité de doyen. La faculté a là un très beau local et j'espère que la chimie y trouvera des aliments.</p>
+                <p>Il n'y a aucun espoir pour toi d'être chargé du cours [à la Faculté] de Nancy. J'ai vu hier M. Dumas qui m'a demandé des renseignements sur plusieurs professeurs qui sollicitent des chaires dans les nouvelles facultés et il y a pour la physique plus de cinq professeurs, docteurs, sur lesquels le choix peut tomber.</p>
+                <p>Je t'engage beaucoup à profiter de la Faculté [de Nancy] pour préparer ton doctorat. Tu fais bien d'étudier l'optique deBeer2. Si je peux t'être utile écris-moi souvent. J'essaierai de lever les difficultés qui pourraient t'arrêter. Je crois que les nouvelles facultés commenceront leurs installations dès le ler novembre. Les cours ne pourront être ouverts qu'en janvier, peut-être plus tard.</p>
+                <p>Voici une idée que je te donne pour ce qu'elle vaut. Ne penses-tu pas qu'il serait fort utile d'étudier la forme que Prend une goutte de mercure sur un plan de verre ou de métal etc. avec un [mot illisible]. En se servant des fils de la lunette, etc., il serait facile d'arriver à des mesures Parfaites. Voir l'influence d'une goutte de liquides divers</p>
+                <p>\&gt;'ons rappeler toute l'importance que j'attache au succès de cette nouille faculté des sciences placée dans une ville qui est le centre le plus pche de l'activité industrielle du nord de la France. Vous en donner 4 direction c'est vous montrer ass(z toute la confiance que j'ai mise ell vous. Vous réaliserez j'en suis convaincu les espérances que j'ai fondes sur votre zèle. »</p>
+                <p>1 - Ancien camarade d'études de Pasteur, professeur de physique à Nancy.</p>
+                <p>placés entre le plan de verre et la goutte. — Influence de la température, etc., etc. Je parlais de l'utilité de cette étude à un physicien de Paris qui m'a dit que cela avait été résolu par le calcul par M. Bertrand (je crois) et aussi par un physicien, que je ne connais pas, expérimentalement.</p>
+                <p>Mais je doute fort que le physicien l'ait envisagé à tous les points de vue. Nous aurions entendu parler de cela autrefois.</p>
+                <p>Car il y a là ce me semble de belles conséquences à déduire sur la capillarité. On ne voit en jeu en effet que le poids de la goutte, la cohésion du mercure (ou du liquide en général), l'attraction du liquide pour le solide. Il y aurait deux nouvelles constantes qui interviendraient dans le cas où on placerait un autre liquide entre la goutte et le plan sur lequel elle repose.</p>
+                <p>Je pénsais à tout cela il y a peu de temps et je me plaisais à considérer ce travail comme très digne d'un sujet de thèse, et comme susceptible d'une très grande précision.</p>
+                <p>C'est à toi d'y songer de plus près et de voir, surtout d'après ce qui a été fait, le parti qu'on peut en tirer.</p>
+                <p>Adieu. Présente mes respects, je te prie, à Madame Forthomme.</p>
+                <p>Tout à toi.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                            L. PASTEUR.
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

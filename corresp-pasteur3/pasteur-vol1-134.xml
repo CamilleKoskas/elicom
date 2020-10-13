@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1856-11-06">6 novembre 1856</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Paris, 6 novembre 1856."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, 6 novembre 1856.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher papa, Me voici de nouveau à Paris depuis quelques heures, appelé par une lettre de M. de Senarmont qui m'écrivait en son nom et au nom de M. Dumas. Voici de quoi il s'agit et ton cœur de père en sera tout heureux.</p>
+        <p>Ces messieurs ont songé à moi comme candidat pour rem-</p>
+        <p>placer en qualité de membre titulaire M. Constant Prévost1 dans la section de minéralogie et de géologie. Cette affaire, ils le reconnaissent, est entourée de difficultés qui ne viennent pas d'après eux de mes travaux, de ma position (ils me placent bien au-dessus des quatre candidats à ce faufeuil) mais des circonstances que voici : IO Les règlements de l'Académie exigent la résidence à Paris. Il n'y a aucun exemple de membres nommés au moment de leur résidence en province. A cela M. Dumas répondra que mes titres doivent me rappeler à Paris dans un délai prochain et que l'Académie sait que partout je travaillerai à sa gloire (sic) 2.</p>
+        <p>20 Je suis cristallographe si l'on veut, mais nullement géologue. délimitation de section qui pourra arrêter beaucoup de membres.</p>
+        <p>Je ne sais encore l'avis de M. Biot. M. de Senarmont m'a engagé à n'aller le voir que demain. Il veut d'abord préparer les voies auprès de lui et le prémunir de premières impressions qui pourraient m'être défavorables parce que M. Biot a toujours voulu que je restasse dans les sentiers de la chimie.</p>
+        <p>Je saurai dans une heure l'avis de M. Biot. M. de Senarmont est chez lui en ce moment et à 8 heures 1/2 ce soir je dois aller revoir M. de Senarmont. Voici les candidatures pour cette place : En géologie En minéralogie MM. d'Archiac 3 MM. Des Cloizeaux fi Deville (frère du chimiste) 4 Delafosse Il</p>
+        <p>Ma candidature n'a été encore posée par personne. Cependant M. de Senarmont en a déjà parlé à M. Chevreul qui a une grande influence à l'Académie et M. Chevreul lui a répondu : Je ferai ce que vous ferez. Je voterai pour lui de grand cœur.</p>
+        <p>M. de Senarmont n'a pu en parler encore à M. Regnault (qui va bien) mais il est presque assuré dit-il qu'il serait pour moi.</p>
+        <p>Voici l'état de la question. Tu es aussi instruit que moi.</p>
+        <p>Si tu veux mon avis à moi le voici : Je crois aussi que mes travaux sont bien supérieurs à ceux des candidats actuels.</p>
+        <p>Je crois que ma candidature présentée et soutenue par les hommes considérables que je viens de te nommer aura de grandes chances de succès. Mais d'un autre côté il ne faut pas se dissimuler que les partisans des candidats actuels, et il y en a de dévoués, grossiront outre mesure les difficultés de forme et d'usages que j'ai rappelées tout à l'heure, et que pour beaucoup de membres ces difficultés pourront être des obstacles sérieux.</p>
+        <p>Il y a bien à l'heure qu'il est trois membres de l'Institut en fonctions et en résidence habituelle et obligée en province : L'évêque d'Orléans, de l'Académie française; le recteur de Nancy, de l'Académie des Sciences; le recteur de Paris, (sic) de l'Académie des Inscriptions; mais ils n'ont pas été nommés membres lorsqu'ils résidaient en province. On les a pris membres de l'Institut résidant à Paris, pour les transporter en province.</p>
+        <p>Adieu. Je vous embrasse bien tous. Ne parle pas encore de cette affaire. Ces messieurs désirent que ma candidature ne soit posée que quand ils auront sondé le terrain pour savoir si elle peut être soutenue avec chances de succès.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              PASTEUR.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

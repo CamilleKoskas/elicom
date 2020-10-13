@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1855-12-19">le 19 décembre 1855.</date>
+          <placeName>Lille</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Lille, le 19 décembre 1855."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>s
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Lille, le 19 décembre 1855.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher papa, Nous allons tous bien ici et nos rhumes sont partis. Je prends pour ma part toutes les précautions nécessaires pour éloigner cette petite indisposition que je crains beaucoup par la gravité qu'elle peut prendre quand on la néglige.</p>
+        <p>Jeanne et Baptiste commencent à apprendre à lire.</p>
+        <p>Jeanne épelle, mais elle devine les mots plutôt qu'elle ne les lit. Quant à son frère je crois qu'il en est à Ba Ba. Il paraît devoir être plus appliqué que sa sœur, mais cela ne vient pas vite. Tu vois qu'ils ne sont guère plus avancés que leurs cousin et cousine.</p>
+        <p>Je t'envoie un premier billet de cent francs en regrettant bien que tu te sois mis à sec pour l'achat de cette vendange.Je regrette aussi que tu ne m'aies pas laissé le plaisir de t'abonner de nouveau à un journal que j'aurais choisi autre que le Moniteur qui est bien peu intéressant.</p>
+        <p>J'ai toujours l'intention de suivre le même système pour les enfants de Virginie. Je placerai leurs étrennes en argent à la caisse d'épargne.</p>
+        <p>Je croyais t'avoir prié de remercier MM. Bousson 1 et Bergeret 2 de leur bon souvenir. Il paraît que je n'avais eu que l'intention et que j'ai oublié.</p>
+        <p>Nos cours sont toujours très suivis. J'ai à mes. leçons qui</p>
+        <p>réunissent le plus de monde de 250 à 300 personnes et nous avons vingt-et-un élèves inscrits pour les manipulations et conférences. Je crois que cette année comme l'année dernière Lille tient le premier rang pour l'application de cette innovation. Car j'ai appris qu'à Lyon il n'y avait que huit inscriptions.</p>
+        <p>Je t'embrasse bien avec Virginie, son mari et ses enfants.</p>
+        <p>Marie se joint à moi.</p>
+        <p>Adieu.</p>
+        <p>L. PASTEUR.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

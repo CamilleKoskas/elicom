@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1856-06-15">le 15 juin 1856</date>
+          <placeName>Lille</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Lille, le 15 juin 1856."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Lille, le 15 juin 1856.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher papa, Voilà déjà assez longtemps que tu ne nous as donné de tes nouvelles. Es-tu encore occupé par les assises et jusques à quand? Nous avons pensé que la Cuisance 1 n'avait pas fait comme tant d'autres rivières. Tu nous aurais écrit. Je t'adresse aujourd'hui ces quelques lignes pour t'apprendre une nouvelle qui te fera grand plaisir, bien qu'elle ne soit pas heureuse dans toutes ses parties.</p>
+        <p>Peut-être as-tu entendu parler d'un prix de dix mille francs fondé par l'Empereur et qui doit être décerné tous</p>
+        <p>les trois ans par l'Institut réuni à l'auteur de l'ouvrage le plus capable de servir ou d'honorer le pays.</p>
+        <p>Tu comprends que c'est là pour l'Institut une tâche difficile. Comment comparer des œuvres de peinture, de musique, de mathématiques, de physique, de chimie, de littérature, de poésie, etc. etc.? Voici dès lors ce qu'a fait l'Institut. Il a décidé que chacune de ses Académies (il y en a cinq) proposerait un candidat, et qu'alors en séance générale on choisirait entre les cinq candidats proposés. A son tour chaque Académie a demandé un candidat à chacune de ses sections. Ainsi, pour l'Académie des sciences, elle a invité ses sections de mathématiques, physique, chimie etc.</p>
+        <p>etc. à lui présenter des candidats. Or ma nouvelle est celle-ci : J'ai été présenté en première ligne et seul candidat de la section de chimie. Au scrutin définitif j'ai échoué ainsi que mes collègues présentés par les sections de mathématiques et de botanique. C'est M. Fizeau 1 candidat de la section de physique qui a réuni la majorité des voix et qui sera seul présenté par l'Académie des sciences. Ce sera l'un des cinq entre lesquels l'Institut choisira le prix.</p>
+        <p>Mais c'est dans ma carrière un fait considérable que le choix de la section de chimie dans une occasion solennelle comme celle-là m'ait placé avant MM. Gerhardt2, Wurtz3, Deville 4, etc. Tu vois par là confirmée cette opinion de M. Biot à savoir que dans les nominations récentes ou plus anciennes aux places de membres correspondants ce sont des questions d'âge qui ont motivé les choix de la section de chimie.</p>
+        <p>Pour moi je regrette beaucoup que l'ouvrage auquel je travaille n'ait pu être publié avant que ce prix fût discuté 5.</p>
+        <p>Mes recherches sont trop peu connues. Cet ouvrage eût appelé l'attention sur elles et je crois que j'aurais pu l'emporter sur les autres candidats des sections et être présenté comme le candidat de l'Académie. Quoi qu'il en soit, c'est déjà assez important pour moi et très flatteur que les choses se soient ainsi passées. Je ne comptais aucunement sur une très bonne fortune.</p>
+        <p>Les détails dans lesquels je viens d'entrer sont bien certains mais non officiels. Ils ont été publiés dans un petit recueil scientifique, par indiscrétion.</p>
+        <p>Adieu. Je t'embrasse bien avec Virginie et ses enfants et son mari.</p>
+        <p>J'espère que vous êtes tous en bonne santé.</p>
+        <p>L. PASTEUR.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
