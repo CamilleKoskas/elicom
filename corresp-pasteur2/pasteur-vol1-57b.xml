@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1852-02">début février 1852</date>
+                    <placeName>Strasbourg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Chappuis, Charles (1822-1895)">A Chappuis</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="29 décembre 1851."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Strasbourg, début février 1852</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+
+                <p>A CHAPPUIS.</p>
+                <p>[Strasbourg, début février 1852].</p>
+                <p>Je viens de recevoir, il y a quelques jours, une belle lettre de M. Dumas, que je vais te transcrire. Il faut que tu saches que M. Regnault avait parlé de moi à M. Biot comme d'un candidat possible à une place de membre correspondant de -l'Institut dans la section de physique générale, que M. Biot avait répondu que j'aurais tort de m'éloigner de la. section de chimie. J'ai donc écrit à M. Dumas pour lui faire connaître l'opinion de ces messieurs, et en même temps je lui ai parlé de ma position, si M. Persoz revenait ici. Je ne voudrais pas être envoyé dans une ville trop éloignée de Paris.</p>
+                <p>Voici cette flatteuse lettre de M. Dumas :</p>
+                <p>« Mon cher Collègue, « J'ai attendu la présentation de la section de physique « pour vous répondre. J'étais décidé à suivre MM. Biot et « Regnault dans leur marche; mais je me félicite de les (( avoir trouvés de mon avis.</p>
+                <p>« L'Université ne vous gâte pas, c'est vrai. Vous-même</p>
+                <p>« avez eu, tort de vous obstiner à rester à Strasbourg, quand « il serait si aisé de vous donner une situation fixe ailleurs; « mais tout cela ne justifie pas vos inquiétudes et votre « défiance. Croyez-vous donc que nous soyons insensibles « à la gloire que vos travaux répandent sur la chimie fran« çaise et sur l'Ecole dont vous sortez?</p>
+                <p>« Le jour même de mon entrée au ministère 1, je deman« dais la croix pour vous. J'aurais eu à vous la donner de « ma main une satisfaction que vous n'imaginez pas. D'où « est venu le retard ou l'obstacle? Je l'ignore. Mais ce que « je sais, c'est que vous me faites bondir, quand vous me « parlez dans votre lettre de la nécessité de laisser la place « libre en chimie à ceux que vous citez, un ou deux excep« tés. Quelle opinion avez-vous donc de notre jugement?</p>
+                <p>« Quand il y aura une place vacante, vous serez présenté, « soutenu et nommé. Il ne s'agit plus ici des inquiétudes « que vous pouvez concevoir; il s'agit de la justice et des « grands intérêts de la science; nous saurons les faire pré« valoir. Quant à ces inquiétudes, je les comprends, mais « ne vous les exagérez pas. Le moment venu, on trouvera « bien moyen de faire ce que veulent les intérêts de la « science dont vous êtes l'un des plus fermes appuis et l'une « des plus glorieuses espérances.</p>
+                <p>« Tout à vous de cœur ».</p>
+                <p>Je suis très heureux de te dire, après lecture de cette lettre, que j'aurai des observations nouvelles fort curieuses à présenter à la fin de l'année à l'Académie 2. Cette lettre m'a surpris. Tu sais que j'attache beaucoup d'importance à mes recherches; mais j'étais loin de penser qu'elles portaient avec elles un témoignage d'une aussi entière et si haute approbation.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

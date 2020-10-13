@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1852-09-13" > dimanche soir 12 septembre 1852.</date>
+                    <placeName>Leipsick</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Leipsick, dimanche soir 12 septembre 1852."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Leipsick, lundi matin [13 septembre 1852].</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+    
+                <p>Leipsick, lundi matin [13 septembre 1852].</p>
+                <p>Je viens d'aller voir M. le Professeur Erdmann 2 qui a mis avec une grande complaisance son magnifique laboratoire à ma disposition.</p>
+                <p>Je m'y rends à l'instant avec mes produits.</p>
+                <p>Adresse ainsi la lettre chargée que tu m'enverras : M. Erdmann, professeur de Chimie à l'Université de Leipsick (pour remettre à M. Pasteur). M. Erdmann se chargera du reste. C'est plus sûr ainsi parce que je ne pense pas que ta réponse puisse me parvenir à l'hôtel de Bavière. Je serai déjà parti pour Vienne. Donne aussi à M. Dumas mon adresse de cette manière.</p>
+                <p>Mon père a-t-il écrit?</p>
+                <p>L. PASTEUR.</p>
+                <p>Ceci est la deuxième lettre que j'annonçais hier soir. N'aie jamais d'inquiétude sur moi. Je t'avertirais de toute circonstance extraordinaire immédiatement.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

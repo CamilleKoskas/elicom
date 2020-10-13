@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1854-05-08">8 mai 1854.</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Paris, 8 mai 1854."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, 8 mai 1854.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher papa, J'espère que ta prochaine lettre nous dira que votre malade est rétablie. Il n'y a pas à craindre ici le choléra plus que toute autre maladie. J'ai vu un médecin qui m'a dit qu'il y avait eu cette année constamment plus de fièvres typhoïdes à Paris que de choléras, et personne ne se préoccupe de cette fièvre comme d'une maladie à fuir et contagieuse.</p>
+        <p>Je viens de redemander une prolongation de congé.</p>
+        <p>M. Dumas que j'ai vu hier se charge de cette affaire. Je dis au Ministre que j'irai faire les examens, afin de ne pas augmenter l'embarras du service. C'est aussi pour ne pas laisser à un autre une somme de 6 ou 700 fr.</p>
+        <p>Tu as vu que l'on venait de porter un rude coup à la flotte russe. On dit que l'Amiral Napier 1 qui est dans la Baltique se propose de détruire Cronstadt, et si cela arrive il ne faut dit-on que deux jours pour se rendre à St Pétersbourg sans obstacle.</p>
+        <p>Nous allons tous très bien.</p>
+        <p>Ecris-nous bientôt. Marie et les enfants t'embrassent avec moi.</p>
+        <p>L. PASTEUR.</p>
+        <p>Est-il vrai que les vignes soient gelées? On dit qu'à Mâcon elles le sont toutes.</p>
+        <p>sente année scolaire » fut accordé pour cause de santé à Pasteur. Le cours de chimie, d'après cet arrêté, devait être continué, pendant la durée du congé accordé à Pasteur, par M. Béchamp, professeur à l'École de pharmacie de Strasbourg.</p>
+        <p>Béchamp (1816-1908) devait plus tard soutenir contre Pasteur la théorie des microzymas, opposée à la doctrine de la non-spontanéité des germes.</p>
+        <p>J'ai vu M. Biot deux fois depuis ton départ. Il va toujours très bien. Il veut toujours que je me mette sur les rangs pour la section de chimie 1. J'irai demain chez M. Thenard pour lui dire que c'est à ce parti-là que je m'arrête. Du reste l'affaire ne sera en train que dans quelques semaines.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

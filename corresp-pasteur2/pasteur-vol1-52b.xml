@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1851-01-27" >27 janvier 1851.</date>
+                    <placeName>Strasbourg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Chappuis, Charles (1822-1895)">A Chappuis</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Strasbourg, 20 janvier 1851."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Strasbourg, 27 janvier 1851.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A CHAPPUIS.</p>
+                <p>Strasbourg, 27 janvier 1851.</p>
+                <p>J'ai reçu ce matin une lettre de M. Biot qui en renfermait Une de M. Thenard à lui adressée, dans laquelle il lui disait de me proposer la chaire de Bèsançon avec certitude d'une prompte présentation et nomination. — Je viens de Répondre à M. Thenard que je désirais rester à Strasbourg Jusqu'à ce qu'une décision fût prise à l'égard de M. Persoz.</p>
+                <p>On n'a donné à M. Persoz qu'un congé de six mois. Il sera dans deux mois mis en demeure de revenir ou de donner sa démission. C'est le résultat d'une décision prise par la' section permanente du Conseil. A l'avenir, tout professeur ne pourra obtenir que trois mois de congé. Sera-t-il nommé d'ici là? Je l'ignore. S'il n'est pas nommé, reviendra-t-il Prendre son cours? Je l'ignore également. S'il revient, ] obéirai à la nécessité, et au besoin j'irai reprendre mon cours au lycée de Dijon. Que veux-tu? C'est un mauvais tmps à passer. En attendant je travaille et j'acquiers des utres pour l'avenir. J'ai demandé à être débarrassé du cours de pharmacie, on me l'a accordé. C'est jeudi dernier qu'ont cessé mes fonctions. J'ai maintenant cinq jours de travail Par semaine au laboratoire, et de beaux travaux en train.</p>
+                <p>M. A. a bien voulu m'écrire de nouveau aujourd'hui Pour me dire que l'on serait très heureux que j'allasse à Besançon, que les professeurs de la Faculté feraient même des démarches, s'il était nécessaire. Je lui réponds auourd'hui même.</p>
+                <p>- Mon père te donnera à lire deux lettres de M. Biot. Je * en ai prié afin que tu connaisses l'affaire de la décoration.</p>
+                <p>F Je ne t'ai pas tenu au courant de l'affaire du Collège de France. M. Biot a fait tout ce qu'il est possible de faire Pour que M. Laurent1 réussisse. Il est bien peiné du résul-</p>
+                <p>mOisissure, telle que le Penicillium glaucum, ou un ferment sur une ustance ayant un plan de symétrie (paratartrate) un corps dissymé,rique (tartrate gauche) apparaît.</p>
+                <p>c 4. Il s'agit du chimiste (voir p. 143, note 2), candidat à une chaire au r oUège de France.</p>
+                <p>tat définitif. Mais vraiment M. Balard n'aurait pas mérité tant de malheur. Songe a la déconsidération qu'aurait jetée sur lui un deuxième vote favorable à M. Laurent, surtout , de la part de l'Institut dont il est membre.</p>
+                <p>Tu penses bien qu'avant de me décider à refuser Besançon, j'ai songé au plaisir que j'aurais à t'y retrouver. Mais ne seras-tu pas ici l'année prochaine?</p>
+                
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                            
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

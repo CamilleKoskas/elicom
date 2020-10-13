@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1853-12-07">7 décembre 1853.</date>
+          <placeName>Strasbourg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Godélier, Charles (1813-1877)">Au Dr GODÉLIER.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Strasbourg, 7 décembre 1853."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Strasbourg, 7 décembre 1853.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Monsieur Godélier,</p>
+        <p>Nous sommes tous en très bonne santé et nous savons par M. Fée que malgré le choléra vous faites de même.</p>
+        <p>Quant à mes études de cette année dont vous avez la bonté de me parler, elles sont à l'état le plus embryonnaire.</p>
+        <p>Je n'ose même espérer qu'elles verront le jour. Leur succès dépasserait toutes les prévisions actuelles de la science, et je crains beaucoup d'avoir cette fois entrepris l'impossible. Je voudrais remonter à la cause d'un des plus grands mystères de la nature et dont la connaissance aurait, il me semble, des conséquences d'une portée incalculable 1.</p>
+        <p>Adieu, mille choses aimables pour Mme Pasteur et pour moi à Mme Godélier. Recevez aussi les compliments et les amitiés trois fois répétés de la famille de Strasbourg.</p>
+        <p>Votre tout dévoué, L. PASTEUR.</p>
+        <p>Pasteur va plus loin : si les produits de la nature vivante sont dissymétriques, c'est qu'à leur origine président des forces dissymétriques.Si l'on veut imiter la nature, il faut mettre en jeu, dans les réactions de laboratoire, des forces dissymétriques: actions de solénoïdes, de magnétisme, de lumière polarisée elliptique. C'est ce qu'il tentait.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

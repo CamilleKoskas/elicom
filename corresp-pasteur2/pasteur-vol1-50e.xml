@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1850-10-02">2 octobre 1850.</date>
+                    <placeName>St-Pryvé-St-Mesmin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Chappuis, Charles (1822-1895)">A Chappuis</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Strasbourg, 6 juillet 1850."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>St-Pryvé-St-Mesmin 4, 2 octobre 1850.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                
+                <p>A CHAPPUIS.</p>
+                <p>St-Pryvé-St-Mesmin 4, 2 octobre 1850.</p>
+                <p>- J'ai présenté lundi dernier mon travail de cette année à</p>
+                <p>« 3. Charles Zévort, inspecteur d'Académie, avait épousé une fille de k- Laurent. Il était donc beau-frère de Mœe Pasteur. J'</p>
+                <p>l'Institut1. J'en ai lu un long extrait, puis j'ai fait une exposition de vive voix relative à des détails cristallographiques. Cette exposition qui m'avait été demandée après ma lecture et qui n'est point dans les habitudes de l'Académie, faite avec l'entrain que j'ai chaque fois que je parle de toutes ces choses, a été suivie avec la plus grande attention. Heureusement pour moi les membres les plus influents de l'Académie assistaient à la séance. M. Dumas, presque en face de moi et que je regardais plus particulièrement, m'a indiqué, par un signe de tête approbatif, qu'il comprenait et qu'il était vivement intéressé. Invité à aller chez lui le lendemain, il m'a fait compliment. Il m'a dit entre autres choses que je prouvais que, quand en France on voulait faire de la cristallographie, on en sait faire et que, - si je persévérais, comme il en avait l'assurance, je ferais école. M. Biot, qui est pour moi d'une bienveillance que je ne puis dire, est venu après ma lecture me trouver et m'a dit : « C'est aussi bien que ça puisse être. » Il fera le 14 octobre son rapport sur mon travail 2. Il prétend que j'exploite une Californie.</p>
+                <p>Au 10 décembre, j'aurai la croix; c'est tout confidentiel.</p>
+                <p>Ne t'exalte pas la valeur de mon travail de cette année; c'est une suite honorable des précédents. Néanmoins, par la manière dont il a été présenté lundi, il me posera peutêtre mieux que ceux des années précédentes dans l'opinion des savants.</p>
+                <p>recherches de cristallographie sur les relations existant entre la forme des cristaux, leur composition chimique et leur action sur la lumière polarisée.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

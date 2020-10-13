@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1852-07">juillet 1852</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="[Probablement Paris, juillet 1852.] Mon cher papa, d' Nous sommes arrivés en très bonne santé et sans trop d embarras malgré les deux enfants."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>[Probablement Paris, juillet 1852.] Mon cher papa, d' Nous sommes arrivés en très bonne santé et sans trop d embarras malgré les deux enfants.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je loge hôtel de l'Empereur Joseph II rue de Tournon 1 et Marie avec les deux enfants reste chez M. Laurent 2 rue St-Sébastien.</p>
+        <p>J'ai vu M. Biot, M. Dumas et M. de Senarmont. M. Biot est toujours content de mon travail. M. de Senarmont également. C'est lui qui doit faire le rapport. Les commissaires demandés par M. Biot sont MM. Dumas, de Senarmont, ^i°t. Il écarte M. Regnault.</p>
+        <p>M. Dumas à qui M. Biot parlait devant moi de nos ennuis ?• repondu en s'adressant à moi : Dormez tranquille. Il m'a InvIté à dîner chez lui à la campagne pour demain jeudi.</p>
+        <p>La position de Versailles n'est pas encore vacante. Je Présente mon travail lundi prochain 3.</p>
+        <p>Adieu. Porte-toi bien. Je t'embrasse avec Virginie et ses enfants.</p>
+        <p>L. PASTEUR.</p>
+        <p>.J'attends Marie avec Batitim 4 pour aller faire visite à M. Biot. Il part pour Auxerre [un mot illisible] le 5 août.</p>
+        <p>Il 1. Cet hôtel était en face du Sénat, au-dessus du restaurant Foyot.</p>
+        <p>il a été démoli il v a quelques années.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

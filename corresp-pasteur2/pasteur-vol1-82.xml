@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1852-12-31" >31 décembre 1852.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="- 31 décembre 1852."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>- 31 décembre 1852.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher papa, Je suis l'homme le plus occupé de la terre. J'ai cru un Jnstant que je n'aurais pas le temps de te souhaiter dès aujourd'hui une bonne année et la continuation de ta belle santé dont je suis si heureux. M. Biot m'a écrit hier en toute hâte pour me demander de lui envoyer une rédaction sur mon voyage en Allemagne à propos de résultats nouveaux sur l'acide racémique qu'on le prie d'annoncer -à l'Académie 1; et il ne veut pas-que des idées qui m'appartiennent soient exposées d'abord par un autre. Il me demandait d'y Passer plutôt deux nuits à travailler, qu'il lui fallait la rédaction pour la séance de lundi. Je viens de la terminer, bien entendu avec un grand mal de tête. Je n'ai cependant pas eu besoin d'y passer même une nuit.</p>
+        <p>Je mets aujourd'hui à la diligence de Lyon une petite caisse renfermant quelques étrennes, pour toi, pour Virginie et ses enfants. Ce n'est pas grand chose mais c'est donné de bon cœur. Embrasse-la bien pour moi. Souhaite-lui ainsi qu'à son mari une très bonne année et qu'elle embrasse - bien pour moi ses enfants qu'il me tarde bien de connaître.</p>
+        <p>Jeanne et Baptiste vont très bien. Jeanne surtout. C'est la Meilleure enfant du monde. Elle est bonne à croquer comme on dit. Baptiste est tout à fait sevré.</p>
+        <p>, Adieu. Marie va t'écrire. Moi je ne vois plus clair. Je t'embrasse de tout mon cœur.</p>
+        <p>L. PASTEUR.</p>
+        <p>Par une erreur impardonnable et qui me met de très Mauvaise humeur notre lettre et notre caisse n'arriveront que dimanche. Je t'en fais mille excuses et plus encore à</p>
+        <p>1: Voir Œuvres de Pasteur, t. I, p. 242-249 : Notice sur l'origine de l'acide racémique.</p>
+        <p>Virginie et à ses enfants. Je te recommande bien la lecture de la Case de l'Oncle Tom 1, ouvrage qui fait tant de bruit.</p>
+        <p>Je n'envoie à Virginie pour ses enfants que de petites robes pareilles à celles de Jeanne et de Baptiste et des bonbons. Mais j'ai mis en outre pour ses deux enfants une petite somme à la caisse d'épargne.</p>
+        <p>1853</p>
+        <p>Pasteur transforme l'acide tartrique en acide racémique. — Il est nommé Chevalier de l'ordre impérial de la Légion d'Honneur. — Naissance d'un 3e enfant, Cécile — Pasteur se laisse entraîner par son imagination à des recherches sur les influences dissymétriques d'ordre cosmique : « Il faut être un peu fou, écrit-il à son père, pour entreprendre ce que j'ai entrepris. »</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

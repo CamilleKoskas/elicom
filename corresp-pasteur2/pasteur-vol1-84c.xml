@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1853-06-03">[3 juin 1853.]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Biot, Jean-Baptiste (1774-1862)">A J.-B. BIOT</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date></date>
+                    </dateline>
+                    <salute/>
+                </opener>
+
+                <p>A J.-B. BIOT1.</p>
+                <p>*</p>
+                <p>[3 juin 1853.] Je vous prie d'annoncer à l'Académie que je suis parvenu à transformer l'acide tartrique ordinaire en acide racémique, complétement identique, pour toutes ses propriétés chimiques et physiques, avec l'acide racémique naturel; et se dédoublant comme celui-ci, dans les mêmes circons- tances, en acide tartrique droit et en acide tartrique gauche, lesquels montrent des pouvoirs rotatoires égaux, et de sens contraires, dans leurs combinaisons avec les bases.</p>
+                <p>Dans les différentes 'préparations que j'ai effectuées, je</p>
+                <p>J.-B. Biot, après avoir reçu cette lettre, eut de nouvelles hésitations : « .En conséquence, écrivit-il le 4 juin à Pasteur, je porterai votre note à l'Académie, dans ma poche, pour être prêt à prendre date, dans le cas où il arriverait quelque annonce de travail entrepris dans la même direction, ce qui n'est guère présumable. Mais s'il ne se présente pas une nécessité pareille, je n'en donnerai pas communication, à moins que vous ne me prescriviez le contraire, après avoir reçu cette lettre cy, ce que vous aurez encore le tems de faire, si vous le jugez à propos. Le point capital pour vous, en ce moment, c'est de ne rien avancer que vous ayez besoin de modifier plus tard, même en mieux. »</p>
+                <p>J.-B. Biot dut recevoir le surlendemain une lettre de Pasteur levant tous les doutes puisque la note fut lue le 6 juin à l'Académie des sciences et publiée dans les comptes rendus. (Voir Œyvres de Pqsteur, t. I, p. 257')</p>
+                <p>me suis toujours assuré, par des épreuves délicates, que l'acide tartrique que j'employais ne renfermait pas la plus petite quantité d'acide racémique naturel.</p>
+                <p>*</p>
+                
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+

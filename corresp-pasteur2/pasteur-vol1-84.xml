@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1853-05">[Mai 1853.]</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>[Mai 1853.] Mon cher papa, Je crois que tu aurais grand tort de t'inquiéter de ce dépôt rougeâtre d'acide urique qui se forme dans tes urines par le repos. Je me rappelle avoir fait pour les miennes la même remarque il y a trois ou quatre ans, et ça s'est passé.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je me rappelle même avoir été inquiet aussi. Quoi qu'il en soit parles-en à M. Bergeret 1. Il y a pour la pierre des régimes préventifs excellents connus de tous les médecins.</p>
+        <p>Je crois par exemple qu'il ne faut pas boire de vin ou très peu et prendre du lait tous les matins. Tu fais donc bien de boire du petit lait. Quant à ton inflammation sur l'œil je t'engage bien à ne pas faire des remèdes quelconques, et à ne suivre que les indications du médecin.</p>
+        <p>Ici nous nous portons assez bien, moins M. Laurent 2 qui a fortement la goutte. Il n'avait pas eu d'atteinte depuis deux ans grâce à un régime qu'il suivait exactement.</p>
+        <p>Voici maintenant quelques nouvelles sur les affaires scientifiques. Lundi dernier M. de Senarmont a lu son rapport 3</p>
+        <p>sur mon travail présenté au mois d'août [1852]. Il est très remarquable d'après ce que M. Biot m'en a écrit hier. Je ne l'ai pas encore lu. Je le recevrai dimanche au plus tôt.</p>
+        <p>Le Mémoire en train que je dois présenter au mois d'août prochain est très avancé 1. Il me paraît fort remarquable souseaucoup de rapports. Du reste tu assisteras à la séance lorsque je le lirai. Tu verras l'effet produit. Chappuis qui partira avec nous pour Paris y assistera également.</p>
+        <p>Les expériences sur la vertu fébrifuge de l'un des nouveaux produits 2 que j'irai faire connaître au mois d'août 3 se poursuivent toujours à l'hôpital de Strasbourg et à Paris entre les mains de M. Rayer 4 à l'hôpital de la' Charité. Si tu veux que je te dise mon avis basé sur l'ensemble des observations faites jusqu'à ce jour, je te dirai que je crois mon produit inférieur à la quinine, bien qu'il ait une efficacité incontestable. M. Rayer m'a fait dire hier par M. Biot qu'il coupait la fièvre mais qu'avant de se prononcer définitivement il voulait encore multiplier les expériences et que pour ce il me priait de lui renvoyer une nouvelle provision, ce que j'ai fait sur le champ. Il faut donc encore attendre.</p>
+        <p>Il est très probable que lors de mon prochain voyage à Paris je présenterai ma découverte au ministre de la guerre afin qu'il nomme une commission et qu'il fasse étudier mon produit dans les hôpitaux militaires de l'Algérie et des contrées de la France où les fièvres sont très intenses et quel quefois même rebelles au sulfate de quinine.</p>
+        <p>Je t'enverrai le rapport de M. de Senarmont dès que j'en aurai deux exemplaires. Ce sera sans doute à la fin de la semaine prochaine.</p>
+        <p>Il a été question de moi pour une place de membre correspondant de l'Académie dans la section de Chimie ou de</p>
+        <p>Physique. Il paraîtrait que l'on voudrait m'éloigner de la chimie où je pourrais disent-ils gêner celui-ci ou celui-là.</p>
+        <p>M. Biot parle même des craintes de M. Fremy 1, celui qui en 1844 a été concurrent de M. Balard pour une place de membre titulaire, qui avait eu 26 voix eontre 28 données à M. Balard qui fut élu ainsi par une voix de majorité. Je me laisse dire toutes ces choses, tout étonné de l'opinion que l'on a de moi. Qu'ils fassent ce qu'ils voudront. Je ne m'en mêle aucunement.</p>
+        <p>Je connais très bien de nom M. Mollerat et je visiterais en effet (si cela était facile) sa fabrique avec plaisir.</p>
+        <p>Adieu. Je t'embrasse bien et souhaite vivement que ton mal de paupière s'en aille au plus vite. Je joins ici les lettres de M. Biot où tu verras les nouvelles en détail. Tue me les renverras plus tard.</p>
+        <p>L. PASTEUR.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

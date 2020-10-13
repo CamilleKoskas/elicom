@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1852-09-18" >mercredi 18 septembre 1852.</date>
+          <placeName>Leipsick</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Leipsick, 18 septembre 1852."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Leipsick, 18 septembre 1852.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Ma chère Marie, 1 La question qui m'a amené ici est entourée de bieIl grandes difficultés. Mon voyage en préparera seulement une solution facile par les renseignements ou les relations qu » me procure et par les résultats auxquels je suis déjà par" venu.</p>
+        <p>Je n'ai bien étudié jusqu'ici qu'un tartre venant de Naples et déjà une fois raffiné. Il renferme l'acide racemique; mais en quantité tellement minime que l'on ne peut en, accuser la présence qu'à l'aide des procédés les plus déll"</p>
+        <p>cats. C'est seulement dans une fabrication très en grand que l'on pourrait le préparer en certaine quantité. Mais il faut dire que la première opération que l'on a fait.subir à ce tartre a dû le priver presque complètement d'acide racéInique. Heureusement M. Fikentscher est un homme très éclairé, qui a très bien compris l'importance de cet acide et Il est disposé à suivre exactement les indications que je lui donnerai pour obtenir ce singulier corps en quantité telle qu'il puisse facilement être de nouveau livré au commerce.</p>
+        <p>Déjà j'entrevois bien l'histoire de ce produit. M. Kestner aura eu en 1820 à sa disposition des tartres de Naples, ce qu'il a publié en effet, et il aura'opéré sur le tartre brut.</p>
+        <p>Voilà tout le secret.</p>
+        <p>Je suis assuré qu'avant une année nous aurons autant que nous en voudrons l'acide racémique dans les laboratoires. Il faudra seulement que les fabricants d'acide tartrique suivent quelques indications très simples, peu dispendieuses, que je publierai à mon retour. En cela je compte * entièrement sur le concours de M. Fikentscher.</p>
+        <p>Ce que je viens de te dire, à savoir que la presque totalité de l'acide est perdu par le fabricant lors de la première opération que l'on fait subir au tartre, est-ce une chose bien certaine? Je le crois. Mais il faut le prouver. Or il y a à Trieste et à Venise deux raffineries de tartres dont j'ai les adresses. J'aurai aussi des lettres d'introduction. Là j'examinerai (si je trouve un laboratoire) les résidus de la fabrication et je m'enquerrai de savoir d'une manière précise d'où viennent les tartres de ces deux villes. Enfin je m'en Procurerai quelques kilogs de chaque espèce que j'étudierai en France avec soin.</p>
+        <p>Tel est à peu près le plan de mon nouveau voyage.</p>
+        <p>Je m'arrêterai un jour ou deux au plus à Vienne. Autant à Trieste. Autant à Venise. Il me faut deux jours pour aller, deux jours pour revenir à Leipsick. En tout dix à douze Jours. Nous sommes au 18. Je serai donc en France vers le 5 octobre.</p>
+        <p>J'ai appris hier soir par Y Indépendance belge que M. Persoz était nommé par décret du 13 septembre professeur au Conservatoire. Notre position va donc être fixée sans remise.</p>
+        <p>Tu remarqueras tout le merveilleux de ceci. Le décret est du 13. Il a peut-être paru le 14 dans le Moniteur. Et moi à Leipsick j'en reçois la nouvelle le 17 par un journal de Bruxelles qui l'a prise dans celui de Paris. C'est grâce aussi à ce journal si cancanier que je suis au courant du voyag e du Président, de la mort de Madame Lafarge 1 — dont j'ai lu les détails avec beaucoup d'intérêt, de la mort du duc de Wellington 2 etc.</p>
+        <p>Hier à dîner je me trouve en face d'un monsieur parlant très bien le français et l'allemand. Je le félicite de connaître ces deux langues, et bientôt il m'apprend qu'il a autrefois beaucoup voyagé comme géologue, mais qu'aujourd'hui il est avocat à la cour de cassation de Paris. « Moi, monsieur, - je fais de la chimie, lui dis-je. — Ah! c'est une science que j'aimais beaucoup, me répond-il. Je l'ai apprise à la Faculté des sciences de Strasbourg, sous M. Persoz. — Je suis précisément son successeur, Monsieur. » Survient le garçon: Monsieur, voilà l'Indépendance de ce soir qui vient d'arriver.</p>
+        <p>Je l'ouvre et la première nouvelle que j'y trouve est celle de la nomination de M. Persoz. Comme tout ceci s'est passé en quelques minutes à Leipsick, c'est au moins très bizarre.</p>
+        <p>Mon monsieur est parti ce matin pour Vienne. Il est convenu que je descendrai comme lui à l'hôtel de l'Agneau d'Or et que nous nous reverrons. - Nous ignorons mutuellement nos nomsJe pense avec bonheur, ma chère Marie, à mon prochain voyage de Trieste à Venise. Je verrai la mer enfin et je la verrai à Venise pour la première fois. Oh! je t'écrirai de là-bas. J'irai en songeant à toi voir le palais des Doges, la galerie des portraits et le voile noir qui remplace celui de Marino Faliero. Je me souviendrai alors de la vive impression que nous a fait éprouver la lecture de l'histoire dramatique de ce doge. Enfin je ne sais pourquoi, mais il me semble que dans cette ville on doit éprouver des émotions extraordinaires.</p>
+        <p>Je pense qu'avant mon retour notre position sera décidée.</p>
+        <p>Je souhaite bien vivement qu'il en soit de même de celle de M. Zévort et de ma chère belle-sœur; et qu'enfin cette grande dame, noble de nom, mais roturière par les sentiments, ne fasse plus voyager à ses frais cet ingrat qui ne demande pas mieux, et surtout ne décachète plus nos lettres.</p>
+        <p>Je regarde comme presque certain que nous irons à Dijon; mais n'oublie pas d'insister auprès de M. Dumas sur deux leçons seulement au lycée et la nécessité d'une allocation pour le laboratoire. La ville aussi pourra faire quelque cfiose. — Je n'ai encore aucune lettre de toi. Je Pense que je partirai pour Vienne dans trois jours, le 21 ou le 22, plus sûrement le'21. &lt;' Dans l'état de ma bourse que je t'ai indiqué j'ai oublié de Compter 20 fr. en. monnaie de France que j'avais mise de côté en arrivant ici.</p>
+        <p>Adieu. Embrasse bien nos chers enfants. Parle à Jeanne de son petit père qui lui rapportera des dlasées. Je t'embrasse comme je t'aime de tout mon cœur.</p>
+        <p>L. PASTEUR.</p>
+        <p>Mes amitiés et mes embrassements à toute la famille.</p>
+        <p>Tu as oublié de me donner des plumes de fer. Je n'ai pas picore songé à en acheter et j'écris avec la plus grande difficulté avec une vieille plume d'hôtel.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1852-10-07" >7 octobre</date>
+          <placeName>Strasbourg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="[Strasbourg, 7 octobre 1852.] Ma chère Marie, Je t'engage à venir tout de suite avec Batitim."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>[Strasbourg, 7 octobre 1852.] Ma chère Marie, Je t'engage à venir tout de suite avec Batitim.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je crois que nous nous déciderons pour un logement que "L Fée m'a indiqué chez Dietrich, 650 fr. 1.</p>
+        <p>Chappuis cherche et nous avons cherché ensemble sans rIen trouver.</p>
+        <p>Il est disponible dès à présent. Tu pourrais t'y installer en mon absence et dès à présent entièrement ou provisoirement s'il y avait quelques réparations à faire. Je crois qu'il Peut convenir. Un peu petit. Armoires. Entrées et sorties cOIhmodes. Portier. Escalier convenable.</p>
+        <p>Le voyage est peu de chose. Décide-toi. Assure-toi a abord, car je ne sais si cela est tout à fait certain, tant otre position change souvent, que nous restons bien ceralnement à Strasbourg.</p>
+        <p>t Et ces instructions pourquoi n'arrivent-elles pas? Le eIhps presse. Apporte-les moi.</p>
+        <p>Je vais partir pour Thann.</p>
+        <p>Adieu. Tout à toi.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              L. PASTEUR.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1853-06-04">4 juin 1853</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Dumas, Jean-Baptiste (1800-1884)">A J.-B. DUMAS</persName>
+                    <placeName>A J.-B. DUMAS.</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date></date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                
+                
+                <p>A J.-B. DUMAS.</p>
+                <p>Strasbourg, 4 juin 1853.</p>
+                <p>Monsieur, Je désire vous faire part, avant la séance de l'Académie de lundi prochain qui vous l'apprendra officiellement, d'un résultat vivement désiré. Je suis parvenu à transformer l'acide tartrique ordinaire en acide racémique, identique avec l'acide naturel pour toutes ses propriétés et se dédoublant comme celui-ci en acide tartrique droit et en acide tartrique gauche..</p>
+                <p>Il y a quinze jours que j'ai annoncé ce fait à M. Biot avec prière de vous le communiquer. Mais sa vieille et sûre expérience n'a pas été immédiatement convaincue et j'ai dû</p>
+                <p>résoudre quelques doutes qui s'étaient élevés dans son esprit. C'est la crainte de me voir transmettre à d'autres qu'à lui un résultat qu'il regardait peut-être avec raison comme n'étant pas encore entièrement assuré qui lui a fait garder le silence à votre égard. Aujourd'hui il n'y a plus aucune espèce d'incertitude et il me prie lui-même de lui envoyer une très courte note faisant connaître le fait sans autres détails pour être communiquée lundi à l'Académie.</p>
+                <p>Ce résultat a sans contredit une grande valeur. Vous voyez, en effet, Monsieur, un corps actif, l'acide tartrique, susceptible d'être transformé par un procédé de laboratoire en un isomère inactif qui à son tour est résoluble en cet acide actif qui lui a donné naissance et en acide inverse, non superposable à celui-ci. Nous voilà donc, Monsieur, en possession d'un procédé général, capable de fournir les actifs inverses de ceux qui sont connus, et, en voyant l'acide racémique corps inactif se résoudre en deux groupes actifs droit et gauche identiques et non superposables, vous vous demanderez si tous les corps inactifs de la chimie organique</p>
+                <p>et même de la chimie minérale n'attendent pas un procédé de dédoublement capable de les séparer en deux membres droit et gauche. Heureusement je suis arrivé il y a quelque temps à ce résultat très utile que M. de Senarmont a déjà indiqué dans son rapport, à savoir qu'il est facile de dédoubler l'acide racémique par un procédé chimique, tout à fait susceptible de généralisation, et pouvant être appliqué à des produits inactifs résolubles en corps actifs droit et gauche.</p>
+                <p>Au point de vue des applications ultérieures des résultats qui précèdent, il se présente aujourd'hui une question d'une haute gravité. L'acide racémique se dédouble en acide tartrique droit et acide tartrique gauche à poids égaux : ces acides mis en présence reproduisent immédiatement l'acide racémique. Faut-il en conclure que l'acide racémique est un être double, neutre par comparaison; et ne se pourrait-il pas au contraire qu'un groupe moléculaire simple ébranlé par certaines influences se dissociât tout à coup en deux groupes inverses, non superposables, comme si un octaèdre formé de 8 molécules venait tout à coup à se dédoubler en deux tétraèdres inverses constitués chacun par quatre molécules. On est vraiment tenté d'incliner vers cette dernière hypothèse lorsque l'on songe à la difficulté d'admettre que les molécules tartriques droites se transforment en molécules racémiques, ces dernières étant des molécules doubles. Il est beaucoup plus naturel de voir dans la transformation de l'acide tartrique en acide racémique inactif une molécule dissymétrique qui perd cette dissymétrie purement et simplement. Mais peut-être vais-je être bientôt en mesure de résoudre cette question par la découverte que je viens de faire d'un nouvel acide tartrique, donnant lieu à de très beaux sels et dont l'étude encore trop peu avancée pour que j'ose vous en parler ici paraît devoir être extrêmement curieuse. Je l'obtiens en même temps que l'acide racémique artificiel.</p>
+                <p>Je pense que M. Biot vous a fait part des résultats auxquels j e suis arrivé en étudiant les alcaloïdes des quinquinas 1,</p>
+                <p>et qui établissent entre ces produits une si étroite parenté. J'arriverai donc fort riche à Paris dans deux mois. Il ne fallait rien moins que cela, Monsieur, pour être tant soit peu digne du vif intérêt que vous voulez bien me porter.</p>
+                <p>Je suis avec respect, Monsieur, , Votre très humble et très reconnaissant serviteur.</p>
+                <p>L. PASTEUR.</p>
+                
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+

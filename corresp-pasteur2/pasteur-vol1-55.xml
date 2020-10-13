@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1851-11-08">8 novembre 1851</date>
+          <placeName>Strasbourg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Virginie(...-...)">A SA SŒUR VIRGINIE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>[Strasbourg, 8 novembre 1851.] Ma chère Virginie, Voilà encore un nouvèau chagrin dont notre cher père et nous n'avions guère besoin. Emilie est si forte, si robuste que je pense qu'elle se relèvera facilement de cet accident, Falgré la gravité que sa maladie paraît avoir d'après la ettre que je viens de recevoir de papa.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Papa me dit de lui écrire à Arbois. Mais il pourrait être oblIgé de rester à Voiteur 1 plus longtemps qu'il ne le présUrn. Alors pour qu'il ait de mes nouvelles, de celles de ane surtout qui vient d'accoucher ce matin d'un garçon rIen portant 2, envoie à papa tout de suite les quelques Ignes que je lui écris. Je n'ai que quelques instants si je veux que ma lettre parte ce matin.</p>
+        <p>Adieu, ma chère sœur. Porte-toi bien. Aie beaucoup de SoIns de ta santé, et de celle de notre excellent père à qui</p>
+        <p>1- Où était Émilie Pasteur (voir p. 189).</p>
+        <p>:l, Jean-Baptiste.</p>
+        <p>nous devons tant et qui a besoin de repos. Fais tout ce que tu peux, ma chère Virginie, pour être toujours heureuse dans ton ménage 1. Aime bien ton mari, aie pour lui beaucoup dejprévenances. Il te le rendra et vous serez toujours contents de votre sort.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              L. PASTEUR.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

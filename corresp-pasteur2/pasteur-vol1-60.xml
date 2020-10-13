@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1852-06">juin 1852</date>
+          <placeName>Strasbourg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="[Strasbourg, juin 1852.] Mon cher papa, Ainsi que je te l'ai dit dans ma dernière lettre 2 j'ai communiqué il y a peu de jours à M. Biot le résumé de mes recherches de cette année 3. M. Biot m'a répondu immédia&quot; tement la lettre que Marie va te transcrire 4. Tu y verras que le vénérable doyen de l'Institut est fort content de11101, ce qui m'a fait un vif plaisir."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>[Strasbourg, juin 1852.]</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p> Mon cher papa, Ainsi que je te l'ai dit dans ma dernière lettre 2 j'ai communiqué il y a peu de jours à M. Biot le résumé de mes recherches de cette année 3. M. Biot m'a répondu immédia" tement la lettre que Marie va te transcrire 4. Tu y verras que le vénérable doyen de l'Institut est fort content de11101, ce qui m'a fait un vif plaisir.Mais tu remarqueras surtout la dernière phrase qui est une allusion évidente à M. Regnault et la cause de l'Ecole Polytechnique n'est peut-être pas encore perdue.</p>
+        <p>Enfin tu y verras qu'il est nécessaire ou tout au moins convenable que je me rende à Paris du 15 juillet au 15 août.</p>
+        <p>Je compte partir du 25 juillet au 3 ou 4 août. Arrange-toi donc pour venir avant le 15 juillet. Tu vois aussi par là que j'aurai nécessairement la croix au 15 août. J'en suis content Pour toi et pour Marie, car pour moi-même je n'y tiens que fort peu. En tout cas n'en parle à personne.</p>
+        
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

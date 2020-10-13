@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1851-07-16"> 16 juillet 1851.</date>
+          <placeName>Strasbourg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="">Au DOCTEUR GODÉLIER</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Strasbourg, 16 juillet 1851."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Strasbourg, 16 juillet 1851.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Monsieur et cher ami, Je ne veux pas m'excuser. C'est très mal à moi d'avoir laissé partir plusieurs fois ce bateau dont chaque arrivée Procure tant de joie, sans réponse à votre aimable et bon souvenir. Permettez-moi de vous dire avec franchise que votre lettre m'a beaucoup flatté. Tôpfer, dans une nouvelle que vous connaissez mieux que moi, j'en suis sûr, parle beaucoup d'un bourgeon qui pousse dans le cerveau, très gros chez les uns, moins volumineux chez d'autres, nulle Part absent. Le mien, quand j'ai reçu votre lettre affectueuse, m'a dit tout bas : C'est bien, c'est un témoignage d'amitié d'une personne que tu aimais, que tout le monde aimait, pleine de cœur et de distinction, regrettée de tous eux qui l'ont connue. Mon bourgeon s'en est épanoui, et Je me suis davantage estimé moi-même.</p>
+        <p>Oui, nous vous avons beaucoup regrettés et il faut bien SUe dans ce salon de la rue des Veaux où nous allons toujours et souvent une bonne sœur vous ait remplacés pour que nous sentions moins le vide que vous y avez laissé.</p>
+        <p>Ce qui nous console, c'est que vous êtes installés à votre convenance, pleins de santé, dans un beau pays, avec un Poste très important où vous ont accompagnés les recommandations flatteuses et l'on peut dire extraordinaires d'un ministre de la guerre.</p>
+        <p>, Il faut bien cependant que je m'excuse de n'avoir pas répondu plus tôt à votre lettre, puisque j'avais tant de</p>
+        <p>l' 1. Le Dr Godélier, médecin militaire, était alors médecin en chef de , hôpital de Philippeville en Algérie. Il avait été précédemment médecin en chef de l'hôpital militaire de Strasbourg.</p>
+        <p>motifs pour m'empresser de le faire. Vous aviez eu la bonté de me demander des nouvelles de mes recherches, et je voulais pouvoir vous dire jusqu'où je serais arrivé cette année. Je pars en effet pour Paris à la fin du mois. J'y vais présenter un nouveau travail 1 auquel mon bourgeon attache quelque prix. Vous vous rappelez très bien qu'il y a des substances que j'appelle droites, d'autres que j'appelle gauches, que j'ai trouvé dans un cas les gauches des droites qui étaient connues 2, et que mettant ces gauches en présence des droites correspondantes j'ai fait autant de substances neutres, mais que l'on pouvait dédoubler à volonté. Voici un point de vue tout différent qui me paraît aussi fécond que le premier et c'est celui que je vais aller soumettre à l'Académie. Je trouve que les substances droites ou gauches peuvent être assez peu altérées dans leur arrangement moléculaire constitutif pour conserver exactement, sans exception, toutes leurs propriétés chimiques, perdant seulement cette dissymétrie spéciale qui produit ce que j'appelle la droite ou la gauche. Ce sont les mêmes corps exactement, mais ils n'ont plus dans leurs formes cristallines le caractère droit ou gauche, et ils n'agissent plus sur la lumière polarisée. Et cependant, notez-le bien, je sais qu'ils ne peuvent pas être des combinaisons binaires de substances droites avec les gauches correspondantes, ce qui aussi produirait la neutralité optique et la symétrie cristalline. Voilà le fait matériel. Dans une prochaine lettre je vous dirai comment on l'aura apprécié à Paris et si on me fait l'honneur d'un rapport 3 je ne manquerai pas de vous l'envoyer. Mon bourgeon me le rappellerait si j'oubliais par hasard.</p>
+        <p>Vous ignorez sans doutè que nous habitons actuellement rue des Veaux 3 bis, maison Heiligenthal, vis-à-vis le N° 27, ce qui nous procure la très grande facilité de voisiner avec le jeune ménage. Dites à Mme Godélier que celui-là se cort"</p>
+        <p>serve dans son intégrité normale, mais celui-là seul. C'est ici que sont venus les maux de dents1.Quant à dame Jeanne 2 dont vous avez la bonté de demander des nouvelles, elle Pousse comme un champignon. Elle est magnifique de santé et sa petite intelligence progresse chaque jour. Depuis peu elle marche quand on la tient d'une seule main. Je la désire plus tard aussi gentille que votre charmante et bonne petite Cécile. C'est beaucoup demander.</p>
+        <p>Je laisse à d'autres le soin de vous parler du jeune couple Jossier. Je ne vous dis rien non plus des affinités collatérales, sinon que notre bonne sœur 3 est revenue à Strasbourg Mme Loir 4 par le nom, mais toujours Amélie Laurent par le cœur.</p>
+        <p>Adieu, mon cher Monsieur Godélier. Mille regrets et mille Amitiés de ma part et de celle de ma bonne Marie à Madame Claire. Nos embrassements et nos vœux de bonne santé à Vous tous que nous aimons et que nous regrettons sincèrement.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              Votre tout dévoué, L. PASTEUR.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

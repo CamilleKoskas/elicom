@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1854-05-08">[Probablement 8 mai 1854.]</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="">Au MINISTRE DE L'INSTRUCTION PUBLIQUE ET DES CULTES.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="[Probablement 8 mai 1854.] M. le Ministre, Vous avez eu la bienveillance de m'accorder récemment un congé afin de rétablir ma santé altérée par un travail trop continu dans un laboratoire malsain. Ce congé expire au 15 mai. Je viens vous prier, M. le ministre, de vouloir bien le prolonger jusqu'au jer août. C'est avec un bien vif regret, M. le ministre, que j'apporte ce trouble dans le service de la Faculté des sciences de Strasbourg et jusqu'à ces derniers jours je croyais pouvoir reprendre mes fonctions."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>[Probablement 8 mai 1854.] M. le Ministre, Vous avez eu la bienveillance de m'accorder récemment un congé afin de rétablir ma santé altérée par un travail trop continu dans un laboratoire malsain. Ce congé expire au 15 mai. Je viens vous prier, M. le ministre, de vouloir bien le prolonger jusqu'au jer août. C'est avec un bien vif regret, M. le ministre, que j'apporte ce trouble dans le service de la Faculté des sciences de Strasbourg et jusqu'à ces derniers jours je croyais pouvoir reprendre mes fonctions.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mais le médecin me conseille de ne pas le faire encore et de joindre les grandes vacances au repos que vous m'aurez accordé. Afin de ne pas augmenter l'embarras de la Faculté je serai rendu à mon poste le IER août pour la session des examens.</p>
+        <p>Dans le cas où vous jugeriez convenable, M. le ministre, de faire faire le cours pendant les deux derniers mois de l'année scolaire je prends la liberté de recommander à votre bienveillance M. Béchamp professeur adjoint de l'école de Pharmacie de Strasbourg.</p>
+        <p>Je suis avec le plus profond respect M. le ministre Votre très humble et très dévoué serviteur, L. PASTEUR.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

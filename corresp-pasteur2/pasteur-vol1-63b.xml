@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1852-08-21">21 août 1852.</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Biot, Jean-Baptiste (1774-1862)">A J.-B. BIOT.</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="[Août 1852.] Mon cher père, Je n'ai pas été compris dans les promotions pour les décorations. J'en ai été fort surpris et M. Biot tout autant que moi. Il m'avait dit, quelques jours avant, que M. Dumas à qui il avait parlé de moi pour cette affaire lui avait répondu : Ce serait bien malheureux si au 15 août je n'avais pas assez de crédit pour la lui faire donner."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>[21 août 1852.]</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+
+                
+                <p>A J.-B. BIOT.</p>
+                <p>[21 août 1852.] Monsieur, MM. Mitscherlich et Rose sont arrivés à 10 heures 1/4 et ne m'ont quitté qu'à 12 heures 1/2. Ils ont pris beaucoup de notes. Mais la monnaie que je leur ai donnée en argent ils me l'ont rendue en or en m'assurant qu'un fabricant de Saxe dont j'ai le nom et l'adresse obtient de l'acide racémique 1. M. Mitscherlich pense (c'est l'opinion du fabricant) que les tartres viennent de Trieste. Cette grande nouvelle m'a mis en émoi et j'ai formé le projet, que j'accomplirai quoi qu'il arrive, de partir le plus tôt possible pour visiter la fabrique, étudier sur place les tartres, et si je le juge nécessaire aller à Trieste.</p>
+                <p>Je suis persuadé que vous m'encouragerez dans cette résolution. Il est impossible d'éclairer une telle question par lettres et par envoi de produits dont l'origine sera toujours douteuse. Il faut que je suive ces tartres jusqu'à leur source, que j'étudie l'espèce de raisins qui les fournit, les fruits acides du pays, l'espèce d'acide malique de ces fruits, etc. Mais dois-je accomplir ce voyage à mes frais?</p>
+                <p>Mme Pasteur s'y oppose avec raison. Depuis quatre ans nous avons un traitement de 2.750 fr. Chaque année nous avons dépensé plus de 2.000 frs en sus de ce traitement, ce que vous comprendrez sans peine. Si je vais à Trieste mon voyage me coûtera peut-être 1.000 frs. C'est pour notre jeune ménage, déjà si fort grevé, une somme trop considérable. Je viens donc vous prier d'avoir l'extrême bonté d'écrire à M. Dumas afin qu'il intervienne auprès du ministre et de l'Académie et que je puisse sans frais extraordinaires aller étudier sur place cette importante question toute française et que la France doit tenir à honneur de voir résolue par un de ses enfants. Qui sait ce qu'elle recèle</p>
+                <p>et tout ce qu'elle peut fournir de résultats utiles à la science?</p>
+                <p>Le temps presse et je crains les lenteurs de l'administration. La saison des raisins est déjà bien avancée mais je trouverai parmi ceux-ci des retardataires qui me seront très utiles je crois. C'est dans les raisins verts surtout que les acides tartrique et malique dominent.</p>
+                <p>J'ai pensé à m'adragser directement au Président de la République comme moyen extrême si je ne réussis pas ailleurs. J'attendrai votre réponse avec impatience. Je pense que lorsque j'aurai communiqué mon projet à MM. Mitscherlich et Rose ils me donneront volontiers une ettre pour le fabricant qui est leur ami.</p>
+                
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                            
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

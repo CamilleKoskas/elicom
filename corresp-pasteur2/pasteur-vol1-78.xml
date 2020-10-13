@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1852-10-07" >[7 octobre 1852]</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="[7 octobre 1852.] Ma chère Marie, Je t'écris encore de chez Mme Lelièvre et voici dans qUelles circonstances."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>[7 octobre 1852.] Ma chère Marie, Je t'écris encore de chez Mme Lelièvre et voici dans qUelles circonstances.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je devais partir pour Thann à 11 h. du matin. J'apprends ue Chappuis est arrivé, je vais le voir et je me décide à ne arhr pour Thann qu'à 5 h. Mais arrivé à l'embarcadère je</p>
+        <p>réfléchis (mieux vaut tard que jamais) que je ferais bien de ne partir que demain matin à 5 h. du matin. A quoi bon en effet aller coucher à Thann. Je suis donc revenu à l'Académie où je croyais avoir une lettre de toi. Je trouve que tu es bien peu prodigue de lettres. Tu devrais songer que si tu sais ce qui se passe moi je l'ignore complètement et que dans la position que me fait ta dernière lettre en attendre 4 ou 5 jours une nouvelle c'est beaucoup trop. ,</p>
+        <p>Je t'ai écrit ce soir avant d'aller au chemin de fer, très a la hâte pour te dire de venir à Strasbourg immédiatementJe suis toujours du même avis. Je crois que ce logement pourra te convenir, et, s'il en est ainsi, il est infiniment pre" férable que tu viennes t'installer définitivement le plus tôt possible.</p>
+        <p>D'autre part mes affaires sont (au moins plusieurs) en mauvais état. J'ai besoin de toi pour y mettre ordre. Je pense que M. Fée te prêtera volontiers une de ses bonnes pendant quelques jours jusqu'à ce que tu en aies trouve une. C'est même évident. Jùstine est en parfaite santéJ'ai eu l'idée un instant de partir pour aller te chercherMais le voyage t'embarrassera fort peu, sois en sûre. e, t'ordonne expressément de prendre un convoi express et leS premières Places et de partir le. soir. Tu placeras ton fi auprès de toi sur un coussin. Il dormira parfaitement et toi également. On s'arrête seulement à quelques stations. 1 seras à Strasbourg presque sans avoir eu le temps de songe au voyage. Je t'ordonne d'agir ainsi. Je ne te reçois pas 51 tu es en 2e classe. Je ne ris pas du tout.</p>
+        <p>Tu recevras cette lettre après-demain matin samedi. j partiras par le convoi poste de samedi soir qui n'a que de premières et tu seras ici dimanche matin. ,</p>
+        <p>Est-il assez certain que nous restons ici pour- que dès présent nous puissions louer? Fais en sorte de le savoir, de du moins prie M. Laurent de s'en informer auprès 5 M. Lesieur principalement qui sait mieux les détails ee affaires, et M. Laurent aura la complaisance de nous écrire promptement à ce sujet. - 5 Si j'ai de bonnes chaussures apporte-les moi. Mes soune et mes guêtres surtout. Idem : souliers vernis ou botte.</p>
+        <p>Je pense que tu as tout le temps de te préparer à partir samedi soir. Tu ne peux tarder davantage. Je n'ai pas de temps à perdre. Tout à l'heure en rentrant à l'hôtel, je indiquerai l'heure du départ du convoi que tu prendras sarnedi soir et je serai à la gare pour te recevoir dimanche rnatin.</p>
+        <p>Adieu. A dimanche.</p>
+        <p>Tout à toi.</p>
+        <p>L. PASTEUR.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

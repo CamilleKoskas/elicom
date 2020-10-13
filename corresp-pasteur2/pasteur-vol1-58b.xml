@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1852-02-05" >2 février 1852.</date>
+                    <placeName>Strasbourg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Dumas, Jean-Baptiste (1800-1884)">A J.-B. DUMAS.</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Strasbourg, 2 février 1852."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Strasbourg, 5 février 1852.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A J.-B. DUMAS.</p>
+                <p>Strasbourg, le 5 février 1852.</p>
+                <p>Monsieur,</p>
+                <p>Il me serait difficile de vous rendre toute la surprise et tout le bonheur que votre lettre a causés dans notre jeune ménage. Notre premier soin a été d'en envoyer une copie à mon père et à mon beau-père, actuellement à Paris et que Ie prie d'aller vous remercier pour tant de bonté. J'attachais de l'importance à mes recherches; surtout je leur crois beaucoup d'avenir. Mais j'étais loin de penser qu'elles portaient avec elles un témoignage d'une aussi entière et aussi haute approbation, j'en suis très heureux et j'en prends courage. Je ferai tout pour rendre mes études actuelles quelque peu dignes de tant de bienveillance.</p>
+                <p>Je connaissais, Monsieur, la demande que vous avez faite Pour moi à Monsieur le Ministre de l'Instruction publique, et soyez assuré que je vous aurais depuis longtemps remerCle d'une telle marque d'estime, si je n'avais craint de</p>
+                <p>d x. Mme Pasteur, le même jour, avait envoyé à son beau-père une copie e la lettre de J.-B. Dumas (voir p. 531).</p>
+                <p>paraître appeler de nouveau votre attention sur cette faveur.</p>
+                <p>J'ai toujours en effet trouvé bien étrange la demande directe d'une décoration. Mais je trouve plus étrange encore que le chimiste le plus célèbre de l'Europe, devenu ministre, sollicitant la croix pour un humble professeur de chimie ne l'obtienne pas. Je ne m'explique point ce mauvais vouloir.</p>
+                <p>J'avais même connaissance, Monsieur, d'une conversation que vous avez eue avec M. Biot il y a environ une année, à cette occasion même de la décoration; et, pour vous montrer jusqu'où va la bienveillance excessive de ce savant vénérable, permettez-moi de vous transcrire la partie de sa lettre où il me raconte cette conversation, dont j'avais provoqué la confidence en lui disant que notre jeune ménage était très heureux, que c'était à peine si un petit chagrin d'amour-propre était venu le troubler à l'époque du jour de l'an : « Quant au petit chagrin d'amourpropre de votre jeune ménage, je crois en deviner l'objet.</p>
+                <p>Ne serait-ce pas l'espoir déçu d'un ruban rouge? Si j'ai touché juste, je dois confesser à vous et à Madame Pasteur que j'ai sur ce point la plus grande part de culpabilité, part que d'ailleurs je ne me reproche nullement. Lors de votre dernier rapport, M. Dumas vient chez moi, un matin, pour en entendre la lecture, tête à tête. Frappé de vos résultats : Pasteur devrait avoir la croix, me dit-il; M. de Parieu 1 à qui je l'avais demandée pour lui n'a pas voulu me l'accorder, vous devriez écrire au Président pour la réclamer, comme bien méritée. Je répondis que pour m'adresser directement au Président je ne me trouvais aucun titre valable.</p>
+                <p>Je pense comme vous, lui dis-je, que c'est un devoir d'un gouvernement éclairé d'avoir l'œil sur les hommes qui se distinguent; mais vous connaissez celui-ci tout aussi bien que moi, et vous êtes beaucoup mieux placé que je ne le suis pour conseiller un acte que vous croyez juste. Enfin M. Dumas m'amena à lui promettre la seule démarche qui</p>
+                <p>me parut possible : c'était de lui écrire à lui-même, comme à l'un de vos commissaires1, pour lui représenter la convenance qu'il y aurait de vous donner la croix. Mais plus tard en y réfléchissant j'ai reconnu que j'allais très mal servir vos intérêts réels, par les raisons suivantes : 1° Cela n'aurait rien ajouté du tout à votre valeur scientifique près de l'Académie, qui est votre grand but. 2° Cette inutile faveur vous aurait fait des jaloux plutôt que des amis; et il vaut mieux qu'on demande pourquoi ne l'a-t-il pas que pourquoi il l'a.</p>
+                <p>3° Enfin, et ceci est un point capital, cette croix ne venant Pas de votre ministre, mais d'un autre, et malgré lui, vous auriez été mis, par cela même, mal avec ce ministre, et avec tous ses successeurs, par esprit de corps, ce qui ne vous aurait pas été du tout avantageux. Je me suis tu. M. Dumas n'y a plus pensé, et voilà comme vous n'avez pas été comPris dans la promotion. »</p>
+                <p>Dans la lettre suivante que j'eus l'honneur d'écrire à H. Biot, je lui dis seulement en réponse à ce sujet, et c'était - bien toute ma pensée, que j'aurais reçu la décoration avec Plaisir surtout à cause des personnes qui me portent affection, et en particulier pour la joie qu'en aurait éprouvée IIle Pasteur et mon père, ancien militaire décoré. J'ai cru discerner alors dans une nouvelle lettre de M. Biot qu'il regrettait de n'avoir pas accepté la démarche si facile que vous lui aviez offerte. Il en parla même à M. Thenard qui lui répondit que M. de Parieu l'avait consulté pour me donner la décoration, que son avis avait été très favorable niais que ma jeunesse m'avait fait remettre à un peu plus tard. Enfin aux vacances dernières une personne me dit chez M. Biot : Je croyais que vous étiez décoré, et M. Biot ajouta : Non, j'en suis cause; mais il le sera cet hiver. M. Biot aVait compte sans les événements de décembre 2.</p>
+                <p>Je vous demande pardon,- Monsieur, de tous ces détails.</p>
+                <p>Ils vous apprendront à mieux connaître encore le caractère de votre vénérable et illustre collègue, et ils me permettent</p>
+                <p>à moi de vous dire combien de remerciements j'ai à vous adresser, et combien grande doit être ma reconnaissances envers vous et envers M. Biot. A Dieu ne plaise que jamais je me plaigne en rien de l'excès de sa bienveillance. Depuis quatre années Monsieur Biot me prodigue les meilleurs conseils de travail, et, vous le savez, Monsieur, j'avais besoin de tous ces conseils. Vous avez oublié sans doute, parce que chez vous la bienveillance pour les jeunes gens qui ont le bonheur de vous approcher est de tous les jours et de tous les instants, vous avez oublié sans doute que le soir du jour où vous me reçûtes Docteur, il y eut réunion dans votre jardin au Muséum. J'avais l'honneur d'y assister.</p>
+                <p>Vous me prîtes à l'écart. J'avais travaillé sous les yeux de ce bon M. Laurent que la mort va bientôt peut-être enlever à la science 1. J'étais dans l'âge où l'esprit se façonne sur le modèle qu'on lui présente, et moi aussi j'avais par des hypothèses sans fondement, par une rédaction qui manquait tout à fait de précision, j'avais enveloppé et gâté l'exposition de faits nouveaux et intéressants. Je fus subitement éclairé par vos conseils. J'eus dans le cœur et jusque sur les lèvres les mots pour vous remercier. Je n'ai point osé le faire. Mais je pensai beaucoup et longtemps à vos paroles, et bientôt la rédaction de mes thèses me parut détestable.</p>
+                <p>De là à bien faire il y avait loin encore, et j'avais besoin pour arrêter ma jeune imagination dans ces recherches si neuves sur les substances droites et gauches d'être guidé par la vieille et sûre expérience de Monsieur Biot. Je lui ai toujours soumis mes recherches avant de les publier; j'ai toujours supprimé ce qu'il y trouvait de hasardé, et dernièrement encore je n'ai point publié, d'après son conseil, toute la deuxième partie de mon dernier mémoire 2. Bienheureux le jeune homme qui se voue aux sciences quand il rencontre des hommes tels que vous, Messieurs, au début de sa carrière.</p>
+                <p>Pardonnez, Monsieur, la longueur de cette lettre et</p>
+                <p>croyez aux sentiments de profonde et vive reconnaissance de votre très humble et très dévoué serviteur, L. PASTEUR.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

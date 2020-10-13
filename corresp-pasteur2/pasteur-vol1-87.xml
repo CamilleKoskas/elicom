@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1853-09-25">25 septembre 1853</date>
+          <placeName>Strasbourg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Samedi matin 25 septembre 1853.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher papa, Nous avons reçu la caisse qui est bien arrivée. La lettre Placée dedans ne nous est parvenue que le lendemain.</p>
+        <p>Elle avait été égarée à la douane. Le jambon seul a payé i fr. d'entrée; mais le port a été énorme, 7 fr. en tout.</p>
+        <p>Marie ne te remercie pas elle-même aujourd'hui parce que nous sommes au milieu d'un déménagement.</p>
+        <p>Nous avons enfin trouvé un logement et même un très convenable 1. Il est au rez-de-chaussée mais point humide, dans une très belle maison; avec cour et jardin, ce qui est d'une grande utilité' pour les enfants. C'est parfaitement tranquille et beaucoup plus rapproché de l'académie.</p>
+        <p>800 francs comme aux bains St Guillaume. Nous nous trouvons beaucoup mieux que nous n'aurions été même dans ce dernier logement. Déjà tous les meubles sont transportés et nous sommes en train de les ranger, etc.</p>
+        <p>C'est une besogne des plus fatigantes et des plus ennuyeuses.</p>
+        <p>Nous avons un temps magnifique depuis huit jours. Je n'ai pas été encore au Laboratoire et je compte comme tu me le recommandes ne pas travailler beaucoup avant la rentrée.</p>
+        <p>Jeanne va parfaitement. Mais Baptiste est tourmenté par les dents. Marie va aussi bien qu'il est possible, et moi je me porte très bien depuis mon retour. M. Laurent va beaucoup mieux. Baptiste qui avait hier très mal aux dents va bien ce matin.</p>
+        <p>Adieu. Remercie Virginie et embrasse la pour nous.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              Ton fils très ressemblant, L. PASTEUR.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

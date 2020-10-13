@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1850-11-25">25 novrembre 1850.</date>
+                    <placeName>Strasbourg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Chappuis, Charles (1822-1895)">A Chappuis</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Strasbourg, 6 juillet 1850."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Strasbourg, 25 novembre 1850</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                
+                <p>A CHAPPUIS.</p>
+                <p>[Strasbourg, 25 novembre 1850.] Ma pauvre sœur Joséphine est morte il y a dix jours 1.</p>
+                <p>Depuis plusieurs mois déjà elle n'était plus pour nous. Mais ces malheurs sont toujours terribles et mon pauvre père est désolé. Pour lui maintenant je verrais avec plaisir qu'on m'envoyât à Besançon.</p>
+                <p>J'ai un travail remarquable en bonne voie et plusieurs notes importantes. Chaque jour de plus en plus j'acquiers ta conviction que j'ai les premières preuves d'une loi de la Nature et des plus fécondes, dans les travaux que j'ai Publiés. Plus j'avance et plus cette loi se précise et s'agrandit. Pourquoi n'avons-noùs pas suivi la même carrière?</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                            
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

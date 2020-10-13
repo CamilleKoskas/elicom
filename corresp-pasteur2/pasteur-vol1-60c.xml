@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1852-06">juin 1852</date>
+                    <placeName>Strasbourg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Chappuis, Charles (1822-1895)">A Chappuis</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="[Strasbourg, juin 1852.] Mon cher papa, Ainsi que je te l'ai dit dans ma dernière lettre 2 j'ai communiqué il y a peu de jours à M. Biot le résumé de mes recherches de cette année 3. M. Biot m'a répondu immédia&quot; tement la lettre que Marie va te transcrire 4. Tu y verras que le vénérable doyen de l'Institut est fort content de11101, ce qui m'a fait un vif plaisir."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>[Strasbourg, juin ou juillet 1852.]</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+
+                <p>A CHAPPUIS.</p>
+                <p>[Strasbourg, juin ou juillet 1852.] Une partie des belles espérances que j'avais conçues, il y a quelques mois, dans mes recherches, se trouve réalisée.</p>
+                <p>J'ai pour cette année deux beaux mémoires1 dont leS résultats sont fort curieux et pleins d'avenir. Rien de nouveau sur l'affaire de l'Ecole polytechnique-</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                            <signature></signature>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+

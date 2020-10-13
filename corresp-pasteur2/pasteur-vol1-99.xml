@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1854-09-07">le 7 septembre 1854.</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="">Au MINISTRE DE L'INSTRUCTION PUBLIQUE ET DES CULTES.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Paris, le 7 septembre 1854."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, le 7 septembre 1854.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>M. le Ministre, Il me serait impossible d'avoir sur tout ce qui peut intéresser ma carrière une autre opinion que celle de M. Biot, qui depuis que j'ai eu le bonheur de le connaître m'a traite comme un de ses enfants.</p>
+        <p>Aussi après avoir eu hier l'honneur d'être reçu par vous je me suis rendu chez lui, afin de lui parler de l'offre que vous aviez eu la bienveillance de me faire, de m'envoyer à Lille comme professeur de chimie et doyen de la nouvelle faculté des sciences. M. Biot m'a engagé très vivement à accepter, et à venir dès aujourd'hui vous remercier et vous demander vos ordres quant aux préparatifs d'installation 1.</p>
+        <p>Veuillez croire, M. le Ministre, que je ferai tous mes effortt pour créer à Lille un enseignement capable de rendre des services distingués à la Science et à l'industrie du pays.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              Je suis avec le plus profond respect M. le ministre de Votre Excellence le très humble et très obéissant serviteur, L. PASTEUR, professeur de chimie à la Faculté de Strasbourg, à Paris, rue Madame, 40.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

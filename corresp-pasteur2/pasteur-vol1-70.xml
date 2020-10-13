@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1852-09-23" >23 septembre 1852.</date>
+          <placeName>Freiberg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Freiberg, le 23 septembre 1852."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Freiberg, le 23 septembre 1852.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Ma chère Marie, Dans ma dernière lettre je te disais que je devais partir le 21 pour Vienne, Trieste et Venise, puis revenir à peU</p>
+        <p>Près par le même chemin, Vienne, Berlin, Cologne, Paris.</p>
+        <p>- Et c'était pendant ce voyage de retour que je devais m'arrêter à Freiberg 1 pour visiter les mines de ce pays et les célèbres professeurs qui s'y trouvent attachés à l'Ecole des mines de la Saxe. J'ai pensé que j'aurais peut-être conomie de temps et d'argent à revenir en France par une autre voie, par exemple par Milan, Gênes, Marseille - ou bien par la Suisse. A Venise je prendrai à cet égard des renseignements précis. C'est en vue de cette éventualité que je me suis décidé à m'arrêter le 22 à Dresde d'où je Bien venu à Freiberg par une diligence en quatre heures.</p>
+        <p>m'a pris de m'arrêter à Dresde où j'avais à faire viser "noll passeport pour l'Autriche. Je pensais que ce visa pouvait avoir lieu à la frontière de Saxe et d'Autriche, comme - m'était arrivé à la frontière des Duchés de Hanovre et de Brunswick. Pas du tout. Il me fallait un visa de la légation de France et de celle d'Autriche à Dresde et même Jai eu à donner quelques explications parce que mon Passeport ne portait pas : valable pour l'Autriche.</p>
+        <p>y J'ai trouvé en qualité de chancelier à la légation de France Dresde ufi homme très aimable, frère de M. Teutsch de Strasbourg. Tu te rappelles peut-être que c'est ce dernier UI autrefois a eu la bonté de me mettre en relation avec Kestner et que c'est par lui que j'ai eu ce cadeau de quelques kilogr. d'acide racémique.</p>
+        <p>Arrivé le 21 au soir à Dresde j'ai dû. attendre au lendemain à II heures pour faire viser mon passeport, ce qui obligeait à partir seulement le soir à 7 heures pour Frei- g. J'ai profité de cette journée passée à Dresde pour , Y,islter cette capitale de la Saxe et je puis t'assurer que J y ai vu des choses admirables : Un musée de toute beauté Renfermant des tableaux des premiers, maîtres de toutes les écoles. J'ai passé quatre grandes heures dans ces galets, m'amusant à noter sur mon livret les tableaux qui ie faisaient le plus de plaisir, Ceux qui attiraient mon Mention avaient une croix, puis j'en donnais deux, trois</p>
+        <p>1 - Ville industrielle de Saxe.</p>
+        <p>en suivant le diapason de mon enthousiasme. Je suis même allé jusqu'à quatre.</p>
+        <p>J'ai visité également ce qu'ils appellent la salle de la voûte verte, collection unique au monde d'objets d'art, de bijoux, de pierres précieuses amassés à grands frais par un prince, Auguste roi de Pologne, très ami des arts et qui a même un peu ruiné le pays par ses dépenses.</p>
+        <p>Tu as entendu parler des belles porcelaines de Saxe. La manufacture royale est à Meissen près de Dresde et il y a un dépôt à Dresde que j'ai vu également, puis des églises, des promenades, des ponts admirables sur l'Elbe. Je ne te parle pas de petits riens achetés à ton adresse et comme.</p>
+        <p>souvenirs de la capitale du royaume de Saxe. Je pars donc pour Freiberg à 7 heures. Je suis dans mon lit, hôtel du Cheval noir, à minuit.</p>
+        <p>Le lendemain je me mets en route. C'est hier matin par conséquent. Mon amour pour les cristaux me, porte d'abord chez le savant professeur de minéralogie Breithaupt 1 qUI me reçoit comme on ne ferait pas en France. Après un® courte conversation il passe dans une chambre voiSIne, revient en habit noir portant 3 petites décorations à la boutonnière et il me dit qu'il va d'abord me présenter a" Baron de Beust, surintendant des usines, afin d'obtentf une permission pour visiter celles-ci.</p>
+        <p>Le Baron, jeune homme fort instruit, parlant le plus pur français, accorde non seulement la permission, mais se charge de me trouver un élève de l'Ecole des Mines parlai français qui m'accompagnera. - A 10 heures M. Brelt haupt obligé de me quitter me conduit d'abord au professeur Reich, directeur de l'Ecole des Mines, qui se charge de moi jusqu'à 3 heures, heure à..-Iaquelle je puis retourne chez M. Breithaupt. M. Reich me fait voir en détail toute les curiosités minéralogiques et cristallographiques (l'une célèbre collection due au fameux Werner 2 dont on voit e tombeau à la cathédrale de la petite ville de Freiberg. V</p>
+        <p>,~0.</p>
+        <p>fesseur à l'École des Mines de Freiberg.</p>
+        <p>3 heures jusque vers la nuit, M. Breithaupt me fait voir Une autre collection enrichie par lui, admirable, et il s'attache surtout à m'indiquer les découvertes auxquelles ont donné lieu de sa part l'étude des plus beaux échantillons.</p>
+        <p>Pis il me fait faire une promenade, sans cesser de causer cristaux. Demain matin je dois continuer avec lui la visite de cette collection. Il est occupé par des travaux relatifs aux mines aujourd'hui toute la journée. Je vais employer l11n temps à faire visite à d'autres professeurs et aux Usines. Je compte demain dans l'après-midi descendre dans les mines et repartir pour Dresde et Vienne dimanche Uîatin ayant passé trois longs jours à Freiberg.</p>
+        <p>Tu vois, ma chère Marie, combien ce voyage est utile à l110n instruction et tout l'agrément que me donne et que Peut me procurer à l'avenir la connaissance de ces savants Professeurs de l'Allemagne. Je regretterai beaucoup si je Prends la route de l'Italie pour rentrer en France de n'avoir Pas été à Berlin. Mais ce sera pour un autre voyage que nous ferons ensemble.</p>
+        <p>Adieu, ma chère Marie. — Ce voyage à Freiberg m'occalonne de grandes dépenses et je devrai mendier pour renier en France. Cela ne m'empêchera pas de te rapporter Une bagatelle de Venise.</p>
+        <p>J Adieu, ma chère Marie. Embrasse bien nos chers enfants.</p>
+        <p>Je regrette bien de rester si longtemps sans avoir de. tes nouvelles. Prends grand soin de ta santé et de celle de nOS chers enfants et prie Dieu pour la mienne.</p>
+        <p>A toi et à la Science pour la vie.</p>
+        <p>L. PASTEUR.</p>
+        <p>Embrasse pour moi toute la famille et dis à Mme Laurent qUe le petit calepin m'est très souvent utile.</p>
+        <p>Je t'écrirai à temps pour que tu me dises soit à Marseille, OIt à Strasbourg si notre position est arrêtée et ce que je dois faire : m'arrêter à Dijon, à Strasbourg ou aller .oit à Paris. Adieu encore. Je me porte bien. Dis bien à Pl' Biot la manière dont j'ai été reçu. Cela lui fera grand Plaisir et dis-lui que j'ai vu déjà MM. Erdmann, Hankel, aumann à Leipsick, Breithaupt, Reich à Freiberg. Je</p>
+        <p>n'ai trouvé aucun Français à Freiberg. M. Le Play, ingénieur des mines de l'Ecole de Paris 1, avait quitté Freiberg la veille de mon arrivée. M. Erdmann m'adressera à Venise hôtel Danieli les lettres qu'il recevra pour moi jusqu'au 26 septembre. Il conservera les autres jusqu'à nouvel ordre.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

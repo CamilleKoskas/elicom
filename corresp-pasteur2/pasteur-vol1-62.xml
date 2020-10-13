@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1852-08">août 1852</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>[Août 1852.] Mon cher papa, Mon travail a été parfaitement accueilli. Je puis te dire même qu'il a fait sensation parmi les savants. On m'en a fait beaucoup de compliments, excepté quelques personnes qui trouvent probablement que je commence à compter un peu trop. Ainsi croirais-tu que le lendemain j'ai vu un chimiste, professeur à Paris, qui, je le savais d'autre part, était venu à la séance dans le seul but d'entendre ma lecture, croirais-tu que ce chimiste ne m'en a pas dit le plus petit mot. Alors je me suis rappelé ce que la veille même m'avait dit M. Biot : A l'Institut quand un confrère fait une communication et que personne ne lui en parle ultérieurement, c'est que ce qu'il a trouvé est bon. S'ils y reviennent et surtout par critique c'est que c'est très bonM. de Senarmont fera le rapport1. Il est en ce moment a Vichy. Les autres commissaires sont MM. Dumas et BiotQuant à ma position je ne sais toujours rien. M. Dumas a dit que ma position telle qu'elle est actuellement à Strasbourg allait cesser. Et il a parlé deux fois à M. Biot en termes tels que M. Biot est persuadé qu'il a en vue quelque chose pour moi mais qu'il ne peut encore en parler.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Tous les premiers chimistes étaient à l'Académie le jour de ma lecture : MM. Dumas, Thenard, Pelouze, Regnault, Balard. Il y avait aussi les quatre ou cinq chimistes de Paris plus ou moins voisins de l'Institut. Ce sont ceux-la dont je te parlais plus haut.</p>
+        <p>Marie et les enfants vont très bien. Mais tous ces jours derniers et depuis notre arrivée il y a eu des malades. Marie a eu une indigestion. Baptiste a eu des coliques et Jeanne également. Mais cela tient à ce que quatre de ses dens percent ensemble. Je suis très occupé pour deux ou trois jours. On m'a chargé de faire [passer] à la Sorbonne des examens de licence pour les élèves de l'Ecole Normale en</p>
+        <p>remplacement de M. Dumas très occupé au Conseil Supérieur de l'Instruction Publique.</p>
+        <p>Je suis encore pour quelques jours Hôtel de l'Empereur Joseph, rue de Tournon. Puis j'irai retrouver Marie.</p>
+        <p>Adieu. Porte-toi bien.</p>
+        <p>Si Marie et les enfants n'eussent pas été malades nous aurions déjà vu notre cousine.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              L. PASTEUR.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

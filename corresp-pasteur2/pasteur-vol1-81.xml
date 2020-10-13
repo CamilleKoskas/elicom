@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1852-10">[Fin octobre 1852].</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="[Fin octobre 1852]."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>[Fin octobre 1852].</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher papa,</p>
+        <p>Tu étais ennuyé lorsque tu nous a écrit. Je l'ai vu tout au commencement de ta lettre quand tu me dis qu'autrefois nous nous écrivions plus souvent. Je ne t'ai pas écrit Pendant mon voyage d'Allemagne (qui a duré un mois) tout à fait volontairement et dans le seul but de ne pas te donner de l'ennui. Lorsque tu aurais reçu de moi une lettre datée de Leipsick, de Dresde, ou de Vienne, ou de Prague, car j'ai séjourné dans toutes ces villes, tu aurais Pu croire que j'étais perdu dans ces pays barbares. Mais détrompe-toi. D'abord ce sont de belles villes, bien bâties, bien habitées, et où j'ai été très bien reçu. Le peuple en ohême, en Autriche, est peut-être plus grossier qu'en France, moins civilisé. Mais il n'en est pas de même des habitants des villes, et tu seras sans oute étonné d'apprendre qu'à Vienne je ne me suis pas adressé dans la rUe à une personne un peu bien mise sans qu'elle m'ait</p>
+        <p>répondu en bon français. Je n'ai souffert nulle part, dans aucun hôtel, de l'ignorance où j'étais de la langue allemande; et je n'ai vu aucun professeur qui ne parlât bienl notre langue. Note encore que j'ai toujours voyagé en chemin de fer. J'aurais pu aller jusqu'à Trieste sans le quitter plus de douze heures environ.</p>
+        <p>J'ai rapporté de là des connaissances agréables et très utiles, le désir plus vif que jamais de connaître l'allemand, et surtout la solution presque complète de la question que j'allais éclaircir.</p>
+        <p>Enfin pour en revenir à ce que je te disais c'est volontairement que je ne t'ai pas écrit et je disais même à Marie de ne pas trop te parler de mon voyage, où j'étais, etc.</p>
+        <p>A mon retour à Strasbourg, je t'ai écrit et je suis reste trois semaines sans te donner de nos nouvelles parce que j'attendais d'une part une lettre de toi, et que d'une autre notre position allait être décidée, ce dont je voulais t'avertitEt puis je te comprends d'autant mieux que je suis fait ou plutôt que tu m'as fait à ton image. Il y a des jours ou tu t'ennuies, où tu prends vivement les contrariétés qui surviennent dans la vie. Eh bien, je suis de même. J'al lieu d'être très heureux. Mais tu sais bien que je cherche la pierre philosophale et tu n'es pas sans avoir lu toutes les joies puis toutes les déceptions de ces alchimistes qui m'ont devancé. Ils croyaient toujours qu'ils étaient à la veille de la trouver. J'en suis là. Ils sont morts à la tâche.</p>
+        <p>J'espère bien que mon zèle ne faillira point avant l'heure dernière. Mon vénérable mentor m'en donne l'exemple, et je crois avec lui qu'il n'y a qu'une chose qui amuse : le travail.</p>
+        <p>Tu me disais que tu n'aimes plus la lecture. C'est un grand tort. Tu es trop sceptique. Pour mon âge je le suis déjà beaucoup et je crains qu'arrivé au tien je dépasse mon modèle.</p>
+        <p>Mais crois-tu donc que parmi tant d'ouvrages un grand nombre n'ont pas été écrits par des hommes consciencieux?</p>
+        <p>Crois-tu qu'il n'y as en littérature, en histoire et même peut-être en politique, des hommes tels que M. Biot, et beaucoup d'autres dans les sciences? D'ailleurs on lit les</p>
+        <p>choses pour elles-mêmes et non pour ceux qui les ont écrites; et pour mon compte je me suis toujours senti Meilleur, plus humain, moins envieux, moins égoïste, car nous le sommes tous beaucoup trop, après avoir lu de belles pages d'histoire, de littérature, etc. Je voudrais avoir le temps de lire beaucoup. Lis donc quand tu t'enfuies. Songe aussi que l'on ne t'oublie pas et qu'ici comme auprès de toi grandissent de petits enfants qui t'aimeront et ne t'oublieront pas plus que ne font les grands quand même les circonstances, ou leur désir de ne pas te donner de l'ennui, te laissent sans nouvelles pendant six semaines.</p>
+        <p>Et puis certes n'est-ce rien que les succès de ton fils?</p>
+        <p>N"est-ce rien que les lettres que je t'envoie d'une des plus grandes illustrations scientifiques de l'Europe 1? Lis encore Celle que je t'envoie. Tu y verras que de grands noms connaissent le tien et s'en inquiètent. Si tu persistes à prendre tout cela comme rien, enferme-toi dans ta noire philosophie.</p>
+        <p>Je t'y laisse et dans l'espoir que tu en sortiras je vais au laboratoire essayer de lever un nouveau coin du voile dont leu a couvert tout ce qu'il a fait. Cela amènera peut-être des succès auxquels tu deviendras sensible et qui te rendront fier et heureux. En attendant, avec Marie, Jeanne et Jean-Baptiste, je t'embrasse de tout cœur ainsi que Virginie, son mari et ses enfants. Je ne sais si la concurrence 2 qu'on leur fait est un grand mal. Il me semble dUau début cela ne peut que faire du bien et que son mari doit s'habituer par crainte autant que par devoir à un travail sérieux et régulier. L. PASTEUR.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1852-09-12" > dimanche soir 12 septembre 1852.</date>
+          <placeName>Leipsick</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Leipsick, dimanche soir 12 septembre 1852."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Leipsick, dimanche soir 12 septembre 1852.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Ma chère Marie, Je suis arrivé à Zwickau 1 hier samedi à 4 heures du soir.</p>
+        <p>Je me porte parfaitement et je ne me ressens en rien de la fatigue du voyage. Je serais arrivé au moins douze heures plus tôt si l'on ne perdait en Allemagne un temps considérable à chaque station. Du reste ce que l'on m'avait dit de l'excellence des chemins de fer allemands est très exact.</p>
+        <p>Prix-modiques, très peu de secousses et les secondes places fort bonnes. Il n'y a aucune exagération à dire que dans le royaume de Hanovre et dans le duché de Brunswick les secondes places valent mieux que les premières en France.</p>
+        <p>Il y a exactement le même luxe et on est mieux assis.</p>
+        <p>Tu sais que je me suis arrêté pendant quatre heures à Bruxelles. Je les ai employées à visiter la rue Royale, le Parc, le Palais du roi, la Chambre des Députés, Ste Gudule à l'intérieur, et le beau passage St Hubert. Puis je suis allé voir Mme V. T. Son mari était absent. Je l'ai trouvée en train d'endormir un Batitisse 2 au maillot à l'aide d'un sein magnifique. Les quatre bien remplis de la rue St Sébastien en feraient à peu près deux de la place Louvain.</p>
+        <p>J'ai vu à Cologne le Rhin dans toute sa beauté et nous l'avons traversé sur un beau pont de bateaux. Je me suis promené pendant une heure dans les rues de Hanovre, très belle ville, qui respire fortune et noblesse. Magdebourg est une place forte très curieuse. Puis Leipsick au milieu des immenses plaines où s'est livrée la fameuse bataille de l'Empire. Je ne m'arrête pas à Leipsick et je me rends a Zwickau à l'Hôtel de la Poste et de là chez M. Fikentscher.</p>
+        <p>Je le quitte à la tombée de la nuit et ce matin de très bonne heure je retourne chez lui où j'ai passé toute la journee d'aujourd'hui dimanche.</p>
+        <p>M. Fikentscher est un homme très instruit et il m'a fait voir toute sa fabrique avec les plus grands détails, sans avoir le moindre secret pour moi. Puis après le dîner il m'a fait faire une promenade des plus agréables dans les environs de Zwickau. J'ai vu là pour la première fois des houillères immenses et dans l'une d'elles une des plus grandes machines à vapeur du monde qui va chercher l'eau de la mine à 300 mètres au-dessous du sol où travaillent 200 ouvriers.</p>
+        <p>Il y a plus de 60 houillères de ce genre dans le pays. Aussi le village qui avoisine la ville est le plus riche de l'Allemagne.</p>
+        <p>Le plus pauvre paysan a 400 mille francs. Plusieurs sont Millionnaires. M. Fikentscher lui-même paraît fort à l'aise.</p>
+        <p>Sa fabrique est très prospère. Elle embrasse un groupe de Maisons qui de loin et sur la hauteur où elles sont placées Paraissent former presque un petit village. Autour 20 hectares de terrain bien cultivé. Tout cela est le produit de quelques années de travail.</p>
+        <p>Quant à la grande question, voici quelques renseignements que provisoirement tu garderas dans ton for intérieur ou à peu près. M. Fikentscher a obtenu pour la première fois de l'acide racémique il y a 22 ans environ. Et à cette époque il en a préparé une assez grande quantité.</p>
+        <p>depuis lors il ne s'en forme plus qu'une très petite partie dans sa fabrication et il ne prend pas soin de le recueillir.</p>
+        <p>Quand il en obtenait le plus ses tartres venaient de Trieste.</p>
+        <p>Ces renseignements se rapprochent mais diffèrent en Quelques points de ceux que m'avait donnés M. Mitscherch. Quoi qu'il en soit voici mon plan d'études : N'ayant pas de laboratoire à Zwickau je viens de revenir * Leipsick avec deux espèces de tartres, ceux que M. Fikentscher emploie actuellement et qui viennent les uns d'Autriche, les autres d'Italie. M. Fikentscher m'a assuré que je ferais ici parfaitement reçu de divers professeurs qui, m'aT1! dit, vous connaissent très bien. Dès demain matin lundi je vais me rendre à l'Université et m'établir dans quelque aboratoire. Je pense qu'en moins de 5 ou 6 jours j'aurai ^rminé l'examen de ces tartres. Puis je partirai pour lenne où je m'arrêterai deux ou trois jours et où j'étudierai rapidement les tartres de Hongrie. J'ai des adresses exactes</p>
+        <p>et j'aurai bientôt des lettres de M. Fikentscher pour divers fabricants. Enfin je me rendrai à Trieste où je trouverai des tartres de divers pays, notamment ceux du Levant et ceux du pays même de Trieste.</p>
+        <p>Tout en arrivant ici chez M. Fikentscher j'ai malheureusement reconnu une circonstance très fâcheuse. C'est que les tartres qu'il emploie ont déjà subi une première opération dans les pays d'où ils sont exportés, et cette opération est telle qu'évidemment elle enlève et elle perd la plus grande partie de l'acide racémique. Au moins je le pense.</p>
+        <p>Il faut donc que j'aille sur les lieux mêmes.</p>
+        <p>Si j'avais assez d'argent j'irais en Italie : mais cela m'est impossible. Ce sera pour l'an prochain. Je le 1 poursuivrai dix ans s'il le faut, mais il ne les faudra pas et je compte bien déjà dans ma première lettre pouvoir te dire que j'ai de bons résultats. Je suis presque assuré par exemple de trouver un moyen prompt d'essayer les tartres au point de vue de l'acide racémique. C'est là une affaire capitale pour mon travail. J'ai besoin d'aller vite dans l'examen de toutes ces espèces de tartres. Ce sera ma première étude.</p>
+        <p>Demain ou après-demain au plus tard je t'écrirai de nouveau quelques lignes pour te donner des indications précises sur la manière de m'envoyer tout de suite les 400 francs qui complèteront les 1.000 francs que j'ai à dépenser. Il ne faut pas que je m'embarque pour Trieste sans de nouvelles ressources. Je regarde comme certain que les 1.000 francs me suffiront. Mais j'ai besoin de faire des économies et de ne pas acheter de produits. M. Fikentscher ne veut rien accepter pour les siens. D'ailleurs je lui ai donné des conseils et une belle partie de mon enthousiasme. Il veut preparer pour le commerce l'acide tartrique gauche et je lui al fourni toutes les indications cristallographiques nécessaires.</p>
+        <p>Je ne doute pas qu'il réussisse.</p>
+        <p>Adieu ma chère Marie. Je t'embrasse de tout mon cœur avec nos chers enfants et toute la famille. J'espère bien que ma petite Jeanne est guérie. — Je n'écris pas à M. DumaS.</p>
+        <p>C'est inutile. Va trouver M. Dumas et dis-lui que j'accepte</p>
+        <p>très volontiers Dijon avec un cours de chimie de deux leçons au plus par semaine au lycée et au moins 1.500 fr. Et que je tiens à ce que cela soit décidé ainsi au plus tôt; mais qu'il sera bon qu'il ne nomme pas immédiatement (si cela devenait possible) à la Faculté de Strasbourg [un successeur] a cause de nos meubles; ou du moins qu'il soit bien entendu que mon successeur quel qu'il soit ne pourra disposer du laboratoire qu'à partir du IER novembre environ ou du 15 octobre si je suis de retour à ce moment. Accepte franchement cette position. Elle est très convenable et dis-lui que je compte sur son appui pour un laboratoire.</p>
+        <p>M. Laurent aura la complaisance de t'accompagner à Bellevue 1. - Dis bien que dans le cas où je ne pourrais avoir les deux places de Strasbourg j'accepte très volontiers et avec reconnaissance les deux positions de Dijon. Qu'enfin si je ne puis avoir qu'une chaire de Faculté c'est à Stras- bourg que je m'attache avant tout.</p>
+        <p>Tout à toi. &gt; * L. PASTEUR.</p>
+        
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

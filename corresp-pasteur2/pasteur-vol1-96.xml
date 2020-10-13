@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1854-05-23">23 mai 1854.</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Paris, 23 mai 1854."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, 23 mai 1854.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher papa, Il y a bien longtemps que tu ne nous as pas écrit. Je suis même un peu inquiet puisque ta dernière lettre était pour nous annoncer que votre servante était malade assez gravement. Depuis, je t'ai écrit une fois. J'espère cependant qu'il n'y a rien d'extraordinaire et j'aime à croire que vous vous portez tous aussi bien que nous ici.</p>
+        <p>J'ai reçu mon congé avec jouissance du traitement, bien que j'aie un suppléant. C'est une faveur qui m'étonne.</p>
+        <p>J'ai à t'apprendre aujourd'hui quelque chose qui te fera peut-être quelque peine, ou qui du moins ne m'en fait à moi qu'à cause de toi et de Marie. Je ne serai pas membre correspondant de l'Académie. Voici ce qui est arrivé. Tu te rappelles que M. Thenard, doyen de la section de chimie</p>
+        <p>m'avait prié de lui dire et de lui faire savoir par écrit si je me mettais sur les rangs pour la place vacante dans la section de physique ou pour celle vacante dans la section de chimie. J'ai consulté d'abord M. Biot qui ne veut pas entendre parler de la section de physique. Il dit avec une certaine raison que ma nomination en physique ne serait pas assurée, que j'ai utilisé la physique dans mes recherches, mais que les résultats auxquels je suis arrivé sont propres à la chimie. J'ai donc remis à M. Thenard une lettre par laquelle je lui apprenais que je me mettais sur les rangs dans la section de chimie. M. Thenard m'engagea à aller voir les divers membres de la section de chimie et je commençai par M. Dumas à qui je racontai ce qui s'était passé. M. Dumas me dit : « Vous savez qu'à cause de M. Malaguti qui, il y a dix ans déjà, a été mis en tête d'une liste de correspondants français, j'aurais préféré que vous fussiez sur les rangs dans la section de physique. » J'ai répondu que j'avais moimême quelque répugnance à me mettre sur les rangs en concurrence avec un professeur qui déjà était très connu dans la science lorsque j'ignorais le premier mot de cette science, que je n'avais aucun désir bien marqué d'être correspondant et que je me désisterais très volontiers de ma candidature. M. Dumas a ajouté : « Je vais vous dire alors franchement ma pensée. Je viens de voir M. Malaguti à Rennes. Il est très fatigué par l'enseignement et je songe à lui faire une position dans l'administration (recteur à Rennes). Pour lui donc, être nommé ou échouer en ce Moment c'est une question d'avenir, tandis que vous n'avez aucun besoin de ce nouveau titre. Vos titres scientifiques sont si clairs, votre position dans la science est telle que vous n'avez pas besoin de ce galon pour arriver à l'Académie. » J'ai averti alors M. Dumas que j'allais dire à M. Thenard que je ne me mettais plus sur les rangs en lui expliquant ce qui venait d'avoir lieu. M. Thenard parut d'abord Mécontent, puis il prit bien la chose. Il en fut de même de Biot qui regrettait que je ne l'eusse pas consulté avant ue me retirèr, mais [qui me dit] qu'en somme il pensait COmme M. Dumas, et que certainement ma conduite serait très bien appréciée de la section de chimie.</p>
+        <p>M. Dumas m'a dit aussi : « Dans le cas où vous seriez sur les rangs vous seriez évidemment nommé. » Tu vois qu'en définitive en me désistant je fais une œuvre utile à M. Malaguti, je suis agréable à M. Dumas, qui a toujours eu tant de bontés pour moi et je ne déplais pas aux autres. Et qu'estce que je perds? un titre qui a de la valeur pour un homme de cinquante ans et qui en a bien peu pour un jeune homme.</p>
+        <p>C'est alors une affaire d'amour-propre pure et simple. Je sais très bien que ce titre peut être fort utile à un chef de famille dans telle occasion donnée, et par exemple ici pour M. Malaguti. Mais pour moi en ce moment je ne vois pas qu'il puisse me servir. Et si plus tard je devais en avoir besoin, bien des occasions se présenteront à moi pour l'obtenir.</p>
+        <p>Adieu. Ecris-nous. Je t'embrasse ainsi que Marie, toi, Virginie et ses enfants de tout mon cœur.</p>
+        <p>L. PASTEUR.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

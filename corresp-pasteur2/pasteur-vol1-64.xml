@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1852-08-29">29 août 1852.</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE,</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Paris, 29 août 1852."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, 29 août 1852.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher papa, Je suis actuellement réuni à Marie et aux enfants rue St Sébastien 1 et tu enverras dorénavant tes lettres à cette adresse. Nous avons reçu ta. lettre hier. Ce que tu nous dis de la décoration est fort juste et, comme c'est ennuyeux d'entendre tant parler de cette affaire sans qu'elle aboutisse, j'avais exactement ton idée de saisir l'occasion du rapport 2. M. Biot la désire au moins autant que Marie et toi actuellement et je suis persuadé qu'il fera cette démarche. Je pense que ce qu'il y aurait à lui suggérer, serait l'idée d'une demande collective des trois commissaires qui sont, comme tu sais, MM. Dumas, Biot, Senarmont. Je crois que c'est surtout pour te faire plaisir à toi et aussi à Marie que M. Biot la désire. Il me l'a dit à diverses reprises assez clairement. Aussi au moment du rapport tu feras bien de lui en écrire quelques lignes. Marie aussi lui parlera dans ce sens.</p>
+        <p>Depuis que j'ai eu le plaisir de t'écrire il s'est passé diverses choses assez importantes et qui m'ont été très agréables, M. Mitscherlich, célèbre chimiste et cristallographe de Berlin, est venu à Paris remercier l'Académie qui l'avait nommé l'un de ses associés étrangers. Il était accompagné d'un autre cristallographe allemand M. G. Rose.</p>
+        <p>Ces messieurs ont exprimé à M. Biot le désir de me voir et surtout mes produits. Je ne les ai pas fait attendre car je désirais beaucoup moi-même faire leur connaissance. Je suis resté dimanche dernier pendant 2 heures 1/2 avec eux au Collège de France à leur montrer mes cristaux. Ils ont</p>
+        <p>2, Voir ce rapport, fait par Senarmont : Couvres de Pasteur, 1. 1, p. 4"°' 465. Il a trait au mémoire de Pasteur dont un extrait a été présenté par lui le 2 août 185? à l'Académie des sciences. (Voir Œuvres 4e Pasteur.</p>
+        <p>t. I, p. 198-202 : Nouvelles recherches sur les relations qui peuvent exister entre la forme cristalline, la composition chimique et le phénomène rota* toire moléculaire.)</p>
+        <p>été fort heureux et m'ont parlé avec beaucoup d'éloges de mes travaux.</p>
+        <p>Mardi j'ai dîné avec eux chez M. Thenard et tu seras heureux d'apprendre les noms des invités 's MM. Mitscherlich, Rose, Dumas, Chevreul 1, Regnault, Pelouze 2, PeliSot 3, C. Prévost ,iii, Bussy 5. Tu vois que j'étais un peu déplacé, car tous ces messieurs sont de l'Académie. Je ne - sais si tu te rappelles que c'est une observation fort curieuse de M. Mitscherlich qui m'a conduit à mes premières découvertes 6, et M. Biot me disait il y a quelque temps, que c'était un beau fleuron à ma couronne d'avoir vu ce qui avait échappé à un homme comme M. Mitscherlich. Pendant le dîner, MM. Mitscherlich et Rose m'ont exprimé tout leur étonnement de ma découverte. « Nous avions tant et tant étudié ces cristaux que nous sommes persuadés que Si vous n'aviez pas trouvé en les observanf de nouveau ce fait si remarquable, notre découverte serait restée ignorée Pendant un temps considérable ».</p>
+        <p>Mais ce que j'ai retiré de plus utile et de plus agréable de la rencontre de ces messieurs, c'est l'annonce d'un fait ^portant, à savoir qu'il y a un fabricant d'Allemagne qui obtient de nouveau de l'acide racémique. J'ai aussitôt conçu le projet d'aller le voir lui et ses produits et d'étudier a fond l'origine de ce singulier corps. Tous ces messieurs et Notamment M. Biot et M. Dumas m'encouragent, et, comme ce voyage serait onéreux, ils s'occupent de me le faire Accomplir aux frais du ministère. M. Biot (qui est à</p>
+        <p>1 1. Michel-Eugène Chevreul (1786-1889), illustre chimiste. Professeur &lt;le chimie et directeur des teintureries à la manufacture des Gobelina, Puis professeur au Muséum dont il fut directeur.</p>
+        <p>2, Voir p, 2QO, note 2.</p>
+        <p>d 5. Antoine-Alexandre-Brutus Bussy (1794-1882), chimiste, directeur e l'École de pharmacie de 1844 à 1873.</p>
+        <p>Ó. Voir p. 249, note 1, à propos de 'Mitscherlich.</p>
+        <p>Auxerre) m'a écrit deux fois déjà que si M. Dumas ne réussissait pas à me faire obtenir une somme de 1.000 francs environ pour réaliser mon projet' il mettait volontiers 500 francs à ma disposition. J'aurai probablement mardi ou mercredi une réponse de M. Dumas qui me dira s'il a réussi dans ses démarches et aussi une réponse du fabricant. J'ai déjà une lettre de M. Mitscherlich qui me recommande avec instance à ce dernier pour qu'il me seconde entièrement dans mes vues.</p>
+        <p>Je ne pense pas que le rapport de M. de Senarmont se fasse avant la fin d'octobre ou le commencement de novembre.</p>
+        <p>Rien encore de nouveau sur ma position. On ne s'est pas encore occupé du personnel. Pour cela il faut attendre a la fin des vacances ou du moins au mois d'octobre.</p>
+        <p>Tu ne nous dis rien de ta santé ni de celle d'EmilieEst-elle tout à fait remise?</p>
+        <p>Marie et les enfants se portent parfaitement. Jeanne fait beaucoup de progrès. Elle est très gentille et très intelligente. Et les enfants de Virginie comment vont-ils? ,</p>
+        <p>Adieu. Je t'embrasse de bon cœur. Soigne bien tarante.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              L. PASTEUR.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

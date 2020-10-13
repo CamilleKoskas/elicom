@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1850-07-21">21 juillet 1850.</date>
+                    <placeName>Strasbourg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Chappuis, Charles (1822-1895)">A Chappuis</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Strasbourg, 6 juillet 1850."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Strasbourg, Strasbourg, 15 août 1850.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                
+                <p>Strasbourg, 15 août 1850.</p>
+                <p>M. Laurent est beaucoup regretté 3, et on est ici très mécontent du Préfet à cette occasion.</p>
+                <p>On devait envoyer M. Laurent à Grenoble; mais il f réclamé à cause de l'éloignement de Paris. On l'envoie a</p>
+                <p>Châteauroux, évidemment par mauvais vouloir de le contenter-. Il demande sa retraite, mais on ne peut pas ou on ne veut pas la lui donner.</p>
+                <p>M. Monzeilher quitte aussi Toulouse, d'après ce qu'il écrit à M. Laurent, pour des niaiseries. En revanche, M. Michelle, catholique, est nommé à l'École normale. Une seule place est vacante au Conseil supérieur permanent; on y niet un abbé; c'est naturel : nous sommes gouvernés par les Légitimistes, et ces derniers ont toujours marché avec le clergé.</p>
+                <p>A CHAPPUIS.</p>
+                'opinion de M. Biot, et voulant que cet honneur me fût donné en partie par celui-là même qui, depuis trois ans, me conduit par la main, a demandé à M. Biot qu'il fît une proposition par écrit. M. Biot n'a pas consenti dans ce qu'il croit être l'intérêt véritable de mon avenir scientifique. C'est une idée fixe et je la respecte de tout mon cœur.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                            <signature>J'ai appris ces détails de M. Laurent, en ce moment à Paris, qui a vu M. Biot. C'est ce matin que j'ai reçu cette lettre.</signature>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1850-08-15">15 août 1850.</date>
+                    <placeName>Strasbourg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Chappuis, Charles (1822-1895)">A Chappuis</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Strasbourg, 6 juillet 1850."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Strasbourg, 15 août 1850</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                
+                <p>A CHAPPUIS.</p>
+                <p>Strasbourg, 15 août 1850.</p>
+                <p>M. Laurent est beaucoup regretté 3, et on est ici très mécontent du Préfet à cette occasion.</p>
+                <p>On devait envoyer M. Laurent à Grenoble; mais il f réclamé à cause de l'éloignement de Paris. On l'envoie a</p>
+                <p>Châteauroux, évidemment par mauvais vouloir de le contenter-. Il demande sa retraite, mais on ne peut pas ou on ne veut pas la lui donner.</p>
+                <p>M. Monzeilher quitte aussi Toulouse, d'après ce qu'il écrit à M. Laurent, pour des niaiseries. En revanche, M. Michelle, catholique, est nommé à l'École normale. Une seule place est vacante au Conseil supérieur permanent; on y niet un abbé; c'est naturel : nous sommes gouvernés par les Légitimistes, et ces derniers ont toujours marché avec le clergé.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+

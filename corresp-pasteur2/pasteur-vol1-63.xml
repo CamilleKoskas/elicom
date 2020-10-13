@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1852-08">août 1852</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>[Août 1852.] Mon cher père, Je n'ai pas été compris dans les promotions pour les décorations. J'en ai été fort surpris et M. Biot tout autant que moi. Il m'avait dit, quelques jours avant, que M. Dumas à qui il avait parlé de moi pour cette affaire lui avait répondu : Ce serait bien malheureux si au 15 août je n'avais pas assez de crédit pour la lui faire donner.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Hier à l'Institut M. Biot a parlé à M. Dumas et de ma Position et de la décoration. Quant à ma position il a dit a M. Biot : « Je ne veux pas qu'on m'en parle. J'en fais mon affaire. Pour la décotation je croyais que c'était fait. Le Ministre ne m'a pas consulté. Je croyais l'être. »</p>
+        <p>D'ailleurs tu sauras qu'il n'y a pas un seul individu s'occupant de sciences qui ait été décoré : ni mathématicien, 111 physicien, ni chimiste, ni naturaliste. C'est vraiment ridicule. Il n'a présenté que quelques administrateurs et gens qu'il a connus dans les villes où il a été professeur.</p>
+        <p>M. Biot a dit à M. Dumas : « Puisqu'il n'y a aucune domination dans les sciences il me semble que ce serait Une occasion pour vous d'écrire directement au Président. »</p>
+        <p>M- Dumas n'a pas rejeté cette idée.</p>
+        <p>Il ne faut pas trop s'étonner que M. Dumas ait attendu que le Ministre lui demandât conseil. Ces messieurs traitent de puissance à puissance et on dit d'autre part que M. Du-</p>
+        <p>mas pourrait bien être nommé ministre à la place de M. Fortoul, le ministre actuelx.</p>
+        <p>Je regrette beaucoup ce retard à cause de toi et à cause de Marie. Pour moi je suis très consolé et j'espère bien que M. Dumas songera mieux à moi pour ce qui est de notre position. a Marie et les enfants vont très bien. Jeanne a fait de grands progrès.</p>
+        <p>Marie et moi nous avons été voir ta cousine F. Pasteur.</p>
+        <p>Elle nous a dit quelque chose qui nous a fait beaucoup de peine puisque cela retarde beaucoup son départ. Elle t'avait dit et elle avait dit à la sœur supérieure de lui répondre avant le 14 août. Toi tu as écrit et elle a reçu ta lettre, mais elle n'a pas reçu celle de la sœur. Or elle n'a pas pu donner congé de son logement, parce que la limite était le 14 août à midi. Elle dit qu'elle ne peut partir au plus tôt qu'au mois de janvier.</p>
+        <p>J'y retournerai avec Marie afin de la maintenir dans la disposition de partir. Car il est déjà étonnant que quelque confesseur ne l'ait pas détournée de ce voyage.</p>
+        <p>Adieu. Donne-moi des nouvelles d'Emilie qui je crois gagnerait beaucoup en santé si elle maigrissait.</p>
+        <p>Adieu. Porte-toi mieux et dis-nous que tu n'as plus de maux de tête. Je me porte mieux depuis que je travaille moins.</p>
+        <p>L. PASTEUR.</p>
+        <p>Virginie et ses enfants se portent-ils bien? Dis-lui que nous nous portons tous très bien.</p>
+                
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

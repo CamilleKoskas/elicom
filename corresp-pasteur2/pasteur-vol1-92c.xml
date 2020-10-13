@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1854-02-28">28 février 1854</date>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="">A M. Sütterlin</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Paris, 28 février 1854</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+
+                <p>A M. Sütterlin 1.</p>
+                <p>Paris, 28 février 1854.</p>
+                <p>Mon cher Sütterlin, Depuis plusieurs jours, je remets à vous écrire. Vous savez que je suis à Paris pour trois mois au moins et que par conséquent, à mon grand regret, je suis forcé de vous abandonner.</p>
+                <p>Ma santé me donnait des inquiétudes depuis quelque temps et on m'a conseillé ici de m'éloigner de toute [mot illisible] jusqu'à nouvel ordre.</p>
+                <p>J'ai beaucoup réfléchi à l'embarras où je vous plaçais par suite de la détermination que j'ai dû prendre forcément. Je vais vous dire ce qui me paraîtrait le plus convenable que vous fassiez. Ce qui vous est surtout étranger en chimie, c'est la chimie organique. Assurément vous avez en chimie minérale et en analyse beaucoup à apprendre encore.Vous êtes cependant en état d'étudier facilement dans des ouvrages ce qui vous manque de ce côté, et pourvu que vous y mettiez la patience nécessaire vous arriveriez à mener à bonne fin, dès à présent, un très grand nombre d'analyses, sinon toutes. En chimie organique vous avez tout à faire.</p>
+                <p>C'était à cette partie que vous deviez consacrer le second semestre de cette année. Dans cet état de vos connaissances, voici le conseil que je vous donnerai si toutefois il peut agréer à votre famille. Je vous engagerais à venir à Paris après Pâques pour y rester jusqu'à la fin de juillet oU jusqu'au 15 août. Vous prendriez une petite chambre garnie, vos livres de chimie, et vous suivriez les cours de chimie organique que je vous indiquerais. Vous pourriez y joindre peut-être la fréquentation d'un autre cours d'analyses si je pouvais en découvrir un de ce genre, par exemple à l'Ecole centrale. Je ne vous l'assure pas. J'ignore la distribution des études dans le second semestre. Mais pour ce qui est des cours de chimie organique et d'un autre de minéralogie au Jardin des Plantes, je sais qu'ils s'ouvrent seulement à la 1 fin de mars ou au milieu d'avril.</p>
+                <p>Je dois vous dire tout de suite que la liberté forcée dont je jouis ici m'engage à suivre moi-même par distraction, autant que par désir de m'instruire, tous ces mêmes cours dont je vous parle. Nous nous verrions donc chaque jour et je vous donnerais tous les conseils dont vous auriez besoin pour comprendre et bien travailler les leçons que nous entendrions ensemble.</p>
+                <p>Tous ces cours sont publics. Vous n'auriez donc d'autres dépenses que celles de votre chambre et de votre nourriture.</p>
+                <p>Tout ce que je ferais pour vous serait sur le compte d'une bonne amitié et entièrement gratuit. Vous n'auriez pas, il est vrai, les ressources d'un laboratoire. Mais vous verriez cependant que votre temps serait bien occupé, et vous n'en deviendriez que plus fort théoriquement sauf plus tard à revenir pratiquement sur un certain membre de préparations importantes dont vous auriez pris note chemin faisant. Si vous désiriez prendre en dehors de ce travail bien suffisant quelques leçons de mathématiques ou autres, je vous donnerais (surtout pour ce qui est des mathématiques) d'excellentes indications. Je connais ici beaucoup de bons professeurs. Voilà mon conseil. Réfléchissez-y et écriveznioi quelques mots de réponse.</p>
+                <p>Recevez, mon cher élève, l'expression des sentiments d'estime et d'affection de votre tout dévoué, L. PASTEUR.</p>
+                <p>Rappelez-moi, je vous prie, au bon souvenir de votre excellente famille.</p>
+                <p>P.-S. — Vous voyez d'après ma lettre que je ne compte pas retourner à Strasbourg dans trois mois. C'est en effet vrai. Mais je vous le dis tout confidentiellement.
+                </p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+

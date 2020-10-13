@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1852-10-07" >[Même date]. Jeudi soir.</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR.</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="[7 octobre 1852.] Ma chère Marie, Je t'écris encore de chez Mme Lelièvre et voici dans qUelles circonstances."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>[Même date]. Jeudi soir.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+
+                <p>[Même date]. Jeudi soir.</p>
+                <p>Mae Lelièvre et ses enfants se portent très bien. Mme Leuevre est seule. M. Lelièvre est en courses pharmaceutiques.</p>
+                <p>Je serai content de voir Mme Laurent1 un peu débarassée. La conduite de ses enfants 2 a été cruelle. Quelle anté résisterait à un tel embarras, à un tel tapage.</p>
+                <p>Départs de Paris matin 9 h. 30 soir 7 h. 30</p>
+                <p>Arrivées à Strasbourg 9 h. 15 soir 8 h. matin. d lu prendras le convoi de 7 h. 30 du soir. Je t'attendrai enc dimanche à 8 h. du matin à la gare avec une bonne et Une voiture.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

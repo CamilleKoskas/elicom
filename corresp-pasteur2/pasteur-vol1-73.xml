@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1852-10-01" >le vendredi IER octobre.</date>
+          <placeName>Prague</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Prague, le vendredi IER octobre..</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Ma chère Marie, Voici bien une autre nouvelle. J'arrive à Prague, je m'établis hôtel d'Angleterre, je déjeûne et je vais chez M. Rochleder, professeur de chimie, afin qu'il me serve d'introducteur auprès du fabricant. — M. Rochleder est à Vienne. Je vais chez le chimiste de la fabrique, M. le Docteur Rassmann, pour qui j'avais une lettre de M. Redtenbacher son ancien maître. Cette lettre contenait toutes les questions que j'ai l'habitude de faire aux fabricants d'acide tartriqueA peine M. le docteur Rassmann prend-il le temps de lire cette lettre. Il voit de quoi il s'agit et il me dit : « J'obtiens depuis longtemps l'acide racémique. La Société de Pharmacie de Paris a proposé un prix pour celui qui le fabriquerait 1. C'est un produit de la fabrication. Je l'obtiens à l'aide de l'acide tartrique. » Alors je pris affectueusement la main du chimiste et je lui fis répéter ce qu'if venait de me direPuis j'ajoutai : « Vous avez fait une des plus grandes découvertes qu'il soit possible de faire en chimie. Peut-être n'en sentez-vous pas comme moi toute l'importance. Mais permettez-moi de vous dire que d'après mes idées je regarde cette découverte comme impossible. Je ne vous demande pas votre secret. Je vais en attendre la publication avec la plus grande impatience.</p>
+        <p>« Ainsi c'est bien vrai : vous prenez i kil. d'acide tartrique pur et avec lui vous faites de l'acide racémique. »</p>
+        <p>« Oui, me dit-il, mais c'est encore. » Et comme il avait de la peine à s'exprimer j'ajoutai : « C'est encore entouré de grandes difficultés. » — « Oui Monsieur. »</p>
+        <p>Et il me demande à revoir l'échantillon que j'avais pris à la fabrique de M. Fikentscher pour mieux préciser mes questions aux fabricants. « C'est bien cela que j'obtiens depuis environ sept ans. » « M. Fikentscher, lui dis-je, l'obtient depuis vingt-cinq ans. » Puis, comme il allait se lettre à table, il me pria de venir à la fabrique cet aprèsdîner à 3 heures où se trouvera un fils de M. Brosche parlant bien français. Je suis sorti et j'arrive à la hâte te faire Part de cette grande nouvelle.</p>
+        <p>Je t'ai transcrit très fidèlement et sans omettre aucun détail, aucune syllabe, notre conversation, parce que M. Rassmann travaillant en vue du prix proposé, et moi de nion côté devant publier un travailleur le sujet à ma rentrée en France ou quelques mois après quand j'aurai fait diverses études et obtenu de nouveaux renseignements, il ne faut pas que ce qui a été dit entre M. Rassmann et moi puisse donner lieu à aucune réclamation de sa part. Je suis sûr de ma loyauté. Je crois dans la sienne; mais il pourrait se faire qu'il fût utile plus tard de pifblier exactement ce qui a été dit entre nous afin de maintenir ses droits, ceux de M. Fikentscher et les miens dans cette question.</p>
+        <p>Je crois fermement que M. Rassmann s'abuse et que subitement frappé du souvenir du prix, et de la présence d'un professeur qui vient de Strasbourg jusqu'à Vienne à la recherche de cette curieuse substance, il a dans le premier moment exagéré ce qu'il a trouvé. Il en est au point de M. Fikentscher, seulement depuis sept années, et un peu plus avancé que les fabricants de Vienne qui avaient pris l'acide en question pour du sulfate de potasse ou un sel de Magnésie. Grand Dieu! Quelle découverte s'il avait fait ce qu'il dit! Mais non. C'est impossible. Il y a un abîme à franchir et la chimie est trop jeune encore.</p>
+        <p>Quoi qu'il en soit, conserve bien cette lettre. Je t'écrirai dès qu'il me sera possible de le faire la conversation nou-</p>
+        <p>velle que je vais avoir avec ce chimiste. Je pense quitter Prague pour Leipsick ce soir à 8 heures. Aurai-je le temps de t'écrire encore aujourd'hui? C'est presque impossible.</p>
+        <p>Je serai à Leipsick demain. — A demain seulement donc.</p>
+        <p>Adieu, ma chère Marie. Je t'embrasse avec nos chers enfants de tout cœur ainsi que la famille entière.</p>
+        <p>L. PASTEUR.</p>
+        <p>J'ai appris à Vienne la suppression de l'Institut de Versailles.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

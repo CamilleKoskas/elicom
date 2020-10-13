@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1850-07-06">6 juillet 1850.</date>
+          <placeName>Strasbourg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Au DIRECTEUR DE L'ÉCOLE SUPÉRIEURE DE PHARMACIE DE STRASBOURG. (...-...)">Au DIRECTEUR DE L'ÉCOLE SUPÉRIEURE DE PHARMACIE DE STRASBOURG.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Strasbourg, 6 juillet 1850.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Monsieur le Directeur, Vous connaissez les recherches chimiques qui m'occupent depuis longtemps et sur lesquelles j'ai déjà publié deux mémoires qui ont reçu l'approbation de l'Académie des Sciences et qui sont insérés dans les Annales de Chimie et de Physique 1. Je les continue cette année et je compte Présenter aux vacances prochaines à l'Académie des Sciences un nouveau travail pour lequel je possède des résultats que je crois importants. Malheureusement et surtout cette année, mes études ont porté sur des substances d'un prix très élevé, telles que l'asparagine, l'acide malique; 1 acide fumarique, etc.</p>
+        <p>Le crédit dont je dispose à la Faculté est épuisé et J adresse aujourd'hui même à Monsieur le Doyen pour la transmettre au Conseil académique une demande d'un Crédit supplémentaire de 500 fr. J'explique aussi dans cette demande comment par la nature de mes recherches particulières j'ai dû faire cette année des dépenses assez considérables.</p>
+        <p>d Je viens, Monsieur le Directeur, vous demander si l'École de pharmacie voudrait acquérir en ma faveur des produits dont je disposerais à peu près comme si, étant professeur ,ln titre à cette École, je voulais exécuter dans son Laboratoire un travail particulier. Bien entendu, je m'engagerais à remettre à la collection de l'École les produits constatant "Is résultats de mes recherches. Je bornerais ma demande a l'achat de</p>
+        <p>Position chimique et le sens de la polarisation rotatoire; et des recherches su les propriétés spécifiques des deux acides qui composent l'acide racér,Qique. Voir Œuvres de Pasteur, t. I, p. 65-80, 86-120.</p>
+        <p>200 grammes d'asparagine 200 — d'acide malique produits que M. Merck livre aux prix suivants : asparagine 20 fr. 25 l'once 1 acide malique. 8 fr. —</p>
+        <p>Recevez, Monsieur le Directeur, l'assurance de mon profond respect.</p>
+        <p>L. PASTEUR.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

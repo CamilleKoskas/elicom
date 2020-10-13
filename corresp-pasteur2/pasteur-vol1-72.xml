@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1852-09-30" >jeudi matin 30 septembre 1852.</date>
+          <placeName>Vienne</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Vienne, jeudi matin 30 septembre 1852."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Vienne, jeudi matin 30 septembre 1852.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Ma chère Marie, Je ne vais pas à Trieste. Je repars ce soir pour Prague.</p>
+        <p>Voici les motifs de ce changement de résolution. Comme il n'y a aucune fabrique d'acide tartrique à Trieste ni à Venise je devais seulement prendre à Trieste et à Venise des renseignements exacts sur l'origine des tartres raffinés dans ces deux villes, tartres qui doivent renfermer l'acide racémique d'après les résultats anciens de M. Fikentscfïer.</p>
+        <p>Or M. Miller de Vienne me dit qu'il peut presque affirmer que les tartres raffinés à Trieste et à Venise ne viennent pas de l'Orient, mais de l'Italie, de diverses parties de l'Italie, ou de la Hongrie, et tout au plus de la Dalmatie. Ceci s'accorde avec un renseignement de M. Redtenbacher qui m'assure que dans les îles de la Grèce presque tout le vin est renfermé dans des sacs de peau et que par suite le commerce du tartre doit être inconnu dans ces îles. — Enfin et c'est là surtout ce qui me décide, M. Redtenbacher a un de ses élèves pharmacien à Trieste par lequel il peut savoir tout ce que j'irais apprendre à Trieste et à Venise et qui peut se charger de m'envoyer en France les tartres susdits.</p>
+        <p>Je suis aussi très désireux de voir la fabrique de Prague</p>
+        <p>et j'ai à poser de nouvelles questions à M. Fikentscher que je reverrai encore une fois.</p>
+        <p>Il faut que tu notes également que les résultats auxquels je suis arrivé à Vienne modifient considérablement la question. Je me suis assuré de nouveau hier que les tartres d'Autriche renferment bien l'acide racémique, je veux dire que c'est bien de l'acide racémique qui. a été pris pour du sulfate de potasse par le fabricant. Mais ces tartres d'Autriche et de Hongrie contiennent beaucoup moins d'aoide racémique que ceux de Naples. Il est donc certain que l'acide racémique n'est pas renfermé exclusivement dans les raisins des pays chauds et, puisqu'il est contenu dans ceux d'Autriche, il doit l'être dans ceux de la France.</p>
+        <p>Je rentrerai en France par Strasbourg, d'où j'irai à Thann.</p>
+        <p>Si M. Dumas veut ajouter deux ou trois cents francs à la somme précédente j'irai encore visiter les fabriques d'Angleterre. Je suis assuré que j'y trouverais l'acide racémique comme je l'ai trouvé à Vienne, là surtout où l'on opère avec les tartres de Sicile, d'Espagne, etc. Seulement on ne le voit pas, ou si on le voit on le prend pour autre chose.</p>
+        <p>fautant plus qu'en Angleterre on s'inquiète peu des détails. Fabriquer en masses énormes, gagner aussi énormément d'argent, voilà leur but.</p>
+        <p>Je n'ai rien d'autre à t'apprendre. Je vais ce matin visiter une collection de minéralogie. Puis je retourne chez M. Redtenbacher qui doit me donner quelques produits et une lettre pour le fabricant de Prague. Je ne m'arrêterai qu'un Jour à Prague. Je compte repartir déjà demain soir pour 1-eipsick sans m'arrêter à Dresde. J'irai à Zwickau où je n'ai qu'une courte visite à faire à M. Fikentscher.</p>
+        <p>h Je repartirai alors pour Strasbourg par Francfort, Mannelm et le bateau à vapeur. J'aurai chez M. Lelièvre une lettre de toi. Il est probable qu'après ma visite à Thann je retournerai à Paris. — Enfin je serai alors à tes ordres si je ne vais pas en Angleterre. Peut-être pourrai-je par l'intermédiaire de M. Hoffmann m'éviter cet autre voyage. Cependant cela est fort douteux. J'ai besoin de voir par mes Veux.</p>
+        <p>Adieu. Porte-toi bien ainsi que nos chers enfants que j'embrasse avec toi de tout mon cœur. Y compris toute la famille. Adieu.</p>
+        <p>Tout à toi.</p>
+        <p>L. PASTEUR.</p>
+        <p>P.-S. — Encore remis mon voyage à la mer. Et tu n'auras pas de souvenir de Venise. Je devais t'y acheter soit une dentelle soit plutôt un objet en corail.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

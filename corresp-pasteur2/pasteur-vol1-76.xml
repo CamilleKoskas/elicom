@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1852-10-07" >7 octobre</date>
+          <placeName>Strasbourg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Strasbourg, 7 octobre."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Strasbourg, 7 octobre.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Ma chère Marie, Je t'écris de chez Mme Lelièvre. Je suis arrivé hier soir à Strasbourg à II h. du soir. Je suis logé à l'Hôtel de la Fleur.</p>
+        <p>D'après ta lettre 1° nous restons certainement à Strasbourg; 20 je dois y attendre les instructions de cette mission.</p>
+        <p>Le temps s'écoule. Je m'étonne que [ta lettre annoncée] ne soit pas arrivée hier. Ce sera sans doute pour aujourd'hui. Je pars à II h. pour Thann. Je reviens à 10 h. ce soir et je viendrai encore chez Mme Lelièvre qui aura peut-être une lettre.</p>
+        <p>Je repartirai pour Berlin par Francfort après-demain. Ce nouveau voyage ne me contrarie pas. J'aurais seulement désiré t'embrasser avec nos enfants. Je comptais partir demain pour Paris et aller en Angleterre pendant un jour' ou deux (à Londres) où il y a 3 grandes fabriques d'acide tartrique. Peut-être irai-je de Berlin à Londres par Ostende si j'ai du temps et de l'argent. Les voyages ne me coûtent plus rien. J'irais à Constantinople si cela était nécessaire.</p>
+        <p>Je me suis arrêté à Darmstadt pour voir M. Merck 1 et aussi M. Liebig 2 qui s'y trouvait en passage, venant faire ses adieux au Grand Duc. J'avais projeté de revenir de Trieste par Munich en grande partie pour le voir. C'est donc une bonne fortune que sa présence à Darmstadt le jour ou je m'y trouvais.</p>
+        <p>Je t'écris en courant pour que ma lettre parte à 10 h. 25 ce matin.</p>
+        <p>Je verrai M. Heiligenthal et la recette générale.</p>
+        <p>Adieu. Je vous embrasse tous de bon cœur.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              L. PASTEUR.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

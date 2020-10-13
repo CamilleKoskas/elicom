@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1852-10-21">21 Octobre 1852</date>
+                    <placeName>Strasbourg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Dumas, Jean-Baptiste (1800-1884)">A J.-B. DUMAS</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="[Octobre 1852.] Mon cher papa,"/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Strasbourg, 21 octobre 1852.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A J.-B. DUMAS.</p>
+                <p>Strasbourg, 21 octobre 1852.</p>
+                <p>Monsieur, Je ne veux pas tarder d'un instant à vous exprimer n'a profonde reconnaissance pour la marque si honorable d'ln"- térêt que vous venez encore de me donner et que j'apprends par une lettre de M. Biot. A voir sa lettre, la manière dont ilfjne signale l'empressement que vous avez mis à appuyr la demande que vous voulez bien adresser à l'Académie en faveur de mes recherches sur l'acide racémique, j'estime que mon vénérable mentor 1 est presque aussi heureux que moi de votre bienveillante affection. Que de remerciements</p>
+                <p>ne vous devais-je pas déjà, Monsieur, pour la vive sollicitude que vous avez prise de notre position! Je vous avoue, Monsieur, que me trouvant tout à fait indigne de tant de bontés, j'éprouve toujours à un nouveau témoignage d'intérêt de votre part la crainte de ne pouvoir y répondre par les résultats de mon travail. Je n'aurais aucune ardeur à cultiver cette belle science qui a fait votre gloire que vous rn'en donneriez à l'excès. Je travaillerai autant qu'il me Sera humainement possible de le faire, et, que je réussisse Ou non à vous remercier de cette manière, soyez assuré, Monsieur, que dans tous les cas je n'oublierai jamais vos bienfaits et que je serai toujours avec le plus profond respect votre serviteur le plus dévoué et le plus reconnaissant.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                            L. PASTEUR.
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1852-05">mai 1852</date>
+                    <placeName>Strasbourg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Chappuis, Charles (1822-1895)">A CHAPPUIS</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="[Strasbourg, probablement mai 1852.]"/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>[Strasbourg, mai 1852.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+
+                <p>A CHAPPUIS.</p>
+                <p>[Strasbourg, mai 1852.]" J'avais en effet prié mon père de t'apprendre quelles étaient mes espérances, très occupé que j'étais lorsque je lUI écrivis à lui-même. A mon arrivée à Paris, et lors de ma première visite à M. Dumas celui-ci, plein de bienveillance Pour moi, me demanda si j'accepterais à l'Institut de Versailles la chaire de chimie générale (6.000 fr., un beau laboratoire.) Cette position sera prochainement vacante. Quelques jours plus tard, M. Regnault 1 fut nommé à Sèvres, et, a mon grand étonnement, M. Dumas me dit que si je voulais acçepter de le remplacer à l'École polytechnique, il m'apPuierait de tout son pouvoir. Le lendemain, il se rendit chez "L Thenard2 pour le prévenir, afin qu'il ne s'engageât envers Personne et, sur son conseil, je fus chez M. Thenard à l'issue de sa visite. M. Thenard me reçut en me répétant plusieurs sois : « Mon ami, je suis tout à vous. » Restait à connaître l'avis de M. Regnault, avis qui devait être à l'Ecole d'une grande importance. Or le hasard fit que, quand M. Biot alla le féliciter de sa nomination à Sèvres, il se trouvait fusant avec le général commandant l'Ecole. Celui-ci parla du remplaçant de M. Regnault et M. Regnault fit mon éloge et me mit en première ligne d'une manière très décidée, La conversation me fut aussitôt transmise par M. Biot.</p>
+                <p>T Les autres candidats sont : MM. Cahours 3, De ville 4, Le Blanc 5. C'est avant ces trois messieurs que MM. Dumas,</p>
+                <p>1 5. Félix Le Blanc (1813-1886), chimiste, travailla de 839 à 1845 dans j laboratoire de Dumas. En 1846 il fut nommé répétiteur de chimie à e(COle polytechnique et, en 854, professeur à l'École centrale des Arts et Manufactures.</p>
+                <p>Thenard et Regnault me placent ouvertement. Tu vois donc que presque certainement et autant qu'on peut dire (ce sont les mots de M. Thenard) qu'une chose qui n'est pas faite se fera, je serai nommé. Mais voici le revers de la médaille. Il faut que la place devienne vacante. Eh bien, » j'ai quelque crainte que M. Regnault ne préfère donner sa démission du Collège de France. Mes craintes sont fondées, bien qu'il n'en ait été nullement question et que, la veille encore de mon départ, M. Regnault dit à M. Biot qu'il me préviendrait par une lettre du jour où il donnerait sa démIS" sion.</p>
+                <p>Si je ne suis pas nommé à Paris aux vacances prochaines, il est probable que je demanderai d'être envoyé comme doyen de la nouvelle Faculté de Lille. Je sais que M. Dumas m'enverrait volontiers doyen, même dans une ancienne Faculté où je n'aurais pas encore rendu de service.</p>
+                <p>Je pense présenter un travail au mois de septembre 1. Je partirai pour Paris à la fin d'août.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

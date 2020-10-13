@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1852-10-30">30 octobre 1852</date>
+                    <placeName>Strasbourg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Kestner, Charles (1803_1870)">M. KESTNER, DE THANN.</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="[Fin octobre 1852]."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Strasbourg, 30 octobre 1852</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A M. KESTNER, DE THANN.</p>
+                <p>Strasbourg, 30 octobre 1852.</p>
+                <p>Monsieur, J'ai été il y a quelques jours à Thann à l'effet de vous entretenir des résultats d'un voyage que je viens de faire en Allemagne dans le but unique d'arriver à éclaircir la question de l'origine de l'acide racémique, à laquelle vous devez plus que personne vous intéresser. J'ai eu seulement le plaisir de voir MM. Gundelach et Rissler et ces messieurs m'ont permis d'espérer que vous auriez la bonté de faire quelques essais qui achèveront d'éclaircir complètement la question. Vous allez voir, Monsieur, qu'elle est déjà bien près de sa solution par les résultats auxquels je suis arrive et les renseignements que j'ai recueillis pendant mon voyage.</p>
+                <p>J'avais appris par M. Mitscherlich, de passage à Paris, qu'un fabricant de Saxe, Fikentscher, obtenait de l'acide racémique. J'attache tant d'importance pour mes propres recherches à tout ce qui tient de près ou de loin à cet acide que je me rendis aussitôt chez M. Fikentscher. Je vis en effet dans sa fabrique, à la surface de certaines cristallisations d'acide tartrique, des cristaux aiguillés que j'étudiai à Leipsick avec soin et qui sont bien l'acide racémique.</p>
+                <p>La production de ces cristaux est très minime. Il n'y a pas un dix millième du poids total de l'acide tartrique. M. Fikentscher emploie des tartres de Naples. Mais notez bien, Monsieur, que ce sont des tartres déjà raffinés une fois. Je crois que vous appelez ces tartres cristaux de tartre.</p>
+                <p>J'allai de Zwickau à Vienne où je visitai diverses fabriques dans lesquelles on travaille avec des tartres tout bruts d'Autriche et de Hongrie, et ici encore je retrouvai l'acide racémique, toujours en quantité très minime. On ignorait même que ce fût de l'acide racémique. On prenait ces petits cristaux pour un sel étranger. Or les fabricants de Vienne m'ont assuré que jamais ils n'avaient vu apparaître ces petits cristaux quand ils opéraient avec des tartres</p>
+                <p>d'Autriche demi-raffinés et ils ne prennent naissance que quand les eaux-mères de fabrication ont été en mouvement depuis plus d'une année. M. Fikentscher au contraire les obtient déjà à la 3e ou 4e cristallisation. Ainsi en résumé, Monsieur, les tartres de Naples, d'Autriche, de Hongrie renferment de l'acide racémique, mais les tartres de Naples en contiennent beaucoup plus que les autres puisque, même après avoir subi un premier raffinage, ils en fournissent une quantité plus sensible que les tartres bruts des autres contrées. Or, il sera évident pour vous, Monsieur, comme pour moi, que quand on raffine une première fois le tartre, l'acide racémique doit rester presque en entier dans l'eau-mère de la cristallisation, quel que soit l'état de l'acide racémique dans le tartre brut. En effet le racémate de chaux lui-même est un peu soluble dans une eau chargée de bitartrate de potasse.</p>
+                <p>Vous voyez, Monsieur, que j'écarte tout à fait l'opinion d'une origine artificielle de l'acide racémique. J'ai pour cela de bonnes raisons. Déjà même vous en trouvez dans Ce qui précède puisque dans les mêmes fabriques, avec les bernes procédés, les tartres d'Autriche et de Hongrie demiraffinés n'ont pas donné d'acide racémique. Quoi qu'il en soit il faut transformer en certitude les prévisions auxquelles j'arrive; et je compte, Monsieur, sur votre zèle eclairé.</p>
+                <p>Certainement aussi vous devez tenir à honneur de voir aPparaître de nouveau en grande quantité l'acide racémique dans votre fabrique, et de le livrer au commerce.</p>
+                <p>voici à mon avis, Monsieur, les meilleurs moyens à suivre : 1° Faire venir, d'abord à titre d'essais, quelques quintaux de tartre brut de Naples, et les traiter à part sans Codifier vos procédés actuels. Dans les dernières cristallisatIons d'acide tartrique vous verrez apparaître l'acide racémique.</p>
+                <p>-2° Sur une portion de ces tartres bruts faire l'essai suiVant qui aurait une grande importance : Raffiner le tartre brut de Naples par cristallisation. Puis prendre l'eau-mère e ce raffinage, l'évaporer à siccité et se servir du résidu Pour faire l'acide tartrique comme à l'ordinaire. Vous</p>
+                <p>devrez cette fois obtenir relativement des quantités considérables d'acide racémique, parce que la presque totalité de l'acide racémique du tartre brut restera (c'est du moins mon avis) dans l'eau-mère du raffinage du tartre; quand bien même, je le répète, l'acide racémique serait à l'état de racémate de chaux dans le tartre brut.</p>
+                <p>Dans le cas, Monsieur, où vous voudriez préparer d'une manière régulière et pour le livrer au commerce l'acide racémique, je crois que vous feriez bien de vous entendre avec des raffineurs de tartre de Naples et de leur acheter les résidus de l'évaporation des eaux-mères de leurs raffineries, eaux-mères qu'ils rejettent sans doute après qu'elles ont servi deux ou trois' fois, et lorsque précisément elles sont chargées d'une grande quantité de racémate. Je suis bien persuadé que le prix de vente de l'acide racémique couvrirait de beaucoup les frais d'évaporation de ces eauxmères des raffineries. Mais avant d'en venir là il est nécessaire et prudent de faire les essais i et 2 ci-dessus indiqués.</p>
+                <p>Vous devez reconnaître, Monsieur, par les résultats que je vous communique dans cette lettre que si vers 1822 vous avez opéré avec des tartres de Naples tout à fait bruts, il a dû s'accumuler dans vos eaux-mères des quantités considérables d'acide racémique, puisque ces tartres demiraffinés le contiennent encore en proportion très sensible pour une opération faite en grand.</p>
+                <p>J'ai donné à M. Gundelach l'adresse de la maison de Naples qui envoie les tartres à M. Fikentscher de Zwickau.</p>
+                <p>Je vous serais très obligé, Monsieur, de me répondre quelques lignes à cette lettre, de me faire des objections s'il s'en présente à votre esprit; et dans le cas où vous seriez disposé à exécuter les essais que je vous propose, je désirerais beaucoup que vous n'y mettiez pas de retard.</p>
+                <p>Je ferai suivre cette lettre de deux échantillons d'acid e tartrique que j'ai pris dans les fabriques d'Allemagne et qui tous deux portent à leurs surfaces de petits cristaux d'acide racémique. L'échantillon en gros cristaux tartriques est de Zwickau. L'autre vient de Prague. Je ne vous en envoie pas de Vienne. Ils ressemblent beaucoup à celui de Saxe. Ces échantillons, Monsieur, auront peu d'intérêt pour vous et</p>
+                <p>ils en ont beaucoup pour moi. Ce sont les seuls que je possède. Je vous serai donc obligé de me les renvoyer.</p>
+                <p>Je vous prie, Monsieur, d'excuser la liberté que je prends en vous adressant cette lettre. Je crois cependant que tous ces détails vous intéresseront et je suis presque convaincu que si vous partagez ma manière de voir sur la question vous ferez volontiers les petits sacrifices d'argent que nécessiteront les expériences que je vous propose d'entreprendre.</p>
+                <p>L'acide racémique est votre enfant. Vous ne pouvez l'abandonner.</p>
+                <p>Recevez, Monsieur, l'expression de mon profond respect et les sentiments très distingués avec lesquels je suis votre très humble serviteur.</p>
+                <p>L. PASTEUR.</p>
+
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                            
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

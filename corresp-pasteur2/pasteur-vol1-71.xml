@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1852-09-27" >27 septembre 1852.</date>
+          <placeName>Vienne</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Vienne, 27 septembre 1852."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Vienne, 27 septembre 1852.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Ma chère Marie, Je suis bien heureux et je souhaite de tout mon cceur que cette lettre te trouve en état de partager ma joie, c'est-à-dire que tu sois en bonne santé ainsi que nos enfants et toute la famille. Procédons par ordre : Je t'ai quittée vendredi matin à Freiberg et je 'te demande pardon de ne pas t'avoir écrit hier déjà pour t'annoncer mon arrivée a Vienne. J'ai passé la journée de vendredi à visiter les usines et les mines de Freiberg. Grâce au surintendant des usines j'ai été conduit par un jeune homme instruit, employe des usines, qui m'a expliqué avec détails les opérations; et j'ai appris là une multitude de choses que depuis long- temps j'aurais dû connaître en ma qualité de professeur de chimie. Le samedi matin et le soir à 4 heures j'ai été en visite chez MM. Breithaupt et Schaerer qui ont continUe à me faire voir leurs richesses. A 4 heures j'ai quitté Frel- berg pour Dresde où j'étais rendu à 9 heures du soir. A 9 heures 1/2 déjà j'étais en route pour Vienne où je SUIS arrivé dimanche soir à 10 heures. Hier matin lundi je me suis mis en marche pour faire visite à diverses personnes.</p>
+        <p>Malheureusement j'apprends que M. Schrôtter, professeur, est à Wiesbaden à un congrès scientifique ainsi que M. Seybel, fabricant d'acide tartrique. M. Miller négociant pour qui j'avais une lettre de recommandation a la complaisance</p>
+        <p>1</p>
+        <p>de demander pour moi au chargé d'affaires de M. Seybel la permission de visiter la fabrique de ce dernier, même en son absence. On refuse sous prétexte qu'on n'y est pas autorisé. Mais je ne me tiens pas pour battu. Je demande les adresses des divers professeurs de Vienne et je tombe heureusement sur un nom très connu dans la science, M. Redtenbacher, qui a été pour moi d'une complaisance au delà de toute expression. Dès 6 heures ce matin il était a l'hôtel et nous partions à 7 heures par le chemin de fer Pour nous rendre à la fabrique Seybel située à une petite distance de Vienne. Nous sommes reçus par le chimiste de la fabrique qui ne fait aucune difficulté de nous introduire dans le sanctuaire et après bien des questions nous finissons par être convaincus que l'on a vu l'hiver dernier le fameux acide racémique etc. Je passe bien des renseignements pleins d'intérêt. Car ici on opère depuis quelques Années avec le tartre brut. Je sors de là déjà très heureux.</p>
+        <p>Il y a à Vienne une autre fabrique d'acide tartrique.</p>
+        <p>ous nous y rendons. Je répète ici par l'intermédiaire de J.Y. Redtenbacher le chapelet de mes questions. Ils n'ont rien vu. Je demande à voir leurs produits et je rencontre Uri tonneau de cristaux d'acide tartrique à la surface desquels je crois apercevoir la fameuse substance. Un premier ssai fait avec de méchants verres tout malpropres à la fabrique même confirme les doutes. Nous les voyons changes en certitude quelques instants après au laboratoire de J.Y.l. Redtenbacher. Nous dînons en famille avec Madame et quatre beaux garçons dont l'aîné a huit ans, puis nous retournons à la fabrique où nous finissons par apprendre, chose vraiment miraculeuse, 'qu'aujourd'hui même ils sont ebarrassés pour résoudre une question dans la fabrica-on, et, presque certainement, le produit qui les gêne quoique en très petite quantité et qu'ils prennent pour du sulfate de potasse n'est autre chose que l'acide racémique.</p>
+        <p>Je voudrais pouvoir te dire encore plus en détails toutes les péripéties de cette journée. Je devais quitter Vienne Ce soir, mais comme bien tu penses je reste jusqu'à ce que j'aie éclairci cette question. Déjà se trouvent au laboratoire trois espèces de produits de la fabrique. Demain</p>
+        <p>soir ou après-demain au plus tard je saurai à quoi m'en tenir.</p>
+        <p>Tu te rappelles ce que je te disais et ce que je disais à M. Dumas que presque certainement la première opération que l'on a l'habitude dans certaines fabriques de faire subir au tartre lui fait perdre tout son acide racémique ou presque tout. Eh bien, dans les deux fabriques de Vienne depuis deux ans seulement on opère sur le tartre brut, et c'est depuis deux ans seulement que l'on a vu ici le prétendu sulfate de potasse et là le prétendu sulfate de magnésie.</p>
+        <p>Car chez M. Seybel ils avaient pris pour du sulfate de magnésie les petits cristaux d'acide racémique.</p>
+        <p>En résumé voici où j'en suis en t'épargnant bien des détails : 10 Le tartre de Naples renferme de l'acide racémique; 20 le tartre d'Autriche (environs de Vienne) renferme de l'acide racémique; 30 le tartre de Hongrie, de Croatie et de Carniole renferme de l'acide racémique;</p>
+        <p>40 le tartre de Naples en renferme notablement plus que ces derniers; car il en donne même après un raffinage de l'acide racémique et ceux d'Autriche et de Hongrie n'en donnent qu'autant qu'ils sont employés bruts.</p>
+        <p>Je regarde maintenant comme très probable que je retrouverai l'acide racémique dans les tartres de France, mais en très petite quantité, et si on ne l'y aperçoit pas, c'est qu'on ignore ou qu'on apprécie mal toutes les circonstances de la fabrication tartrique ou bien que l'on n'emploie pas telle ou telle petite précaution qui le fait disparaître ou le conserve.</p>
+        <p>Tu vois, ma chère Marie, de quelle utilité était mon voyage. Jusqu'à présent je n'ai rien appris que j'aie pu connaître par lettres. Aujourd'hui j'ai fait accoucher ces fabricants de choses très importantes à mon point de vue et tout d'abord ils ne savaient de quoi on leur parlait. Et le fait le plus utile pour toutes ces recherches c'est cette circonstance très simple que je n'aurais point eu l'idée de demander, que M. Fikentscher ne m'aurait pas certainement indiquée, à savoir que le tartre de Naples a déjà subi</p>
+        <p>Un raffinage en Italie. Car c'est là surtout ce qui me guidait dans mes questions d'aujourd'hui.</p>
+        <p>Je rentrerai en France par Vérone, Munich et Strasbourg. Je me rendrai tout de suite à Thann où je ne puis « manquer d'arriver aujourd'hui à de précieux renseignements. — Je compte toujours rentrer vers le 10.</p>
+        <p>l Ecris-moi à Strasbourg dans quelques jours. — J'ai reçu les 360 fr. sans ombre de difficultés. M. Seybel sera de retour à Vienne dans huit jours. M. Redtenbacher le verra aussitôt après son arrivée et il m'écrira les réponses à diverses questions que je dois lui laisser.</p>
+        <p>Je regrette bien de ne pas m'être arrêté à Prague. M. Redtenbacher m'a dit qu'il y avait là une fabrique assez considérable d'acide tartrique. M. Redtenbacher a été professeur a Prague. Il écrira tout prochainement au fabricant et m'enverra la réponse en France. M. Fikentscher, à ce qu'il Paraît, ne m'a pas donné le nom de cette fabrique parce qu'elle est en grande concurrence avec la sienne. Il ne m'avait parlé que de quatre fabriques pour toute l'Allemagne.</p>
+        <p>, Tu noteras toute la bonté de M. Redtenbacher. Je ne l'ai quitté ce soir qu'à 7 heures. Je n'oublierai jamais une telle complaisance. Ajoute à cela qu'il doit me donner demain des échantillons de très beaux produits qui m'intéressent extrêmement. Je t'écrirai encore demain soir ou après-demain matin pour te dire quand je quitte Vienne et le résultat de mes essais.</p>
+        <p>Veux-tu maintenant que je te parle de Vienne même, de ses habitants, de ses soldats, de ses palais, etc. Hier j'ai attendu pendant quatre heures une réponse à la demande de M. Miller qui devait m'autoriser à voir la fabrique Seybel. Pendant ces longues heures j'ai parcouru Vienne et ses faubourgs, ayant en mains un excellent fUI de du Voyageur en Allemagne que j'ai acheté à Bruxelles, et qui mérite bien d'être connu. Il est en effet à sa *5® édition.</p>
+        <p>Mon opinion, ma chère Marie, c'est qu'en France nous sommes pleins de préjugés sur les étrangers, leurs habites, leur civilisation, leurs goûts, leurs..villes etc. Vienne</p>
+        <p>est une ville charmante, remplie, non pas de beaux monuments comme en offre Paris, mais de superbes hôtels tout chargés de sculptures. Ces soldats autrichiens que nous avons tant ridiculisés ont une très belle tenue, et leurs officiers sont les plus beaux hommes et les plus élégants que l'on puisse voir. Leurs uniformes sont quelquefois séduisants, surtout chez les officiers supérieurs. Et puis ils sont si peu civilisés, ces Autrichiens, que je n'ai pas une fois demandé des indications dans la rue à une personne un peu bien mise sans qu'elle me réponde en bon français et avec beaucoup d'amabilité. Enfin j'ai vu dans une de leurs églises le monument le plus admirable, le plus beau des chefs-d'œuvre de Canova : c'est le tombeau de MarieChristine archiduchesse d'Autriche. On ne peut rien imaginer de plus attendrissant et de plus remarquable comme œuvre d'art. Je crois que comme sculpture cela n'est pas à comparer avec le tombeau déjà si magnifique du Maréchal de Saxe 1.</p>
+        <p>Le jeune empereur 2 est à Pesth occupé à voir des manœuvres militaires sur une échelle gigantesque. On trouve ici qu'il aime un peu trop les soldats, et qu'il sacrifie tout à l'armée. De grosses finances pour les arméei, c'est la queue des révolutions.</p>
+        <p>Le fameux général Georgey 3 est un ancien élève de M. Redtenbacher. Son maître pense qu'il n'a pas trahi du tout, que c'est un homme fort honorable, mais que Kossuth 4 est un imposteur et un égoïste. M. Redtenbachef</p>
+        <p>Il prit une part prépondérante à la Révolution de 1848 et fut un des chafl1' pions de l'indépendance hongroise. Le II août 1849, il remplaça comIJl6 dictateur Kossuth. Le 13, il signa à Vilagos une capitulation avec leS Russes qui avaient envahi la Hongrie. Il ;fut accusé de trahison. à</p>
+        <p>Après avoir fait proclamer l'indépendance de la Hongrie, il prêcha une croisade contre l'Autriche et la Russie. Pendant cette campagne, le gil néral Georgey eut des alternatives de succès et de revers. Comme</p>
+        <p>m'a montré une très belle coupe d'argent ciselé que ses élèves réunis lui ont offerte et sur laquelle se trouve le nom du général que 1848 a trouvé au laboratoire faisant des recherches, ne songeant nullement à la révolution. Il avait quitté l'armée où il était en qualité d'officier pour venir étudier la chimie. Il a épousé une française intimement liée à Mme Redtenbacher et qu'il a connue chez M. Redtenbacher. Aujourd'hui il est confiné en Hongrie, refusant toute offre du gouvernement autrichien. Son acceptation dit-il serait aux yeux de tous une preuve de ce qu'on lui reproche, de sa trahison.</p>
+        <p>Je possède actuellement 475 fr. environ. Je pense qu'arri vé à Trieste il restera 390 fr. et que je quitterai Venise avec 280 à 300 fr. ce qui me paraît suffisant pour rentrer en France.</p>
+        <p>Je n'ai bien évidemment aucune nouvelle de toi. Probablement j'aurai une lettre à Venise. Je voudrais seulement être assuré que vous allez tous très bien. Pour le reste je crois que vous ne m'oubliez pas et que vous pensez quelquefois au pauvre voyageur.</p>
+        <p>Pour moi, si vous êtes en bonne santé je suis content.</p>
+        <p>Ne dis pas trop à mon père ce que je deviens. Dis-lui que tu as des lettres de moi souvent et que je me porte parfaitement. Il serait tourmenté s'il me sentait aussi loin du beau Pays de France.</p>
+        <p>Adieu, ma chère Marie. Il me tarde beaucoup de te revoir, et de t'embrasser avec ma chère petite Jeanne et mon cher petit chimiste.</p>
+        <p>M. Biot est-il de retour?— Es-tu allée le voir.— Va lui Parler de l'acide racémique de Vienne.</p>
+        <p>Adieu encore. Je t'embrasse de tout mon cœur — avec toute la famille.</p>
+        <p>L. PASTEUR.</p>
+        <p>Se refusait à obéir aux ordres du Comité de Défense, Kossuth à plusieurs reprises essaya de le briser, sans y réussir. Après la défaite de Temesar, Kossuth se déchargea sur le général Georgey de la capitulation Avenue inévitable.</p>
+        <p>J'ai oublié de te prier de dire à M. Loir1 que j'étais très content.que son travail ait été renvoyé à la même commission que le mien. Je ne pense pas que l'étendue du travail de M. Loir comporte un rapport spécial. Mais il serait possible, facile même je crois, d'obtenir de M. de Senarmont une mention du travail dans son prochain rapport. Je pourrai en parler à M. de Senarmont à mon retour. Il est fort tard et je ne pourrai mettre ma lettre à la poste que demain matin 28 en allant au laboratoire.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

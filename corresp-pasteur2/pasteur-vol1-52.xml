@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1851-01-20" >20 janvier 1851.</date>
+          <placeName>Strasbourg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Au MINISTRE DE L'INSTRUCTION PUBLIQUE ET DES CULTES. (...-...)">Au MINISTRE DE L'INSTRUCTION PUBLIQUE ET DES CULTES.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Strasbourg, 20 janvier 1851."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Strasbourg, 20 janvier 1851.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Monsieur le Ministre, Depuis 1848 l'allocation accordée pour subvenir aux dépenses des cours de chimie dans les Facultés a été beaucoup restreinte. Je dispose annuellement de 13 à 1400 fr.</p>
+        <p>SUr lesquels je dois prélever le salaire du garçon de service, salaire qui s'élèvera cette année à environ 400 fr. Il ne me</p>
+        <p>reste donc que iooo fr., somme insuffisante, et que dans votre justice, Monsieur le Ministre, vous augmenterez, je n'en doute pas, d'une manière permanente ultérieurement.</p>
+        <p>Mes ressources vont être diminuées par les dépenses qu'occasionnent certaines expériences que je dois mettre à exécution cette année. Je prendrai la permission, Monsieur le Ministre, d'indiquer ici brièvement le sujet de mes recherches afin de vous mieux éclairer sur la nécessité de la demande qui fait l'objet de cette lettre.</p>
+        <p>De même qu'il existe une main droite identique et non superposable à la main gauche, de telle manière que le gant de la main droite ne peut être mis à la main gauche, de même il existe une multitude de substances qui sont droites ou gauches. Pour une substance droite qui était connue j'ai trouvé la gauche correspondante 1.</p>
+        <p>Le but de mes recherches, qui, s'il est atteint, aurait des conséquences incalculables, est de produire dans tous les cas la substance gauche qui correspond à telle substance droite donnée, ou inversement. Or j'ai des raisons de croire que j'y parviendrai en faisant végéter dans des circonstances toutes particulières les plantes qui fournissent ces substances dissymétriques 2, et par exemple, en les étiolant dans l'obscurité ou dans des serres très chaudes.</p>
+        <p>Ces quelques détails, Monsieur le Ministre, montrent assez l'utilité des recherches que je viens de signaler.</p>
+        <p>Je me suis assuré d'ailleurs qu'une somme de iooo fr.</p>
+        <p>suffirait aux expériences que je dois entreprendre, et j'ai la confiance, Monsieur le Ministre, que vous voudrez bien augmenter de cette somme l'allocation qui m'est accordée pour frais de cours cette année.</p>
+        <p>J'ai l'honneur d'être, Monsieur le Ministre, avec le plus profond respect Votre très humble et très dévoué serviteur, Louis PASTEUR, professeur suppléant de chimie à la Faculté des Sciences de Strasbourg.</p>
+        
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

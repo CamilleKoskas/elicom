@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1853-12">[Fin décembre 1853.]</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="[Fin décembre 1853.] Mon cher papa, Comme je suis tout à fait de ton avis lorsque tu vantes le prix d'une bonne santé je suis très heureux en t'adressant aujourd'hui mes vœux de bonne année de songer que dans nos deux familles tout le monde se porte très bien."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>[Fin décembre 1853.] Mon cher papa, Comme je suis tout à fait de ton avis lorsque tu vantes le prix d'une bonne santé je suis très heureux en t'adressant aujourd'hui mes vœux de bonne année de songer que dans nos deux familles tout le monde se porte très bien.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Dans la petite caisse que je t'adresse aujourd'hui par la diligence et qui devra arriver la veille du jour de l'an j'ai placé avec des choses insignifiantes pour les enfants de Virginie un abonnement de six mois au Constitutionnel que tu recevras à partir du IER janvier. J'espère que tu y verras avant son expiration l'annonce de mon entrée à l'Académie comme membre correspondant de la section de chimie ou de la section de physique. On ne peut tarder à s'occuper de cette question qui déjà serait venue au jour sans les longueurs qu'a occasionnées le remplacement de M. Arago comme secrétaire perpétuel. M. Biot se porte heureusement toujours très bien. Je vais lui écrire à l'occasion du jour de l'an et je lui transmettrai tes vœux avec les nôtres.</p>
+        <p>Mes études marchent assez mal. J'ai presque la crainte d'échouer dans tous mes essais de cette année et de n'avoir pas à marquer ma place par un travail important à la fin de l'année prochaine. Espérons encore. Aussi il faut être un peu fou pour entreprendre ce que j'ai entrepris1.</p>
+        <p>Adieu. Je t'embrasse de tout mon cœur.</p>
+        <p>L. PASTEUR.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

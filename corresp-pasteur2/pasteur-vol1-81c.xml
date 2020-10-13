@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1852-12">[Fin décembre 1852.]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Kestner, Charles (1803_1870)">M. KESTNER, DE THANN.</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="[Fin octobre 1852]."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>[Fin décembre 1852.]</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A M. KESTNER.</p>
+                <p>[Fin décembre 1852.] Monsieur, Je suis très heureux des résultats que vous m'annoncez et je m'empresse de vous en féliciter. Le* fait de l'existence de l'acide racémique dans ce tartrate de chaux provenant de tartres de Saintonge est surtout très curieux. Il me paraît certain que cet acide s'était accumulé dans les eaux-mères de la fabrique qui opérait avec les tartres de cette contrée.</p>
+                <p>Et si M. Gundelach n'a pas trouvé l'acide racémique dans le tartre brut de Saintonge c'est que cet acide s'y trouve en trop petite quantité.</p>
+                <p>Je désire infiniment que la différence de prix des tartres bruts de Toscane et d'Alsace ne soit pas pour vous un obstacle à l'achat en certaine quantité des tartres de Toscane ou en général d'Italie, parce que cela vous permettrait de rendre au commerce et à la science surtout l'acide racémique. On n'en trouve plus du tout chez les fournisseurs de Paris. Je vous suis extrêmement obligé d'avoir fait une commande à cette maison de Naples. Le résultat que vous</p>
+                <p>obtiendrez 'vous démontrera, je crois, que les eaux-mères des raffineries de ce pays sont -riches en acide racémique.</p>
+                <p>Moi-même j'attends un échantillon de pareilles eaux-mères évaporées des raffineries de Trieste. Je m'empresserai de vous faire part du résultat qu'elles me présenteront.</p>
+                <p>Je désirerais beaucoup, s'il vous reste encore de ce tartrate de chaux venant des eaux-mères de la fabrique de Saintonge, [qu'il vous fût possible] de m'en envoyer quelques kilogrammes, et aussi du tartre brut de ce pays, celui sur lequel a opéré M. Gundelach. S'il n'y a que très peu d'acide racémique dans le tartre brut de Saintonge il faudrait, pour que mes essais pussent avoir quelque chance de succès, que vous eussiez la bonté de m'envoyer environ 10 kil. de ce tartre brut. Mais je vous supplie de m'en indiquer le prix. Je me ferais scrupule à l'avenir de vous faire la moindre demande si vous aviez la générosité de me le donner. Cependant si vous l'aimez mieux je vous enverrai franc de port ce qui me restera de tartre après mon essai. J'en consommerai en effet très peu.</p>
+                <p>Je n'ai pas reçu en même temps que votre lettre l'échantillon d'acide racémique que vous avez la bonté de m'envoyer. Dès qu'il sera arrivé je l'étudierai pour ma satisfaction personnelle. Je suis bien assuré d'avance qu'il est identique à celui d'autrefois et à celui d'Allemagne et d'Autriche.</p>
+                <p>Recevez, Monsieur, avec mes sincères remerciements l'expression de mon profond respect.</p>
+                <p>L. PASTEUR.</p>
+                <p>P.-S. — M. Biot, soyez-en assuré, sera très heureux et très reconnaissant de votre envoi. Je vais lui écrire aujourd'hui même pour lui parler de vos résultats, dont il sera très charmé.</p>
+                <p>Présentez je vous prie, Monsieur, mes respects et mes amitiés à M. votre gendre et à M. Gundelach.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+

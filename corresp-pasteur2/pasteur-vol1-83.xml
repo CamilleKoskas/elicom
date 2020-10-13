@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1853-02-25">25 février 1853.</date>
+          <placeName>Strasbourg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Godélier, Charles (1813-1877) ">Au Dr GODÉLIER,</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Strasbourg, 25 février 1853."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Strasbourg, 25 février 1853.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Monsieur Godélier, Je commence par vous féliciter bien sincèrement au nom de toute la famille (réunie pour l'heure à Strasbourg) sur la belle position que vous venez d'obtenir et que vous méritez à tant de titres 2.</p>
+        <p>Il y a bien longtemps que je désire vous écrire tant pour avoir le plaisir de causer avec vous que vous réclamer de votre bonne amitié un service scientifique que vous vous empresserez de me rendre, je n'en doute pas. J'ai peut-être en quelque chose résolu le problème de la découverte d'un</p>
+        <p>succédané du sulfate de quinine 1. Des expériences sont faites en ce moment avec beaucoup de complaisance par divers médecins de Strasbourg. Il paraît résulter des premières épreuves qu'à pareille dose le produit en question donne les mêmes effets que le sulfate de quinine. Seriezvous assez bon pour l'essayer dans votre service du Val de Grâce dans tous les cas où la vertu du sulfate de quinine est bien reconnue et de m'adresser un résumé succinct des résultats qu'il aura fourni entre vos habiles mains. Voilà le revers de la médaille : le nouveau fébrifuge est encore extrait des quinquinas. Mais il coûterait trois ou quatre fois moins que le sulfate de quinine. M. Fée2 m'a dit avoir une Occasion pour Paris et c'est je crois M. Gasté fils qui aura la complaisance de vous remettre une petite quantité de cette substance. Si vous aviez beaucoup d'expériences Possibles en ce moment, vous, ou quelques-uns de vos collègues qui désireraient essayer cet anti-périodique (sic), je vous en enverrais en plus grande quantité. Vous prieriez les personnes qui l'emploieraient de vous remettre une relation des succès et des insuccès, avec l'indication présumée de ce que le sulfate de quinine aurait produit dans les mêmes conditions.</p>
+        <p>Je vous adresse par la même occasion le rapport qui a été fait sur le travail que j'ai présenté à l'Académie à la fin de 1851 3, et une notice sur l'acide racémique que j'ai publiée récemment 4. C'est la relation d'un voyage que j'ai fait en Allemagne et en Autriche pendant les dernières vacances Pour arriver à éclairer la question si obscure de l'origine de l'acide racémique. Vous verrez que j'y suis parvenu. Bien-</p>
+        <p>, 4. Voir Œuvres de Pasteur, t. I, p. 242-249 : Notice sur l'origine dç l'acide racémique.</p>
+        <p>tôt je pourrai vous envoyer mon travail de l'année 1852 1 et le rapport qui en sera fait prochainement à l'Académie par M. de Senarmont 2.</p>
+        <p>Tous les parents, grands-parents et petits enfants se portent à merveille. Mme Laurent ne se ressent plus de ses maux d'estomac depuis qu'elle est à Strasbourg. Votre petite-fille que j'ai vue hier chez son grand'père se porte aussi très bien, nouvelle superflue pour vous, jointe aux lettres de M. Fée.</p>
+        <p>Tous ici et en particulier ma chère femme et moi nous nous rappelons à votre bon et affectueux souvenir, à celui de Mme Godélier et aussi de Mlle Cécile, la belle Africaine.</p>
+        <p>Nous savons que Paul 3 est loin de vous, et nous désirons bien que vous en ayez de bonnes nouvelles.</p>
+        <p>Tout à vous de cœur, L. PASTEUR.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

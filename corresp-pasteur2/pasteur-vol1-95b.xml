@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1854-05-08">8 mai 1854.</date>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Chappuis, Charles (1822-1895)">A CHAPPUIS.</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Paris, 8 mai 1854."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Paris, 10 mai 1854.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>- A CHAPPUIS.</p>
+                <p>Paris, 10 mai 1854.</p>
+                <p>J'ai demandé ces jours derniers une prolongation de congé, et j'ai appris ce matin de M. Dumas que l'affaire était arrangée. Aujourd'hui même s'est décidée l'affaire de la correspondance. Je me retire devant M. Malaguti 2.</p>
+                <p>M. Thenard m'avait prié de lui écrire que je me portais candidat en chimie et non en physique. (M. Biot ne veut pas entendre parler de la section de physique pour moi.) Je lui portai ma lettre ce matin. Il m'a dit qu'il allait en qualité de doyen convoquer la section de chimie, que je ferais bien d'aller en voir les divers membres. Je me rendis d'abord chez M. Dumas qui me parut regretter beaucoup que j'aie pris la détermination de me présenter en chimie à cause de M. Malaguti. J'avais déjà, tu le sais peut-être, quelque répugnance à me trouver en concurrence (avec certitude de succès, d'après ce que me disaient ces messieurs) avec un homme qui était déjà un chimiste habile lorsque j'ignorais le premier mot de cette science. Cette répugnance est très sincère chez moi. Je ne fais pas avec toi de fausse modestie.</p>
+                <p>Je le dis franchement à M. Dumas et que presque sans regret j'étais disposé à me retirer. « Alors, me dit-il, je vais vous dire toute ma pensée. J'ai vu M. Malaguti tout récemment. Il est très fatigué par l'enseignement. Je songe à lui donner une place dans l'administration (recteur à Rennes?). Pour vous, être ou n'être pas correspondant,</p>
+                <p>c'est tout un. Pour M. Malaguti, c'est une question capitale. Ma demande coïncidera presque avec sa nomination ou son échec; car, si vous persistez à vous présenter, vous serez certainement nommé. Mais votre position scientifique est si nette, vos titres si clairs pour tous, que vous n'avez pas besoin de ce galon pour arriver à l'Académie. » M. Biot, que je vis d'abord, regretta que je ne l'eusse pas consulté. Puis il me dit que ma conduite serait bien jugée par la section. Tout le monde sera donc content de moi; je fais de plus une bonne œuvre puisque je suis très utile à M. Malaguti. En outre je suis agréable à une personne pour qui je dois avoir la plus grande reconnaissance pour toutes ses bontés. Je me donne même ainsi le droit d'être plus ose dans les demandes que j'aurai à lui adresser, et, au premier rang, je l'espère, sera celle d'une chaire de philosophie pour mon ami 1.</p>
+                <p>Ceci est une exagération, mais peu importe. J'avertis M. Dumas que j'allais dire à M. Thenard que je me retirais.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

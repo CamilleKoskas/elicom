@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1851-01-20" >20 janvier 1851.</date>
+                    <placeName>Strasbourg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Chappuis, Charles (1822-1895)">A Chappuis</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Strasbourg, 20 janvier 1851."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Strasbourg, 29 janvier 1851.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A CHAPPUIS.</p>
+                <p>Strasbourg, 29 janvier 1851.</p>
+                <p>Tu viens de lire ce que je t'écrivais avant-hier soir. Hier matin, au moment de mettre cette lettre à la poste, j'en ai reçu une nouvelle de M. Biot qui me dit que M. Thenard, en me proposant Besançon, avait probablement le désir que j'acceptasse. Il me raconte que, lorsque cette mesure du conseil fut prise à l'égard des professeurs en congé, Gerhardt, Baudrimont, Persoz, ce dernier fit une scène de reproches très vifs à M. Thenard qui très probablement l'abandonne dans ses prétentions à une chaire du Conservatoire, pour laquelle il l'avait jusqu'ici fortement appuyé.</p>
+                <p>J'ai répondu aussitôt à M. Biot que, dans la crainte de voir M. Persoz forcé de revenir à Pâques (car l'ordre doit être donné sous menace de destitution), j'acceptais Besançon et qu'il veuille bien dire à M. Thenard ce changement de résolution et ses motifs.</p>
+                <p>Dès lors nous serons probablement à Besançon dans quinze jours peut-être. Je te serais très obligé de visiter un certain nombre de logements, non meublés, autant que possible au midi, avec entrée et escalier convenables. DU reste il nous faut : un salon avec cheminée (il peut avoir trois fenêtres); une chambre à coucher; une salle à manger; un cabinet pour moi; chambre de bonne; cave très petite.</p>
+                <p>Il faudrait en outre une chambre où l'on pourrait placer un lit, pour recevoir au besoin une personne. Le prix maximum 600 fr. Adieu, mon cher ami; ce sera pour nous un vrai dédommagement que de te retrouver à Besançon.</p>
+                <p>1</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1852-05">mai 1852</date>
+          <placeName>Strasbourg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="[Strasbourg, probablement mai 1852.]"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>[Strasbourg, probablement mai 1852.]</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher papa, , Je t'écris quelques mots à Besançon. De cette manière, si tu vois Chappuis tu pourras lui donner les nouvelles suivantes. Je n'aurai le temps de lui écrire que dans une quinzaine de jours, ou mieux c'est à ce moment seulement qu'il y aura quelque chose de définitif sur ma position.</p>
+        <p>D'abord M. Persoz a écrit qu'il revenait et M. Dumas m'a fait demander par M. Laurent qui l'a vu plusieurs fois à cette occasion si je préférais Dijon à Besançon ou inversement. Depuis lors M. Persoz a écrit qu'il était nommé à Paris. J'ai su par M. Laurent qui le tenait de M. Dumas qu'en réalité il était question de le nommer Essayeur pour les laines près de la Chambre de commerce de Paris, mais que cela n'était pas fait et que même cela rencontrait des Contradicteurs; mais que très habile comme toujours à saisir toute occasion de prévenir son retour forcé à Strasbourg il exploitait cette nomination possible dans ce but.</p>
+        <p>II me paraît impossible qu'on ait la faiblesse de prolonger son congé, et M. Dumas ne le souffrira pas. D'ailleurs cette domination est assez prochaine à ce qu'il paraît. M. Dumas dit à M. Laurent de prier M. Biot d'intervenir auprès de H. Say 1, membre très influent de la Chambre de commerce, pour en hâter la solution, plus pour moi que pour Persoz</p>
+        <p>Dumas aussi a dit à M. Laurent qu'il allait se rendre c h ez M. Biot à cette occasion, et M. Biot à qui M. Laurent est venu redire ceci est allé immédiatement voir M. Dumas.</p>
+        <p>Mais j'ignore encore le résultat de cette visite. Mais voici une autre complication : M. Dumas me fait dire en confidence que MM. Malaguti et Baudrimont tous deux profes-</p>
+        <p>seurs titulaires, l'un à Rennes, l'autre à Bordeaux, épient le moment où Strasbourg sera vacant pour le demander parce que disent-ils ils prétendent aux deux places de M. Persoz, celle de la Faculté et celle de l'École de Pharmacie. M. Dumas qui est ami de M. Malaguti et surtout de M. Balard qui pousse beaucoup M. Malaguti pourrait prendre parti pour ce dernier. Car il a dit à M. Laurent : v Nous mettons Pasteur sur la même ligne que M. Malaguti par les titres, mais les services de ce dernier sont plus anciens. M. Laurent est allé parler de cela à M. Biot qui lui a dit qu'il ne souffrirait pas que pour le bon plaisir d'un autre on m'éloignât de Strasbourg, et que ce ne serait pas sans qu'il fasse entendre plus d'un écho de ses justes plaintes et qu'il le chargeait d'aller reporter ses paroles à M. Dumas.</p>
+        <p>Ce dernier a dit qu'il ne voulait qu'une chose, que me sortir d'une position précaire et que je ne pouvais douter en rien ni M. Biot de ses excellentes intentions 1.</p>
+        <p>Voilà les nouvelles. Tu vois qu'il faut attendre. C'est a peine si je m'occupe de tout cela. Je laisse couler l'eau et je ne songe qu'à une chose, à l'espérance d'une brillante découverte qui me paraît n'être pas éloignée de moi 2. MaJs le résultat que j'attends est tellement extraordinaire que je n'ose y croire.</p>
+        <p>Adieu. Pardonne-moi mon écriture mais l'heure de la poste me presse.</p>
+        <p>Je t'embrasse. 1 L. PASTEUR.</p>
+        <p>Marie et les enfants sont en parfaite santé.</p>
+        
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1852-09-30" >20 septembre 1852.</date>
+          <placeName>Leipsick</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Leipsick, 20 septembre 1852."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Leipsick, 20 septembre 1852.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Ma chère Marie, Je viens de recevoir en même temps tes deux premières lettres, par conséquent le billet et les indications pour les 36o fr. Je te remercie et je te charge de remercier M. Emile.</p>
+        <p>Je t'assure que jamais je n'ai eu l'idée de t'écrire de âOlogne. Comment aurais-je pu te promettre de t'écrire durant le voyage, ignorant où et combien de temps je 111 arrêterais.</p>
+        <p>J'aurais pu t'écrire de Zwickau à mon arrivée mais cOmme je revenais le lendemain à Leipsick j'ai pensé que n'a lettre arriverait tout aussitôt en partant de cette derrière ville.</p>
+        <p>, Mon père a peur que je ne m'égare. Je lui répéterai encore a mon retour que je suis homme, que j'ai 30 ans et qu'il aurait bien fait d'envoyer cet argent.</p>
+        <p>Je pars demain pour Vienne. Je trouverai tes lettres à mon retour. Cependant si tu veux m'écrire à Venise — non, Ie réfléchis que c'est impossible que j'aie là une lettre de</p>
+        <p>toi. Je voulais te dire que j'irais loger à l'hôtel Albergo Danieli près de la place St-Marc, dans le plus beau quartier de Venise. J'y ferai des économies et je te rapporterai si ma bourse me le permet des points de Venise. Je m'étonne que tu n'aies pas eu l'idée d'ajouter à la somme que tu m'envoyais plutôt que d'y retrancher.</p>
+        <p>Je ni rien à ajouter à ma lettre d'hier au sujet de notre position. Tout compte fait, les deux positions de Dijon me conviennent infiniment mieux que celles de Strasbourg, et on me donnerait à choisir que je préférerais Dijon en ne consultant que moi. C'est une bonne fortune, sois en sûre, que notre position puisse être améliorée tout en devenant titulaire sans que ma besogne soit beaucoup augmentée.</p>
+        <p>J'ai pensé aux deux places de Strasbourg parce que je voulais surtout éviter l'objection que M. Malaguti les désirait et pouvait les avoir et que moi je ne les désirais pas et que je ne pouvais les demander. Quoique plus habitue maintenant à l'enseignement, deux cours de chimie m'auraient trop occupé. La préparation orale et matérielle comprise, c'est toujours quatre jours de pris sur la semaine.</p>
+        <p>A dijon ce sera deux jours pour la Faculté et quatre heures, pas davantage, au Lycée. Le cours du Lycée ne sera jamais qu'un extrait très élémentaire et très succinct de mon cours à la Faculté. Tu auras donc un traitement très convenable et moi tout le temps que réclament mes travaux. Va donc encore trouver M. Dumas et dis-lui franchement que ce qu'il m'a proposé pour Dijon m'agrée beaucoup, que seulement il le réalise le plus tôt possible. Parle-lui de mon traitement d'agrégé à joindre à 1.500 fr. Ce serait très beau.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

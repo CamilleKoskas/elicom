@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1850-12-26" > 26 décembre 1850.</date>
+          <placeName>Strasbourg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Au MINISTRE DE L'INSTRUCTION PUBLIQUE ET DES CULTES. (...-...)">Au MINISTRE DE L'INSTRUCTION PUBLIQUE ET DES CULTES.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Strasbourg, 26 décembre 1850."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Strasbourg, 26 décembre 1850.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Monsieur le Ministre, Il y a dix-huit mois j'ai été chargé inopinément du cours de chimie à l'École de pharmacie, lorsque M. Kopp fut nommé Représentant 1. Je n'ai pas cru devoir refuser cette tâche. Mais je souhaiterais beaucoup en être déchargé cette année afin de pouvoir me livrer entièrement à mon cours de la Faculté des sciences et à mes travaux personnels.</p>
+        <p>J'ai le bonheur d'être entré dans des voies d'études toutes nouvelles, et tellement fécondes que mes projets de travaux se multiplient à chaque instant. Vous m'obligeriez donc infiniment, M. le Ministre, en bornant mes fonctions à la suppléance de M. Persoz à la Faculté des Sciences.</p>
+        <p>J'ai l'honneur d'être, M. le Ministre, avec un profond respect Votre très humble et très dévoué serviteur, L. PASTEUR.</p>
+        
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1853-03-19">19 mars 1853.</date>
+                    <placeName>Strasbourg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Dumas, Jean-Baptiste (1800-1884)">A J.-B. DUMAS.</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Strasbourg, 25 février 1853."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Strasbourg, 19 mars 1853.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A J.-B. DUMAS.</p>
+                <p>Strasbourg, 19 mars 1853.</p>
+                <p>Monsieur, Je suis fort touché et des termes de votre lettre et de l'encouragement qui m'est donné par la Faculté de Paris.</p>
+                <p>Mais en même temps je suis très heureux que vous ayez donné à cette affaire l'issue que vous avez la bonté de me communiquer. Si j'avais le périlleux honneur d'être chargé de vous suppléer 4 je devrais me donner tout entier à la préparation orale et matérielle de mes leçons. Je ne redouterais pas ce travail. Il me plairait infiniment et j'en retirerais beaucoup de profit. Mais suis-je assez exercé à l'enseignement pour oser accepter une tâche aussi difficile? D'autre part, pour cette année du moins, c'est avec bien des regrets que j'abandonnerais le travail que je pense pouvoir présenter au mois d'août. Votre lettre m'oblige même à y donner plus de soins. Que n'ai-je pas à désirer en effet pour le rendre digne de répondre à de si hauts encouragements. 0 Recevez, Monsieur, l'expression de la très vive reconnaissance de votre très humble et très dévoué serviteur, L. PASTEUR.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                           
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

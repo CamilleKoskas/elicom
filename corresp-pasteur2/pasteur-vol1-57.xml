@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1851-12-29" >29 décembre 1851.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="29 décembre 1851."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>29 décembre 1851.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher papa, Je n'aime pas à écrire des lettres de nouvel an. Depuis Plusieurs années elles ne renouvellent à notre esprit que de ^stes souvenirs. Tu le sais trop bien et moi aussi. Marie ait bien : elle te parle du présent et de l'avenir 3. Le présent est ce qu'il est. L'avenir est inconnu et il ne coûte rien e le remplir de belles espérances. Ce qui m'est le plus Agréable c'est que tu te portes très bien, que Marie fait de nlêm4 et que moi et les enfants je ne vais pas trop mal.</p>
+        <p>Ajoute à cela que notre pauvre Emilie est guérie de cette atteInte qui nous avait effrayés, et que, d'après ce que tu e dis, Virginie et son mari travaillent et sont, j'espère, heureux.</p>
+        <p>P l, Il est probable que le 10 décembre devait être baptisé Jean-Baptiste asteur.</p>
+        <p>2- Jean- Joseph Pasteur avait abandonné sa tannerie à son gendre, Vichot.</p>
+        <p>3- Voir la lettre précédente.</p>
+        <p>Je travaille beaucoup, plus que je n'ai jamais travaillé.</p>
+        <p>Il faut bien que je réponde aux encouragements que me donne le vénérable M. Biot, qui a toujours la bonté de nous écrire souvent. Presque toujours il nous parle de toi, de ta santé, et de tout ce qui peut nous être agréable. Il n'y a que de la décoration dont il ne me parle pas. Mais ça m'est égal. Je t'ai déjà dit que je ne la désirais que pour faire plaisir à quelques personnes et tu es du nombre, et aussi pour en jalouser quelques autres. Car il y a des gens qui, se réjouissant des ennuis des autres, méritent d'avoir quelquefois de la peine pour ce qui arrive d'heureux à ceux-ci.</p>
+        <p>Tu dois être satisfait de la politique. L'avenir est au beau. Jamais gouvernement n'a été aussi fort, je crois, que celui de Louis Napoléon actuellement.</p>
+        <p>Il a passé ici il y a deux jours un grand monsieur à moustaches, décoré, qui a demandé à me voir. On lui a dit que j'étais au laboratoire, et il devait revenir le soir. Je ne l'ai pas vu. J'ai présumé, comme c'était un étranger, que ce pouvait être M. Barbier 1. Est-ce qu'il aurait été obligé de quitter Arbois? * Mr K. est-il toujours menacé?</p>
+        <p>Nous sommes loin d'élever le petit garçon aussi facilement que Jeanne. Il est très souvent dérangé : mais je crois que quand il aura 3 ou 4 mois cela ira beaucoup mieux. Du reste il profite; il engraisse et il n'a pas mauvais teint.</p>
+        <p>Adieu, mon cher papa. Je t'embrasse de tout mon cœur en te souhaitant une bonne année, ce qui est presque synonyme pour moi de bonne santé.</p>
+        <p>L. PASTEUR.</p>
+        
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1853-11">[Novembre 1853.]</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Au DOYEN DE LA FACULTÉ DES SCIENCES DE STRASBOURG. (...-...)">Au DOYEN DE LA FACULTÉ DES SCIENCES DE STRASBOURG.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="[Novembre 1853.]"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>[Novembre 1853.]</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>J'ai reçu ce matin avis d'un fait que vous apprendrez avec plaisir par l'intérêt que vous apportez aux succès des travaux de vos collègues et à la réputation de la faculté que vous dirigez. En 1851, la Société de Pharmacie de Paris avait proposé pour 1853 un sujet de prix relatif à l'acide racémique. La question principale était d'arriver à transformer l'acide tartrique en acide racémique. Vous savez que la solution de cette question se trouve comprise dans l'un des deux mémoires que j'ai présentés tout récemment à l'Académie. En conséquence la Société de Pharmacie de Paris m'a décerné le prix (1.500 fr.) dans sa séance solennelle du 9 novembre courant 2.</p>
+        <p>Votre tout dévoué collègue, L. PASTEUR.</p>
+        <p>              Je n'ai pas dit à Monsieur le recteur que j'avais obtenu ce prix. J'ai pensé qu'il était plus convenable que ce fût vous, Monsieur le Doyen, qui le lui fassiez connaître.
+        </p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

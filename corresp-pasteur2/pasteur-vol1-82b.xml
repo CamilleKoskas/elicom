@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1853-02-09" >9 février 1853.</date>
+                    <placeName>Strasbourg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Kestner, Charles (1803_1870)">A M. KESTNER</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="- 31 décembre 1852."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Strasbourg, 9 février 1853.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A M. KESTNER.</p>
+                <p>Strasbourg, 9 février 1853.</p>
+                <p>Monsieur, J'ai attendu pour répondre à votre dernière et aimable lettre d'avoir reçu des exemplaires extraits des comptes rendus de l'Académie relatifs à nos communications sur l'acide racémique Le lendemain du jour où vous avez eu la bonté de me faire part de vos importants résultats sur les tartres de Saintonge et de Toscane, M. Biot m'a écrit de lui adresser au plus tôt un récit de mon voyage en Allemagne.</p>
+                <p>C'est aussi ce même jour, comme vous le verrez dans ma note, que M. Redtenbacher, professeur à Vienne, m'a donné aeis que M. Seybel avait obtenu tout récemment plusieurs kilogr. d'acide racémique.</p>
+                <p>Vous me ferez infiniment plaisir en me donnant des nouvelles de vos expériences sur les tartres de Montpellier et de Châlons s/S; et soyez assuré du vif intérêt que l'Académie - prendra à toutes vos communications. Car M. Biot m'a dit tout le plaisir que chacun avait eu en revoyant votre curieux acide. Malheureusement M. Arago 1 a laissé glisser dans le compte-rendu une faute d'impression fâcheuse. Mon nom est substitué par erreur au vôtre à la fin de ma note p. 10.</p>
+                <p>Vous recevrez en même temps cette lettre et un exemplaire des notes [de l'Académie des sciences]. J'en adresse un également à M. Gundelach. Si vous en désirez d'autres, je vous les enverrai avec plaisir.</p>
+                <p>Recevez, Monsieur, je vous prie, les sentiments de respectueuse estime de Votre très humble serviteur, , L. PASTEUR. *</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

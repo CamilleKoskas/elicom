@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1852-09-15" >mercredi 15 septembre 1852.</date>
+          <placeName>Leipsick</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Leipsick, mercredi 15 septembre 1852."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Leipsick, mercredi 15 septembre 1852.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Ma chère Marie, je ne veux pas attendre les résultats de mes recherches avant de t'écrire de nouveau. Je n'ai cependant rien à t'apprendre car je n'ai pas quitté le laboratoire depuis trois jours et je ne connais de Leipsick que la rue qui conduit de l'hôtel de Bavière à l'Université. Je rentre à la nuit; je dîne et je me couche. J'ai eu seulement dans le cabinet de M. Erdmann lavisite du Professeur Hankel 1, professeur de Physique de l'Université de Leipsick qui a traduit tous mes mémoires dans un journal allemand rédigé par M. Erdmann. Il a fait aussi des études sur les cristaux hémiédriques et j'ai eu beaucoup de plaisir à causer avec lui. Je dois voir aussi tout prochainement le professeur de minéralogie M. Naumann 2.</p>
+        <p>Demain seulement j'aurai un premier résultat touchant l'acide racémique.</p>
+        <p>Je compte rester encore pendant dix jours environ a Leipsick. C'est plus que je ne t'ai dit. La raison est dans une circonstance assez heureuse. M. Fikentscher a eu la bonté de m'adresser et d'écrire à une maison de commerce de Leipsick et j'ai appris hier de son chef que très probablement elle pourra me procurer demain des tartres tout à fait bruts et de la même origine que ceux de M. Fikentscher.</p>
+        <p>La même personne m'a donné des renseignements sur une fabrique de Venise et elle me remettra pour une maison de cette ville une lettre d'introduction. Aussi pour Trieste.</p>
+        <p>De cette manière le voyage que je me proposais de faire à</p>
+        <p>Venise ne sera pas simplement un voyage d'agrément. Il faut six à huit heures pour aller de Trieste à Venise par le bateau à vapeur.</p>
+        <p>J'ai oublié de te dire que je me proposais dans le cas où Je partirais pour Vienne avant d'avoir reçu les 400 fr. de les emprunter ici chez un banquier auquel m'adresserait M. Erdmann et à qui je les rendrais à mon retour. Aussi dois-je prier M. Erdmann de conserver tes lettres, au moins celle qui sera chargée, afin qu'elle ne se perde pas. Mais je Prévois que je recevrai ici la première et peut-être la seconde. Je veux seulement t'avertir, dans le peu de confiance, bien raisonnable d'ailleurs, que tu as en moi pour les affaires sérieuses, que tu ne t'inquiètes pas de ce qui Peut arriver dans ce long trajet à l'argent que tu m'enverras.</p>
+        <p>Je prendrai toutes les précautions, même au préjudice de la grande satisfaction que j'aurai à recevoir au plus tôt toutes tes lettres, pour que rien ne soit perdu. Ma négligence a des bornes et je puis t'apprendre non sans fierté que de Paris à Leipsick et Zwickau je n'ai égaré la moindre chose. Ce n'est pas peu dire. Car Dieu sait tous les changements de voiture, toutes les haltes, etc. sur une aussi langue ligne de chemin de fer. Joins à cela mon ignorance de la langue, ignorance qui ne durera pas, je t'assure.</p>
+        <p>Ma chambre me coûte i fr. 85 par jour. En monnaie du Pays 15 Silbergroschen, et chaque Silbergroschen vaut 2 1/2 sous. Elle est très convenable. L'hôtel est d'ailleurs Un des meilleurs de la ville. J'y prends mes repas. On est servi à toute heure. Je dé jeûne très simplement pour i fr. 25 et je dîne pour 2 fr. Tu vois que je suis très modéré dans ies dépenses. Seulement je fais de temps à autre des écoles.</p>
+        <p>t :yant à transporter à l'Université mon paletot de laboratoire et mes sacs remplis de tartres j'ai demandé une voiiure qui (j'en avais fait plusieurs fois l'expérience) sont à très bon compte à Leipsick. Mais au lieu d'aller sur la place, Il garçon fait atteler une des voitures de l'hôtel. On me préVIent et l'on me présente une magnifique voiture à deux cevaux, avec laquais en livrée. Reculer eût été difficile.</p>
+        <p>î\;ute à cela qu'il faut au plus trois minutes pour aller de otel à l'Université. Aussi ai-je eu beaucoup de peine à</p>
+        <p>faire comprendre au laquais-cocher que je n'avais plus besoin de ses services et que je restais là.</p>
+        <p>Je t'ai donné mon adresse : ne l'oublie pas : M. Erdmann, professeur de Chimie à l'Université de Leipsick, pour remettre à M. Pasteur.</p>
+        <p>Adieu ma chère Marie. Bien loin de toi par le corps, tout près par la pensée. Voilà ma devise pendant ce voyage.</p>
+        <p>Adieu encore. Je t'embrasse comme je t'aime, c'està-dire de tout mon cœur.</p>
+        <p>L. PASTEUR.</p>
+        <p>Embrasse plusieurs fois nos chers enfants. Je les vois d'ici.</p>
+        <p>Mes amitiés et mes embrassements à toute la famille.</p>
+        <p>Il me reste en ce moment 316 fr. Je paye à l'hôtel chaque repas après l'avoir pris. Je dois donc seulement ma chambre — aussi quelques produits chimiques que je n'ai pas trouvés au laboratoire; environ 12 fr. Reste 300 fr. J'écrirai à M. Biot dès que j'aurai quelques résultats importants. La journée a été bonne, et dans deux ou trois jours tu recevras sans doute une lettre satisfaisante. — Écris à mon père que je me porte bien et donne-moi de ses nouvelles. — Je pense que je lui écrirai bientôt.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

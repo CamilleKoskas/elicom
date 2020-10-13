@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1854-03">[Probablement mars 1854.]</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="[Probablement mars 1854.] Mon cher papa, Nous avons reçu les deux lettres que tu nous as adressées à Paris. Je ne m'explique pas les craintes que tu as d'un"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>[Probablement mars 1854.] Mon cher papa, Nous avons reçu les deux lettres que tu nous as adressées à Paris. Je ne m'explique pas les craintes que tu as d'un</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>côté, et quant à ma santé tu peux être tranquille. M. Biot m'a donné les moyens d'aller voir un célèbre médecin membre de l'Académie, M. Rayer, qui est son ami, et M. Rayer m'a dit que je me portais bien, que j'étais bien bâti et que mes maux de tête et mes dérangements d'estomac disparaîtraient par quelques promenades et en me livrant à un jar niente intelligent. Il m'a demandé si l'on ne m'appelait pas bientôt à Paris, que je devais m'ennuyer à Strasbourg et que j'aie bien soin si M. Dumas ne faisait pas son cours l'an prochain de lui demander à le faire. C'est bien trouvé.</p>
+        <p>Nous nous portons donc tous bien; car pour Marie et les enfants c'est parfait. Les trois rejetons Jeanne, Jean et Cécile sont d'une santé admirable. Jean-Baptiste est rose et frais, plus même que Jeanne, ce qui n'est pas peu dire.</p>
+        <p>Je ne sais pas si c'est à Arbois comme à Paris, mais je n'ai jamais vu un plus beau soleil et de plus beaux jours.</p>
+        <p>Aussi nous passons plusieurs heures chaque jour au Jardin du Luxembourg. Nous quittons mardi matin l'hôtel des Mines rue d'Enfer 39, pour aller habiter rue de Fleurus nO 1, dans un petit appartement qui donne sur le Luxembourg même et qui est très bien exposé, en partie à l'Est, en partie au Midi. Tu dois être content de l'Empereur. Il a joliment mené cette affaire d'Orient1 et il a pris une position bien distinguée parmi les souverains de l'Europe. Il me semble qu'ici tout le monde est content de lui.</p>
+        <p>Nous ne t'écrirons pas tous les deux jours. Ce serait inutile. Mais je t'écrirai, moi ou Marie, au moins une fois par semaine.</p>
+        <p>Adieu. Embrasse bien Virginie et ses enfants pour nous.</p>
+        <p>L. PASTEUR.</p>
+        <p>Marie t'écrira la prochaine fois. Elle est encore si mal organisée dans ce logement provisoire qu'elle est toujours occupée à ranger et à soigner les petits enfants jusque vers une heure après midi au moins.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

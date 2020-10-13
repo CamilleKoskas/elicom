@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1852-10">[Octobre 1852.]</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="[Octobre 1852.] Mon cher papa,"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>[Octobre 1852.]</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher papa,En arrivant à Strasbourg de mon voyage d'Allemagne que tu as blâmé, je crois à tort, j'ai reçu une lettre de Marie qui m'apprenait que nous restions à Strasbourg où je vais être- nommé titulaire d'ici à deux mois au plus. Marie me Ii même que dans huit jours au plus tard cela sera fini.</p>
+        <p>Marie est arrivée ce matin avec nos deux enfants. Nous Sommes à l'hôtel; mais j'ai loué un logement et en trois Ou quatre jours nous serons installés.</p>
+        <p>Je devais être chargé par arrêté ministériel d'aller en Allemagne (ce qui m'aurait fait repartir ces jours-ci) pour observer les principales universités de ce pays. Cette mÊSIon ne peut avoir lieu au moins en ce moment. J'en suis content. Ce voyage m'aurait fatigué et dérangé à la veille de la rentrée.</p>
+        <p>M. Biot doit proposer à l'Académie dans la séance de lundi prochain de voter pour moi et afin que-je puisse</p>
+        <p>» continuer mes recherches sur l'origine de l'acide racémique une somme de 3.000 francs environ sur lesquels je prélèverai les 1.000 francs déjà dépensés.</p>
+        <p>Marie t'a écrit que j'avais retrouvé l'acide racémique dans presque toutes les fabriques d'acide tartrique de l'Allemagne et que la question serait entièrement éclaircie avant une année. Les fabricants ignoraient ce que c'était que cet acide. Ils le prenaient pour toute autre chose, au moins la plupart d'entre eux.</p>
+        <p>J'ai été surpris de voir combien mes recherches étaient connues en Allemagne. Grâce à elles j'ai été reçu partout de la manière la plus cordiale et la plus distinguée et je me suis procuré ainsi pour l'avenir des relations très agréables et fort utiles.</p>
+        <p>Nous nous portons tous très bien.</p>
+        <p>Je t'embrasse de tout cœur et je souhaite que ces quelques lignes te trouvent en bonne santé. Je t'écrirai plus longuement dès que je serai installé et hors des embarras de notre emménagement.</p>
+        <p>Donne de nos nouvelles 4à Virginie et embrasse-la pour nous avec ses enfants.</p>
+        <p>L. PASTEUR.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1853-05">[24 mai 1853.]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date></date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                
+                <p>A- SON PÈRE.</p>
+                <p>[24 mai 1853.] Mon cher papa, Je viens de transmettre la dépêche télégraphique suivante :Monsieur Biot Collège de France Paris. Je transforme l'acide tartrique en acide racémique. Communiquez je vous prie à MM. Dumas, Senarmont. L. Pasteur2.</p>
+                <p>« Mon cher ami, « Je ferai votre communication tout à l'heure aux personnes que vous me désignez. Mais vdus ne me dites pas si le produit obtenu est résoluble dans les deux acides actifs droit et gauche, comme le naturel; ou s'il en est l'isomère, composé d'éléments inactifs. Dans cette incertitude je garderai la même réserve dans les énoncés, mais je vous prie de me</p>
+                <p>Le tout pour 12 fr. 50. — On a mis pour l'écrire trois minutes. — Elle est partie à 7 h. 15'. Elle sera chez M. Biot avant 8 heures.</p>
+                <p>Voilà donc ce fameux acide racémique' (que j'ai été chercher jusqu'à Vienne) préparé artificiellement à l'aide de l'acide tartrique. J'ai cru longtemps cette transformation</p>
+                <p>mander au plus tôt la décision de l'alternative. Je n'ai que le temps de vous dire ces deux mots : « Votre ami J.-B. BIOT. »</p>
+                <p>Le 27 mai, J.-B. Biot revint sur la même question : « .Je me suis tenu prudemment dans la réserve que cette incertitude 1 m'imposait, non pas envers M. de Senarmont qui vous aime autant que moi, et à qui on peut tout dire dans les termes où nous sommes avec lui; mais envers M. Dumas à qui je n'ai point parlé de votre dépêche. Il serait probablement allé droit à la conclusion d'identité, d'après votre énonce seul, et peut-être sans comprendre l'absolue nécessité de l'épreuve. Puis, après, si le produit se trouve être un isomère, l'importance tlu résultat lui en aurait paru diminuée, quoiqu'il ne- dépendît pas de vous. M. de Senarmont lui-même a vivement bataillé avec moi sur la nécessité de garder cette réserve, jusqu'à plus ample informé. L'affection que lui ont inspirée vos travaux, votre persévérance, et votre caractère moral, lui feraient souhaiter pour vous des prodiges, peut-être infaisables. Mon amitié pour vous est moins prompte dans ses espérances, et plus dure dans ses admissions. Jouissez toutefois pleinement de la sienne, et soyez sans réserve avec lui, comme vous l'êtes avec moi. Vous pouvez le faire en toute sécurité; car je ne connais pas de caractère plus solide que le sien. Je lui ai dit et répété plusieurs fois combien je suis heureux de l'affection qu'il vous porte. Car vous trouverez en lui au moins un homme, qui vous aimera, et vous comprendra, quand je ne serai plus. Adieu.</p>
+                <p>Vous voilà suffisamment sermonné pour aujourd'hui; et il faut être, comme moi, dans sa 80e année, pour faire de si longues homélies! Heureusement vous êtes habitué aux miennes, et vous ne vous en formalisez pas. D</p>
+                <p>Pasteur envoya à J.-B. Biot une lettre, que nous n'avons pas eue entre les mains. J.-B. Biot répondit; le 30 mai : « Mon cher ami,</p>
+                <p>« Je ne veux pas tarder un moment à vous dire que je suis enchanté de votre résultat. Toutefois, à moins que M. de Senarmont ne vienne, aujourd'hui à la séance [de l'Institut], ce que je ne suppose pas, le croyant parti, je ne dirai à personne autre que vous transformez l'acide tartrique en acide racémique,- moléculairement identique au naturel. La</p>
+                <p>impossible. Cette découverte a des conséquences incalculables.</p>
+                <p>Adieu. Soigne bien ton mal d'œil. Ne fais pas de remède de charlatan. Suis les conseils de M. Bergeret.</p>
+                <p>Je t'embrasse de bon cœur.</p>
+                <p>L. PASTEUR.</p>
+                <p>Nous nous portons tous bien. Marie est cependant bien fatiguée. Elle t'écrira bientôt. Il faut encore attendre avant de fixer mon départ et le tien pour Paris. Je ne sais si je</p>
+                <p>raison en est que vous n'avez, jusqu'à présent, que des épreuves chimiques. Or, il ne serait pas impossible que la faculté de dédoublement, déjà si étonnante dans l'acide racémique naturel, tînt à quelque dissemblance de propriétés chimiques, indépendantes du pouvoir rotatoire.</p>
+                <p>Cela serait tout au moins aussi important que l'autre supposition, et peut-être davantage encore, à cause de la généralité d'application qui en résulterait. Mais c'est un point qui vous reste encore à décider. Car ce sera la première question que l'on m'adressera, et je ne veux pas avoir à dire que vous ne pouvez pas encore y répondre. »</p>
+                <p>Après une nouvelle lettre de Pasteur, qui n'a pas été retrouvée, Biot écrivit, le 2 juin : « Mon cher ami, - « Je vous félicite. Votre découverte est maintenant complète, et ne comporte aucune ambiguité d'interprétation. Je vais la porter à M. de Senarmont qui en sera aussi ravi que moi. •</p>
+                <p>c Maintenant voici ce que nous étions convenus lui et moi de vous dire dans le cas de succès.</p>
+                <p>« Écrivez-moi de suite une courte note de quelques lignes, contenant l'énoncé pur et simple de la découverte en mentionnant expressément que vous avez constaté l'identité de toutes les propriétés chimiques et phvsiques, sans aucune indication de la méthode, ni des procédés, ni des idées par lesquelles vous y êtes arrivé. Une simple prise de possession du fait, voilà tout. Envoyez-moi cela avant lundi, pour être annoncé de votre part à l'Académie. Je montrerai cette note à M. de Senarmont avant de la présenter, afin qu'il s'assure avec moi qu'elle dit tout, et rien de trop. Dans l'espérance où nous étions que vous arriveriez là, notre avis commun à tous deux était qu'il fallait immédiatement l'écrire.</p>
+                <p>« Adieu. Reportez à madame Pasteur la moitié des félicitations que jç Vous adresse. Elle doit être tout aussi contente que vous.</p>
+                <p>cc Votre ami J.-B. BIOT. »</p>
+                <p>veux me mettre en route à la fin de juillet ou seulement vers le 15 août. Je ne pense pas que j'aille te prendre. Je préfère aller à Arbois avec toi à notre retour de Paris. Je crois que ce qu'il y aurait de mieux serait de descendre le Rhin et d'arriver par la Belgique. Ce voyage est dit-on magnifique et on peut le faire pour 108 fr. Ire classe partout, et mettre un mois pour le faire, c'est-à-dire que le billet est valable pour un mois et pour 108 fr. l'aller et le retour sont payés. 75 fr. les 2mes classes.</p>
+                <p>Enfin nous verrons. Chappuis aussi ne sait pas 311 juste quand il partira.</p>
+                
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

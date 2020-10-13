@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1852-10-09" >[9 Octobre 1852.]</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>[9 Octobre 1852.]</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>  Ma chère Marie, p Tu me crois donc bien absurde. Comment peux-tu supbfser qu j'aie commis l'imprudence de quitter Strasbourg en Persuadé que j'étais et que je devais être que tuBelle-mère de Pasteur.</p>
+        <p>2 Tl de Pasteur.</p>
+        <p>s agit probablement de ses petits-enfants.</p>
+        <p>serais ici ce matin. Car enfin que me disait ta lettre d'hier: que tu étais prête à partir si je le trouvais convenable. Or je t'y invite par ma lettre. Il fallait donc partir.</p>
+        <p>Je ne vois aucune utilité pour moi à aller à Paris. Je ne veux publier les résultats de mon voyage qu'après exame?</p>
+        <p>de divers tartres et réception de quelques lettres. Le désir de voir Mme Laurent, M. Biot et Jeanne m'a seul fait hésiter. Mais je persiste maintenant à croire bien plus raison nable que tu viennes t'occuper d'un logement et de notre installation, surtout si je dois ne pas être envoyé en Alle magne. S'ils voulaient remettre à Pâques ce voyage cela vaudrait mieux.</p>
+        <p>Mme Lelièvre a eu la complaisance d'aller voir ce loge' ment et elle croit aussi qu'il peut être pris. Je ne crains pâS.</p>
+        <p>l'éloignement de l'Académie, parce que le chemin du quf* est toujours beau pour y aller. Et .puis nous sommes très voisins de M. Fée et de Chappuis qui a loué rue Ste-Ehsa beth près/de la maison Maingaud pour 600 fr. un irez-dechaussée que je n'ai pas vu et qui est très bien d'après ce qu m'a dit. Sa femme n'est pas encore ici, non plus ses meubleS.</p>
+        <p>Je tiens aussi à ne pas dépenser ce qui me reste d.</p>
+        <p>1000 fr., parce que je veux demander à M. Dumas qu!, me le laisse pour faire l'achat de tartres et suffire aux fraI?</p>
+        <p>des envois. Si ta première lettre ne m'avait pas cloue a Strasbourg je serais parti pour Paris et tout de suite potl Londres. Mais je remets ce voyage. e Je ne comprends pas que tu n'aies pas eu l'idée PUISqtl.</p>
+        <p>tu ne partais pas hier, d'aller chez M. Biot et de lui de der avis : s'il me conseillait soit pour un motif soit Pfltlt un autre d'aller à Paris en ce moment. Comment en e eà peux-tu penser que sans raison majeure je me décide aller à Paris en ce moment. C'est 120 fr. jetés par lafenêtr Je ne compte pas l'agrément qu'il y aurait pour toi et po le moi de te voir accompagnée dans ton voyage. Car je te 11 répète tu feras ce voyage avec la plus grande facilite, partant le soir et arrivant ici le matin, Ire classe C es entendu. Surtout prends force manteaux et couvertures. Les nuits sont excessivement froides. Songe à tes pieds. Si tu froid en arrivant je te renvoie.</p>
+        <p>, Je crois que tu ferais très bien aussi de ramener Jeanne , tout de suite. Tu prendrais alors une place et demie. Je Pense que c'est seulement ce qu'ils exigeraient. Rappelletoi que d'après les observations faites à notre arrivée c'est hasard si on ne nous a pas fait payer trois places.</p>
+        <p>).T A mon avis tu ferais beaucoup mieux de ramener Jeanne.</p>
+        <p>.l'iOUs nous tirerons d'affaire comme nous pourrons. J'irai demain matin chez une loueuse demander une bonne pour Quelques jours. Si ce logement te convient nous nous y Installerons en deux jours au plus.</p>
+        <p>Chappuis chez qui j'écris en ce moment te fait bien ses ^nipliments et se trouve très heureux que tu ne sois pas •^ijonnaise.</p>
+        <p>Adieu. Fais pour Jeanne ce que tu voudras.</p>
+        <p>Tout à toi.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+           L. PASTEUR.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

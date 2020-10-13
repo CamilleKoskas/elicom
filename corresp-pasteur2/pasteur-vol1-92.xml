@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1854-02-25">[25 février 1854]</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>[Paris, 25 février 1854.]</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher papa, D'après ce que Marie t'a dit tu pourrais croire que je suis plus malade que je ne le suis réellement1. Sans ce travail que l'on me demande en vue de la Correspondance« M. Biot, qui partage notre sollicitude et qui constate lui-même avec regret l'état de M. Pasteur, se joint à moi pour vous prier, Monsieur, de vouloir bien intervenir auprès de M. le ministre, à l'effet d'obtenir aux meilleures conditions possibles un congé de quelques mois qu'il sera peut-être indispensable de prolonger jusqu'aux prochaines vacances.</p>
+        <p>« J'ose compter, M. l'inspecteur général, sur votre bienveillance pour nous et sur le constant intérêt dont vous avez honoré M. Pasteur, pour assurer le succès de cette demande.</p>
+        <p>a Je vous prie, etc.</p>
+        <p>LAURENT, recteur honoraire. #</p>
+        <p>Un congé de trois mois fut accordé à Pasteur pour cause de santé à partir du 15 février, avec jouissance de son traitement fixe. Le Recteur de l'Académie du Bas-Rhin, M. Donné, écrivit le 21 février au Ministre :</p>
+        <p>de l'Institut1 je serais resté à Strasbourg. Seulement tu comprends que ce congé que ces missions m'ont fait avoir avec traitement complet est une irrégularité qui a besoin d'être couverte par un motif de santé. En réalité je me porte très bien quoique je ne disconvienne pas que j'aie besoin de me distraire un peu par des courses, des promenades. Je travaille seulement quelques heures par jour chez M. Biot. Le reste du temps nous nous promenons avec les enfants.</p>
+        <p>Nous sommes à l'hôtel 2 pour un mois ou six semaines, parce que les logements ne sont vacants (ceux qui doivent l'être) qu'au terme d'avril. Alors pour moins dépenser nous prendrons un petit logement près du Luxembourg.</p>
+        <p>Nous avions cru pouvoir aller passer à Arbois la fin de mon congé. Mais il faut que nous retardions toute décision à cet égard et je doute beaucoup que nous puissions aller vous voir avant le mois d'août.</p>
+        <p>Heureusement Madeleine a pu nous suivre ici. D'abord sa mère s'y opposait. Nous aurions été bien embarrassés avec une bonne que les enfants n'auraient pas connue.</p>
+        <p>M. Biot va aussi bien qu'il peut aller. Il est venu à pied nous voir hier et il fait tous les jours une promenade de deux heures au Luxembourg quelque temps qu'il fasse à moins qu'il ne tombe de la pluie.</p>
+        <p>Je vais au Cours de M. Dumas apprendre à professer.</p>
+        <p>Son cours réunit au moins 1.000 personnes. Je suis encore loin, bien loin, très loin d'approcher de son talent comme</p>
+        <p>« Je ne dois pas vous cacher, M. le ministre, que la nouvelle, toute imprévue, de ce congé a jeté quelque découragement parmi les nombreux étudiants qui suivaient le cours de M. Pasteur avec un intérêt que justifie le mérite de ce professeur. Elle a causé aussi parmi les collègues de M. Pasteur une émotion facile à comprendre, et M. le Doyen regrette qu'aucune mesure n'a été prise pour le remplacement de ce collègue en congé. »</p>
+        <p>M. Donné proposait que l'on chargeât de la suppléance de la chaire de chimie de la Faculté des sciences de Strasbourg, pendant la durée du congé de Pasteur, M. Béchamp, docteur ès sciences, auquel cette suppléance avait déjà été confiée l'année précédente pendant une absence de Pasteur et à la demande de celui-ci.</p>
+        <p>professeur. Cependant je me mets à sa place en imagination sans trop de frayeur et je crois que j'oserai le suppléer l'an prochain s'il ne fait pas son cours, ce qui paraît certain. Tu sais qu'il m'a dit et écrit qu'il ne tenait qu'à moi de le suppléer lorsqu'il ne ferait pas son cours.</p>
+        <p>Adieu. Embrasse bien Virginie et ses enfants pour nous tous. Nos trois enfants sont toujours de la plus belle santé.</p>
+        <p>Le plus frais maintenant c'est peut-être Baptiste qui était si délicat et souvent si pâle.</p>
+        <p>Je t'embrasse de tout mon cœur.</p>
+        <p>L. PASTEUR.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

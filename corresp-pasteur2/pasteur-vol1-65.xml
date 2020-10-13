@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1852-09-07">7 septembre 1852.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE,</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="7 septembre 1852."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>7 septembre 1852.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher papa, Je t'ai parlé d'un voyage en Allemagne et je t'ai dit que M. Dumas s'occupait de me faire obtenir les fonds nécessaires. J'ai eu sa réponse définitive hier. Il n'y a pas de fonds disponibles à cet effet au Ministère. Il m'a demande si je voulais qu'il s'adressât au Président. Je lui ai répondu que d'abord je désirais consulter M. Biot, et alors il m f dit : « Tout ceci amènerait des lenteurs. Je vous autorise a partir jusqu'à concurrence de 1.000 fr. Il y aura plusieurs moyens d'arranger cette affaire pendant votre absence. )</p>
+        <p>Je viens d'écrire ces détails à M. Biot et je me décide a partir jeudi, après-demain. J'ignore combien de temps Je</p>
+        <p>passerai là-bas. Tu auras de mes nouvelles directement ou Par Marie.</p>
+        <p>Tu as dû recevoir quatre exemplaires du Journal des Débats du IER septembre contenant un feuilleton scientifique qui portait entièrement sur mes recherches. Je t'ai envoyé quatre numéros afin que tu puisses en remettre à diverses personnes. Tu pourras en envoyer un à Chappuis.</p>
+        <p>Il faut affranchir. Cela coûte 4 centimes par numéro.</p>
+        <p>Jeanne est un peu indisposée depuis quelques jours.</p>
+        <p>b Je voudrais bien avoir une lettre de toi avant jeudi.</p>
+        <p>ans tous les cas Marie me donnera des nouvelles de ta santé et de toute la famille. Dis-nous donc comment se Porte Emilie à présent 1.</p>
+        <p>Si tu avais quelques centaines de francs dont tu ne fasses rien et dont tu n'aies pas besoin du tout d'ici à deux mois 1 aimerais mieux avoir obligation auprès de toi qu'auprès des autres. Marie peut me donner 200 fr. en partant, et elle 111 enverrait un peu plus tard ce que tu nous prêterais.</p>
+        <p>3oo fr. suffiraient, car je ne pense pas dépenser pendant les trois premières semaines plus de 500 fr., et Marie touchera nos rentes à la fin de septembre.</p>
+        <p>Mais je ne voudrais pas du tout que cela te gênât en rien.</p>
+        <p>Je te répète que c'est seulement pour n'avoir obligation "î11 a toi. M. Laurent ne pourrait pas en ce moment me donIler 500 fr. sans les demander à son frère ou à M. Danicourt 2 ou à Mme Zévort 3 et cela m'ennuie qu'il prenne cette peinea Pour moi. Voilà tout. Si je ne t'avais pas entendu dire qlle tu avais de l'argent en dépôt chez M. Marchand je ne ,e le demanderais pas. Tu n'as pas besoin d'ailleurs de dire * M. Marchand que c'est pour moi que tu reprends ces 300 fr. pour un mois ou deux.</p>
+        <p>Adieu. Porte-toi bien. Je t'embrasse de bon cœur.</p>
+        <p>L. PASTEUR.</p>
+        
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

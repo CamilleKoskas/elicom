@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1852-09-18" >mercredi 18 septembre 1852.</date>
+                    <placeName>Leipsick</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Dumas, Jean-Baptiste (1800-1884)">A J.-B. DUMAS.</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Leipsick, 19 septembre 1852.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A J.-B. DUMAS.</p>
+                <p>Leipsick, 19 septembre 1852.</p>
+                <p>Monsieur, de Permettez-moi de venir vous entretenir de mon voyage, de.mes résultats et un peu de ma position universitaire qui \Ta. enfin être déterminée, M. Persoz étant nommé au ConServatoire par décret du 13.</p>
+                <p>J'ai quitté Paris le 9 et le II j'étais à Zwickau chez k. Fikentscher. Ce fabricant est en effet un homme très</p>
+                <p>éclairé qui a bientôt compris toute l'importance de l'histoire de l'acide racémique. Vous en aurez la preuve si je vous dis qu'il m'a fait lui donner les indications cristallographiques nécessaires pour arriver à préparer l'acide tartrique gauche.</p>
+                <p>Il a le désir, dans lequel je l'ai beaucoup encouragé, de livrer bientôt cet acide au commerce.</p>
+                <p>Les renseignements de M. Mitscherlich n'étaient vrais qu'en partie. M. Fikentscher a obtenu l'acide racémique pour la première fois, il y a environ 25 ans, après que M. Kestner en eût annoncé la découverte, et il en prépara à cette époque une quantité assez notable qu'il a depuis donnée ou vendue à diverses personnes. Il en possède encore quelques livres qui datent de cette époque reculée. Depuis longues années, il le laisse perdre, parce que la quantité qu'il obtient est très minime. Il le voit seulement apparaître dans le cours de la fabrication. C'est le point capital et il est entièrement exact. Voici en effet ce que j'ai vu dans sa fabrique. Une grande cuve rectangulaire en plomb était couverte d'une croûte épaisse de gros cristaux limpides d'acide tartrique et à la surface de cette cristallisation il Y avait épars quelques cristaux aiguillés, très déliés. C'était, au dire de M. Fikentscher, l'acide racémique. J'ai craint d'abord qu'il ne sabusât et que ces cristaux ne fussent du sulfate de chaux. J'en ai recueilli avec assez de peine environ deux grammes que j'ai examinés à Leipsick et en effet c'est bien l'acide racémique. J'en suis tout à fait sûr. Mais je ne pense pas qu'il y en ait même i/io.oooe du poids de l'acide tartrique. Je fus d'abord bien désappointé de trouver ce singulier corps en quantité aussi microscopique. Une circonstance me rassura bientôt. Je demandai à M. Fikentscher des échantillons des tartres qu'il emploie afin de leS étudier à Leipsick où M. le Prof. Erdmann a mis avec une grande complaisance son magnifique laboratoire à ma disposition. Or, les tartres qu'emploie M. Fikentscher ont évidemment déjà subi un raffinage. Ce ne sont point des tartres bruts. Et il est hors de doute que les eaux-mères du premier raffinage doivent retenir la presque totalité de l'acide racémique. Malheureusement ces tartres viennent de Naples et je serai obligé d'attendre mon retour en France. Pour en faire expédier de ce pays des échantillons tout à fait bruts. Ici donc se bornerait mon voyage si je n'avais recueilli tant à Zwickau qu'à Leipsick d'autres renseignements. M. Fikentscher m'a assuré qu'autrefois il recevait ses tartres de Trieste et qu'alors la quantité d'acide racémique produite était un peu plus considérable. Il y a envi.ron douze ans qu'il a cessé de faire venir ses tartres de Trieste. D'autre part une maison de commerce de Leipsick à laquelle j'ai été adressé par M. Fikentscher m'a appris qU'Il y a à Trieste et à Venise deux très grandes raffineries ue tartres. Je n'hésite donc pas à me rendre dans ces deux villes afin d'y prendre des renseignements précis sur l'origine des tartres qui y sont travaillés et d'examiner les e3-ux-mères rejetées de ces raffinerie's. J'aurai pour les deux faisons des lettres d'introduction.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

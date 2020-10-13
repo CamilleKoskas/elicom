@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1854-08-24" >24 août 1854.</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Paris, 24 août 1854."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, 24 août 1854.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher papa, Je suis de retour à Paris en bonne santé après avoir fait 134 examens tant à Nancy qu'à Metz. Je n'avais pas à aller à Strasbourg où Bertin était chargé de ceux de cette ville. En arrivant ici j'ai vu par le journal de l'Instruction Publique que je ne faisais pas partie du bureau d'agrégation des sciences. Mais le lendemain le même journal M'apprenait que j'étais adjoint à ce bureau. Me voilà donc retenu jusqu'au 10 ou 12 septembre, ce qui ne me mécon-</p>
+        <p>tente pas puisque nous ne pourrions sans doute prudemment quitter Paris avant cette époque. Si tu nous donnes de bonnes nouvelles de la maladie régnante 1, nous partirons alors pour Arbois. Ces deux séries d'examens ajouteront 1.000 francs environ à notre avoir.</p>
+        <p>Chappuis est à Paris et passe son doctorat le 31. Il demande instamment une chaire de faculté. Il sera très bien appuyé pour la suppléance de Besançon qui sera en effet vacante prochainement. Tu sais d'ailleurs que l'on va créer plusieurs facultés nouvelles tant dans l'ordre des lettres que dans celui des sciences et cela augmente beaucoup ses chances.</p>
+        <p>Pour moi voici une nouvelle : M. Dumas m'a demandé si, au cas où il ne se présenterait rien dans ma carrière d'ici à quelques mois, j'accepterais d'être envoyé doyen et professeur de la nouvelle faculté des sciences que l'on va créer à Nancy. Tu sais que le titre de doyen ajoute 1.000 francs au traitement. Nous aurions donc un traitement de plus de 6.000 francs à cause des examens.</p>
+        <p>Donne-nous des nouvelles du choléra. A Paris il est toujours le même. C'est encore ici qu'il y a le plus de sécurité, toute proportion gardée. Adieu. Je t'embrasse bien avec Virginie et ses enfants.</p>
+        <p>Marie et nos petits gamins vous embrassent aussi. Ils vont tous bien.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              L. PASTEUR.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

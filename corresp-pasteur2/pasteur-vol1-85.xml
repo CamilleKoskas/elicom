@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1853-08">[Août 1853.]</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>[Août 1853.] • Mon cher papa, Je suis comme toi très heureux de cette belle lettre de M. Biot 2 qui ajoute en effet un nouveau prix à l'honneur que j'ai reçu. J'ai été hier pour le remercier de ta part; mais il était sorti. Je vais y retourner.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon petit voyage à Dieppe a été heureux. Seulement le temps incertain a fait que l'Empereur et l'Impératrice ne sont pas sortis pendant que j'étais là. Je ne les ai pas vus.</p>
+        <p>Dès qu'il fait beau ils sortent comme de simples mortels; l'Empereur souvent seul à pied.</p>
+        <p>J'ai fait comme tout le monde. J'ai pris un bain dans la mer. C'est bien plus agréable que je ne pensais. La mer est magnifique à Dieppe de l'avis de tous. J'ai été en "effet émerveillé de cette belle vue de la mer, de cette eau qui change à chaque heure, à chaque moment presque, de teintes. Je ne me faisais pas non plus une idée bien nette du flux et du reflux. Enfin c'est un beau spectacle.</p>
+        <p>A voir la manière dont marche notre concours 1 je crois qu'il sera terminé vers le 15 septembre. Peut-être retournerai-je à Strasbourg en passant par Arbois. Cependant j'aimerais bien y aller avec Marie et les enfants et je crois que nous pourrions y aller à Pâques de l'an prochain tous ensemble. Cela vaudrait mieux. Enfin nous verrons. Dans la position où est Marie je ne puis guère faire de projets pour ces vacances.</p>
+        <p>Comme je croyais que tu serais encore à Strasbourg à l'arrivée de M. et Mme Laurent, j'avais acheté à Rouen pour leur remettre du sucre de pommes du pays pour les enfants de Virginie. C'est Jeanne et "Baptiste qui en profiteront.</p>
+        <p>Adieu. Porte-toi bien. Je t'embrasse avec Virginie et ses enfants de tout mon cœur.</p>
+        <p>L. PASTEUR.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1854-08-15" >15 août 1854.</date>
+          <placeName>Metz</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Metz, 15 août 1854."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Metz, 15 août 1854.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher papa, Je t'écris de Metz où je suis depuis avant-hier. Le choléra n'a pas encore paru dans la ville. Mais il a désolé les environs. Je me porte très bien. Dans les derniers jours que j'ai passés à Nancy j'ai été un peu relâché. J'ai pris deux soirs de suite dix gouttes de laudanum dans un verre d'eau sucrée et j'ai été guéri net. Dans ce temps sous l'influence cholérique il ne faut pas se laisser avec la diarrhée. C'est là un moyen infaillible de l'enlever du jour au lendemain.</p>
+        <p>J'ai reçu de bonnes nouvelles de Paris où le choléra n'est presque rien. C'est une des villes les plus sûres à habiter maintenant.</p>
+        <p>Nous sommes ici jusqu'à mardi prochain 22 courant. Je repartirai pour Paris. Je ne sais pas encore si je suis de l'agrégation 1.</p>
+        <p>Adieu. Je t'embrasse bien. Je t'engage beaucoup à ne Pas t'effrayer du choléra. D'ailleurs les personnes bien portantes et qui ne font aucun excès sont presque toutes épargnées.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              L. PASTEUR.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

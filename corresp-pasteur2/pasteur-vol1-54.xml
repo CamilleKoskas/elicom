@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
+          <date when="1851-11-01">le Ier novembre 1851.</date>
+          <placeName>Strasbourg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="">Au RECTEUR DE L'ACADÉMIE DE STRASBOURG.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Strasbourg, le Ier novembre 1851."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Strasbourg, le Ier novembre 1851.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>M. le Recteur, Je viens d'apprendre que M. Persoz que je supplée depuis trois ans dans la chaire de chimie à la Faculté des sciences e Strasbourg demande, avec traitement, un nouveau congé Motivé sur son état de santé.</p>
+        <p>Je suppose, M. le recteur, que M. le Ministre dans cette lrconstance prendra l'une des deux résolutions suivantes : 11 accordera un nouveau congé avec traitement, ce qui</p>
+        <p>e 1. Pasteur par cette métaphore veut indiquer que Mme Pasteur est</p>
+        <p>eQceinte.</p>
+        <p>2* Fille de Pasteur, née à Strasbourg le 2 avril 1850.</p>
+        <p>j. Amélie Laurent, sœur de Mme Pasteur.</p>
+        <p>b 4. Loir était professeur de chimie à la Faculté des sciences de Stras bouUn rS- Il avait épousé Amélie Laurent.</p>
+        <p>satisfait pleinement la demande de M. Persoz; ou bien M. le Ministre accordera à ce professeur une prolongation de congé sans traitement. Dans le premier cas ma position reste la même. Dans le second je dois appeler toute votre attention et celle de M. le Ministre sur le décret du 18 décembre 1848 qui règle la position pécuniaire des suppléants dans les Facultés. Si l'on se reporte d'une part à l'époque à laquelle a paru ce décret, et aussi aux considérants mêmes qui le précèdent, on voit clairement que cet arrêté était pris en faveur des suppléants. Or n'est-il pas évident qu'il est des circonstances où ce décret atteint directement ceux-là mêmes dont il avait pour but de sauvegarder les intérêts?</p>
+        <p>Ainsi je supplée M. Persoz depuis trois ans et au moment où ce professeur allait reprendre ses fonctions et où par conséquent j'allais quitter Strasbourg avec des droits à un avancement qui ne peut être pour moi que l'obtention d'une chaire de titulaire, à ce moment, dis-je, M. Persoz tombe malade et son congé se trouve continué sans traitement. N'est-il pas de toute justice que la portion de traitement refusée au titulaire soit donnée au professeur sup pléant? S'il n'en est pas ainsi, l'administration oblige le professeur suppléant à demander un changement afin qu'il puisse ailleurs entrer en possession de ses droits. Mais outre que ce déplacement est onéreux, il entraîne le professeur de sciences et surtout le professeur de chimie à des embarras dont l'administration doit tenir le plus grand compteLes travaux de ce professeur sont nécessairement suspen dus; et j'ai montré, M. le recteur, dans deux circons" tances, au préjudice de mes intérêts, le cas que je faisais de recherches scientifiques qui trois fois déjà ont acquis la plus haute approbation de l'Académie des sciences. poué donner plus de temps à ces recherches j'ai abandonné volontairement la suppléance du cours de chimie de l'Ecole de Pharmacie; et j'ai refusé d'aller occuper la chaire de chimie de la Faculté de Besançon, afin de ne pas interrompre et suspendre mes travaux. Mais dois-je plus long" temps être victime de mon zèle pour la science? C'est à vous, M. le recteur, et à M. le Ministre de porter ce juge" ment.</p>
+        <p>Il me paraît impossible que l'administration ne prenne Pas une mesure à l'effet de déroger aux dispositions du décret du 18 décembre 1848 en faveur des suppléants qui après un certain nombre d'années d'épreuves ont acquis tous les droits à un titre définitif, alors que satisfaisant à toutes les exigences leur sort peut dépendre indéfiniment des convenances ou des intérêts du professeur titulaire.</p>
+        <p>Je vous prie, M. le recteur, de transmettre ces diverses observations à M. le Ministre et je compte sur votre bienveillance éclairée pour y donner votre approbation.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              Je suis avec respect, M. le recteur votre très humble et très dévoué serviteur, L. PASTEUR.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

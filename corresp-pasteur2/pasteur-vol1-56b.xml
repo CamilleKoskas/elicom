@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance Louis Pasteur</title>
+                <author>Louis Pasteur</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+                    <date when="1851-12-12" >12 décembre 1851</date>
+                    <placeName>Strasbourg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Chappuis, Charles (1822-1895)">A Chappuis</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Strasbourg, 12 décembre 1851</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+  
+                <p>A CHAPPUIS.</p>
+                <p>Strasbourg, 12 décembre 1851.</p>
+                <p>Les nouvelles que j'avais à te donner devaient se suivre à court intervalle, et j'attendais de les connaître dans leurs détails pour t'en faire part. En réalité elles ont été éloignées, et elles embrassent aujourd'hui un temps fort longM. Persoz a battu M. Lesieur et M. Thenard. Ces messieurs ne voulaient qu'une chose, son retour ou sa démis" sion. Je m'accommodais très bien de cette alternative, d'au-</p>
+                <p>tant que je comptais que M. Persoz préférerait donner sa démission. Mais M. Persoz s'est fait malade avec bons certificats de médecins et force a été de lui donner un congé.</p>
+                <p>Restait la question du traitement. Un absurde décret de Cavaignac 1 veut que le suppléant n'ait jamais plus de la Moitié du traitement du professeur titulaire, J'ai demandé que ce décret fût annulé ou modifié. Le Ministre m'a répondu avec politesse que malgré mes titres incontestables, il ne pouvait déroger à ces dispositions et qu'il m'en exprimait tous ses regrets. Je pouvais demander que la chaire de Besançon fût déclarée vacante. Mais M. Persoz n a qu'un congé de six mois, arraché plutôt qu'obtenu.</p>
+                <p>Tout me retient ici d'ailleurs : mon laboratoire, notre installation, nos connaissances. Je reste donc et je regarde Besançon comme une planche de salut au cas où ce Monsieur reviendrait. Sa conduite est bien sévèrement blâmée à Paris par tout le monde.</p>
+                <p>L'affaire Persoz a été de très près suivie par l'accouchement très heureux de ma chère Marie qui m'a donné, à otre grand plaisir, un fils du nom de Jean-Baptiste Lucien.</p>
+                <p>J. B. Biot a bien voulu accepter d'en être le parrain.</p>
+                <p>Enfin, mon cher ami, est venu le rapport sur mon dernier travail2, dont j'ai depuis hier seulement des exemplaires à Part. Tu y verras l'importance de mes dernières recherches.</p>
+                <p>^°n plan d'études es. tracé d'ailleurs pour l'année qui va s ouvrir. J'espère même le voir s'agrandir prochainement e la manière la plus heureuse.</p>
+                <p>Je crois déjà t'avoir dit que je touchais à des mystères et que le voile qui les couvre va diminuant de plus en plus.</p>
+                <p>USSI les nuits me paraissent trop longues. Cependant je I1.e me plains pas. Je prépare mes leçons facilement et j'ai CInq jours pleins à consacrer par semaine au laboratoire.</p>
+                <p>ï. Décret signé par Cavaignac alors qu'il était président du conseil des lSes, chef du pouvoir exécutif (1848).</p>
+                <p>&lt;1 '- voir XEuvres de Pasteur, t. I, p. 445-459 : Rapport sur un mémoire J37 M. L. Pasteur, relatif aux acides aspartique et malique. Le rapporteur, Biot, écrit : « La série de recherches, si neuves et si fécondes, que M. Pasteur poursuit depuis quatre ans. ont été faites avec le triple cont urs de la cristallographie, de la chimie et de l'optique moléculaire.</p>
+                <p>Là se trouve le principe de la réussite, et c'en était aussi la condition. »</p>
+                <p>Je suis souvent grondé par ma bonne Marie que je console en lui disant que je la mène à la postérité.</p>
+                <p>Si cela peut t'intéresser, je suis très partisan du coup d'Etat.</p>
+                
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                            
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
